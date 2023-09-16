@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>飞书-二维码生成</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0
+        }
+
+        .wrap {
+            padding: 20px
+        }
+    </style>
+    <script type="module" crossorigin src="https://haokur.com/assets/js/feishu-qrcode-4c41bd65.js"></script>
+    <link rel="modulepreload" crossorigin href="https://haokur.com/assets/js/modulepreload-polyfill-3cfb730f.js">
+    <link rel="modulepreload" crossorigin href="https://haokur.com/assets/js/.store-58d85ff9.js">
+</head>
+
+<body>
+    <div class="wrap">
+        <ul>
+            <li>必选项:</li>
+            <li>二维码地址 : 要生成码的地址</li>
+            <li>二维码图片 : 填充生成码的图片</li>
+            <li>更新时间 : 单行最新更新时间</li>
+            <li>二维码更新时间:记录脚本执行时间</li>
+            <li>生成状态:记录最新生成状态</li>
+            <li style="height:20px"></li>
+            <li>可选:</li>
+            <li>名称: 图片名称</li>
+            <li style="height:20px"></li>
+            <li>点击上方的运行按钮</li>
+        </ul>
+        <div id="msg" class="msg"></div>
+    </div>
+</body>
+
+</html>
