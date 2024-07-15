@@ -1,13 +1,13 @@
 # 文件分片上传下载
 
-### 预览体验
+### 一、预览体验
 
 - 源码实现（koa）：<a href="https://github.com/haokur/koa-server/blob/main/src/controllers/file.controller.ts" target="_blank">koa-server/src/controllers/file.controller.ts</a>
 - 源码实现（Vue3）：<a href="https://github.com/haokur/koa-server/blob/main/client/pages/upload/upload.vue" target="_blank">client/pages/upload/upload.vue</a>
 - 在线 DEMO：<a href="https://haokur.github.io/koa-server/#/upload" target="_blank">Vue3-client </a>
   [Vue3-client (haokur.github.io)]()
 
-### 上传
+### 二、上传
 
 > 前端 slice 切割，服务端合并
 >
@@ -106,7 +106,7 @@ if (uploadMap[fileName].size === totalChunk - 1) {
 - 将同步读取 readFileSync 和同步写入 writeSync 改成异步处理
 - 处理前端的 fileName 输入，避免 fileName 中的 ../../ 的方式，操作了其他不允许操作的文件
 
-### 下载
+### 三、下载
 
 > 前端根据文件 size 和 chunkSize 请求服务端切割，服务端切割返回，前端合并
 >
@@ -211,6 +211,6 @@ async function FileDownload(params, ctx) {
 }
 ```
 
-### 注意点
+### 四、注意点
 
 在分片的时候，位置不要有重叠，如切片的片段应该是 [ [1,3],[4,6]] ，而不是 [[1,3],[3,5]]
