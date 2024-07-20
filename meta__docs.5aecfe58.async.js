@@ -1,4 +1,38 @@
-"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[904],{13591:function(t,a,n){n.r(a),n.d(a,{demos:function(){return o}});var r=n(67294),e=n(49845),o={}},95523:function(t,a,n){n.r(a),n.d(a,{demos:function(){return o}});var r=n(67294),e=n(37132),o={}},96624:function(t,a,n){n.r(a),n.d(a,{demos:function(){return o}});var r=n(67294),e=n(81005),o={}},74867:function(t,a,n){n.r(a),n.d(a,{demos:function(){return o}});var r=n(67294),e=n(92688),o={}},11171:function(t,a,n){n.r(a),n.d(a,{demos:function(){return o}});var r=n(67294),e=n(68537),o={}},67715:function(t,a,n){n.r(a),n.d(a,{demos:function(){return o}});var r=n(67294),e=n(43648),o={}},46926:function(t,a,n){n.r(a),n.d(a,{demos:function(){return o}});var r=n(67294),e=n(4299),o={}},90702:function(t,a,n){n.r(a),n.d(a,{demos:function(){return o}});var r=n(67294),e=n(94807),o={}},46983:function(t,a,n){n.r(a),n.d(a,{demos:function(){return o}});var r=n(67294),e=n(22695),o={}},57828:function(t,a,n){n.r(a),n.d(a,{demos:function(){return o}});var r=n(67294),e=n(37535),o={}},47537:function(t,a,n){n.r(a),n.d(a,{demos:function(){return o}});var r=n(67294),e=n(99920),o={}},48516:function(t,a,n){n.r(a),n.d(a,{demos:function(){return o}});var r=n(67294),e=n(79825),o={}},81206:function(t,a,n){n.r(a),n.d(a,{demos:function(){return o}});var r=n(67294),e=n(61831),o={}},61117:function(t,a,n){n.r(a),n.d(a,{texts:function(){return e}});var r=n(49845);const e=[{value:"\u6E90\u7801\u5B9E\u73B0\uFF08koa\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"koa-server/client/classes/MultiChannel.ts at main \xB7 haokur/koa-server (github.com)",paraId:0,tocIndex:1},{value:"\u5728\u7EBF DEMO\uFF1A",paraId:0,tocIndex:1},{value:"Vue3-client (haokur.github.io)",paraId:0,tocIndex:1},{value:"javascript \u662F\u5355\u7EBF\u7A0B\uFF0C\u4F46\u662F\u5728\u4E00\u4E9B\u573A\u666F\u4E0B\u5982\u53D1\u9001\u8BF7\u6C42\uFF0C\u5982\u4F7F\u7528 web-worker\uFF0C\u53EF\u4EE5\u5B9E\u73B0\u7C7B\u5E76\u53D1\u6548\u679C\uFF0C\u540C\u65F6\u53D1\u9001\u591A\u4E2A\u8BF7\u6C42\uFF0C\u6216\u8005\u540C\u65F6\u5904\u7406\u52A8\u4F5C",paraId:1,tocIndex:1},{value:"\u5BBF\u4E3B\u4F7F\u7528 new Worker \u7684\u65B9\u5F0F\u6765\u521B\u5EFA\u4E00\u4E2A js \u6267\u884C\u7EBF\u7A0B\uFF0C\u53EF\u4F20\u5165\u672C\u5730\u7684\u8DEF\u5F84\u6216\u8FDC\u7A0B http \u7684\u8DEF\u5F84\u7684 js \u6587\u4EF6\u3002\u5BBF\u4E3B\u548C worker \u901A\u4FE1\uFF0C\u53D1\u6D88\u606F\u90FD\u4F7F\u7528 postMessage\uFF0C\u6536\u6D88\u606F\u4F7F\u7528 onmessage",paraId:2,tocIndex:2},{value:"\u8003\u8651\u5230\u5BBF\u4E3B\u4E0E\u5B50\u7EBF\u7A0B\u4E4B\u95F4\u7684\u4EA4\u4E92\uFF0C\u901A\u5E38\u4E3A\uFF0C\u5BBF\u4E3B\u53D1\u8D77\u4E00\u4E2A\u6307\u4EE4\uFF0C\u5B50\u7EBF\u7A0B\u6536\u5230\u6307\u4EE4\uFF0C\u7136\u540E\u6267\u884C\u5B8C\u5BF9\u5E94\u6307\u4EE4\u64CD\u4F5C\uFF0C\u7136\u540E postMessage \u544A\u77E5\u5BBF\u4E3B\uFF0C\u8FD9\u4E2A\u8FC7\u7A0B\u662F\u4E00\u4E2A\u94FE\u8DEF\uFF0C\u4E14\u901A\u5E38\u6BCF\u4E2A\u73AF\u8282\u4EC5\u8FDB\u884C\u4E00\u6B21\uFF0C\u90A3\u4E48\u4E3A\u4E86\u64CD\u4F5C\u65B9\u4FBF\uFF0C\u53EF\u4EE5\u4F7F\u7528\u53D1\u5E03\u8BA2\u9605\u7684\u6A21\u5F0F\u5C01\u88C5\u4E00\u5C42\uFF0C\u8BA9\u5BBF\u4E3B\u8C03\u7528 worker \u7684\u8FC7\u7A0B\uFF0C\u770B\u8D77\u6765\u5C31\u50CF\u4E00\u4E2A\u666E\u901A\u7684\u5F02\u6B65\u8BF7\u6C42",paraId:3,tocIndex:2},{value:"\u4F7F\u7528\u5982\u4E0B\uFF1A",paraId:4,tocIndex:2},{value:`const workerHelper = new WorkerHelper('./test-worker.js');
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[904],{23522:function(t,e,n){n.r(e),n.d(e,{demos:function(){return o}});var r=n(67294),a=n(86549),o={}},65575:function(t,e,n){n.r(e),n.d(e,{demos:function(){return o}});var r=n(67294),a=n(22314),o={}},2932:function(t,e,n){n.r(e),n.d(e,{demos:function(){return o}});var r=n(67294),a=n(52208),o={}},13591:function(t,e,n){n.r(e),n.d(e,{demos:function(){return o}});var r=n(67294),a=n(49845),o={}},95523:function(t,e,n){n.r(e),n.d(e,{demos:function(){return o}});var r=n(67294),a=n(37132),o={}},96624:function(t,e,n){n.r(e),n.d(e,{demos:function(){return o}});var r=n(67294),a=n(81005),o={}},74867:function(t,e,n){n.r(e),n.d(e,{demos:function(){return o}});var r=n(67294),a=n(92688),o={}},55743:function(t,e,n){n.r(e),n.d(e,{demos:function(){return o}});var r=n(67294),a=n(32897),o={}},11171:function(t,e,n){n.r(e),n.d(e,{demos:function(){return o}});var r=n(67294),a=n(68537),o={}},67715:function(t,e,n){n.r(e),n.d(e,{demos:function(){return o}});var r=n(67294),a=n(43648),o={}},46926:function(t,e,n){n.r(e),n.d(e,{demos:function(){return o}});var r=n(67294),a=n(4299),o={}},90702:function(t,e,n){n.r(e),n.d(e,{demos:function(){return o}});var r=n(67294),a=n(94807),o={}},46983:function(t,e,n){n.r(e),n.d(e,{demos:function(){return o}});var r=n(67294),a=n(22695),o={}},57828:function(t,e,n){n.r(e),n.d(e,{demos:function(){return o}});var r=n(67294),a=n(37535),o={}},47537:function(t,e,n){n.r(e),n.d(e,{demos:function(){return o}});var r=n(67294),a=n(99920),o={}},48516:function(t,e,n){n.r(e),n.d(e,{demos:function(){return o}});var r=n(67294),a=n(79825),o={}},81206:function(t,e,n){n.r(e),n.d(e,{demos:function(){return o}});var r=n(67294),a=n(61831),o={}},85229:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var r=n(86549);const a=[{value:"\u5C01\u88C5\uFF1A\u5C01\u88C5\u53D8\u5316",paraId:0,tocIndex:1},{value:"\u7EE7\u627F\uFF1A\u7EE7\u627F\u901A\u7528\u5C5E\u6027\u548C\u65B9\u6CD5",paraId:1,tocIndex:1},{value:"\u591A\u6001\uFF1A\u540C\u4E00\u4E2A\u63A5\u53E3\u65B9\u6CD5\uFF0C\u4E0D\u540C\u7684\u5B9E\u73B0\uFF0C\u9ED1\u732B\u767D\u732B\uFF0C\u80FD\u6293\u8001\u9F20\u7684\u5C31\u662F\u732B",paraId:2,tocIndex:1},{value:"\u95ED\u5305\uFF1A\u51FD\u6570\u6267\u884C\u5B8C\u5176\u76F8\u5E94\u7684\u6267\u884C\u73AF\u5883\u9700\u8981\u88AB\u91CA\u653E\uFF0C\u800C\u8FD4\u56DE\u4E86\u8BE5\u51FD\u6570\uFF0C\u51FD\u6570\u5E76\u672A\u6D88\u4EA1\uFF0C\u5176\u6267\u884C\u73AF\u5883\u4E5F\u88AB\u4E00\u8D77\u7559\u5B58\u4E86\u4E0B\u6765\uFF0C\u4E0D\u4F1A\u88AB\u5783\u573E\u56DE\u6536\u91CA\u653E",paraId:3,tocIndex:1},{value:"\u4F5C\u7528\u57DF\uFF1A\u53D8\u91CF\u67E5\u627E\u8303\u56F4\u89C4\u5219\uFF0C\u6709\u5168\u5C40\u4F5C\u7528\u57DF\uFF0C\u51FD\u6570\u4F5C\u7528\u57DF\uFF0Clet\uFF0Cconst \u5757\u7EA7\u4F5C\u7528\u57DF",paraId:4,tocIndex:1},{value:"\u4F5C\u7528\u57DF\u94FE\uFF1A\u53D8\u91CF\u7684\u7531\u6700\u8FD1\u4F5C\u7528\u57DF\u5230\u6700\u8FDC\u4F5C\u7528\u57DF\uFF08\u5168\u5C40\u4F5C\u7528\u57DF\uFF09\u7684\u53D8\u91CF\u67E5\u627E\u89C4\u5219",paraId:5,tocIndex:1},{value:"\u539F\u578B\uFF1A\u5BF9\u8C61\u4E0A\u7684 prototype \u5C5E\u6027\u5BF9\u8C61\uFF0C\u5176 constructor \u7684\u503C\u5BF9\u5E94\u4E3A\u5BF9\u8C61\u672C\u8EAB",paraId:6,tocIndex:1},{value:"\u539F\u578B\u94FE\uFF1A\u5BF9\u8C61\u5728\u67E5\u627E\u53D8\u91CF\u548C\u65B9\u6CD5\u65F6\uFF0C\u5F53\u524D\u5BF9\u8C61\u4E0A\u6CA1\u6709\uFF0C\u5219\u901A\u8FC7 __proto** \u67E5\u627E\u5230\u4E0A\u4E00\u5C42\u7684 prototype \u4E0A\uFF0C\u6CA1\u67E5\u5230\u5C31\u518D\u62FC\u4E00\u5C42 __proto** \u76F4\u5230\u67E5\u627E null \u505C\u6B62\uFF0C\u6700\u7EC8\u672A\u627E\u5230\uFF0C\u8FD4\u56DE undefined",paraId:7,tocIndex:1}]},17760:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var r=n(22314);const a=[{value:"\u8BBE\u8BA1\u6A21\u5F0F",paraId:0,tocIndex:0},{value:"javascript \u57FA\u7840",paraId:1,tocIndex:0}]},33545:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var r=n(52208);const a=[{value:"\u6709\u53C2\u6570\u65F6\u5B58\u50A8\u53C2\u6570\uFF0C\u65E0\u53C2\u6570\u65F6\u6267\u884C",paraId:0,tocIndex:1},{value:`function currying(fn) {
+  // \u95ED\u5305\u6536\u96C6\u5B58\u50A8\u53C2\u6570\u53D8\u91CF
+  var args = [];
+
+  return function curryingWrapFn() {
+    if (arguments.length === 0) {
+      // \u53C2\u6570\u4E3A0\u4E2A\uFF0Ccost()(...args)
+      return fn.apply(null, args);
+    } else {
+      // \u6709\u53C2\u6570\uFF0Cargs\u5B58\u50A8\u53C2\u6570
+      [].push.apply(args, arguments);
+      // \u8FD4\u56DE\u5F53\u524D\u51FD\u6570\uFF0C\u53EF\u7EE7\u7EED\u6267\u884C\u7684\u5173\u952E
+      return arguments.callee;
+    }
+  };
+}
+
+function cost() {
+  var money = 0;
+  return function () {
+    for (var i = 0; i < arguments.length; i++) {
+      money += arguments[i];
+    }
+    return money;
+  };
+}
+
+// curryingWrapFn, cost() \u8FD4\u56DE\u7684\u662F\u4E00\u4E2A\u51FD\u6570
+const curryCost = currying(cost());
+
+curryCost(100); // arguments.callee => curryingWrapFn => curryCost
+curryCost(200)(300); // \u540C\u4E0A
+const result = curryCost(); // curryingWrapFn => arguments.length===0 => cost(100,200,300)
+console.log(result); // 600
+`,paraId:1,tocIndex:1}]},61117:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var r=n(49845);const a=[{value:"\u6E90\u7801\u5B9E\u73B0\uFF08koa\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"koa-server/client/classes/MultiChannel.ts at main \xB7 haokur/koa-server (github.com)",paraId:0,tocIndex:1},{value:"\u5728\u7EBF DEMO\uFF1A",paraId:0,tocIndex:1},{value:"Vue3-client (haokur.github.io)",paraId:0,tocIndex:1},{value:"javascript \u662F\u5355\u7EBF\u7A0B\uFF0C\u4F46\u662F\u5728\u4E00\u4E9B\u573A\u666F\u4E0B\u5982\u53D1\u9001\u8BF7\u6C42\uFF0C\u5982\u4F7F\u7528 web-worker\uFF0C\u53EF\u4EE5\u5B9E\u73B0\u7C7B\u5E76\u53D1\u6548\u679C\uFF0C\u540C\u65F6\u53D1\u9001\u591A\u4E2A\u8BF7\u6C42\uFF0C\u6216\u8005\u540C\u65F6\u5904\u7406\u52A8\u4F5C",paraId:1,tocIndex:1},{value:"\u5BBF\u4E3B\u4F7F\u7528 new Worker \u7684\u65B9\u5F0F\u6765\u521B\u5EFA\u4E00\u4E2A js \u6267\u884C\u7EBF\u7A0B\uFF0C\u53EF\u4F20\u5165\u672C\u5730\u7684\u8DEF\u5F84\u6216\u8FDC\u7A0B http \u7684\u8DEF\u5F84\u7684 js \u6587\u4EF6\u3002\u5BBF\u4E3B\u548C worker \u901A\u4FE1\uFF0C\u53D1\u6D88\u606F\u90FD\u4F7F\u7528 postMessage\uFF0C\u6536\u6D88\u606F\u4F7F\u7528 onmessage",paraId:2,tocIndex:2},{value:"\u8003\u8651\u5230\u5BBF\u4E3B\u4E0E\u5B50\u7EBF\u7A0B\u4E4B\u95F4\u7684\u4EA4\u4E92\uFF0C\u901A\u5E38\u4E3A\uFF0C\u5BBF\u4E3B\u53D1\u8D77\u4E00\u4E2A\u6307\u4EE4\uFF0C\u5B50\u7EBF\u7A0B\u6536\u5230\u6307\u4EE4\uFF0C\u7136\u540E\u6267\u884C\u5B8C\u5BF9\u5E94\u6307\u4EE4\u64CD\u4F5C\uFF0C\u7136\u540E postMessage \u544A\u77E5\u5BBF\u4E3B\uFF0C\u8FD9\u4E2A\u8FC7\u7A0B\u662F\u4E00\u4E2A\u94FE\u8DEF\uFF0C\u4E14\u901A\u5E38\u6BCF\u4E2A\u73AF\u8282\u4EC5\u8FDB\u884C\u4E00\u6B21\uFF0C\u90A3\u4E48\u4E3A\u4E86\u64CD\u4F5C\u65B9\u4FBF\uFF0C\u53EF\u4EE5\u4F7F\u7528\u53D1\u5E03\u8BA2\u9605\u7684\u6A21\u5F0F\u5C01\u88C5\u4E00\u5C42\uFF0C\u8BA9\u5BBF\u4E3B\u8C03\u7528 worker \u7684\u8FC7\u7A0B\uFF0C\u770B\u8D77\u6765\u5C31\u50CF\u4E00\u4E2A\u666E\u901A\u7684\u5F02\u6B65\u8BF7\u6C42",paraId:3,tocIndex:2},{value:"\u4F7F\u7528\u5982\u4E0B\uFF1A",paraId:4,tocIndex:2},{value:`const workerHelper = new WorkerHelper('./test-worker.js');
 
 async function handleClick() {
   let result = await workerHelper.postMesage({
@@ -243,7 +277,7 @@ queue
     chunkDataArr.push(result);
   })
   .run();
-`,paraId:24,tocIndex:3}]},87447:function(t,a,n){n.r(a),n.d(a,{texts:function(){return e}});var r=n(37132);const e=[{value:"\u6587\u4EF6\u5206\u7247\u4E0A\u4F20\u4E0B\u8F7D",paraId:0,tocIndex:0},{value:"verdaccio \u642D\u5EFA\u79C1\u6709 npm \u4ED3\u5E93",paraId:1,tocIndex:0},{value:"webworker \u548C\u5F02\u6B65\u5E76\u53D1\u961F\u5217",paraId:2,tocIndex:0}]},53350:function(t,a,n){n.r(a),n.d(a,{texts:function(){return e}});var r=n(81005);const e=[{value:"\u6E90\u7801\u5B9E\u73B0\uFF08koa\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"koa-server/src/controllers/file.controller.ts",paraId:0,tocIndex:1},{value:"\u6E90\u7801\u5B9E\u73B0\uFF08Vue3\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"client/pages/upload/upload.vue",paraId:0,tocIndex:1},{value:"\u5728\u7EBF DEMO\uFF1A",paraId:0,tocIndex:1},{value:"Vue3-client ",paraId:0,tocIndex:1},{value:"Vue3-client (haokur.github.io)",paraId:1,tocIndex:1},{value:"\u524D\u7AEF slice \u5207\u5272\uFF0C\u670D\u52A1\u7AEF\u5408\u5E76",paraId:2,tocIndex:2},{value:"\u6838\u5FC3\u5728\u4E8E\u524D\u7AEF\uFF0C\u544A\u8BC9\u540E\u7AEF\u5F53\u524D\u662F\u54EA\u4E00\u6BB5\uFF0C\u4EE5\u53CA\u8FD9\u4E00\u6BB5\u7684\u6570\u636E",paraId:3,tocIndex:2},{value:"Html \u4E2D\u6DFB\u52A0 input \u4E3A file \u7684\u63A7\u4EF6",paraId:4,tocIndex:2},{value:`<input type="file" @change="handleFileChange" />
+`,paraId:24,tocIndex:3}]},87447:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var r=n(37132);const a=[{value:"\u6587\u4EF6\u5206\u7247\u4E0A\u4F20\u4E0B\u8F7D",paraId:0,tocIndex:0},{value:"verdaccio \u642D\u5EFA\u79C1\u6709 npm \u4ED3\u5E93",paraId:1,tocIndex:0},{value:"webworker \u548C\u5F02\u6B65\u5E76\u53D1\u961F\u5217",paraId:2,tocIndex:0},{value:"webrtc",paraId:3,tocIndex:0}]},53350:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var r=n(81005);const a=[{value:"\u6E90\u7801\u5B9E\u73B0\uFF08koa\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"koa-server/src/controllers/file.controller.ts",paraId:0,tocIndex:1},{value:"\u6E90\u7801\u5B9E\u73B0\uFF08Vue3\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"client/pages/upload/upload.vue",paraId:0,tocIndex:1},{value:"\u5728\u7EBF DEMO\uFF1A",paraId:0,tocIndex:1},{value:"Vue3-client ",paraId:0,tocIndex:1},{value:"Vue3-client (haokur.github.io)",paraId:1,tocIndex:1},{value:"\u524D\u7AEF slice \u5207\u5272\uFF0C\u670D\u52A1\u7AEF\u5408\u5E76",paraId:2,tocIndex:2},{value:"\u6838\u5FC3\u5728\u4E8E\u524D\u7AEF\uFF0C\u544A\u8BC9\u540E\u7AEF\u5F53\u524D\u662F\u54EA\u4E00\u6BB5\uFF0C\u4EE5\u53CA\u8FD9\u4E00\u6BB5\u7684\u6570\u636E",paraId:3,tocIndex:2},{value:"Html \u4E2D\u6DFB\u52A0 input \u4E3A file \u7684\u63A7\u4EF6",paraId:4,tocIndex:2},{value:`<input type="file" @change="handleFileChange" />
 `,paraId:5,tocIndex:2},{value:"js \u4E2D\u6DFB\u52A0\u5BF9 input \u7684 file \u53D8\u5316\u7684\u54CD\u5E94",paraId:6,tocIndex:2},{value:`const chunkSize = 1 * 1024 * 1024;
 
 const chunkStatus = [];
@@ -396,7 +430,7 @@ const checkChunkData = () => {
     };
   }
 }
-`,paraId:21,tocIndex:3},{value:"\u5728\u5206\u7247\u7684\u65F6\u5019\uFF0C\u4F4D\u7F6E\u4E0D\u8981\u6709\u91CD\u53E0\uFF0C\u5982\u5207\u7247\u7684\u7247\u6BB5\u5E94\u8BE5\u662F [ [1,3],[4,6]] \uFF0C\u800C\u4E0D\u662F [[1,3],[3,5]]",paraId:22,tocIndex:4}]},6329:function(t,a,n){n.r(a),n.d(a,{texts:function(){return e}});var r=n(92688);const e=[{value:"\u5168\u5C40\u5B89\u88C5 verdaccio\uFF0Cnpm install verdaccio -g",paraId:0,tocIndex:1},{value:"\u5168\u5C40\u5B89\u88C5 pm2\uFF0C\u542F\u52A8 verdaccio\uFF0Cnpm install pm2 -g",paraId:0,tocIndex:1},{value:"\u4FEE\u6539 verdaccio \u914D\u7F6E\u6587\u4EF6\uFF0C\u4F8B\u5982\u5728 centos \u4E0A\u8DEF\u5F84\u4E3A /root/.config/verdaccio/config.yaml\uFF0C\u6216\u8005\u5C1D\u8BD5\u8FD0\u884C verdaccio",paraId:0,tocIndex:1},{value:`storage: ./storage
+`,paraId:21,tocIndex:3},{value:"\u5728\u5206\u7247\u7684\u65F6\u5019\uFF0C\u4F4D\u7F6E\u4E0D\u8981\u6709\u91CD\u53E0\uFF0C\u5982\u5207\u7247\u7684\u7247\u6BB5\u5E94\u8BE5\u662F [ [1,3],[4,6]] \uFF0C\u800C\u4E0D\u662F [[1,3],[3,5]]",paraId:22,tocIndex:4}]},6329:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var r=n(92688);const a=[{value:"\u5168\u5C40\u5B89\u88C5 verdaccio\uFF0Cnpm install verdaccio -g",paraId:0,tocIndex:1},{value:"\u5168\u5C40\u5B89\u88C5 pm2\uFF0C\u542F\u52A8 verdaccio\uFF0Cnpm install pm2 -g",paraId:0,tocIndex:1},{value:"\u4FEE\u6539 verdaccio \u914D\u7F6E\u6587\u4EF6\uFF0C\u4F8B\u5982\u5728 centos \u4E0A\u8DEF\u5F84\u4E3A /root/.config/verdaccio/config.yaml\uFF0C\u6216\u8005\u5C1D\u8BD5\u8FD0\u884C verdaccio",paraId:0,tocIndex:1},{value:`storage: ./storage
 plugins: ./plugins
 
 web:
@@ -595,7 +629,99 @@ module.exports = (config, stuff) => {
 };
 `,paraId:51,tocIndex:2},{value:"\u66F4\u5F7B\u5E95\u4E00\u70B9\uFF0C\u5C31\u662F\u53EA\u90E8\u7F72\u5728\u5185\u7F51\uFF0C\u53EA\u6709\u5185\u7F51\u80FD\u591F\u8BBF\u95EE\u3002",paraId:52,tocIndex:2},{value:"\u5728\u767B\u5F55\u548C\u9000\u51FA\u79C1\u6709\u4ED3\u5E93\u65F6\uFF0C\u4F7F\u7528 npm login \u9700\u8981\u5E26\u4ED3\u5E93",paraId:53,tocIndex:3},{value:`npm login --registry https://npm.hoakur.com
 npm logout --registry https://npm.hoakur.com
-`,paraId:54,tocIndex:3},{value:".npmrc \u914D\u7F6E\u7684 token \u7684\u6743\u91CD\u662F\u8981\u5927\u4E8E npm login \u767B\u5F55\u7684\u7528\u6237\u7684",paraId:55,tocIndex:3}]},51446:function(t,a,n){n.r(a),n.d(a,{texts:function(){return e}});var r=n(68537);const e=[]},3190:function(t,a,n){n.r(a),n.d(a,{texts:function(){return e}});var r=n(43648);const e=[{value:"\u4EE3\u7801\u5B9E\u73B0\uFF08javascript\uFF09\uFF1A",paraId:0,tocIndex:0},{value:"haokur/algorithm",paraId:0,tocIndex:0},{value:"\u52A8\u6001\u6548\u679C\u9884\u89C8\uFF1A",paraId:0,tocIndex:0},{value:"haokur.github.io/algorithm",paraId:0,tocIndex:0}]},66301:function(t,a,n){n.r(a),n.d(a,{texts:function(){return e}});var r=n(4299);const e=[{value:"\u6838\u5FC3\uFF1A\u4E00\u6B21\u5FAA\u73AF\uFF0C\u524D\u540E\u4E24\u4E24\u6BD4\u8F83\uFF0C\u524D\u8005\u5927\u4E8E\u540E\u8005\uFF0C\u5219\u4E92\u6362\u4F4D\u7F6E\uFF0C\u6BCF\u6B21\u5FAA\u73AF\u5192\u6CE1\u4E00\u4E2A\u6700\u5927\u7684\u51FA\u6765",paraId:0,tocIndex:1},{value:`function bubblingSort(arr) {
+`,paraId:54,tocIndex:3},{value:".npmrc \u914D\u7F6E\u7684 token \u7684\u6743\u91CD\u662F\u8981\u5927\u4E8E npm login \u767B\u5F55\u7684\u7528\u6237\u7684",paraId:55,tocIndex:3}]},52695:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var r=n(32897);const a=[{value:"\u5728\u7EBF\u4F53\u9A8C\u5730\u5740",paraId:0,tocIndex:1},{value:"websocket \u7684\u4EE3\u7801\u5B9E\u73B0",paraId:0,tocIndex:1},{value:"recorder \u548C watcher \u7684\u4EE3\u7801\u5B9E\u73B0",paraId:0,tocIndex:1},{value:`<video id="local-video" autoplay playsinline></video>
+`,paraId:1,tocIndex:2},{value:"\u6CE8\u610F\u5176\u4E2D\u7684 autoplay \uFF0C\u4E0D\u7136\u89C6\u9891\u4F1A\u51FA\u4E0D\u6765",paraId:2,tocIndex:2},{value:"playsinline\uFF0C\u89C6\u9891\u5185\u5D4C\u5728\u9875\u9762\u4E0A\uFF0C\u800C\u4E0D\u662F\u5168\u5C4F\u64AD\u653E",paraId:3,tocIndex:2},{value:"\u4F7F\u7528 js \u83B7\u53D6\u5230\u5A92\u4F53",paraId:4,tocIndex:2},{value:`let localStream;
+
+navigator.mediaDevices
+  .getUserMedia({ video: true, audio: true })
+  .then((stream) => {
+    const localVideo = document.getElementById('local-video');
+    if (localVideo) {
+      localVideo.srcObject = stream;
+    }
+    localStream = stream;
+  });
+`,paraId:5,tocIndex:2},{value:"\u4EE5\u4E0A\u5C31\u80FD\u5C06\u6444\u50CF\u5934\u548C\u5F55\u97F3\u673A\u6355\u83B7\u7684\u4FE1\u606F\uFF0C\u5B9E\u65F6\u6E32\u67D3\u5230 video \u4E2D\u4E86\u3002",paraId:6,tocIndex:2},{value:`const peerConnection = new RTCPeerConnection();
+
+stream.getTracks().forEach((track) => {
+  peerConnection.addTrack(track, stream);
+});
+
+// \u751F\u6210offer
+const offer = await peerConnection.createOffer({
+  offerToReceiveAudio: 1,
+  offerToReceiveVideo: 1,
+});
+// \u8BBE\u7F6E\u672C\u5730 SDP
+await peerConnection.setLocalDescription(offer);
+// \u53D1\u9001 offer \u7ED9\u4FE1\u4EE4\u670D\u52A1\u5668\uFF08\u901A\u5E38\u7528websocket\u670D\u52A1\uFF09
+ws.send(
+  JSON.stringify({ type: 'offer', offer: peerConnection.localDescription }),
+);
+
+// \u76D1\u542C\u4FE1\u4EE4\u670D\u52A1\u5668\u7684\u6D88\u606F\uFF08\u5176\u4ED6\u7AEF\u56DE\u590D\u7684\u6D88\u606F\uFF0Coffer\u7684\u56DE\u590D\uFF0Ccandidate\u7684\u56DE\u590D
+ws.onmessage = async (event) => {
+  const message = JSON.parse(event.data);
+  switch (message.type) {
+    // \u522B\u7684\u7AEF\u63A5\u6536\u5230offer\u65F6\u7684\u56DE\u7B54\u4FE1\u606F
+    case 'answer':
+      // \u8BBE\u7F6E\u8FDC\u7A0B\u7684 SDP
+      await peerConnection.setRemoteDescription(
+        new RTCSessionDescription(message.answer),
+      );
+      break;
+    case 'candidate':
+      // \u5904\u7406\u8FDC\u7A0B\u7684 ICE \u5019\u9009
+      await peerConnection.addIceCandidate(new RTCIceCandidate(candidate));
+      break;
+  }
+};
+`,paraId:7,tocIndex:3},{value:`let peerConnection;
+ws.onmessage = async (event) => {
+  const message = JSON.parse(event.data);
+  switch (message.type) {
+    case 'offer':
+      // \u521B\u5EFA peer \u8FDE\u63A5
+      peerConnection = new RTCPeerConnection();
+      // \u8BBE\u7F6E\u8FDC\u7A0B SDP
+      await peerConnection.setRemoteDescription(message.offer);
+      // \u521B\u5EFA\u5BF9offer\u7684answer SDP
+      const answer = await peerConnection.createAnswer();
+      // \u672C\u5730\u5B58\u50A8answer SDP
+      await peerConnection.setLocalDescription(answer);
+      // \u4F7F\u7528websocket\u7B54\u590D\u7ED9 recorder \u7AEF\u4EE5 answer SDP
+      ws.send(
+        JSON.stringify({
+          type: 'answer',
+          answer: peerConnection.localDescription,
+        }),
+      );
+
+      // \u76D1\u542C ICE \u5019\u9009\u4FE1\u606F(\u7531peerConnection\u89E6\u53D1)\uFF0C\u5E76\u53D1\u9001\u7ED9 recorder \u7AEF
+      peerConnection.onicecandidate = (event) => {
+        if (event.candidate) {
+          ws.send(
+            JSON.stringify({ type: 'candidate', candidate: event.candidate }),
+          );
+        }
+      };
+
+      // \u76D1\u542C\u8FDC\u7A0B\u6D41\u5E76\u5C06\u5176\u6DFB\u52A0\u5230\u672C\u5730 video \u5143\u7D20\u4E2D
+      peerConnection.ontrack = (event) => {
+        const remoteVideo = document.getElementById('remote-video');
+        if (remoteVideo) {
+          remoteVideo.srcObject = event.streams[0];
+        }
+      };
+      break;
+    default:
+      break;
+  }
+};
+`,paraId:8,tocIndex:4},{value:"\u4EE5\u4E0A\u5C31\u662F\u7B80\u5355\u7684\u5355\u5411\u6D41\u7684\u5B9E\u73B0\uFF0C\u5176\u4E2D\u4E3B\u8981\u901A\u4FE1\u6D41\u7A0B\u662F\uFF1A",paraId:9,tocIndex:4},{value:"recorder \u7AEF\u751F\u6210 offer\uFF0C\u901A\u8FC7 websocket\uFF08\u4FE1\u4EE4\u670D\u52A1\u5668\uFF09\uFF0C\u5E7F\u64AD\u7ED9\u5176\u4ED6 watcher\uFF0Crecorder \u5B58\u50A8\u8FD9\u4E2A offer \u4FE1\u606F\uFF0C\u5E76\u4E14\u76D1\u542C\u4FE1\u4EE4\u670D\u52A1\u5668\u7684 answer \u548C candidate",paraId:10,tocIndex:4},{value:`
+watcher \u6536\u5230 offer \u6D88\u606F\uFF0C\u751F\u6210\u4E00\u4E2A answer\uFF0C\u901A\u8FC7 websocket\uFF08\u4FE1\u4EE4\u670D\u52A1\u5668\uFF09\u4F20\u9012\u7ED9 recorder`,paraId:10,tocIndex:4},{value:`
+recorder\uFF0Cwatcher \u5B58\u50A8\u8FD9\u4E2A offer \u4FE1\u606F\u548C answer \u4FE1\u606F`,paraId:10,tocIndex:4},{value:`
+recorder \u63A5\u6536\u5230 watcher \u7684 answer \u4FE1\u606F\uFF0C\u5B58\u50A8\u4E3A\u8FDC\u7A0B\u7684\u4FE1\u606F\uFF0C\u4EE5\u4E0A\u5B8C\u6210\u4E86 SDP \u4FE1\u606F\u4EA4\u6362`,paraId:10,tocIndex:4},{value:"watcher \u7AEF\u76D1\u542C onicecandidate \u89E6\u53D1\uFF0C\u5F97\u5230 candidate \u503C\uFF0C\u901A\u8FC7\u4FE1\u4EE4\u670D\u52A1\u5668\u8F6C\u53D1\u7ED9 recorder \u7AEF\uFF0Crecorder \u8BBE\u7F6E ICE \u5019\u9009\uFF0C\u5B8C\u6210\u4E86 ICE \u5019\u9009\u901A\u4FE1\u5BF9\u63A5",paraId:11,tocIndex:4}]},51446:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var r=n(68537);const a=[]},3190:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var r=n(43648);const a=[{value:"\u4EE3\u7801\u5B9E\u73B0\uFF08javascript\uFF09\uFF1A",paraId:0,tocIndex:0},{value:"haokur/algorithm",paraId:0,tocIndex:0},{value:"\u52A8\u6001\u6548\u679C\u9884\u89C8\uFF1A",paraId:0,tocIndex:0},{value:"haokur.github.io/algorithm",paraId:0,tocIndex:0}]},66301:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var r=n(4299);const a=[{value:"\u6838\u5FC3\uFF1A\u4E00\u6B21\u5FAA\u73AF\uFF0C\u524D\u540E\u4E24\u4E24\u6BD4\u8F83\uFF0C\u524D\u8005\u5927\u4E8E\u540E\u8005\uFF0C\u5219\u4E92\u6362\u4F4D\u7F6E\uFF0C\u6BCF\u6B21\u5FAA\u73AF\u5192\u6CE1\u4E00\u4E2A\u6700\u5927\u7684\u51FA\u6765",paraId:0,tocIndex:1},{value:`function bubblingSort(arr) {
   // \u8D70 i \u6B21 j \u7684\u904D\u5386
   for (let i = 0; i < arr.length; i++) {
     // j \u4E00\u8F6E\u904D\u5386\u786E\u5B9A\u4E00\u4E2A\u6700\u5927\u6570
@@ -678,4 +804,4 @@ function quickSort(arr, low, high) {
 let arr = [3, 1, 7, 4, 88, 2, 6];
 quickSort(arr);
 console.log(arr);
-`,paraId:7,tocIndex:4}]},16514:function(t,a,n){n.r(a),n.d(a,{texts:function(){return e}});var r=n(94807);const e=[]},56076:function(t,a,n){n.r(a),n.d(a,{texts:function(){return e}});var r=n(22695);const e=[{value:"v18+",paraId:0,tocIndex:0}]},61770:function(t,a,n){n.r(a),n.d(a,{texts:function(){return e}});var r=n(37535);const e=[]},75373:function(t,a,n){n.r(a),n.d(a,{texts:function(){return e}});var r=n(99920);const e=[{value:"Vue2 and Vue3",paraId:0,tocIndex:0}]},2347:function(t,a,n){n.r(a),n.d(a,{texts:function(){return e}});var r=n(79825);const e=[{value:"Vue2",paraId:0,tocIndex:0}]},73728:function(t,a,n){n.r(a),n.d(a,{texts:function(){return e}});var r=n(61831);const e=[{value:"Vue3",paraId:0,tocIndex:0}]}}]);
+`,paraId:7,tocIndex:4}]},16514:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var r=n(94807);const a=[]},56076:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var r=n(22695);const a=[{value:"v18+",paraId:0,tocIndex:0}]},61770:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var r=n(37535);const a=[]},75373:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var r=n(99920);const a=[{value:"Vue2 and Vue3",paraId:0,tocIndex:0}]},2347:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var r=n(79825);const a=[{value:"Vue2",paraId:0,tocIndex:0}]},73728:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var r=n(61831);const a=[{value:"Vue3",paraId:0,tocIndex:0}]}}]);
