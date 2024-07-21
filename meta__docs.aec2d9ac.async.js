@@ -1,4 +1,130 @@
-"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[904],{23522:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(86549),r={}},65575:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(22314),r={}},2932:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(52208),r={}},13591:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(49845),r={}},829:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(74573),r={}},95523:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(37132),r={}},96624:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(81005),r={}},74867:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(92688),r={}},55743:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(32897),r={}},11171:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(68537),r={}},67715:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(43648),r={}},46926:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(4299),r={}},90702:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(94807),r={}},46983:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(22695),r={}},57828:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(37535),r={}},47537:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(99920),r={}},48516:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(79825),r={}},81206:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(61831),r={}},85229:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(86549);const a=[{value:"\u5C01\u88C5\uFF1A\u5C01\u88C5\u53D8\u5316",paraId:0,tocIndex:1},{value:"\u7EE7\u627F\uFF1A\u7EE7\u627F\u901A\u7528\u5C5E\u6027\u548C\u65B9\u6CD5",paraId:1,tocIndex:1},{value:"\u591A\u6001\uFF1A\u540C\u4E00\u4E2A\u63A5\u53E3\u65B9\u6CD5\uFF0C\u4E0D\u540C\u7684\u5B9E\u73B0\uFF0C\u9ED1\u732B\u767D\u732B\uFF0C\u80FD\u6293\u8001\u9F20\u7684\u5C31\u662F\u732B",paraId:2,tocIndex:1},{value:"\u95ED\u5305\uFF1A\u51FD\u6570\u6267\u884C\u5B8C\u5176\u76F8\u5E94\u7684\u6267\u884C\u73AF\u5883\u9700\u8981\u88AB\u91CA\u653E\uFF0C\u800C\u8FD4\u56DE\u4E86\u8BE5\u51FD\u6570\uFF0C\u51FD\u6570\u5E76\u672A\u6D88\u4EA1\uFF0C\u5176\u6267\u884C\u73AF\u5883\u4E5F\u88AB\u4E00\u8D77\u7559\u5B58\u4E86\u4E0B\u6765\uFF0C\u4E0D\u4F1A\u88AB\u5783\u573E\u56DE\u6536\u91CA\u653E",paraId:3,tocIndex:1},{value:"\u4F5C\u7528\u57DF\uFF1A\u53D8\u91CF\u67E5\u627E\u8303\u56F4\u89C4\u5219\uFF0C\u6709\u5168\u5C40\u4F5C\u7528\u57DF\uFF0C\u51FD\u6570\u4F5C\u7528\u57DF\uFF0Clet\uFF0Cconst \u5757\u7EA7\u4F5C\u7528\u57DF",paraId:4,tocIndex:1},{value:"\u4F5C\u7528\u57DF\u94FE\uFF1A\u53D8\u91CF\u7684\u7531\u6700\u8FD1\u4F5C\u7528\u57DF\u5230\u6700\u8FDC\u4F5C\u7528\u57DF\uFF08\u5168\u5C40\u4F5C\u7528\u57DF\uFF09\u7684\u53D8\u91CF\u67E5\u627E\u89C4\u5219",paraId:5,tocIndex:1},{value:"\u539F\u578B\uFF1A\u5BF9\u8C61\u4E0A\u7684 prototype \u5C5E\u6027\u5BF9\u8C61\uFF0C\u5176 constructor \u7684\u503C\u5BF9\u5E94\u4E3A\u5BF9\u8C61\u672C\u8EAB",paraId:6,tocIndex:1},{value:"\u539F\u578B\u94FE\uFF1A\u5BF9\u8C61\u5728\u67E5\u627E\u53D8\u91CF\u548C\u65B9\u6CD5\u65F6\uFF0C\u5F53\u524D\u5BF9\u8C61\u4E0A\u6CA1\u6709\uFF0C\u5219\u901A\u8FC7 __proto** \u67E5\u627E\u5230\u4E0A\u4E00\u5C42\u7684 prototype \u4E0A\uFF0C\u6CA1\u67E5\u5230\u5C31\u518D\u62FC\u4E00\u5C42 __proto** \u76F4\u5230\u67E5\u627E null \u505C\u6B62\uFF0C\u6700\u7EC8\u672A\u627E\u5230\uFF0C\u8FD4\u56DE undefined",paraId:7,tocIndex:1}]},17760:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(22314);const a=[{value:"\u8BBE\u8BA1\u6A21\u5F0F",paraId:0,tocIndex:0},{value:"javascript \u57FA\u7840",paraId:1,tocIndex:0}]},33545:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(52208);const a=[{value:"\u6709\u53C2\u6570\u65F6\u5B58\u50A8\u53C2\u6570\uFF0C\u65E0\u53C2\u6570\u65F6\u6267\u884C",paraId:0,tocIndex:1},{value:`function currying(fn) {
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[904],{23522:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(86549),r={}},65575:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(22314),r={}},2932:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(52208),r={}},13591:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(49845),r={}},829:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(74573),r={}},95523:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(37132),r={}},96624:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(81005),r={}},74867:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(92688),r={}},55743:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(32897),r={}},11171:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(68537),r={}},67715:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(43648),r={}},46926:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(4299),r={}},90702:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(94807),r={}},46983:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(22695),r={}},57828:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(37535),r={}},47537:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(99920),r={}},48516:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(79825),r={}},81206:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(61831),r={}},85229:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(86549);const a=[{value:"\u5C01\u88C5\uFF1A\u5C01\u88C5\u53D8\u5316",paraId:0,tocIndex:1},{value:"\u7EE7\u627F\uFF1A\u7EE7\u627F\u901A\u7528\u5C5E\u6027\u548C\u65B9\u6CD5",paraId:0,tocIndex:1},{value:"\u591A\u6001\uFF1A\u540C\u4E00\u4E2A\u63A5\u53E3\u65B9\u6CD5\uFF0C\u4E0D\u540C\u7684\u5B9E\u73B0\uFF0C\u9ED1\u732B\u767D\u732B\uFF0C\u80FD\u6293\u8001\u9F20\u7684\u5C31\u662F\u732B",paraId:0,tocIndex:1},{value:"\u95ED\u5305\uFF1A\u51FD\u6570\u6267\u884C\u5B8C\u5176\u76F8\u5E94\u7684\u6267\u884C\u73AF\u5883\u9700\u8981\u88AB\u91CA\u653E\uFF0C\u800C\u8FD4\u56DE\u4E86\u8BE5\u51FD\u6570\uFF0C\u51FD\u6570\u5E76\u672A\u6D88\u4EA1\uFF0C\u5176\u6267\u884C\u73AF\u5883\u4E5F\u88AB\u4E00\u8D77\u7559\u5B58\u4E86\u4E0B\u6765\uFF0C\u4E0D\u4F1A\u88AB\u5783\u573E\u56DE\u6536\u91CA\u653E",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\uFF1A\u53D8\u91CF\u67E5\u627E\u8303\u56F4\u89C4\u5219\uFF0C\u6709\u5168\u5C40\u4F5C\u7528\u57DF\uFF0C\u51FD\u6570\u4F5C\u7528\u57DF\uFF0Clet\uFF0Cconst \u5757\u7EA7\u4F5C\u7528\u57DF",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\u94FE\uFF1A\u53D8\u91CF\u7684\u7531\u6700\u8FD1\u4F5C\u7528\u57DF\u5230\u6700\u8FDC\u4F5C\u7528\u57DF\uFF08\u5168\u5C40\u4F5C\u7528\u57DF\uFF09\u7684\u53D8\u91CF\u67E5\u627E\u89C4\u5219",paraId:0,tocIndex:1},{value:"\u539F\u578B\uFF1A\u5BF9\u8C61\u4E0A\u7684 prototype \u5C5E\u6027\u5BF9\u8C61\uFF0C\u5176 constructor \u7684\u503C\u5BF9\u5E94\u4E3A\u5BF9\u8C61\u672C\u8EAB",paraId:0,tocIndex:1},{value:"\u539F\u578B\u94FE\uFF1A\u5BF9\u8C61\u5728\u67E5\u627E\u53D8\u91CF\u548C\u65B9\u6CD5\u65F6\uFF0C\u5F53\u524D\u5BF9\u8C61\u4E0A\u6CA1\u6709\uFF0C\u5219\u901A\u8FC7 __proto** \u67E5\u627E\u5230\u4E0A\u4E00\u5C42\u7684 prototype \u4E0A\uFF0C\u6CA1\u67E5\u5230\u5C31\u518D\u62FC\u4E00\u5C42 __proto** \u76F4\u5230\u67E5\u627E null \u505C\u6B62\uFF0C\u6700\u7EC8\u672A\u627E\u5230\uFF0C\u8FD4\u56DE undefined",paraId:0,tocIndex:1},{value:"\u8BBE\u8BA1\u6A21\u5F0F\u6838\u5FC3\uFF1A\u5C06\u53D8\u7684\u548C\u4E0D\u53D8\u7684\u62C6\u79BB\u5F00",paraId:0,tocIndex:1},{value:"\u5E38\u7528\u573A\u666F\uFF1A",paraId:1,tocIndex:2},{value:"\u6570\u636E\u5E93\uFF0Credis \u8FDE\u63A5\uFF0C\u521B\u5EFA\u6839\u5143\u7D20",paraId:2,tocIndex:2},{value:"\u5B9E\u73B0\uFF1A",paraId:3,tocIndex:2},{value:"\u82E5\u6CA1\u6267\u884C\u8FC7\uFF0C\u5219\u6267\u884C\u4E14\u4FDD\u5B58\u7ED3\u679C",paraId:4,tocIndex:2},{value:"\u82E5\u6267\u884C\u8FC7\uFF08\u7ED3\u679C\u7F13\u5B58\u6709\u503C\uFF09\uFF0C\u8C03\u7528\u65F6\uFF0C\u76F4\u63A5\u8FD4\u56DE\u4E0A\u6B21\u7F13\u5B58\u7684\u7ED3\u679C",paraId:4,tocIndex:2},{value:`// \u901A\u7528\u83B7\u53D6\u5355\u4F8B\uFF0C\u9AD8\u9636\u51FD\u6570+\u95ED\u5305
+function getSingle(callback) {
+  let singleInstance;
+
+  return function () {
+    if (singleInstance !== undefined) return singleInstance;
+    singleInstance = callback.apply(null, arguments) || null;
+    return singleInstance;
+  };
+}
+
+function doSomething() {
+  return {
+    name: 'jack',
+    age: Date.now(),
+  };
+}
+
+function getDatabase() {
+  return {
+    port: '3306',
+    user: 'root',
+  };
+}
+
+function getNothing() {
+  console.log('\u6267\u884CgetNothing', 'singleton.js::29\u884C');
+}
+
+const singleDoSomething = getSingle(doSomething);
+const result1 = singleDoSomething();
+const result2 = singleDoSomething();
+console.log(result1 === result2); // true
+
+const singleGetDatabase = getSingle(getDatabase);
+const database1 = singleGetDatabase();
+const database2 = singleGetDatabase();
+console.log(database1 === database2); // true
+
+const singleNothing = getSingle(getNothing);
+const nothingResult1 = singleNothing();
+const nothingResult2 = singleNothing();
+console.log(nothingResult1, nothingResult2); // null null
+`,paraId:5,tocIndex:2},{value:"\u5B9A\u4E49\u4E00\u4E2A\u901A\u7528\u83B7\u53D6\u5355\u4F8B\u51FD\u6570\uFF0C\u4F20\u5165\u51FD\u6570\uFF0C\u8FD4\u56DE\u4E00\u4E2A\u521B\u5EFA\u51FD\u6570\uFF0C\u6216\u8005\u521B\u5EFA\u7684\u7ED3\u679C\uFF0C\u4F20\u5165\u7684\u51FD\u6570\u5728\u7A0B\u5E8F\u751F\u547D\u5468\u671F\u91CC\u53EA\u4F1A\u6267\u884C\u4E00\u6B21",paraId:6,tocIndex:2},{value:"doSomething \u5982\u679C\u6CA1\u6709\u8FD4\u56DE\u503C\uFF0C\u5219\u4F1A\u5728 getSingle \u4E2D\u7F6E\u4E3A null\uFF0C\u4E5F\u4FDD\u8BC1\u4E86\u6CA1\u6709\u8FD4\u56DE\u503C\u7684\u51FD\u6570\u6267\u884C\uFF0C\u5176\u4E5F\u53EA\u4F1A\u6267\u884C\u4E00\u904D",paraId:6,tocIndex:2},{value:"\u4EE5\u4E0A\u7684\u5B9E\u73B0\uFF0C\u4E3B\u8981\u5C06\u5355\u4F8B\u6A21\u578B\u548C\u5B9E\u9645\u6267\u884C\u7684\u64CD\u4F5C\uFF0C\u62C6\u5206\u4E86\u5F00\uFF0C\u4F7F\u5F97 getSingle \u66F4\u52A0\u901A\u7528\uFF0C\u4F7F\u5F97\u4F20\u5165\u7684\u51FD\u6570\u66F4\u52A0\u7075\u6D3B\u591A\u6837",paraId:6,tocIndex:2},{value:"\u5B9A\u4E49\u4E00\u7CFB\u5217\u7684\u7B97\u6CD5\uFF08\u6267\u884C\u65B9\u6CD5\uFF0C\u56DE\u8C03\uFF09\uFF0C\u628A\u4ED6\u4EEC\u4E00\u4E2A\u4E2A\u5C01\u88C5\u8D77\u6765\uFF0C\u6302\u8F7D\u5728\u4E00\u4E2A\u5BF9\u8C61\u4E0A\uFF0C\u4F7F\u7528\u65F6\u53EF\u4EE5\u901A\u8FC7 key \u53BB\u5339\u914D\u6267\u884C",paraId:7,tocIndex:3},{value:"\u5E38\u7528\u573A\u666F\uFF1A",paraId:8,tocIndex:3},{value:"\u8BA1\u7B97\u5E74\u7EC8\u5956\u91D1\uFF0C\u89C4\u5219\u6821\u9A8C",paraId:9,tocIndex:3},{value:"\u5B9E\u73B0\uFF1A",paraId:10,tocIndex:3},{value:`// \u4E00\u7CFB\u5217\u7B97\u6CD5\uFF0C\u6302\u8F7D\u5728\u5BF9\u8C61\u4E0A
+const calculateMoneyStrategy = {
+  S: (salary) => salary * 6,
+  A: (salary) => salary * 4,
+  B: (salary) => salary * 2,
+  C: (salary) => salary * 1,
+};
+
+// \u901A\u8FC7key\u5339\u914D\u7B97\u6CD5\uFF0C\u6267\u884C
+const employee1Money = 10000 + calculateMoneyStrategy['S'](10000);
+const employee2Money = 8000 + calculateMoneyStrategy['C'](8000);
+
+console.log(employee1Money, employee2Money); // 70000 16000
+`,paraId:11,tocIndex:3},{value:'\u672C\u6765\u771F\u5B9E\u7684 A \u5230 B \u4E4B\u95F4\uFF0C\u7B2C\u4E09\u65B9 C \u6765 "\u8D5A\u5DEE\u4EF7"',paraId:12,tocIndex:4},{value:"\u53EF\u4EE5\u5C06 C \u770B\u6210\u662F\u4E2D\u95F4\u4F20\u8BDD\u7684\uFF0C\u8FD9\u4E2A C \u53EF\u4EE5\u52A0\u4E00\u4E9B\u81EA\u5DF1\u7684\u60F3\u6CD5\u548C\u63A7\u5236\uFF0C\u6536\u5230 A \u7684\u8BF7\u6C42\uFF0C\u52A0\u5DE5\u6216\u539F\u5C01\u4E0D\u52A8\u4F20\u8FBE\u7ED9 B\uFF0C\u6536\u5230 B \u7684\u54CD\u5E94\uFF0C\u53C8\u4F20\u56DE\u7ED9 A",paraId:13,tocIndex:4},{value:"\u5E38\u89C1\u573A\u666F\uFF1A",paraId:14,tocIndex:4},{value:"DOM \u4E8B\u4EF6\u59D4\u6258\uFF0C\u672C\u6765 button \u7ED1\u5B9A\u54CD\u5E94\u7684\u4E8B\u4EF6\uFF0C\u59D4\u6258\u7ED9 document \u5904\u7406",paraId:15,tocIndex:4},{value:"VPN",paraId:15,tocIndex:4},{value:"\u4E2D\u95F4\u4EBA\u9001\u82B1\u8868\u767D\uFF0C\u5A92\u5A46",paraId:15,tocIndex:4},{value:"\u517C\u5BB9\u591A\u5E73\u53F0\u65F6\u7684\u8DE8\u5E73\u53F0\u65B9\u6CD5\u8C03\u7528\uFF0C\u5982 uniapp\uFF0Ctaro \u7684\u5E73\u53F0\u65B9\u6CD5\u8C03\u7528 uni.showToast()",paraId:15,tocIndex:4},{value:"Vue3 \u4E2D\u7684 proxy \u7684\u4F7F\u7528",paraId:15,tocIndex:4},{value:`const doSomething = (params) => {};
+
+const proxyDoSomething = (params) => {
+  params.b = 2;
+
+  let result = doSomething(params);
+
+  result.c = 3;
+  return result;
+};
+
+proxyDomSomething({ a: 1 });
+`,paraId:16,tocIndex:4},{value:"\u987A\u5E8F\u8BBF\u95EE\u805A\u5408\u5BF9\u8C61\u91CC\u7684\u5404\u4E2A\u5143\u7D20\u3002js \u4E2D\u5185\u7F6E\u7684 for in \uFF0Cfor of\uFF0CforEach\uFF0C\u90FD\u7B97",paraId:17,tocIndex:5},{value:"\u7565",paraId:18,tocIndex:5},{value:"\u5B9E\u9645\u751F\u6D3B\u6848\u4F8B\uFF1A\u7C89\u4E1D\u5173\u6CE8\u5076\u50CF\uFF0C\u5076\u50CF\u66F4\u65B0\u52A8\u6001\uFF0C\u6240\u6709\u7C89\u4E1D\u6536\u5230\u901A\u77E5\uFF0C\u7C89\u4E1D\u53EF\u4EE5\u8131\u7C89\u53D6\u5173",paraId:19,tocIndex:6},{value:"\u5E7F\u6CDB\u5E94\u7528\u4E8E\u5F02\u6B65\u7F16\u7A0B\u573A\u666F\u4E2D",paraId:20,tocIndex:6},{value:"\u53D6\u4EE3\u5BF9\u8C61\u4E4B\u95F4\u786C\u7F16\u7801\u7684\u65B9\u5F0F\uFF08\u8026\u5408\u8C03\u7528\u51FD\u6570\u65B9\u5F0F\uFF09",paraId:20,tocIndex:6},{value:"\u9002\u7528\u573A\u666F\uFF0C\u4E00\u5BF9\u591A\uFF0C\u53EF\u80FD\u540E\u7EED\u8FD8\u4F1A\u589E\u52A0\u8FD9\u4E2A\u591A\u7684\u65F6\u5019",paraId:20,tocIndex:6},{value:"\u65F6\u95F4\u4E0A\u7684\u89E3\u8026\uFF0C\u5BF9\u8C61\u4E4B\u95F4\u7684\u89E3\u8026",paraId:20,tocIndex:6},{value:"\u7279\u70B9\uFF1A",paraId:21,tocIndex:6},{value:"\u65F6\u95F4\u4E0A\u7684\u89E3\u8026\uFF0C\u5BF9\u8C61\u4E4B\u95F4\u7684\u89E3\u8026",paraId:22,tocIndex:6},{value:"\u4E00\u5BF9\u591A\uFF0C\u53EF\u80FD\u540E\u7EED\u8FD8\u4F1A\u589E\u52A0\u8FD9\u4E2A\u591A\u7684\u65F6\u5019",paraId:22,tocIndex:6},{value:"\u53D6\u4EE3\u5BF9\u8C61\u4E4B\u95F4\u786C\u7F16\u7801\u7684\u65B9\u5F0F\uFF0C\u6BD4\u5982\u767B\u5F55\u6210\u529F\u540E\uFF0C\u5728\u8BF7\u6C42\u56DE\u8C03\u91CC\u6267\u884C\u7684\u4E00\u7CFB\u5217\u5237\u65B0\u64CD\u4F5C",paraId:22,tocIndex:6},{value:"\u5E38\u7528\u573A\u666F\uFF1A",paraId:23,tocIndex:6},{value:"document \u7684\u70B9\u51FB\u4E8B\u4EF6\uFF0C\u79FB\u9664\u4E8B\u4EF6\uFF0CaddEventListener\uFF0CremoveEventListener",paraId:24,tocIndex:6},{value:"\u5728\u5B8C\u6210\u4E00\u4E9B\u4E8B\u4EF6\uFF0C\u9700\u8981\u5E7F\u64AD\u591A\u4E2A\u6A21\u5757\u914D\u5408\u5B8C\u6210\u65F6\uFF0C\u5982\u767B\u5F55\u6210\u529F\u540E\uFF0C\u5404\u4E2A\u7EC4\u4EF6\u5237\u65B0\u72B6\u6001",paraId:24,tocIndex:6},{value:"Vue \u4E2D\uFF0C\u54CD\u5E94\u5F0F\u6570\u636E\u53D8\u66F4\u540E\uFF0C\u5BF9\u5E94\u7684\u54CD\u5E94\u5F0F\u53D8\u5316\u64CD\u4F5C",paraId:24,tocIndex:6},{value:"\u7EBF\u7A0B\u4E4B\u95F4\u7684\u4EA4\u4E92\uFF0C\u5982 js \u4E3B\u7EBF\u7A0B\u548C webworker \u7EBF\u7A0B\uFF0Celectron \u7684 main \u8FDB\u7A0B\u548C renderer \u8FDB\u7A0B",paraId:24,tocIndex:6},{value:"\u5B9E\u73B0\u8003\u8651\u7684\u70B9\uFF1A",paraId:25,tocIndex:6},{value:"\u7EF4\u62A4\u4E00\u4E2A\u8BA2\u9605\u8868\u6570\u636E",paraId:26,tocIndex:6},{value:"\u53D1\u5E03\u4E8B\u4EF6\u6D88\u606F\uFF0C\u8BA2\u9605\u8868\u904D\u5386\u6267\u884C\u8BA2\u9605\u7684\u51FD\u6570",paraId:26,tocIndex:6},{value:"\u652F\u6301\u4EC5\u8BA2\u9605\u4E00\u6B21\uFF0C\u8BA2\u9605\u6267\u884C\u5B8C\u540E\u81EA\u52A8\u53D6\u6D88",paraId:26,tocIndex:6},{value:"\u540C\u4E00\u4E2A\u56DE\u8C03\u65B9\u6CD5\uFF0C\u8FC7\u6EE4\u91CD\u590D\u8BA2\u9605",paraId:26,tocIndex:6},{value:"\u652F\u6301\u53D6\u6D88\u8BA2\u9605\u5355\u4E2A\uFF0C\u53D6\u6D88\u8BA2\u9605\u6240\u6709",paraId:26,tocIndex:6},{value:`const EventCenter = {
+  listeners: {},
+  on(eventName, callback) {
+    if (!this.listeners[eventName]) {
+      this.listeners[eventName] = [];
+    }
+    if (this.listeners[eventName].includes(callback)) return;
+    this.listeners[eventName].push(callback);
+  },
+  once(eventName, callback) {
+    const onceCallbackWrapper = (...args) => {
+      callback(...args);
+      this.off(eventName, onceCallbackWrapper);
+    };
+    this.on(eventName, onceCallbackWrapper);
+  },
+  emit(eventName, ...args) {
+    const eventCallbacks = this.listeners[eventName];
+    if (!Array.isArray(eventCallbacks)) return;
+    eventCallbacks.forEach((cb) => cb.apply(null, args));
+  },
+  off(eventName, callback) {
+    if (this.listeners[eventName]) {
+      this.listeners[eventName] = this.listeners[eventName].filter(
+        (cb) => cb !== callback,
+      );
+    }
+  },
+  clear() {
+    this.listeners = {};
+  },
+};
+
+EventCenter.on('sayHello', (userName) => {
+  console.log('hello', userName);
+});
+EventCenter.on('sayHello', (userName) => {
+  console.log('hi', userName);
+});
+const callback = () => {
+  console.log('good');
+};
+EventCenter.on('sayGood', callback);
+EventCenter.on('sayGood', callback);
+EventCenter.once('sayGood', () => {
+  console.log('once sayGood running');
+});
+
+EventCenter.emit('sayHello', 'jack');
+EventCenter.emit('sayGood', 'jack');
+
+EventCenter.off('sayGood', callback); // \u9000\u8BA2
+EventCenter.emit('sayGood', 'bob'); // \u6CA1\u6709\u6253\u5370good\uFF0C\u56E0\u4E3A\u4E0A\u4E00\u6B65\u5DF2\u9000\u8BA2
+
+EventCenter.clear();
+
+EventCenter.emit('sayHello', 'over');
+EventCenter.emit('sayGood', 'over');
+`,paraId:27,tocIndex:6},{value:"\u4EE5\u4E0A\uFF0C\u5B9E\u73B0 once \u4F7F\u7528\u5230\u4E86\u4E00\u4E2A\u51FD\u6570\u6765\u5305\u88C5\u539F\u672C\u7684\u51FD\u6570\uFF0C\u5728\u5305\u88C5\u5185\u90E8\u505A\u4E86\u6267\u884C\u540E\u7684\u7ACB\u5373\u53D6\u6D88\u8BA2\u9605\u64CD\u4F5C\u3002",paraId:28,tocIndex:6}]},17760:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(22314);const a=[{value:"\u8BBE\u8BA1\u6A21\u5F0F",paraId:0,tocIndex:0},{value:"javascript \u57FA\u7840",paraId:1,tocIndex:0}]},33545:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(52208);const a=[{value:"\u6709\u53C2\u6570\u65F6\u5B58\u50A8\u53C2\u6570\uFF0C\u65E0\u53C2\u6570\u65F6\u6267\u884C",paraId:0,tocIndex:1},{value:`function currying(fn) {
   // \u95ED\u5305\u6536\u96C6\u5B58\u50A8\u53C2\u6570\u53D8\u91CF
   var args = [];
 
