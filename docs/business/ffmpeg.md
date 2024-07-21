@@ -71,6 +71,12 @@ ffmpeg -i input.flv -c:v copy -c:a aac -strict experimental output.mp4
 - c:a aac -strict experimental：表示音频流使用 AAC 编码，并设置编码为实验性质，确保兼容性。
 - output.mp4：指定输出文件名为 output.mp4，这是转换后的 MP4 文件。
 
+mp4 转 flv
+
+```shell
+ffmpeg -i output_000.mp4 -c:v copy -c:a copy output.flv
+```
+
 4. 将文件转为 m3u8
 
 ```shell
