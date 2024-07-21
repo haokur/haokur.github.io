@@ -1,13 +1,13 @@
 # ffmpeg 的使用
 
-### 名词解释
+### 一、名词解释
 
 - HLS（HTTP Live Streaming），HTTP 实时流媒体，使用 .m3u8 索引文件和 .ts 文件（苹果公司）
 - RTMP（Real-Time Messaging Protocol）,实时流媒体传输协议（ Adobe Flash 中传输音频、视频和数据。它使用 TCP 进行传输，支持低延迟的实时流媒体传输）
 - RTSP（Real-Time Streaming Protocol），网络控制协议，用于控制多媒体服务器发送流媒体数据。它通常与 RTP（Real-Time Transport Protocol）结合使用，RTP 用于实际传输音频和视频数据
 - DASH（Dynamic Adaptive Streaming over HTTP），由 MPEG 开发的一种动态自适应流媒体传输协议，支持多种编解码器和容器格式，能够在不同的带宽和设备条件下动态调整视频质量
 
-### 下载使用
+### 二、下载使用
 
 - mac 下载 https://evermeet.cx/ffmpeg/ffmpeg-7.0.1.7z
 - 解压后，将 ffmpeg 可执行文件，复制到 /usr/local/ffmpeg 文件夹（没有这个文件夹则新建一个）下
@@ -17,7 +17,7 @@
 - 测试是否成功，在命令行输入 ffmpeg help
 - window,linux 同理，下载后配置环境变量
 
-### 一、常用 API 操作
+### 三、常用 API 操作
 
 1. 将视频按帧提取图片
 
@@ -156,7 +156,7 @@ ffmpeg -i input.mp4 -c:v copy -c:a copy -map 0 -f segment -segment_time 30 -rese
 mp4box -dash 10000 -frag 1000 -rap -segment-name segment_.m4s -out dash_output.mpd keiyomi.mp4
 ```
 
-### 链接
+### 四、扩展链接
 
 - [ffmpeg 官网下载](https://evermeet.cx/ffmpeg/)
 - [测试视频下载地址](https://download.blender.org/demo/movies/BBB/)
