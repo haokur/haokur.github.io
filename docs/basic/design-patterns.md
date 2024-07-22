@@ -228,3 +228,70 @@ EventCenter.emit('sayGood', 'over');
 以上，实现 once 使用到了一个函数来包装原本的函数，在包装内部做了执行后的立即取消订阅操作。
 
 ### 七、命令模式
+
+组成要素：
+
+- 命令接口
+- 具体命令
+- 接收者
+- 调用者
+
+比如人开灯，调用者是人，接收者是灯，具体承接命令的开关，开关只负责承接命令，对外提供开关的切换执行接口，实例来控制自己的行为
+
+```typescript
+// 灯
+class Light {
+  lightStatus: 'on' | 'off' = 'on';
+
+  toggle() {
+    this.lightStatus = this.lightStatus === 'on' ? 'off' : 'on';
+  }
+}
+
+// 通用开关-execute
+interface ICommand {
+  execute(): void;
+}
+// 灯的开关
+class lightCommand implements ICommand {
+  private light: Light;
+
+  constructor(light: Light) {
+    this.light = light;
+  }
+
+  execute(): void {
+    this.light.toggle();
+  }
+}
+
+// 人
+class User {
+  private command: ICommand | null = null;
+
+  setCommand(command: ICommand) {
+    this.command = command;
+  }
+
+  pressButton() {
+    if (this.command) {
+      this.command.execute();
+    } else {
+      throw '找不到command';
+    }
+  }
+}
+
+const user = new User();
+const light = new Light();
+user.setCommand(new lightCommand(light));
+user.pressButton();
+```
+
+以上，人不直接和 Light 关联，而是按开关的操作，人和 Light 就解耦了，人按开关可以是操作灯的切换，也可能是操作窗帘的开合等等。
+
+常用的场景还有：
+
+- 撤销功能
+- 队列请求
+- 日志记录
