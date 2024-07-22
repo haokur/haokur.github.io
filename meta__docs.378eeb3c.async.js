@@ -124,7 +124,54 @@ EventCenter.clear();
 
 EventCenter.emit('sayHello', 'over');
 EventCenter.emit('sayGood', 'over');
-`,paraId:27,tocIndex:6},{value:"\u4EE5\u4E0A\uFF0C\u5B9E\u73B0 once \u4F7F\u7528\u5230\u4E86\u4E00\u4E2A\u51FD\u6570\u6765\u5305\u88C5\u539F\u672C\u7684\u51FD\u6570\uFF0C\u5728\u5305\u88C5\u5185\u90E8\u505A\u4E86\u6267\u884C\u540E\u7684\u7ACB\u5373\u53D6\u6D88\u8BA2\u9605\u64CD\u4F5C\u3002",paraId:28,tocIndex:6}]},17760:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(22314);const a=[{value:"\u8BBE\u8BA1\u6A21\u5F0F",paraId:0,tocIndex:0},{value:"javascript \u57FA\u7840",paraId:1,tocIndex:0}]},33545:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(52208);const a=[{value:"\u6709\u53C2\u6570\u65F6\u5B58\u50A8\u53C2\u6570\uFF0C\u65E0\u53C2\u6570\u65F6\u6267\u884C",paraId:0,tocIndex:1},{value:`function currying(fn) {
+`,paraId:27,tocIndex:6},{value:"\u4EE5\u4E0A\uFF0C\u5B9E\u73B0 once \u4F7F\u7528\u5230\u4E86\u4E00\u4E2A\u51FD\u6570\u6765\u5305\u88C5\u539F\u672C\u7684\u51FD\u6570\uFF0C\u5728\u5305\u88C5\u5185\u90E8\u505A\u4E86\u6267\u884C\u540E\u7684\u7ACB\u5373\u53D6\u6D88\u8BA2\u9605\u64CD\u4F5C\u3002",paraId:28,tocIndex:6},{value:"\u7EC4\u6210\u8981\u7D20\uFF1A",paraId:29,tocIndex:7},{value:"\u547D\u4EE4\u63A5\u53E3",paraId:30,tocIndex:7},{value:"\u5177\u4F53\u547D\u4EE4",paraId:30,tocIndex:7},{value:"\u63A5\u6536\u8005",paraId:30,tocIndex:7},{value:"\u8C03\u7528\u8005",paraId:30,tocIndex:7},{value:"\u6BD4\u5982\u4EBA\u5F00\u706F\uFF0C\u8C03\u7528\u8005\u662F\u4EBA\uFF0C\u63A5\u6536\u8005\u662F\u706F\uFF0C\u5177\u4F53\u627F\u63A5\u547D\u4EE4\u7684\u5F00\u5173\uFF0C\u5F00\u5173\u53EA\u8D1F\u8D23\u627F\u63A5\u547D\u4EE4\uFF0C\u5BF9\u5916\u63D0\u4F9B\u5F00\u5173\u7684\u5207\u6362\u6267\u884C\u63A5\u53E3\uFF0C\u5B9E\u4F8B\u6765\u63A7\u5236\u81EA\u5DF1\u7684\u884C\u4E3A",paraId:31,tocIndex:7},{value:`// \u706F
+class Light {
+  lightStatus: 'on' | 'off' = 'on';
+
+  toggle() {
+    this.lightStatus = this.lightStatus === 'on' ? 'off' : 'on';
+  }
+}
+
+// \u901A\u7528\u5F00\u5173-execute
+interface ICommand {
+  execute(): void;
+}
+// \u706F\u7684\u5F00\u5173
+class lightCommand implements ICommand {
+  private light: Light;
+
+  constructor(light: Light) {
+    this.light = light;
+  }
+
+  execute(): void {
+    this.light.toggle();
+  }
+}
+
+// \u4EBA
+class User {
+  private command: ICommand | null = null;
+
+  setCommand(command: ICommand) {
+    this.command = command;
+  }
+
+  pressButton() {
+    if (this.command) {
+      this.command.execute();
+    } else {
+      throw '\u627E\u4E0D\u5230command';
+    }
+  }
+}
+
+const user = new User();
+const light = new Light();
+user.setCommand(new lightCommand(light));
+user.pressButton();
+`,paraId:32,tocIndex:7},{value:"\u4EE5\u4E0A\uFF0C\u4EBA\u4E0D\u76F4\u63A5\u548C Light \u5173\u8054\uFF0C\u800C\u662F\u6309\u5F00\u5173\u7684\u64CD\u4F5C\uFF0C\u4EBA\u548C Light \u5C31\u89E3\u8026\u4E86\uFF0C\u4EBA\u6309\u5F00\u5173\u53EF\u4EE5\u662F\u64CD\u4F5C\u706F\u7684\u5207\u6362\uFF0C\u4E5F\u53EF\u80FD\u662F\u64CD\u4F5C\u7A97\u5E18\u7684\u5F00\u5408\u7B49\u7B49\u3002",paraId:33,tocIndex:7},{value:"\u5E38\u7528\u7684\u573A\u666F\u8FD8\u6709\uFF1A",paraId:34,tocIndex:7},{value:"\u64A4\u9500\u529F\u80FD",paraId:35,tocIndex:7},{value:"\u961F\u5217\u8BF7\u6C42",paraId:35,tocIndex:7},{value:"\u65E5\u5FD7\u8BB0\u5F55",paraId:35,tocIndex:7}]},17760:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(22314);const a=[{value:"\u8BBE\u8BA1\u6A21\u5F0F",paraId:0,tocIndex:0},{value:"javascript \u57FA\u7840",paraId:1,tocIndex:0}]},33545:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(52208);const a=[{value:"\u6709\u53C2\u6570\u65F6\u5B58\u50A8\u53C2\u6570\uFF0C\u65E0\u53C2\u6570\u65F6\u6267\u884C",paraId:0,tocIndex:1},{value:`function currying(fn) {
   // \u95ED\u5305\u6536\u96C6\u5B58\u50A8\u53C2\u6570\u53D8\u91CF
   var args = [];
 
