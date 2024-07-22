@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>最长递增子序列</title>
+</head>
+
+<body>
+    <script>
+        function getLis(arr) {
+            if (!arr || !arr.length) return []
+            const result = [[arr[0]]]
+
+            let str = ''
+            for (var i = 1; i < arr.length; i++) {
+                _update(arr[i])
+                str += `${arr[i]}=> `+JSON.stringify(result) + '\n'
+                console.log(str, "lis.html::18行");
+            }
+
+            function _update(current) {
+                for (var j = result.length - 1; j > -1; j--) {
+                    let _arr = result[j]
+                    if (current > _arr[_arr.length - 1]) {
+                        // result.push([..._arr, current])
+                        result[j + 1] = [..._arr, current]
+                        return;
+                    }
+                }
+                result[0] = [current]
+            }
+            console.log(result);
+            return result[result.length - 1]
+        }
+
+        var arr = [4, 5, 1, 2, 7, 3, 6, 9]
+        console.log(getLis(arr), "lis.html::17行");
+        // console.log(getLis(),"lis.html::37行");
+    </script>
+</body>
+
+</html>

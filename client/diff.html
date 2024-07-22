@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>双端比较</title>
+</head>
+
+<body>
+    <script>
+        // 旧的虚拟DOM树
+        const oldVNode = {
+            tag: 'div',
+            children: [
+                { tag: 'p', key: 'a', text: 'A' },
+                { tag: 'p', key: 'b', text: 'B' },
+                { tag: 'p', key: 'c', text: 'C' },
+                { tag: 'p', key: 'd', text: 'D' }
+            ]
+        };
+
+        // 新的虚拟DOM树
+        const newVNode = {
+            tag: 'div',
+            children: [
+                { tag: 'p', key: 'd', text: 'D' },
+                { tag: 'p', key: 'b', text: 'B' },
+                { tag: 'p', key: 'a', text: 'A' },
+                { tag: 'p', key: 'e', text: 'E' }
+            ]
+        };
+
+        // 简化的双端比较
+        function diff(oldVNode, newVNode) {
+            let oldStartIdx = 0;
+            let oldEndIdx = oldVNode.children.length - 1;
+            let newStartIdx = 0;
+            let newEndIdx = newVNode.children.length - 1;
+
+            while (oldStartIdx <= oldEndIdx && newStartIdx <= newEndIdx) {
+                if (oldVNode.children[oldStartIdx].key === newVNode.children[newStartIdx].key) {
+                    // 头部比较
+                    oldStartIdx++;
+                    newStartIdx++;
+                } else if (oldVNode.children[oldEndIdx].key === newVNode.children[newEndIdx].key) {
+                    // 尾部比较
+                    oldEndIdx--;
+                    newEndIdx--;
+                } else if (oldVNode.children[oldStartIdx].key === newVNode.children[newEndIdx].key) {
+                    // 头尾交叉比较
+                    oldStartIdx++;
+                    newEndIdx--;
+                } else if (oldVNode.children[oldEndIdx].key === newVNode.children[newStartIdx].key) {
+                    // 尾头交叉比较
+                    oldEndIdx--;
+                    newStartIdx++;
+                } else {
+                    // 处理中间节点
+                    // ...省略具体实现
+                    break;
+                }
+            }
+        }
+
+        diff(oldVNode, newVNode);
+
+    </script>
+</body>
+
+</html>
