@@ -352,3 +352,13 @@ npm logout --registry https://npm.hoakur.com
 ```
 
 - .npmrc 配置的 token 的权重是要大于 npm login 登录的用户的
+- 如果 https 提示 `ERR_SSL_VERSION_OR_CIPHER_MISMATCH`，则排查顺序可为：
+  - verdaccio 是否成功启动
+  - https 证书是否过期
+  - 重新启动 verdaccio
+  - 重新启动 nginx
+  - 重新下载 https 证书
+  - 换一个新的 https 证书，重启 nginx 和 verdaccio
+  - 检验 nginx 和 verdaccio 中配置的证书是否一致
+  - 注释自定义 plugin 和 middleware，重启 verdaccio
+  - 是否 middleware 未本地安装，使用 npm link . 一下
