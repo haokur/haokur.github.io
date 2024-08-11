@@ -1,4 +1,4 @@
-"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[904],{23522:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(86549),r={}},65575:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(22314),r={}},2932:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(52208),r={}},53017:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(16878),r={}},13591:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(49845),r={}},70532:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(64083),r={}},829:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(74573),r={}},95523:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(37132),r={}},96624:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(81005),r={}},74867:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(92688),r={}},55743:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(32897),r={}},11171:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(68537),r={}},67715:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(43648),r={}},29874:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(73550),r={}},46926:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(4299),r={}},90702:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(94807),r={}},46983:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(22695),r={}},57828:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(37535),r={}},47537:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(99920),r={}},48516:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(79825),r={}},11414:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(72830),r={}},81206:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(61831),r={}},85229:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(86549);const a=[{value:"\u5C01\u88C5\uFF1A\u5C01\u88C5\u53D8\u5316",paraId:0,tocIndex:1},{value:"\u7EE7\u627F\uFF1A\u7EE7\u627F\u901A\u7528\u5C5E\u6027\u548C\u65B9\u6CD5",paraId:0,tocIndex:1},{value:"\u591A\u6001\uFF1A\u540C\u4E00\u4E2A\u63A5\u53E3\u65B9\u6CD5\uFF0C\u4E0D\u540C\u7684\u5B9E\u73B0\uFF0C\u9ED1\u732B\u767D\u732B\uFF0C\u80FD\u6293\u8001\u9F20\u7684\u5C31\u662F\u732B",paraId:0,tocIndex:1},{value:"\u95ED\u5305\uFF1A\u51FD\u6570\u6267\u884C\u5B8C\u5176\u76F8\u5E94\u7684\u6267\u884C\u73AF\u5883\u9700\u8981\u88AB\u91CA\u653E\uFF0C\u800C\u8FD4\u56DE\u4E86\u8BE5\u51FD\u6570\uFF0C\u51FD\u6570\u5E76\u672A\u6D88\u4EA1\uFF0C\u5176\u6267\u884C\u73AF\u5883\u4E5F\u88AB\u4E00\u8D77\u7559\u5B58\u4E86\u4E0B\u6765\uFF0C\u4E0D\u4F1A\u88AB\u5783\u573E\u56DE\u6536\u91CA\u653E",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\uFF1A\u53D8\u91CF\u67E5\u627E\u8303\u56F4\u89C4\u5219\uFF0C\u6709\u5168\u5C40\u4F5C\u7528\u57DF\uFF0C\u51FD\u6570\u4F5C\u7528\u57DF\uFF0Clet\uFF0Cconst \u5757\u7EA7\u4F5C\u7528\u57DF",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\u94FE\uFF1A\u53D8\u91CF\u7684\u7531\u6700\u8FD1\u4F5C\u7528\u57DF\u5230\u6700\u8FDC\u4F5C\u7528\u57DF\uFF08\u5168\u5C40\u4F5C\u7528\u57DF\uFF09\u7684\u53D8\u91CF\u67E5\u627E\u89C4\u5219",paraId:0,tocIndex:1},{value:"\u539F\u578B\uFF1A\u5BF9\u8C61\u4E0A\u7684 prototype \u5C5E\u6027\u5BF9\u8C61\uFF0C\u5176 constructor \u7684\u503C\u5BF9\u5E94\u4E3A\u5BF9\u8C61\u672C\u8EAB",paraId:0,tocIndex:1},{value:"\u539F\u578B\u94FE\uFF1A\u5BF9\u8C61\u5728\u67E5\u627E\u53D8\u91CF\u548C\u65B9\u6CD5\u65F6\uFF0C\u5F53\u524D\u5BF9\u8C61\u4E0A\u6CA1\u6709\uFF0C\u5219\u901A\u8FC7 __proto** \u67E5\u627E\u5230\u4E0A\u4E00\u5C42\u7684 prototype \u4E0A\uFF0C\u6CA1\u67E5\u5230\u5C31\u518D\u62FC\u4E00\u5C42 __proto** \u76F4\u5230\u67E5\u627E null \u505C\u6B62\uFF0C\u6700\u7EC8\u672A\u627E\u5230\uFF0C\u8FD4\u56DE undefined",paraId:0,tocIndex:1},{value:"\u8BBE\u8BA1\u6A21\u5F0F\u6838\u5FC3\uFF1A\u5C06\u53D8\u7684\u548C\u4E0D\u53D8\u7684\u62C6\u79BB\u5F00",paraId:0,tocIndex:1},{value:"\u5E38\u7528\u573A\u666F\uFF1A",paraId:1,tocIndex:2},{value:"\u6570\u636E\u5E93\uFF0Credis \u8FDE\u63A5\uFF0C\u521B\u5EFA\u6839\u5143\u7D20",paraId:2,tocIndex:2},{value:"\u5B9E\u73B0\uFF1A",paraId:3,tocIndex:2},{value:"\u82E5\u6CA1\u6267\u884C\u8FC7\uFF0C\u5219\u6267\u884C\u4E14\u4FDD\u5B58\u7ED3\u679C",paraId:4,tocIndex:2},{value:"\u82E5\u6267\u884C\u8FC7\uFF08\u7ED3\u679C\u7F13\u5B58\u6709\u503C\uFF09\uFF0C\u8C03\u7528\u65F6\uFF0C\u76F4\u63A5\u8FD4\u56DE\u4E0A\u6B21\u7F13\u5B58\u7684\u7ED3\u679C",paraId:4,tocIndex:2},{value:`// \u901A\u7528\u83B7\u53D6\u5355\u4F8B\uFF0C\u9AD8\u9636\u51FD\u6570+\u95ED\u5305
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[904],{23522:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(86549),r={}},65575:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(22314),r={}},2932:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(52208),r={}},53017:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(16878),r={}},13591:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(49845),r={}},70532:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(64083),r={}},829:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(74573),r={}},95523:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(37132),r={}},5835:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(55152),r={}},96624:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(81005),r={}},74867:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(92688),r={}},55743:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(32897),r={}},11171:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(68537),r={}},67715:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(43648),r={}},29874:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(73550),r={}},46926:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(4299),r={}},90702:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(94807),r={}},46983:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(22695),r={}},57828:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(37535),r={}},47537:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(99920),r={}},48516:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(79825),r={}},11414:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(72830),r={}},81206:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(61831),r={}},85229:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(86549);const a=[{value:"\u5C01\u88C5\uFF1A\u5C01\u88C5\u53D8\u5316",paraId:0,tocIndex:1},{value:"\u7EE7\u627F\uFF1A\u7EE7\u627F\u901A\u7528\u5C5E\u6027\u548C\u65B9\u6CD5",paraId:0,tocIndex:1},{value:"\u591A\u6001\uFF1A\u540C\u4E00\u4E2A\u63A5\u53E3\u65B9\u6CD5\uFF0C\u4E0D\u540C\u7684\u5B9E\u73B0\uFF0C\u9ED1\u732B\u767D\u732B\uFF0C\u80FD\u6293\u8001\u9F20\u7684\u5C31\u662F\u732B",paraId:0,tocIndex:1},{value:"\u95ED\u5305\uFF1A\u51FD\u6570\u6267\u884C\u5B8C\u5176\u76F8\u5E94\u7684\u6267\u884C\u73AF\u5883\u9700\u8981\u88AB\u91CA\u653E\uFF0C\u800C\u8FD4\u56DE\u4E86\u8BE5\u51FD\u6570\uFF0C\u51FD\u6570\u5E76\u672A\u6D88\u4EA1\uFF0C\u5176\u6267\u884C\u73AF\u5883\u4E5F\u88AB\u4E00\u8D77\u7559\u5B58\u4E86\u4E0B\u6765\uFF0C\u4E0D\u4F1A\u88AB\u5783\u573E\u56DE\u6536\u91CA\u653E",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\uFF1A\u53D8\u91CF\u67E5\u627E\u8303\u56F4\u89C4\u5219\uFF0C\u6709\u5168\u5C40\u4F5C\u7528\u57DF\uFF0C\u51FD\u6570\u4F5C\u7528\u57DF\uFF0Clet\uFF0Cconst \u5757\u7EA7\u4F5C\u7528\u57DF",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\u94FE\uFF1A\u53D8\u91CF\u7684\u7531\u6700\u8FD1\u4F5C\u7528\u57DF\u5230\u6700\u8FDC\u4F5C\u7528\u57DF\uFF08\u5168\u5C40\u4F5C\u7528\u57DF\uFF09\u7684\u53D8\u91CF\u67E5\u627E\u89C4\u5219",paraId:0,tocIndex:1},{value:"\u539F\u578B\uFF1A\u5BF9\u8C61\u4E0A\u7684 prototype \u5C5E\u6027\u5BF9\u8C61\uFF0C\u5176 constructor \u7684\u503C\u5BF9\u5E94\u4E3A\u5BF9\u8C61\u672C\u8EAB",paraId:0,tocIndex:1},{value:"\u539F\u578B\u94FE\uFF1A\u5BF9\u8C61\u5728\u67E5\u627E\u53D8\u91CF\u548C\u65B9\u6CD5\u65F6\uFF0C\u5F53\u524D\u5BF9\u8C61\u4E0A\u6CA1\u6709\uFF0C\u5219\u901A\u8FC7 __proto** \u67E5\u627E\u5230\u4E0A\u4E00\u5C42\u7684 prototype \u4E0A\uFF0C\u6CA1\u67E5\u5230\u5C31\u518D\u62FC\u4E00\u5C42 __proto** \u76F4\u5230\u67E5\u627E null \u505C\u6B62\uFF0C\u6700\u7EC8\u672A\u627E\u5230\uFF0C\u8FD4\u56DE undefined",paraId:0,tocIndex:1},{value:"\u8BBE\u8BA1\u6A21\u5F0F\u6838\u5FC3\uFF1A\u5C06\u53D8\u7684\u548C\u4E0D\u53D8\u7684\u62C6\u79BB\u5F00",paraId:0,tocIndex:1},{value:"\u5E38\u7528\u573A\u666F\uFF1A",paraId:1,tocIndex:2},{value:"\u6570\u636E\u5E93\uFF0Credis \u8FDE\u63A5\uFF0C\u521B\u5EFA\u6839\u5143\u7D20",paraId:2,tocIndex:2},{value:"\u5B9E\u73B0\uFF1A",paraId:3,tocIndex:2},{value:"\u82E5\u6CA1\u6267\u884C\u8FC7\uFF0C\u5219\u6267\u884C\u4E14\u4FDD\u5B58\u7ED3\u679C",paraId:4,tocIndex:2},{value:"\u82E5\u6267\u884C\u8FC7\uFF08\u7ED3\u679C\u7F13\u5B58\u6709\u503C\uFF09\uFF0C\u8C03\u7528\u65F6\uFF0C\u76F4\u63A5\u8FD4\u56DE\u4E0A\u6B21\u7F13\u5B58\u7684\u7ED3\u679C",paraId:4,tocIndex:2},{value:`// \u901A\u7528\u83B7\u53D6\u5355\u4F8B\uFF0C\u9AD8\u9636\u51FD\u6570+\u95ED\u5305
 function getSingle(callback) {
   let singleInstance;
 
@@ -492,7 +492,7 @@ queue
     chunkDataArr.push(result);
   })
   .run();
-`,paraId:24,tocIndex:3}]},26338:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(64083);const a=[{value:"\u6E90\u7801\u5B9E\u73B0\uFF1A",paraId:0,tocIndex:0},{value:"https://github.com/haokur/test",paraId:0,tocIndex:0},{value:`# \u751F\u6210 CA \u79C1\u94A5,\u56DE\u8F66\u540E\uFF0C\u8F93\u5165\u5BC6\u7801\u548C\u786E\u8BA4\u5BC6\u7801,\u4F8B\u5982123456 =\u300Bca.key
+`,paraId:24,tocIndex:3}]},26338:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(64083);const a=[{value:"\u6E90\u7801\u5B9E\u73B0\uFF08koa\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"haokur/test",paraId:0,tocIndex:1},{value:`# \u751F\u6210 CA \u79C1\u94A5,\u56DE\u8F66\u540E\uFF0C\u8F93\u5165\u5BC6\u7801\u548C\u786E\u8BA4\u5BC6\u7801,\u4F8B\u5982123456 =\u300Bca.key
 openssl genpkey -algorithm RSA -out ca.key -aes256
 
 # \u751F\u6210 CA \u8BC1\u4E66\uFF0C\u8F93\u5165\u4E0A\u4E00\u6B65\u7684\u5BC6\u7801\uFF0C\u8F93\u5165\u5BF9\u5E94\u63D0\u95EE\u7684\u4FE1\u606F => ca.crt
@@ -506,7 +506,7 @@ Organization Name (eg, company) []:haokur
 Organizational Unit Name (eg, section) []:haokur unit
 Common Name (eg, fully qualified host name) []:127.0.0.1
 Email Address []:haokur@qq.com
-`,paraId:1,tocIndex:1},{value:"\u65B0\u5EFA server.conf \u5199\u5165\u4EE5\u4E0B\u5185\u5BB9",paraId:2,tocIndex:2},{value:`[req]
+`,paraId:1,tocIndex:2},{value:"\u65B0\u5EFA server.conf \u5199\u5165\u4EE5\u4E0B\u5185\u5BB9",paraId:2,tocIndex:3},{value:`[req]
 distinguished_name = req_distinguished_name
 req_extensions = req_ext
 prompt = no
@@ -524,28 +524,28 @@ subjectAltName = @alt_names
 
 [alt_names]
 DNS.1 = localhost
-`,paraId:3,tocIndex:2},{value:"\u751F\u6210 server.key",paraId:4,tocIndex:2},{value:`openssl genpkey -algorithm RSA -out server.key
-`,paraId:5,tocIndex:2},{value:"\u4F7F\u7528 server.key \u6765\u751F\u6210 server.csr",paraId:6,tocIndex:2},{value:`openssl req -new -key server.key -out server.csr -config server.cnf
-`,paraId:7,tocIndex:2},{value:"\u4F7F\u7528\uFF0Cca.key \u548C server.csr \u751F\u6210 server.crt",paraId:8,tocIndex:2},{value:`openssl x509 -req -in server.csr -CA ca.crt -CAkey ca.key -CAcreateserial -out server.crt -days 500 -sha256 -extfile server.cnf -extensions req_ext
-`,paraId:9,tocIndex:2},{value:"\u9700\u8981\u8F93\u5165\u5BC6\u7801\uFF0C\u5199\u5165\u7B2C\u4E00\u6B65 CA \u7684\u5BC6\u94A5\uFF0C\u5373\u4F8B\u5982\uFF1A123456",paraId:10,tocIndex:2},{value:"\u751F\u6210 client.key",paraId:11,tocIndex:3},{value:`openssl genpkey -algorithm RSA -out client.key
-`,paraId:12,tocIndex:3},{value:"\u751F\u6210\u8BC1\u4E66\u7B7E\u540D\u8BF7\u6C42 client.csr\uFF0C\u8F93\u5165\u5BF9\u5E94\u63D0\u95EE\u7684\u4FE1\u606F => client.csr",paraId:13,tocIndex:3},{value:`openssl req -new -key client.key -out client.csr
-`,paraId:14,tocIndex:3},{value:"\u533A\u522B\u4E8E\u524D\u9762\u51E0\u4E2A\uFF0C\u8FD9\u91CC\u7684\u95EE\u9898\u4F1A\u591A\u4E00\u9879\uFF1AA challenge password\uFF0C\u586B\u5165\u5BC6\u7801\u5373\u53EF\uFF0C\u5982 1234567",paraId:15,tocIndex:3},{value:"\u4F7F\u7528 CA \u7B7E\u540D\u5BA2\u6237\u7AEF\u8BC1\u4E66\uFF0C\u9700\u8981\u586B\u5165 CA \u7684\u5BC6\u94A5\uFF0C\u5982 123456",paraId:16,tocIndex:3},{value:`openssl x509 -req -in client.csr -CA ca.crt -CAkey ca.key -CAcreateserial -out client.crt -days 365 -sha256
-`,paraId:17,tocIndex:3},{value:"\u4EE5\u4E0A\uFF0CCA\uFF0C\u5BA2\u6237\u7AEF\uFF0C\u670D\u52A1\u7AEF\u7684\u5BC6\u94A5\u548C\u8BC1\u4E66\u90FD\u751F\u6210\u5B8C\u6BD5\u3002",paraId:18,tocIndex:3},{value:"\u8FD0\u884C\u547D\u4EE4",paraId:19,tocIndex:4},{value:`# \u670D\u52A1\u7AEF
+`,paraId:3,tocIndex:3},{value:"\u751F\u6210 server.key",paraId:4,tocIndex:3},{value:`openssl genpkey -algorithm RSA -out server.key
+`,paraId:5,tocIndex:3},{value:"\u4F7F\u7528 server.key \u6765\u751F\u6210 server.csr",paraId:6,tocIndex:3},{value:`openssl req -new -key server.key -out server.csr -config server.cnf
+`,paraId:7,tocIndex:3},{value:"\u4F7F\u7528\uFF0Cca.key \u548C server.csr \u751F\u6210 server.crt",paraId:8,tocIndex:3},{value:`openssl x509 -req -in server.csr -CA ca.crt -CAkey ca.key -CAcreateserial -out server.crt -days 500 -sha256 -extfile server.cnf -extensions req_ext
+`,paraId:9,tocIndex:3},{value:"\u9700\u8981\u8F93\u5165\u5BC6\u7801\uFF0C\u5199\u5165\u7B2C\u4E00\u6B65 CA \u7684\u5BC6\u94A5\uFF0C\u5373\u4F8B\u5982\uFF1A123456",paraId:10,tocIndex:3},{value:"\u751F\u6210 client.key",paraId:11,tocIndex:4},{value:`openssl genpkey -algorithm RSA -out client.key
+`,paraId:12,tocIndex:4},{value:"\u751F\u6210\u8BC1\u4E66\u7B7E\u540D\u8BF7\u6C42 client.csr\uFF0C\u8F93\u5165\u5BF9\u5E94\u63D0\u95EE\u7684\u4FE1\u606F => client.csr",paraId:13,tocIndex:4},{value:`openssl req -new -key client.key -out client.csr
+`,paraId:14,tocIndex:4},{value:"\u533A\u522B\u4E8E\u524D\u9762\u51E0\u4E2A\uFF0C\u8FD9\u91CC\u7684\u95EE\u9898\u4F1A\u591A\u4E00\u9879\uFF1AA challenge password\uFF0C\u586B\u5165\u5BC6\u7801\u5373\u53EF\uFF0C\u5982 1234567",paraId:15,tocIndex:4},{value:"\u4F7F\u7528 CA \u7B7E\u540D\u5BA2\u6237\u7AEF\u8BC1\u4E66\uFF0C\u9700\u8981\u586B\u5165 CA \u7684\u5BC6\u94A5\uFF0C\u5982 123456",paraId:16,tocIndex:4},{value:`openssl x509 -req -in client.csr -CA ca.crt -CAkey ca.key -CAcreateserial -out client.crt -days 365 -sha256
+`,paraId:17,tocIndex:4},{value:"\u4EE5\u4E0A\uFF0CCA\uFF0C\u5BA2\u6237\u7AEF\uFF0C\u670D\u52A1\u7AEF\u7684\u5BC6\u94A5\u548C\u8BC1\u4E66\u90FD\u751F\u6210\u5B8C\u6BD5\u3002",paraId:18,tocIndex:4},{value:"\u8FD0\u884C\u547D\u4EE4",paraId:19,tocIndex:5},{value:`# \u670D\u52A1\u7AEF
 go run server/server.go
 
 # \u5BA2\u6237\u7AEF\uFF0C\u53D1\u8D77\u8BF7\u6C42
 go run client/client.go
-`,paraId:20,tocIndex:4},{value:"\u4EC5\u4F7F\u7528 CA \u6216 CA \u4E0E client \u540C\u65F6\u4F7F\u7528",paraId:21,tocIndex:4},{value:"server.go",paraId:22,tocIndex:4},{value:`cfg := &tls.Config{
+`,paraId:20,tocIndex:5},{value:"\u4EC5\u4F7F\u7528 CA \u6216 CA \u4E0E client \u540C\u65F6\u4F7F\u7528",paraId:21,tocIndex:5},{value:"server.go",paraId:22,tocIndex:5},{value:`cfg := &tls.Config{
     MinVersion: tls.VersionTLS13,
     ClientAuth: tls.RequireAndVerifyClientCert, // \u4EC5\u6821\u9A8Cca\u65F6\uFF0C\u6CE8\u91CA\u8FD9\u884C
     ClientCAs:  caCertPool,
 }
-`,paraId:23,tocIndex:4},{value:"client.go",paraId:24,tocIndex:4},{value:`tlsConfig := &tls.Config{
+`,paraId:23,tocIndex:5},{value:"client.go",paraId:24,tocIndex:5},{value:`tlsConfig := &tls.Config{
     RootCAs:      caCertPool,
     Certificates: []tls.Certificate{clientCert}, // \u4EC5\u4F20\u9012CA\u65F6\uFF0C\u6CE8\u91CA\u8FD9\u884C
     MinVersion:   tls.VersionTLS13,
 }
-`,paraId:25,tocIndex:4},{value:"electron \u4E2D\u4F7F\u7528",paraId:26,tocIndex:4},{value:`import https from 'https';
+`,paraId:25,tocIndex:5},{value:"electron \u4E2D\u4F7F\u7528",paraId:26,tocIndex:5},{value:`import https from 'https';
 import fs from 'fs';
 import path from 'path';
 import axios from 'axios';
@@ -568,10 +568,10 @@ const agent = new https.Agent({
 const response = await axios.get(url, { httpsAgent: agent });
 console.log(response);
 console.log(response.data);
-`,paraId:27,tocIndex:4},{value:"renderer \u91CC\u76F4\u63A5\u6DFB\u52A0 video \u6807\u7B7E\uFF0C\u670D\u52A1\u7AEF\u4F7F\u7528 range \u7684\u65B9\u5F0F 206 \u54CD\u5E94\u8FD4\u56DE\uFF0C\u89C6\u9891\u80FD\u591F\u8FB9\u4E0B\u8FB9\u64AD\uFF0C\u5FEB\u8FDB\u540E\u9000\u64AD\u653E",paraId:28,tocIndex:5},{value:"renderer \u91CC\u914D\u7F6E\u8BF7\u6C42\u5730\u5740\uFF0C\u8BF7\u6C42\u4E0D\u80FD\u53D1\u9001\u8BC1\u4E66\u76F8\u5173\u4FE1\u606F\uFF0C\u53EF\u4EE5\u5C06\u8BC1\u4E66\u4FE1\u606F\u8F6C\u4E3A\u5B57\u7B26\u4E32\u53D1\u9001\u518D\u53BB\u6821\u9A8C\uFF0C\u6709\u70B9\u9E21\u808B",paraId:28,tocIndex:5},{value:"\u53EA\u6709 main \u8FDB\u7A0B\u91CC\u4F7F\u7528 axios \u53D1\u9001\u8BC1\u4E66\u76F8\u5173\u4FE1\u606F\uFF0Cmain \u8FDB\u7A0B\u53EF\u4EE5\u4F7F\u7528\u8BC1\u4E66\u7684\u65B9\u5F0F\u6765\u8BF7\u6C42\u89C6\u9891\u6D41\uFF0C\u4F46\u662F\u8981\u7ED9 renderer \u8FDB\u7A0B\u64AD\u653E\uFF0C\u9700\u8981\u5148\u5206\u7247\u4FDD\u5B58\uFF0C\u518D renderer \u8BF7\u6C42\u4E3B\u8FDB\u7A0B\uFF0C\u4E3B\u8FDB\u7A0B\u518D\u8FD4\u56DE\u5206\u7247\u4FE1\u606F\uFF0C\u6709\u70B9\u7ED5\uFF0C\u8FC7\u7A0B\u591A\u4E00\u5C42\u4E5F\u5C31\u591A\u4E00\u5C42\u6D88\u8017\u548C\u590D\u6742\u5EA6\uFF0C\u5BB9\u6613\u51FA bug",paraId:28,tocIndex:5},{value:"\u6298\u4E2D\u5904\u7406\u65B9\u6848\u4E00\uFF0C\u5168\u5C40\u7684\u5148\u975E\u5BF9\u79F0\u5B9E\u73B0 AES \u7684 key \u7684\u4EA4\u6362\uFF0C\u540E\u7EED\u8BF7\u6C42\u5168\u4F7F\u7528\u5BF9\u79F0 AES \u52A0\u5BC6\uFF0C\u7C7B\u4F3C\u6D4F\u89C8\u5668 https \u6D41\u7A0B\uFF0C\u5728\u89C6\u9891\u8BF7\u6C42\u65F6\uFF0C\u4E5F\u4E00\u5E76\u63D0\u4EA4 AES \u52A0\u5BC6\u7684\u7528\u6237\u9A8C\u8BC1\u4FE1\u606F",paraId:28,tocIndex:5},{value:"\u6298\u4E2D\u5904\u7406\u65B9\u6848\u4E8C\uFF0C\u5728\u8BF7\u6C42\u89C6\u9891\u5730\u5740\u65F6\uFF0C\u5148\u4F7F\u7528 https \u4EA4\u6362\u83B7\u53D6\u4E34\u65F6\u7684\u89C6\u9891\u64AD\u653E\u5730\u5740\uFF0C\u7136\u540E\u518D\u4F7F\u7528\u4E34\u65F6\u89C6\u9891\u5730\u5740\u64AD\u653E",paraId:28,tocIndex:5},{value:"\u52A0\u56FA\u65B9\u6848\uFF1A\u6BCF\u6B21\u8BF7\u6C42\u6DFB\u52A0\u8BF7\u6C42\u9012\u589E\u7D22\u5F15\uFF0C\u6BCF\u4E2A\u8BF7\u6C42\u6709\u4E2A\u552F\u4E00\u7684 id\uFF0C\u4E00\u4E2A sign \u53EA\u80FD\u4F7F\u7528\u4E00\u6B21\uFF0C\u8BF7\u6C42\u65F6\u95F4\u6233 5 \u79D2\u5916\u5931\u6548",paraId:28,tocIndex:5},{value:`go run mock-https/main.go
+`,paraId:27,tocIndex:5},{value:"renderer \u91CC\u76F4\u63A5\u6DFB\u52A0 video \u6807\u7B7E\uFF0C\u670D\u52A1\u7AEF\u4F7F\u7528 range \u7684\u65B9\u5F0F 206 \u54CD\u5E94\u8FD4\u56DE\uFF0C\u89C6\u9891\u80FD\u591F\u8FB9\u4E0B\u8FB9\u64AD\uFF0C\u5FEB\u8FDB\u540E\u9000\u64AD\u653E",paraId:28,tocIndex:6},{value:"renderer \u91CC\u914D\u7F6E\u8BF7\u6C42\u5730\u5740\uFF0C\u8BF7\u6C42\u4E0D\u80FD\u53D1\u9001\u8BC1\u4E66\u76F8\u5173\u4FE1\u606F\uFF0C\u53EF\u4EE5\u5C06\u8BC1\u4E66\u4FE1\u606F\u8F6C\u4E3A\u5B57\u7B26\u4E32\u53D1\u9001\u518D\u53BB\u6821\u9A8C\uFF0C\u6709\u70B9\u9E21\u808B",paraId:28,tocIndex:6},{value:"\u53EA\u6709 main \u8FDB\u7A0B\u91CC\u4F7F\u7528 axios \u53D1\u9001\u8BC1\u4E66\u76F8\u5173\u4FE1\u606F\uFF0Cmain \u8FDB\u7A0B\u53EF\u4EE5\u4F7F\u7528\u8BC1\u4E66\u7684\u65B9\u5F0F\u6765\u8BF7\u6C42\u89C6\u9891\u6D41\uFF0C\u4F46\u662F\u8981\u7ED9 renderer \u8FDB\u7A0B\u64AD\u653E\uFF0C\u9700\u8981\u5148\u5206\u7247\u4FDD\u5B58\uFF0C\u518D renderer \u8BF7\u6C42\u4E3B\u8FDB\u7A0B\uFF0C\u4E3B\u8FDB\u7A0B\u518D\u8FD4\u56DE\u5206\u7247\u4FE1\u606F\uFF0C\u6709\u70B9\u7ED5\uFF0C\u8FC7\u7A0B\u591A\u4E00\u5C42\u4E5F\u5C31\u591A\u4E00\u5C42\u6D88\u8017\u548C\u590D\u6742\u5EA6\uFF0C\u5BB9\u6613\u51FA bug",paraId:28,tocIndex:6},{value:"\u6298\u4E2D\u5904\u7406\u65B9\u6848\u4E00\uFF0C\u5168\u5C40\u7684\u5148\u975E\u5BF9\u79F0\u5B9E\u73B0 AES \u7684 key \u7684\u4EA4\u6362\uFF0C\u540E\u7EED\u8BF7\u6C42\u5168\u4F7F\u7528\u5BF9\u79F0 AES \u52A0\u5BC6\uFF0C\u7C7B\u4F3C\u6D4F\u89C8\u5668 https \u6D41\u7A0B\uFF0C\u5728\u89C6\u9891\u8BF7\u6C42\u65F6\uFF0C\u4E5F\u4E00\u5E76\u63D0\u4EA4 AES \u52A0\u5BC6\u7684\u7528\u6237\u9A8C\u8BC1\u4FE1\u606F",paraId:28,tocIndex:6},{value:"\u6298\u4E2D\u5904\u7406\u65B9\u6848\u4E8C\uFF0C\u5728\u8BF7\u6C42\u89C6\u9891\u5730\u5740\u65F6\uFF0C\u5148\u4F7F\u7528 https \u4EA4\u6362\u83B7\u53D6\u4E34\u65F6\u7684\u89C6\u9891\u64AD\u653E\u5730\u5740\uFF0C\u7136\u540E\u518D\u4F7F\u7528\u4E34\u65F6\u89C6\u9891\u5730\u5740\u64AD\u653E",paraId:28,tocIndex:6},{value:"\u52A0\u56FA\u65B9\u6848\uFF1A\u6BCF\u6B21\u8BF7\u6C42\u6DFB\u52A0\u8BF7\u6C42\u9012\u589E\u7D22\u5F15\uFF0C\u6BCF\u4E2A\u8BF7\u6C42\u6709\u4E2A\u552F\u4E00\u7684 id\uFF0C\u4E00\u4E2A sign \u53EA\u80FD\u4F7F\u7528\u4E00\u6B21\uFF0C\u8BF7\u6C42\u65F6\u95F4\u6233 5 \u79D2\u5916\u5931\u6548",paraId:28,tocIndex:6},{value:`go run mock-https/main.go
 
 cd electron && npm run dev
-`,paraId:29,tocIndex:5},{value:"\u5BA2\u6237\u7AEF\u4F20\u9012 CA \u548C client.crt \u7ED9\u670D\u52A1\u5668\u7AEF\uFF0C\u670D\u52A1\u5668\u4F7F\u7528 CA \u548C server.crt\uFF0C\u5339\u914D\u540E\u6B63\u786E\u54CD\u5E94\uFF0C\u4E5F\u53EF\u4EE5\u53EA\u5339\u914D CA\uFF0C\u4F46\u662F\u5C31\u5931\u53BB\u4E86\u610F\u4E49\uFF0C\u56E0\u4E3A\u5BA2\u6237\u7AEF\u4FDD\u5B58\u6709 CA\uFF0C\u5BB9\u6613\u88AB\u89E3\u5305\u62FF\u5230 CA \u8BC1\u4E66",paraId:30,tocIndex:6},{value:"CA \u8BC1\u4E66\u4F7F\u7528\u5BC6\u94A5\u52A0\u5BC6\uFF0C\u800C\u5BF9\u5E94\u7684 server.crt\uFF0C\u662F\u901A\u8FC7 CA \u8BC1\u4E66\u6765\u7B7E\u540D\u751F\u6210\uFF0C\u53EA\u6709\u77E5\u9053 CA \u8BC1\u4E66\u7684\u5BC6\u94A5\uFF0C\u624D\u80FD\u4F7F\u7528 CA \u8BC1\u4E66\u6765\u751F\u6210\u5BF9\u5E94\u7684 server.crt",paraId:30,tocIndex:6},{value:"server.crt \u53EA\u4FDD\u5B58\u5728\u670D\u52A1\u7AEF\uFF0C\u4E0D\u4F1A\u66B4\u9732\u7ED9 C \u7AEF\uFF0C\u6240\u4EE5\u4E2D\u95F4\u62E6\u622A\u8005\uFF0C\u6CA1\u6709 server.crt \u4E0D\u80FD\u6B63\u786E\u89E3\u6790\u8BF7\u6C42\u4F53\uFF0C\u662F\u5426\u4E5F\u8868\u793A\u5C31\u4E0D\u80FD\u4F2A\u9020\u7528\u6237\u539F\u6837\u7684\u6570\u636E\u4EE3\u7406\u53D1\u9001\u7ED9\u670D\u52A1\u7AEF\uFF1F",paraId:30,tocIndex:6},{value:"\u662F\u5426\u6709\u5176\u4ED6\u6F5C\u5728\u88AB\u7834\u89E3\u7684\u98CE\u9669\uFF1F",paraId:30,tocIndex:6},{value:"\u6BCF\u6B21\u8BF7\u6C42\u90FD\u8981\u4F20\u9012\u5BF9\u5E94\u8BC1\u4E66\uFF0C\u662F\u5426\u5BF9\u8BF7\u6C42\u4F53\u5927\u5C0F\uFF0C\u8BF7\u6C42\u65F6\u95F4\u6709\u6BD4\u8F83\u5927\u7684\u5F71\u54CD\uFF1F",paraId:30,tocIndex:6}]},8993:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(74573);const a=[{value:"HLS\uFF08HTTP Live Streaming\uFF09\uFF0CHTTP \u5B9E\u65F6\u6D41\u5A92\u4F53\uFF0C\u4F7F\u7528 .m3u8 \u7D22\u5F15\u6587\u4EF6\u548C .ts \u6587\u4EF6\uFF08\u82F9\u679C\u516C\u53F8\uFF09",paraId:0,tocIndex:1},{value:"RTMP\uFF08Real-Time Messaging Protocol\uFF09,\u5B9E\u65F6\u6D41\u5A92\u4F53\u4F20\u8F93\u534F\u8BAE\uFF08 Adobe Flash \u4E2D\u4F20\u8F93\u97F3\u9891\u3001\u89C6\u9891\u548C\u6570\u636E\u3002\u5B83\u4F7F\u7528 TCP \u8FDB\u884C\u4F20\u8F93\uFF0C\u652F\u6301\u4F4E\u5EF6\u8FDF\u7684\u5B9E\u65F6\u6D41\u5A92\u4F53\u4F20\u8F93\uFF09",paraId:0,tocIndex:1},{value:"RTSP\uFF08Real-Time Streaming Protocol\uFF09\uFF0C\u7F51\u7EDC\u63A7\u5236\u534F\u8BAE\uFF0C\u7528\u4E8E\u63A7\u5236\u591A\u5A92\u4F53\u670D\u52A1\u5668\u53D1\u9001\u6D41\u5A92\u4F53\u6570\u636E\u3002\u5B83\u901A\u5E38\u4E0E RTP\uFF08Real-Time Transport Protocol\uFF09\u7ED3\u5408\u4F7F\u7528\uFF0CRTP \u7528\u4E8E\u5B9E\u9645\u4F20\u8F93\u97F3\u9891\u548C\u89C6\u9891\u6570\u636E",paraId:0,tocIndex:1},{value:"DASH\uFF08Dynamic Adaptive Streaming over HTTP\uFF09\uFF0C\u7531 MPEG \u5F00\u53D1\u7684\u4E00\u79CD\u52A8\u6001\u81EA\u9002\u5E94\u6D41\u5A92\u4F53\u4F20\u8F93\u534F\u8BAE\uFF0C\u652F\u6301\u591A\u79CD\u7F16\u89E3\u7801\u5668\u548C\u5BB9\u5668\u683C\u5F0F\uFF0C\u80FD\u591F\u5728\u4E0D\u540C\u7684\u5E26\u5BBD\u548C\u8BBE\u5907\u6761\u4EF6\u4E0B\u52A8\u6001\u8C03\u6574\u89C6\u9891\u8D28\u91CF",paraId:0,tocIndex:1},{value:"mac \u4E0B\u8F7D ",paraId:1,tocIndex:2},{value:"https://evermeet.cx/ffmpeg/ffmpeg-7.0.1.7z",paraId:1,tocIndex:2},{value:"\u89E3\u538B\u540E\uFF0C\u5C06 ffmpeg \u53EF\u6267\u884C\u6587\u4EF6\uFF0C\u590D\u5236\u5230 /usr/local/ffmpeg \u6587\u4EF6\u5939\uFF08\u6CA1\u6709\u8FD9\u4E2A\u6587\u4EF6\u5939\u5219\u65B0\u5EFA\u4E00\u4E2A\uFF09\u4E0B",paraId:1,tocIndex:2},{value:"\u914D\u7F6E\u73AF\u5883\u53D8\u91CF\uFF0Cvi ~/.zshrc",paraId:1,tocIndex:2},{value:"\u6DFB\u52A0\u547D\u4EE4 export PATH=/usr/local/ffmpeg/:$PATH",paraId:1,tocIndex:2},{value:"\u4F7F\u547D\u4EE4\u884C\u751F\u6548\uFF0Csource ~/.zshrc",paraId:1,tocIndex:2},{value:"\u6D4B\u8BD5\u662F\u5426\u6210\u529F\uFF0C\u5728\u547D\u4EE4\u884C\u8F93\u5165 ffmpeg help",paraId:1,tocIndex:2},{value:"window,linux \u540C\u7406\uFF0C\u4E0B\u8F7D\u540E\u914D\u7F6E\u73AF\u5883\u53D8\u91CF",paraId:1,tocIndex:2},{value:"\u5C06\u89C6\u9891\u6309\u5E27\u63D0\u53D6\u56FE\u7247",paraId:2,tocIndex:3},{value:`ffmpeg -i test.mp4 -vf "fps=1" test/thumbnail_%04d.png
+`,paraId:29,tocIndex:6},{value:"\u5BA2\u6237\u7AEF\u4F20\u9012 CA \u548C client.crt \u7ED9\u670D\u52A1\u5668\u7AEF\uFF0C\u670D\u52A1\u5668\u4F7F\u7528 CA \u548C server.crt\uFF0C\u5339\u914D\u540E\u6B63\u786E\u54CD\u5E94\uFF0C\u4E5F\u53EF\u4EE5\u53EA\u5339\u914D CA\uFF0C\u4F46\u662F\u5C31\u5931\u53BB\u4E86\u610F\u4E49\uFF0C\u56E0\u4E3A\u5BA2\u6237\u7AEF\u4FDD\u5B58\u6709 CA\uFF0C\u5BB9\u6613\u88AB\u89E3\u5305\u62FF\u5230 CA \u8BC1\u4E66",paraId:30,tocIndex:7},{value:"CA \u8BC1\u4E66\u4F7F\u7528\u5BC6\u94A5\u52A0\u5BC6\uFF0C\u800C\u5BF9\u5E94\u7684 server.crt\uFF0C\u662F\u901A\u8FC7 CA \u8BC1\u4E66\u6765\u7B7E\u540D\u751F\u6210\uFF0C\u53EA\u6709\u77E5\u9053 CA \u8BC1\u4E66\u7684\u5BC6\u94A5\uFF0C\u624D\u80FD\u4F7F\u7528 CA \u8BC1\u4E66\u6765\u751F\u6210\u5BF9\u5E94\u7684 server.crt",paraId:30,tocIndex:7},{value:"server.crt \u53EA\u4FDD\u5B58\u5728\u670D\u52A1\u7AEF\uFF0C\u4E0D\u4F1A\u66B4\u9732\u7ED9 C \u7AEF\uFF0C\u6240\u4EE5\u4E2D\u95F4\u62E6\u622A\u8005\uFF0C\u6CA1\u6709 server.crt \u4E0D\u80FD\u6B63\u786E\u89E3\u6790\u8BF7\u6C42\u4F53\uFF0C\u662F\u5426\u4E5F\u8868\u793A\u5C31\u4E0D\u80FD\u4F2A\u9020\u7528\u6237\u539F\u6837\u7684\u6570\u636E\u4EE3\u7406\u53D1\u9001\u7ED9\u670D\u52A1\u7AEF\uFF1F",paraId:30,tocIndex:7},{value:"\u662F\u5426\u6709\u5176\u4ED6\u6F5C\u5728\u88AB\u7834\u89E3\u7684\u98CE\u9669\uFF1F",paraId:30,tocIndex:7},{value:"\u6BCF\u6B21\u8BF7\u6C42\u90FD\u8981\u4F20\u9012\u5BF9\u5E94\u8BC1\u4E66\uFF0C\u662F\u5426\u5BF9\u8BF7\u6C42\u4F53\u5927\u5C0F\uFF0C\u8BF7\u6C42\u65F6\u95F4\u6709\u6BD4\u8F83\u5927\u7684\u5F71\u54CD\uFF1F",paraId:30,tocIndex:7}]},8993:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(74573);const a=[{value:"HLS\uFF08HTTP Live Streaming\uFF09\uFF0CHTTP \u5B9E\u65F6\u6D41\u5A92\u4F53\uFF0C\u4F7F\u7528 .m3u8 \u7D22\u5F15\u6587\u4EF6\u548C .ts \u6587\u4EF6\uFF08\u82F9\u679C\u516C\u53F8\uFF09",paraId:0,tocIndex:1},{value:"RTMP\uFF08Real-Time Messaging Protocol\uFF09,\u5B9E\u65F6\u6D41\u5A92\u4F53\u4F20\u8F93\u534F\u8BAE\uFF08 Adobe Flash \u4E2D\u4F20\u8F93\u97F3\u9891\u3001\u89C6\u9891\u548C\u6570\u636E\u3002\u5B83\u4F7F\u7528 TCP \u8FDB\u884C\u4F20\u8F93\uFF0C\u652F\u6301\u4F4E\u5EF6\u8FDF\u7684\u5B9E\u65F6\u6D41\u5A92\u4F53\u4F20\u8F93\uFF09",paraId:0,tocIndex:1},{value:"RTSP\uFF08Real-Time Streaming Protocol\uFF09\uFF0C\u7F51\u7EDC\u63A7\u5236\u534F\u8BAE\uFF0C\u7528\u4E8E\u63A7\u5236\u591A\u5A92\u4F53\u670D\u52A1\u5668\u53D1\u9001\u6D41\u5A92\u4F53\u6570\u636E\u3002\u5B83\u901A\u5E38\u4E0E RTP\uFF08Real-Time Transport Protocol\uFF09\u7ED3\u5408\u4F7F\u7528\uFF0CRTP \u7528\u4E8E\u5B9E\u9645\u4F20\u8F93\u97F3\u9891\u548C\u89C6\u9891\u6570\u636E",paraId:0,tocIndex:1},{value:"DASH\uFF08Dynamic Adaptive Streaming over HTTP\uFF09\uFF0C\u7531 MPEG \u5F00\u53D1\u7684\u4E00\u79CD\u52A8\u6001\u81EA\u9002\u5E94\u6D41\u5A92\u4F53\u4F20\u8F93\u534F\u8BAE\uFF0C\u652F\u6301\u591A\u79CD\u7F16\u89E3\u7801\u5668\u548C\u5BB9\u5668\u683C\u5F0F\uFF0C\u80FD\u591F\u5728\u4E0D\u540C\u7684\u5E26\u5BBD\u548C\u8BBE\u5907\u6761\u4EF6\u4E0B\u52A8\u6001\u8C03\u6574\u89C6\u9891\u8D28\u91CF",paraId:0,tocIndex:1},{value:"mac \u4E0B\u8F7D ",paraId:1,tocIndex:2},{value:"https://evermeet.cx/ffmpeg/ffmpeg-7.0.1.7z",paraId:1,tocIndex:2},{value:"\u89E3\u538B\u540E\uFF0C\u5C06 ffmpeg \u53EF\u6267\u884C\u6587\u4EF6\uFF0C\u590D\u5236\u5230 /usr/local/ffmpeg \u6587\u4EF6\u5939\uFF08\u6CA1\u6709\u8FD9\u4E2A\u6587\u4EF6\u5939\u5219\u65B0\u5EFA\u4E00\u4E2A\uFF09\u4E0B",paraId:1,tocIndex:2},{value:"\u914D\u7F6E\u73AF\u5883\u53D8\u91CF\uFF0Cvi ~/.zshrc",paraId:1,tocIndex:2},{value:"\u6DFB\u52A0\u547D\u4EE4 export PATH=/usr/local/ffmpeg/:$PATH",paraId:1,tocIndex:2},{value:"\u4F7F\u547D\u4EE4\u884C\u751F\u6548\uFF0Csource ~/.zshrc",paraId:1,tocIndex:2},{value:"\u6D4B\u8BD5\u662F\u5426\u6210\u529F\uFF0C\u5728\u547D\u4EE4\u884C\u8F93\u5165 ffmpeg help",paraId:1,tocIndex:2},{value:"window,linux \u540C\u7406\uFF0C\u4E0B\u8F7D\u540E\u914D\u7F6E\u73AF\u5883\u53D8\u91CF",paraId:1,tocIndex:2},{value:"\u5C06\u89C6\u9891\u6309\u5E27\u63D0\u53D6\u56FE\u7247",paraId:2,tocIndex:3},{value:`ffmpeg -i test.mp4 -vf "fps=1" test/thumbnail_%04d.png
 `,paraId:3,tocIndex:3},{value:"-i \u8868\u793A\u540E\u4E00\u4E2A\u503C\uFF0C\u662F\u8F93\u5165\u7684\u8D44\u6E90",paraId:4,tocIndex:3},{value:"-vf",paraId:4,tocIndex:3},{value:"fps=1\uFF0C\u8868\u793A\u4E00\u5E27\u622A\u53D6\u4E00\u5F20\u56FE\u7247\uFF0C60 \u79D2\u89C6\u9891\u5219\u662F 60 \u5F20\u56FE\u7247\uFF0Cfps=2\uFF0C\u5219\u662F 1 \u79D2 2 \u5F20\uFF0Cfps=0.5\uFF0C\u5219\u662F 2 \u79D2 1 \u5F20\uFF0C\u5373 fps=\u56FE\u7247\u6570/\u603B\u89C6\u9891\u65F6\u957F",paraId:4,tocIndex:3},{value:"thumbnail_%04d.png\uFF1A\u8F93\u51FA\u56FE\u50CF\u6587\u4EF6\u540D\u6A21\u5F0F\u3002%04d \u8868\u793A\u7528\u56DB\u4F4D\u6570\u5B57\u8868\u793A\u7684\u5E8F\u53F7\u3002",paraId:4,tocIndex:3},{value:"\u5047\u5982\u60F3\u8981\u63D0\u53D6\u5E27\u56FE\u7247\u4EE5\u65F6\u95F4\u6233\u547D\u540D\uFF0C\u5219\u53EF\u4EE5\u4F7F\u7528\u4EE5\u4E0B\u547D\u4EE4",paraId:5,tocIndex:3},{value:`ffmpeg -i input_video.mp4 -vf "fps=1" -strftime 1 output_%H%M%S.png
 `,paraId:6,tocIndex:3},{value:"%H%M%S \u8868\u793A\u65F6\u5206\u79D2",paraId:7,tocIndex:3},{value:"\u5265\u79BB\u89C6\u9891\u548C\u97F3\u9891",paraId:8,tocIndex:3},{value:"\u5265\u79BB\u97F3\u9891",paraId:9,tocIndex:3},{value:`ffmpeg -i test.mp4 -vn -acodec copy output_audio.aac
 `,paraId:10,tocIndex:3},{value:"-vn\uFF0C\u8868\u793A\u4E0D\u5305\u542B\u89C6\u9891\u6D41\u3002",paraId:11,tocIndex:3},{value:"-acodec copy\uFF0C\u8868\u793A\u97F3\u9891\u7F16\u89E3\u7801\u5668\u9009\u62E9\u590D\u5236\u539F\u59CB\u7F16\u89E3\u7801\u5668",paraId:11,tocIndex:3},{value:"\u5265\u79BB\u89C6\u9891",paraId:12,tocIndex:3},{value:`ffmpeg -i test.mp4 -an -vcodec copy output_video.mp4
@@ -618,7 +618,185 @@ your_output3.ts
 </html>
 `,paraId:27,tocIndex:3},{value:"\u5C06\u5927\u89C6\u9891\u5207\u5272\u6210\u591A\u4E2A\u5C0F\u89C6\u9891",paraId:28,tocIndex:3},{value:`ffmpeg -i input.mp4 -c:v copy -c:a copy -map 0 -f segment -segment_time 30 -reset_timestamps 1 -g 30 output_%03d.mp4
 `,paraId:29,tocIndex:3},{value:"-c:v copy -c:a copy\uFF1A\u8868\u793A\u89C6\u9891\u6D41\u548C\u97F3\u9891\u6D41\u7684\u7F16\u7801\u683C\u5F0F\u4FDD\u6301\u539F\u6837\u590D\u5236\uFF0C\u4E0D\u91CD\u65B0\u7F16\u7801",paraId:30,tocIndex:3},{value:"-map 0\uFF1A\u8868\u793A\u6620\u5C04\u8F93\u5165\u6587\u4EF6\u7684\u6240\u6709\u6D41\u5230\u8F93\u51FA\u6587\u4EF6",paraId:30,tocIndex:3},{value:"-f segment\uFF1A\u6307\u5B9A\u8F93\u51FA\u683C\u5F0F\u4E3A\u5206\u6BB5\u6587\u4EF6\uFF0C\u544A\u8BC9 FFmpeg \u5C06\u8F93\u51FA\u5207\u5272\u4E3A\u591A\u4E2A\u7247\u6BB5",paraId:30,tocIndex:3},{value:"-segment_time 30\uFF1A\u8BBE\u7F6E\u6BCF\u4E2A\u5206\u6BB5\u7684\u65F6\u957F\u4E3A 30 \u79D2",paraId:30,tocIndex:3},{value:"-reset_timestamps 1\uFF1A\u91CD\u7F6E\u65F6\u95F4\u6233\uFF0C\u786E\u4FDD\u6BCF\u4E2A\u5206\u6BB5\u7684\u65F6\u95F4\u6233\u4ECE\u96F6\u5F00\u59CB\uFF0C\u907F\u514D\u65F6\u95F4\u6233\u5728\u5206\u6BB5\u4E4B\u95F4\u4E0D\u8FDE\u7EED\u7684\u95EE\u9898",paraId:30,tocIndex:3},{value:"-g 30\uFF1A\u8BBE\u7F6E\u5173\u952E\u5E27\uFF08GOP\uFF09\u7684\u95F4\u9694\u4E3A 30 \u5E27\u3002\u5173\u952E\u5E27\u662F\u89C6\u9891\u6D41\u4E2D\u53EF\u4EE5\u5355\u72EC\u89E3\u7801\u7684\u5E27\uFF0C\u8BBE\u7F6E\u5408\u9002\u7684\u5173\u952E\u5E27\u95F4\u9694\u53EF\u4EE5\u786E\u4FDD\u5206\u6BB5\u4E4B\u95F4\u7684\u89C6\u9891\u5E27\u5B8C\u6574\u6027\u548C\u517C\u5BB9\u6027",paraId:30,tocIndex:3},{value:"\u4F7F\u7528 MP4Box \u6253\u5305\u6210 DASH \u683C\u5F0F",paraId:31,tocIndex:3},{value:`mp4box -dash 10000 -frag 1000 -rap -segment-name segment_.m4s -out dash_output.mpd keiyomi.mp4
-`,paraId:32,tocIndex:3},{value:"ffmpeg \u5B98\u7F51\u4E0B\u8F7D",paraId:33,tocIndex:4},{value:"\u6D4B\u8BD5\u89C6\u9891\u4E0B\u8F7D\u5730\u5740",paraId:33,tocIndex:4},{value:"video.js \u5B98\u7F51",paraId:33,tocIndex:4},{value:"hls.js",paraId:33,tocIndex:4},{value:"flv.js",paraId:33,tocIndex:4},{value:"dash.js \u5B98\u7F51",paraId:33,tocIndex:4},{value:"GPAC \u8F6F\u4EF6\u4E0B\u8F7D",paraId:33,tocIndex:4}]},87447:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(37132);const a=[{value:"\u6587\u4EF6\u5206\u7247\u4E0A\u4F20\u4E0B\u8F7D",paraId:0,tocIndex:0},{value:"verdaccio \u642D\u5EFA\u79C1\u6709 npm \u4ED3\u5E93",paraId:1,tocIndex:0},{value:"webworker \u548C\u5F02\u6B65\u5E76\u53D1\u961F\u5217",paraId:2,tocIndex:0},{value:"webrtc",paraId:3,tocIndex:0},{value:"ffmpeg",paraId:4,tocIndex:0}]},53350:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(81005);const a=[{value:"\u6E90\u7801\u5B9E\u73B0\uFF08koa\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"koa-server/src/controllers/file.controller.ts",paraId:0,tocIndex:1},{value:"\u6E90\u7801\u5B9E\u73B0\uFF08Vue3\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"client/pages/upload/upload.vue",paraId:0,tocIndex:1},{value:"\u5728\u7EBF DEMO\uFF1A",paraId:0,tocIndex:1},{value:"Vue3-client ",paraId:0,tocIndex:1},{value:"Vue3-client (haokur.github.io)",paraId:1,tocIndex:1},{value:"\u524D\u7AEF slice \u5207\u5272\uFF0C\u670D\u52A1\u7AEF\u5408\u5E76",paraId:2,tocIndex:2},{value:"\u6838\u5FC3\u5728\u4E8E\u524D\u7AEF\uFF0C\u544A\u8BC9\u540E\u7AEF\u5F53\u524D\u662F\u54EA\u4E00\u6BB5\uFF0C\u4EE5\u53CA\u8FD9\u4E00\u6BB5\u7684\u6570\u636E",paraId:3,tocIndex:2},{value:"Html \u4E2D\u6DFB\u52A0 input \u4E3A file \u7684\u63A7\u4EF6",paraId:4,tocIndex:2},{value:`<input type="file" @change="handleFileChange" />
+`,paraId:32,tocIndex:3},{value:"\u5C06\u666E\u901A MP4 \u6587\u4EF6\u8F93\u51FA\u5355\u4E2A dash \u8F6C\u7801\u7684 MP4 \u6587\u4EF6",paraId:33,tocIndex:3},{value:`ffmpeg -i input.mp4 -c:v libx264 -c:a aac -movflags +frag_keyframe+empty_moov+default_base_moof -f mp4 output_dash.mp4
+`,paraId:34,tocIndex:3},{value:"\u53C2\u6570\u8BF4\u660E\uFF1A",paraId:35,tocIndex:3},{value:`-i input.mp4: \u8F93\u5165\u7684 MP4 \u6587\u4EF6\u3002
+
+-c:v libx264: \u4F7F\u7528 H.264 \u7F16\u7801\u5668\u8FDB\u884C\u89C6\u9891\u7F16\u7801\u3002
+
+-c:a aac: \u4F7F\u7528 AAC \u7F16\u7801\u5668\u8FDB\u884C\u97F3\u9891\u7F16\u7801\u3002
+
+-movflags +frag_keyframe+empty_moov+default_base_moof:
+
++frag_keyframe: \u5728\u5173\u952E\u5E27\u5904\u521B\u5EFA\u7247\u6BB5\uFF0C\u786E\u4FDD\u6BCF\u4E2A\u7247\u6BB5\u4EE5\u5173\u952E\u5E27\u5F00\u59CB\u3002
++empty_moov: \u5728\u6587\u4EF6\u5F00\u5934\u751F\u6210\u4E00\u4E2A\u7A7A\u7684 moov \u5757\uFF0C\u8FD9\u5BF9\u4E8E\u6D41\u5A92\u4F53\u64AD\u653E\u975E\u5E38\u91CD\u8981\u3002
++default_base_moof: \u4F7F\u7528\u9ED8\u8BA4\u7684 moof \u57FA\u51C6\uFF0C\u8FD9\u6709\u52A9\u4E8E\u786E\u4FDD\u7247\u6BB5\u6B63\u786E\u6392\u5217\u3002
+-f mp4: \u6307\u5B9A\u8F93\u51FA\u683C\u5F0F\u4E3A MP4\u3002
+
+output_dash.mp4: \u8F93\u51FA\u7684 MP4 \u6587\u4EF6\u540D\u3002
+`,paraId:36,tocIndex:3},{value:"ffmpeg \u5B98\u7F51\u4E0B\u8F7D",paraId:37,tocIndex:4},{value:"\u6D4B\u8BD5\u89C6\u9891\u4E0B\u8F7D\u5730\u5740",paraId:37,tocIndex:4},{value:"video.js \u5B98\u7F51",paraId:37,tocIndex:4},{value:"hls.js",paraId:37,tocIndex:4},{value:"flv.js",paraId:37,tocIndex:4},{value:"dash.js \u5B98\u7F51",paraId:37,tocIndex:4},{value:"GPAC \u8F6F\u4EF6\u4E0B\u8F7D",paraId:37,tocIndex:4}]},87447:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(37132);const a=[{value:"\u6587\u4EF6\u5206\u7247\u4E0A\u4F20\u4E0B\u8F7D",paraId:0,tocIndex:0},{value:"\u81EA\u5B9A\u4E49 tls \u8BC1\u4E66\u4F7F\u7528",paraId:1,tocIndex:0},{value:"ffmpeg \u7684\u4F7F\u7528",paraId:2,tocIndex:0},{value:"Js \u5F02\u6B65\u961F\u5217\u5E76\u53D1",paraId:3,tocIndex:0},{value:"MSE \u5A92\u4F53\u6E90\u6269\u5C55",paraId:4,tocIndex:0},{value:"verdaccio \u642D\u5EFA\u79C1\u6709 npm \u4ED3\u5E93",paraId:5,tocIndex:0},{value:"webrtc",paraId:6,tocIndex:0}]},45790:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(55152);const a=[{value:"Media Source Extensions API\uFF0C\u5A92\u4F53\u6E90\u6269\u5C55 API\uFF08MSE\uFF09\uFF0C\u652F\u6301\u4F7F\u7528 fetch \u62C9\u53D6\u6570\u636E buffer \u8FDB\u884C\u5206\u7247\u7684\u97F3\u9891\u6216\u89C6\u9891\u7684\u52A0\u8F7D\u548C\u64AD\u653E\u3002",paraId:0,tocIndex:0},{value:`
+\u5F53\u524D\u5DF2\u77E5\u7684\u652F\u6301\u7684 mp4 \u683C\u5F0F\u662F DASH\uFF0C\u5BF9\u666E\u901A\u7684\u89C6\u9891\u53EF\u4EE5\u4F7F\u7528 ffmpeg \u8FDB\u884C\u8F6C\u7801`,paraId:0,tocIndex:0},{value:"web \u4FA7\u4EE3\u7801\uFF1A",paraId:1,tocIndex:1},{value:"haokur/test/tree/main/web",paraId:1,tocIndex:1},{value:"serve \u4FA7\u4EE3\u7801\uFF1A",paraId:1,tocIndex:1},{value:"haokur/test/tree/main/koa-serve",paraId:1,tocIndex:1},{value:"new MediaSource \u5B9E\u4F8B\u5316 =\u300B mediaSourceInstance",paraId:2,tocIndex:2},{value:"\u5C06 mediaSourceInstance \u4F7F\u7528 URL.createObjectURL \u8F6C blob \u5730\u5740\uFF0Cvideo \u7684 src \u8BBE\u7F6E\u4E3A\u8FD9\u4E2A blob \u5730\u5740",paraId:2,tocIndex:2},{value:"mediaSourceInstance \u76D1\u542C sourceopen , \u56DE\u8C03\u4E8B\u4EF6\u4F7F\u7528 addSourceBuffer \u751F\u6210 sourceBuffer,sourceBuffer \u76D1\u542C updateend \u548C error \u4E8B\u4EF6",paraId:2,tocIndex:2},{value:"updateend \u4E8B\u4EF6\u5904\u7406\u5728\u4E00\u4E2A\u5206\u7247 buffer \u52A0\u8F7D\u6210\u529F\u540E\u7684\u56DE\u8C03\uFF0C\u53EF\u4EE5\u7EE7\u7EED\u52A0\u8F7D\u4E0B\u4E00\u7247 buffer\uFF0C\u76F4\u5230\u5206\u7247 buffer \u5168\u90E8\u52A0\u8F7D\u5B8C\u6BD5\uFF0CmediaSourceInstance.endOfStream() \u5173\u95ED\u6570\u636E\u6D41",paraId:2,tocIndex:2},{value:`export class MediaSourcePlayer {
+  videoUrl;
+  blobUrl: string = '';
+  start = 0;
+  chunkIndex = 0;
+  chunkSize = 1 * 1024 * 1024;
+  videoType = '';
+  mediaSource;
+  sourceBuffer;
+  fileSize = 0;
+  isAllLoaded = false;
+  onError;
+  onEnd;
+
+  constructor(options) {
+    const defaultType = 'video/mp4; codecs="avc1.42E01E, mp4a.40.2"';
+    const {
+      videoUrl,
+      chunkSize = 1 * 1024 * 1024,
+      type = defaultType,
+      onError,
+      onEnd,
+      onUpdateEnd,
+    } = options;
+    this.videoUrl = videoUrl;
+    this.chunkSize = chunkSize;
+    this.videoType = type;
+    this.onError =
+      onError ||
+      ((err) => {
+        console.log(err);
+      });
+    this.onEnd = onEnd || this.end;
+    this.onUpdateEnd = onUpdateEnd || this.onUpdateEnd;
+    this.init();
+  }
+
+  init() {
+    this.mediaSource = new MediaSource();
+    this.blobUrl = URL.createObjectURL(this.mediaSource);
+
+    this.mediaSource.addEventListener('sourceopen', async () => {
+      this.sourceBuffer = this.mediaSource.addSourceBuffer(this.videoType);
+
+      this.sourceBuffer.addEventListener('updateend', () => {
+        this.onUpdateEnd();
+      });
+      this.sourceBuffer.addEventListener('error', this.onError);
+    });
+  }
+
+  run() {
+    this.insertSourceByChunkIndex(this.chunkIndex);
+  }
+
+  end() {
+    this.mediaSource.endOfStream();
+  }
+
+  async onUpdateEnd() {
+    if (this.isAllLoaded) {
+      return this.onEnd();
+    }
+    await this.insertNextSlice();
+  }
+
+  async insertNextSlice() {
+    if (this.isAllLoaded) {
+      return this.onEnd();
+    }
+    this.chunkIndex++;
+    await this.insertSourceByChunkIndex(this.chunkIndex);
+  }
+
+  // \u6839\u636EchunkSize\u83B7\u53D6\u5F00\u59CB\u548C\u7ED3\u675F\u4F4D\u7F6E,\u4ECE0\u5F00\u59CB
+  getRangByChunkIndex(index) {
+    console.log('\u52A0\u8F7D\u8D44\u6E90\u7D22\u5F15://///', index, 'index.html::128\u884C');
+    return [index * this.chunkSize, (index + 1) * this.chunkSize - 1];
+  }
+
+  // \u63D2\u5165
+  async insertSourceByChunkIndex(chunkIndex) {
+    const [start, end] = this.getRangByChunkIndex(chunkIndex);
+    const data = await this.fetchSliceData(start, end);
+    this.appendBuffer(data);
+  }
+
+  // \u63D2\u5165\u5207\u7247\u64AD\u653E\u5185\u5BB9
+  async loadAndInsertSlicePlaySource(start, end) {
+    const buffer = await this.fetchSliceData(start, end);
+    this.appendBuffer(buffer);
+  }
+
+  async fetchSliceData(start, end) {
+    if (this.isAllLoaded) return;
+    let response;
+    let contentLength;
+    if (typeof this.videoUrl === 'string') {
+      response = await fetch(this.videoUrl, {
+        headers: { Range: \`bytes=\${start}-\${end}\` },
+      });
+      contentLength = response.headers.get('Content-Length');
+    } else if (typeof this.videoUrl === 'function') {
+      response = await this.videoUrl({
+        headers: { Range: \`bytes=\${start}-\${end}\` },
+      });
+      contentLength = response.headers['content-length'];
+    }
+    if (!contentLength || +contentLength < this.chunkSize) {
+      this.isAllLoaded = true;
+    }
+    const data = response.data || (await response.arrayBuffer());
+    return data;
+  }
+
+  appendBuffer(data) {
+    this.sourceBuffer.appendBuffer(data);
+  }
+}
+`,paraId:3,tocIndex:3},{value:"\u4F7F\u7528\u793A\u4F8B\uFF1A",paraId:4,tocIndex:3},{value:`const playMediaSourceVideo = () => {
+  const sliceMediaSourcePlayer = new MediaSourcePlayer({
+    // videoUrl: 'https://localhost:9000/video',
+    videoUrl: async (config) => {
+      // @ts-ignore (define in dts)
+      const res = await window.api.https({
+        hostname: 'localhost', // \u6CE8\u610F\u8FD9\u91CC\uFF0C\u524D\u9762\u4E0D\u8981\u52A0https
+        port: 9099, // \u9ED8\u8BA4 HTTPS \u7AEF\u53E3
+        path: '/video', // \u8BF7\u6C42\u8DEF\u5F84
+        method: 'GET', // \u8BF7\u6C42\u65B9\u6CD5
+        headers: config.headers,
+      });
+      return res;
+    },
+    async onUpdateEnd() {
+      console.log('\u81EA\u5B9A\u4E49\u5355\u5206\u7247\u52A0\u8F7D\u5B8C\u6BD5\u56DE\u8C03');
+      // \u52A0\u8F7D\u4E0B\u4E00\u4E2A\u5206\u7247
+      await sliceMediaSourcePlayer.insertNextSlice();
+    },
+    async onEnd() {
+      console.log('\u6240\u6709\u5206\u7247\u52A0\u8F7D\u5B8C\u6BD5\u56DE\u8C03');
+      await sliceMediaSourcePlayer.end();
+    },
+  });
+  const video = document.getElementById('video-player') as HTMLVideoElement;
+  video.src = sliceMediaSourcePlayer.blobUrl;
+  sliceMediaSourcePlayer.run();
+};
+`,paraId:5,tocIndex:3},{value:"blobUrl\uFF0CMediaSourcePlayer \u5B9E\u4F8B\u5316\u540E\u751F\u6210\u7684\u7528\u4E8E\u89C6\u9891\u64AD\u653E\u7684 blob \u5730\u5740",paraId:6,tocIndex:3},{value:"videoUrl\uFF0C\u53EF\u4E3A\u4E00\u4E2A\u63D0\u4F9B\u6570\u636E\u7684\u63A5\u53E3\u5730\u5740\uFF0C\u4E5F\u53EF\u4E3A\u4E00\u4E2A\u5177\u4F53\u7684\u8BF7\u6C42\u6570\u636E\u7684\u65B9\u6CD5\uFF0C\u8FD4\u56DE ",paraId:6,tocIndex:3},{value:"{data:bufferData,headers:{}}",paraId:6,tocIndex:3},{value:"onUpdateEnd\uFF0C\u4E3A\u5355\u7247\u5904\u7406\u5B8C\u540E\u7684\u56DE\u8C03\uFF0C\u53EF\u4EE5\u7528\u6765\u6267\u884C\u4E0B\u4E00\u6BB5\u5206\u7247\u7684\u52A0\u8F7D\uFF0C\u4E0D\u5B9A\u4E49\u5219\u9ED8\u8BA4\u662F\u52A0\u8F7D\u4E0B\u4E00\u4E2A\u5206\u7247\uFF0C\u76F4\u5230\u6240\u6709\u5206\u7247\u52A0\u8F7D\u5B8C\u6BD5",paraId:6,tocIndex:3},{value:"onEnd\uFF0C\u6240\u6709\u5206\u7247\u52A0\u8F7D\u5B8C\u6BD5\u7684\u56DE\u8C03\uFF0C\u4E0D\u5B9A\u4E49\u5219\u9ED8\u8BA4\u662F\u5173\u95ED\u89C6\u9891\u6D41\uFF08endOfStream\uFF09\uFF0C\u4E0D\u80FD\u7EE7\u7EED\u6DFB\u52A0\u89C6\u9891\u5206\u7247\u6D41",paraId:6,tocIndex:3},{value:"run\uFF0C\u662F\u5F00\u59CB\u52A0\u8F7D\u7B2C\u4E00\u7247\uFF08chunkIndex=0\uFF09\u89C6\u9891\u6570\u636E\u6D41",paraId:6,tocIndex:3},{value:"insertNextSlice\uFF0C\u57FA\u4E8E\u5F53\u524D\u6700\u540E\u4E00\u7247\u7684\u7D22\u5F15\uFF0C\u52A0\u8F7D\u4E0B\u4E00\u7247\u5206\u7247",paraId:6,tocIndex:3},{value:"chunkSize\uFF0C\u5355\u4E2A\u5206\u7247\u7684\u5927\u5C0F\uFF0C\u9ED8\u8BA4\u4E3A 1024*1024\uFF081M\uFF09",paraId:6,tocIndex:3},{value:`ffmpeg -i input.mp4 -c:v libx264 -c:a aac -movflags +frag_keyframe+empty_moov+default_base_moof -f mp4 output_dash.mp4
+`,paraId:7,tocIndex:4},{value:"\u53C2\u6570\u8BF4\u660E\uFF1A",paraId:8,tocIndex:4},{value:`-i input.mp4: \u8F93\u5165\u7684 MP4 \u6587\u4EF6\u3002
+
+-c:v libx264: \u4F7F\u7528 H.264 \u7F16\u7801\u5668\u8FDB\u884C\u89C6\u9891\u7F16\u7801\u3002
+
+-c:a aac: \u4F7F\u7528 AAC \u7F16\u7801\u5668\u8FDB\u884C\u97F3\u9891\u7F16\u7801\u3002
+
+-movflags +frag_keyframe+empty_moov+default_base_moof:
+
++frag_keyframe: \u5728\u5173\u952E\u5E27\u5904\u521B\u5EFA\u7247\u6BB5\uFF0C\u786E\u4FDD\u6BCF\u4E2A\u7247\u6BB5\u4EE5\u5173\u952E\u5E27\u5F00\u59CB\u3002
++empty_moov: \u5728\u6587\u4EF6\u5F00\u5934\u751F\u6210\u4E00\u4E2A\u7A7A\u7684 moov \u5757\uFF0C\u8FD9\u5BF9\u4E8E\u6D41\u5A92\u4F53\u64AD\u653E\u975E\u5E38\u91CD\u8981\u3002
++default_base_moof: \u4F7F\u7528\u9ED8\u8BA4\u7684 moof \u57FA\u51C6\uFF0C\u8FD9\u6709\u52A9\u4E8E\u786E\u4FDD\u7247\u6BB5\u6B63\u786E\u6392\u5217\u3002
+-f mp4: \u6307\u5B9A\u8F93\u51FA\u683C\u5F0F\u4E3A MP4\u3002
+
+output_dash.mp4: \u8F93\u51FA\u7684 MP4 \u6587\u4EF6\u540D\u3002
+`,paraId:9,tocIndex:4},{value:"\u5206\u7247\u7684 start \u662F 0 \u5F00\u59CB\u7684\uFF0C\u6587\u4EF6\u7684 size \u5927\u5C0F\u662F\u4ECE 1 \u5F00\u59CB\u7684\uFF0C\u6240\u4EE5\u5206\u7247\u7684 end \u7684\u6700\u5927\u503C\uFF0C\u5E94\u8BE5\u662F fileSize-1\uFF1B\u5206\u7247\u7684 start \u662F 0\uFF0Cend \u5219\u662F 1024*1024-1=1048575",paraId:10,tocIndex:5},{value:"\u968F\u610F\u6253\u4E71\u987A\u5E8F\u52A0\u8F7D\u548C\u63D2\u5165 buffer \u6570\u636E\uFF0C\u5E76\u4E0D\u80FD\u5B9E\u73B0\u64AD\u653E",paraId:10,tocIndex:5},{value:"\u5728\u5206\u7247\u5168\u90E8\u52A0\u8F7D\u5B8C\u6BD5\u540E\uFF0C\u9700\u8981\u4F7F\u7528 end \u6765\u89E6\u53D1 endOfStream \u7684\u6267\u884C\uFF0C\u624D\u4F1A\u6B63\u5E38\u663E\u793A\u89C6\u9891\u65F6\u95F4\uFF0C\u548C\u64AD\u653E\u5B8C\u6BD5\u4E4B\u540E\u4E0D\u4F1A\u8FD8\u6709\u4E00\u4E2A\u52A0\u8F7D\u63D0\u793A\u5668",paraId:10,tocIndex:5},{value:"MDN MSE API \u89E3\u6790",paraId:11,tocIndex:6},{value:"\u8D44\u6E90\u8F6C\u7801\u4EE5\u652F\u6301 MSE",paraId:11,tocIndex:6}]},53350:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(81005);const a=[{value:"\u6E90\u7801\u5B9E\u73B0\uFF08koa\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"koa-server/src/controllers/file.controller.ts",paraId:0,tocIndex:1},{value:"\u6E90\u7801\u5B9E\u73B0\uFF08Vue3\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"client/pages/upload/upload.vue",paraId:0,tocIndex:1},{value:"\u5728\u7EBF DEMO\uFF1A",paraId:0,tocIndex:1},{value:"Vue3-client ",paraId:0,tocIndex:1},{value:"Vue3-client (haokur.github.io)",paraId:1,tocIndex:1},{value:"\u524D\u7AEF slice \u5207\u5272\uFF0C\u670D\u52A1\u7AEF\u5408\u5E76",paraId:2,tocIndex:2},{value:"\u6838\u5FC3\u5728\u4E8E\u524D\u7AEF\uFF0C\u544A\u8BC9\u540E\u7AEF\u5F53\u524D\u662F\u54EA\u4E00\u6BB5\uFF0C\u4EE5\u53CA\u8FD9\u4E00\u6BB5\u7684\u6570\u636E",paraId:3,tocIndex:2},{value:"Html \u4E2D\u6DFB\u52A0 input \u4E3A file \u7684\u63A7\u4EF6",paraId:4,tocIndex:2},{value:`<input type="file" @change="handleFileChange" />
 `,paraId:5,tocIndex:2},{value:"js \u4E2D\u6DFB\u52A0\u5BF9 input \u7684 file \u53D8\u5316\u7684\u54CD\u5E94",paraId:6,tocIndex:2},{value:`const chunkSize = 1 * 1024 * 1024;
 
 const chunkStatus = [];
