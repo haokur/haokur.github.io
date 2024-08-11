@@ -156,6 +156,31 @@ ffmpeg -i input.mp4 -c:v copy -c:a copy -map 0 -f segment -segment_time 30 -rese
 mp4box -dash 10000 -frag 1000 -rap -segment-name segment_.m4s -out dash_output.mpd keiyomi.mp4
 ```
 
+7. 将普通 MP4 文件输出单个 dash 转码的 MP4 文件
+
+```sh
+ffmpeg -i input.mp4 -c:v libx264 -c:a aac -movflags +frag_keyframe+empty_moov+default_base_moof -f mp4 output_dash.mp4
+```
+
+参数说明：
+
+```
+-i input.mp4: 输入的 MP4 文件。
+
+-c:v libx264: 使用 H.264 编码器进行视频编码。
+
+-c:a aac: 使用 AAC 编码器进行音频编码。
+
+-movflags +frag_keyframe+empty_moov+default_base_moof:
+
++frag_keyframe: 在关键帧处创建片段，确保每个片段以关键帧开始。
++empty_moov: 在文件开头生成一个空的 moov 块，这对于流媒体播放非常重要。
++default_base_moof: 使用默认的 moof 基准，这有助于确保片段正确排列。
+-f mp4: 指定输出格式为 MP4。
+
+output_dash.mp4: 输出的 MP4 文件名。
+```
+
 ### 四、扩展链接
 
 - [ffmpeg 官网下载](https://evermeet.cx/ffmpeg/)

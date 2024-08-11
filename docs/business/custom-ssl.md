@@ -1,6 +1,8 @@
+# 自定义 tls 证书使用
+
 ### 预览体验
 
-- 源码实现：[https://github.com/haokur/test](https://github.com/haokur/test)
+- 源码实现（koa）：<a href="https://github.com/haokur/test" target="_blank">haokur/test</a>
 
 ### 一、创建 CA 密钥
 
@@ -167,7 +169,7 @@ go run mock-https/main.go
 cd electron && npm run dev
 ```
 
-### 五、总结
+### 六、总结
 
 - 客户端传递 CA 和 client.crt 给服务器端，服务器使用 CA 和 server.crt，匹配后正确响应，也可以只匹配 CA，但是就失去了意义，因为客户端保存有 CA，容易被解包拿到 CA 证书
 - CA 证书使用密钥加密，而对应的 server.crt，是通过 CA 证书来签名生成，只有知道 CA 证书的密钥，才能使用 CA 证书来生成对应的 server.crt
