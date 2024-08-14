@@ -95,3 +95,5 @@ https.createServer(sslOptions, app.callback()).listen(9099, () => {
   console.log('Koa server is running on https://localhost:9099');
 });
 ```
+
+> 本地访问自建证书的 https 请求时，可以忽略警告，或者如果在 mac 上可以双击 ca.crt，然后在钥匙串访问->证书，中找对应用的 ca 证书，->显示简介 -> 信任 -> 使用证书 -> 始终信任
