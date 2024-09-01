@@ -1,4 +1,4 @@
-"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[904],{23522:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(86549),r={}},65575:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(22314),r={}},2932:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(52208),r={}},53017:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(16878),r={}},13591:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(49845),r={}},70532:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(64083),r={}},829:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(74573),r={}},95523:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(37132),r={}},5835:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(55152),r={}},96624:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(81005),r={}},74867:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(92688),r={}},55743:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(32897),r={}},11171:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(68537),r={}},67715:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(43648),r={}},29874:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(73550),r={}},46926:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(4299),r={}},90702:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(94807),r={}},16867:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(90142),r={}},46983:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(22695),r={}},47537:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(99920),r={}},48516:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(79825),r={}},11414:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(72830),r={}},86698:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(33127),r={}},81206:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(61831),r={}},85229:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(86549);const a=[{value:"\u5C01\u88C5\uFF1A\u5C01\u88C5\u53D8\u5316",paraId:0,tocIndex:1},{value:"\u7EE7\u627F\uFF1A\u7EE7\u627F\u901A\u7528\u5C5E\u6027\u548C\u65B9\u6CD5",paraId:0,tocIndex:1},{value:"\u591A\u6001\uFF1A\u540C\u4E00\u4E2A\u63A5\u53E3\u65B9\u6CD5\uFF0C\u4E0D\u540C\u7684\u5B9E\u73B0\uFF0C\u9ED1\u732B\u767D\u732B\uFF0C\u80FD\u6293\u8001\u9F20\u7684\u5C31\u662F\u732B",paraId:0,tocIndex:1},{value:"\u95ED\u5305\uFF1A\u51FD\u6570\u6267\u884C\u5B8C\u5176\u76F8\u5E94\u7684\u6267\u884C\u73AF\u5883\u9700\u8981\u88AB\u91CA\u653E\uFF0C\u800C\u8FD4\u56DE\u4E86\u8BE5\u51FD\u6570\uFF0C\u51FD\u6570\u5E76\u672A\u6D88\u4EA1\uFF0C\u5176\u6267\u884C\u73AF\u5883\u4E5F\u88AB\u4E00\u8D77\u7559\u5B58\u4E86\u4E0B\u6765\uFF0C\u4E0D\u4F1A\u88AB\u5783\u573E\u56DE\u6536\u91CA\u653E",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\uFF1A\u53D8\u91CF\u67E5\u627E\u8303\u56F4\u89C4\u5219\uFF0C\u6709\u5168\u5C40\u4F5C\u7528\u57DF\uFF0C\u51FD\u6570\u4F5C\u7528\u57DF\uFF0Clet\uFF0Cconst \u5757\u7EA7\u4F5C\u7528\u57DF",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\u94FE\uFF1A\u53D8\u91CF\u7684\u7531\u6700\u8FD1\u4F5C\u7528\u57DF\u5230\u6700\u8FDC\u4F5C\u7528\u57DF\uFF08\u5168\u5C40\u4F5C\u7528\u57DF\uFF09\u7684\u53D8\u91CF\u67E5\u627E\u89C4\u5219",paraId:0,tocIndex:1},{value:"\u539F\u578B\uFF1A\u5BF9\u8C61\u4E0A\u7684 prototype \u5C5E\u6027\u5BF9\u8C61\uFF0C\u5176 constructor \u7684\u503C\u5BF9\u5E94\u4E3A\u5BF9\u8C61\u672C\u8EAB",paraId:0,tocIndex:1},{value:"\u539F\u578B\u94FE\uFF1A\u5BF9\u8C61\u5728\u67E5\u627E\u53D8\u91CF\u548C\u65B9\u6CD5\u65F6\uFF0C\u5F53\u524D\u5BF9\u8C61\u4E0A\u6CA1\u6709\uFF0C\u5219\u901A\u8FC7 __proto** \u67E5\u627E\u5230\u4E0A\u4E00\u5C42\u7684 prototype \u4E0A\uFF0C\u6CA1\u67E5\u5230\u5C31\u518D\u62FC\u4E00\u5C42 __proto** \u76F4\u5230\u67E5\u627E null \u505C\u6B62\uFF0C\u6700\u7EC8\u672A\u627E\u5230\uFF0C\u8FD4\u56DE undefined",paraId:0,tocIndex:1},{value:"\u8BBE\u8BA1\u6A21\u5F0F\u6838\u5FC3\uFF1A\u5C06\u53D8\u7684\u548C\u4E0D\u53D8\u7684\u62C6\u79BB\u5F00",paraId:0,tocIndex:1},{value:"\u5E38\u7528\u573A\u666F\uFF1A",paraId:1,tocIndex:2},{value:"\u6570\u636E\u5E93\uFF0Credis \u8FDE\u63A5\uFF0C\u521B\u5EFA\u6839\u5143\u7D20",paraId:2,tocIndex:2},{value:"\u5B9E\u73B0\uFF1A",paraId:3,tocIndex:2},{value:"\u82E5\u6CA1\u6267\u884C\u8FC7\uFF0C\u5219\u6267\u884C\u4E14\u4FDD\u5B58\u7ED3\u679C",paraId:4,tocIndex:2},{value:"\u82E5\u6267\u884C\u8FC7\uFF08\u7ED3\u679C\u7F13\u5B58\u6709\u503C\uFF09\uFF0C\u8C03\u7528\u65F6\uFF0C\u76F4\u63A5\u8FD4\u56DE\u4E0A\u6B21\u7F13\u5B58\u7684\u7ED3\u679C",paraId:4,tocIndex:2},{value:`// \u901A\u7528\u83B7\u53D6\u5355\u4F8B\uFF0C\u9AD8\u9636\u51FD\u6570+\u95ED\u5305
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[904],{23522:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(86549),r={}},65575:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(22314),r={}},2932:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(52208),r={}},53017:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(16878),r={}},13591:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(49845),r={}},70532:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(64083),r={}},44428:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(44646),r={}},74847:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(84171),r={}},829:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(74573),r={}},19142:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(76692),r={}},95523:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(37132),r={}},5835:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(55152),r={}},96624:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(81005),r={}},74867:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(92688),r={}},55743:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(32897),r={}},11171:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(68537),r={}},67715:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(43648),r={}},29874:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(73550),r={}},46926:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(4299),r={}},90702:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(94807),r={}},16867:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(90142),r={}},46983:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(22695),r={}},47537:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(99920),r={}},48516:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(79825),r={}},11414:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(72830),r={}},86698:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(33127),r={}},81206:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(61831),r={}},85229:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(86549);const a=[{value:"\u5C01\u88C5\uFF1A\u5C01\u88C5\u53D8\u5316",paraId:0,tocIndex:1},{value:"\u7EE7\u627F\uFF1A\u7EE7\u627F\u901A\u7528\u5C5E\u6027\u548C\u65B9\u6CD5",paraId:0,tocIndex:1},{value:"\u591A\u6001\uFF1A\u540C\u4E00\u4E2A\u63A5\u53E3\u65B9\u6CD5\uFF0C\u4E0D\u540C\u7684\u5B9E\u73B0\uFF0C\u9ED1\u732B\u767D\u732B\uFF0C\u80FD\u6293\u8001\u9F20\u7684\u5C31\u662F\u732B",paraId:0,tocIndex:1},{value:"\u95ED\u5305\uFF1A\u51FD\u6570\u6267\u884C\u5B8C\u5176\u76F8\u5E94\u7684\u6267\u884C\u73AF\u5883\u9700\u8981\u88AB\u91CA\u653E\uFF0C\u800C\u8FD4\u56DE\u4E86\u8BE5\u51FD\u6570\uFF0C\u51FD\u6570\u5E76\u672A\u6D88\u4EA1\uFF0C\u5176\u6267\u884C\u73AF\u5883\u4E5F\u88AB\u4E00\u8D77\u7559\u5B58\u4E86\u4E0B\u6765\uFF0C\u4E0D\u4F1A\u88AB\u5783\u573E\u56DE\u6536\u91CA\u653E",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\uFF1A\u53D8\u91CF\u67E5\u627E\u8303\u56F4\u89C4\u5219\uFF0C\u6709\u5168\u5C40\u4F5C\u7528\u57DF\uFF0C\u51FD\u6570\u4F5C\u7528\u57DF\uFF0Clet\uFF0Cconst \u5757\u7EA7\u4F5C\u7528\u57DF",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\u94FE\uFF1A\u53D8\u91CF\u7684\u7531\u6700\u8FD1\u4F5C\u7528\u57DF\u5230\u6700\u8FDC\u4F5C\u7528\u57DF\uFF08\u5168\u5C40\u4F5C\u7528\u57DF\uFF09\u7684\u53D8\u91CF\u67E5\u627E\u89C4\u5219",paraId:0,tocIndex:1},{value:"\u539F\u578B\uFF1A\u5BF9\u8C61\u4E0A\u7684 prototype \u5C5E\u6027\u5BF9\u8C61\uFF0C\u5176 constructor \u7684\u503C\u5BF9\u5E94\u4E3A\u5BF9\u8C61\u672C\u8EAB",paraId:0,tocIndex:1},{value:"\u539F\u578B\u94FE\uFF1A\u5BF9\u8C61\u5728\u67E5\u627E\u53D8\u91CF\u548C\u65B9\u6CD5\u65F6\uFF0C\u5F53\u524D\u5BF9\u8C61\u4E0A\u6CA1\u6709\uFF0C\u5219\u901A\u8FC7 __proto** \u67E5\u627E\u5230\u4E0A\u4E00\u5C42\u7684 prototype \u4E0A\uFF0C\u6CA1\u67E5\u5230\u5C31\u518D\u62FC\u4E00\u5C42 __proto** \u76F4\u5230\u67E5\u627E null \u505C\u6B62\uFF0C\u6700\u7EC8\u672A\u627E\u5230\uFF0C\u8FD4\u56DE undefined",paraId:0,tocIndex:1},{value:"\u8BBE\u8BA1\u6A21\u5F0F\u6838\u5FC3\uFF1A\u5C06\u53D8\u7684\u548C\u4E0D\u53D8\u7684\u62C6\u79BB\u5F00",paraId:0,tocIndex:1},{value:"\u5E38\u7528\u573A\u666F\uFF1A",paraId:1,tocIndex:2},{value:"\u6570\u636E\u5E93\uFF0Credis \u8FDE\u63A5\uFF0C\u521B\u5EFA\u6839\u5143\u7D20",paraId:2,tocIndex:2},{value:"\u5B9E\u73B0\uFF1A",paraId:3,tocIndex:2},{value:"\u82E5\u6CA1\u6267\u884C\u8FC7\uFF0C\u5219\u6267\u884C\u4E14\u4FDD\u5B58\u7ED3\u679C",paraId:4,tocIndex:2},{value:"\u82E5\u6267\u884C\u8FC7\uFF08\u7ED3\u679C\u7F13\u5B58\u6709\u503C\uFF09\uFF0C\u8C03\u7528\u65F6\uFF0C\u76F4\u63A5\u8FD4\u56DE\u4E0A\u6B21\u7F13\u5B58\u7684\u7ED3\u679C",paraId:4,tocIndex:2},{value:`// \u901A\u7528\u83B7\u53D6\u5355\u4F8B\uFF0C\u9AD8\u9636\u51FD\u6570+\u95ED\u5305
 function getSingle(callback) {
   let singleInstance;
 
@@ -571,7 +571,436 @@ console.log(response.data);
 `,paraId:27,tocIndex:5},{value:"renderer \u91CC\u76F4\u63A5\u6DFB\u52A0 video \u6807\u7B7E\uFF0C\u670D\u52A1\u7AEF\u4F7F\u7528 range \u7684\u65B9\u5F0F 206 \u54CD\u5E94\u8FD4\u56DE\uFF0C\u89C6\u9891\u80FD\u591F\u8FB9\u4E0B\u8FB9\u64AD\uFF0C\u5FEB\u8FDB\u540E\u9000\u64AD\u653E",paraId:28,tocIndex:6},{value:"renderer \u91CC\u914D\u7F6E\u8BF7\u6C42\u5730\u5740\uFF0C\u8BF7\u6C42\u4E0D\u80FD\u53D1\u9001\u8BC1\u4E66\u76F8\u5173\u4FE1\u606F\uFF0C\u53EF\u4EE5\u5C06\u8BC1\u4E66\u4FE1\u606F\u8F6C\u4E3A\u5B57\u7B26\u4E32\u53D1\u9001\u518D\u53BB\u6821\u9A8C\uFF0C\u6709\u70B9\u9E21\u808B",paraId:28,tocIndex:6},{value:"\u53EA\u6709 main \u8FDB\u7A0B\u91CC\u4F7F\u7528 axios \u53D1\u9001\u8BC1\u4E66\u76F8\u5173\u4FE1\u606F\uFF0Cmain \u8FDB\u7A0B\u53EF\u4EE5\u4F7F\u7528\u8BC1\u4E66\u7684\u65B9\u5F0F\u6765\u8BF7\u6C42\u89C6\u9891\u6D41\uFF0C\u4F46\u662F\u8981\u7ED9 renderer \u8FDB\u7A0B\u64AD\u653E\uFF0C\u9700\u8981\u5148\u5206\u7247\u4FDD\u5B58\uFF0C\u518D renderer \u8BF7\u6C42\u4E3B\u8FDB\u7A0B\uFF0C\u4E3B\u8FDB\u7A0B\u518D\u8FD4\u56DE\u5206\u7247\u4FE1\u606F\uFF0C\u6709\u70B9\u7ED5\uFF0C\u8FC7\u7A0B\u591A\u4E00\u5C42\u4E5F\u5C31\u591A\u4E00\u5C42\u6D88\u8017\u548C\u590D\u6742\u5EA6\uFF0C\u5BB9\u6613\u51FA bug",paraId:28,tocIndex:6},{value:"\u6298\u4E2D\u5904\u7406\u65B9\u6848\u4E00\uFF0C\u5168\u5C40\u7684\u5148\u975E\u5BF9\u79F0\u5B9E\u73B0 AES \u7684 key \u7684\u4EA4\u6362\uFF0C\u540E\u7EED\u8BF7\u6C42\u5168\u4F7F\u7528\u5BF9\u79F0 AES \u52A0\u5BC6\uFF0C\u7C7B\u4F3C\u6D4F\u89C8\u5668 https \u6D41\u7A0B\uFF0C\u5728\u89C6\u9891\u8BF7\u6C42\u65F6\uFF0C\u4E5F\u4E00\u5E76\u63D0\u4EA4 AES \u52A0\u5BC6\u7684\u7528\u6237\u9A8C\u8BC1\u4FE1\u606F",paraId:28,tocIndex:6},{value:"\u6298\u4E2D\u5904\u7406\u65B9\u6848\u4E8C\uFF0C\u5728\u8BF7\u6C42\u89C6\u9891\u5730\u5740\u65F6\uFF0C\u5148\u4F7F\u7528 https \u4EA4\u6362\u83B7\u53D6\u4E34\u65F6\u7684\u89C6\u9891\u64AD\u653E\u5730\u5740\uFF0C\u7136\u540E\u518D\u4F7F\u7528\u4E34\u65F6\u89C6\u9891\u5730\u5740\u64AD\u653E",paraId:28,tocIndex:6},{value:"\u52A0\u56FA\u65B9\u6848\uFF1A\u6BCF\u6B21\u8BF7\u6C42\u6DFB\u52A0\u8BF7\u6C42\u9012\u589E\u7D22\u5F15\uFF0C\u6BCF\u4E2A\u8BF7\u6C42\u6709\u4E2A\u552F\u4E00\u7684 id\uFF0C\u4E00\u4E2A sign \u53EA\u80FD\u4F7F\u7528\u4E00\u6B21\uFF0C\u8BF7\u6C42\u65F6\u95F4\u6233 5 \u79D2\u5916\u5931\u6548",paraId:28,tocIndex:6},{value:`go run mock-https/main.go
 
 cd electron && npm run dev
-`,paraId:29,tocIndex:6},{value:"\u5BA2\u6237\u7AEF\u4F20\u9012 CA \u548C client.crt \u7ED9\u670D\u52A1\u5668\u7AEF\uFF0C\u670D\u52A1\u5668\u4F7F\u7528 CA \u548C server.crt\uFF0C\u5339\u914D\u540E\u6B63\u786E\u54CD\u5E94\uFF0C\u4E5F\u53EF\u4EE5\u53EA\u5339\u914D CA\uFF0C\u4F46\u662F\u5C31\u5931\u53BB\u4E86\u610F\u4E49\uFF0C\u56E0\u4E3A\u5BA2\u6237\u7AEF\u4FDD\u5B58\u6709 CA\uFF0C\u5BB9\u6613\u88AB\u89E3\u5305\u62FF\u5230 CA \u8BC1\u4E66",paraId:30,tocIndex:7},{value:"CA \u8BC1\u4E66\u4F7F\u7528\u5BC6\u94A5\u52A0\u5BC6\uFF0C\u800C\u5BF9\u5E94\u7684 server.crt\uFF0C\u662F\u901A\u8FC7 CA \u8BC1\u4E66\u6765\u7B7E\u540D\u751F\u6210\uFF0C\u53EA\u6709\u77E5\u9053 CA \u8BC1\u4E66\u7684\u5BC6\u94A5\uFF0C\u624D\u80FD\u4F7F\u7528 CA \u8BC1\u4E66\u6765\u751F\u6210\u5BF9\u5E94\u7684 server.crt",paraId:30,tocIndex:7},{value:"server.crt \u53EA\u4FDD\u5B58\u5728\u670D\u52A1\u7AEF\uFF0C\u4E0D\u4F1A\u66B4\u9732\u7ED9 C \u7AEF\uFF0C\u6240\u4EE5\u4E2D\u95F4\u62E6\u622A\u8005\uFF0C\u6CA1\u6709 server.crt \u4E0D\u80FD\u6B63\u786E\u89E3\u6790\u8BF7\u6C42\u4F53\uFF0C\u662F\u5426\u4E5F\u8868\u793A\u5C31\u4E0D\u80FD\u4F2A\u9020\u7528\u6237\u539F\u6837\u7684\u6570\u636E\u4EE3\u7406\u53D1\u9001\u7ED9\u670D\u52A1\u7AEF\uFF1F",paraId:30,tocIndex:7},{value:"\u662F\u5426\u6709\u5176\u4ED6\u6F5C\u5728\u88AB\u7834\u89E3\u7684\u98CE\u9669\uFF1F",paraId:30,tocIndex:7},{value:"\u6BCF\u6B21\u8BF7\u6C42\u90FD\u8981\u4F20\u9012\u5BF9\u5E94\u8BC1\u4E66\uFF0C\u662F\u5426\u5BF9\u8BF7\u6C42\u4F53\u5927\u5C0F\uFF0C\u8BF7\u6C42\u65F6\u95F4\u6709\u6BD4\u8F83\u5927\u7684\u5F71\u54CD\uFF1F",paraId:30,tocIndex:7}]},8993:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(74573);const a=[{value:"HLS\uFF08HTTP Live Streaming\uFF09\uFF0CHTTP \u5B9E\u65F6\u6D41\u5A92\u4F53\uFF0C\u4F7F\u7528 .m3u8 \u7D22\u5F15\u6587\u4EF6\u548C .ts \u6587\u4EF6\uFF08\u82F9\u679C\u516C\u53F8\uFF09",paraId:0,tocIndex:1},{value:"RTMP\uFF08Real-Time Messaging Protocol\uFF09,\u5B9E\u65F6\u6D41\u5A92\u4F53\u4F20\u8F93\u534F\u8BAE\uFF08 Adobe Flash \u4E2D\u4F20\u8F93\u97F3\u9891\u3001\u89C6\u9891\u548C\u6570\u636E\u3002\u5B83\u4F7F\u7528 TCP \u8FDB\u884C\u4F20\u8F93\uFF0C\u652F\u6301\u4F4E\u5EF6\u8FDF\u7684\u5B9E\u65F6\u6D41\u5A92\u4F53\u4F20\u8F93\uFF09",paraId:0,tocIndex:1},{value:"RTSP\uFF08Real-Time Streaming Protocol\uFF09\uFF0C\u7F51\u7EDC\u63A7\u5236\u534F\u8BAE\uFF0C\u7528\u4E8E\u63A7\u5236\u591A\u5A92\u4F53\u670D\u52A1\u5668\u53D1\u9001\u6D41\u5A92\u4F53\u6570\u636E\u3002\u5B83\u901A\u5E38\u4E0E RTP\uFF08Real-Time Transport Protocol\uFF09\u7ED3\u5408\u4F7F\u7528\uFF0CRTP \u7528\u4E8E\u5B9E\u9645\u4F20\u8F93\u97F3\u9891\u548C\u89C6\u9891\u6570\u636E",paraId:0,tocIndex:1},{value:"DASH\uFF08Dynamic Adaptive Streaming over HTTP\uFF09\uFF0C\u7531 MPEG \u5F00\u53D1\u7684\u4E00\u79CD\u52A8\u6001\u81EA\u9002\u5E94\u6D41\u5A92\u4F53\u4F20\u8F93\u534F\u8BAE\uFF0C\u652F\u6301\u591A\u79CD\u7F16\u89E3\u7801\u5668\u548C\u5BB9\u5668\u683C\u5F0F\uFF0C\u80FD\u591F\u5728\u4E0D\u540C\u7684\u5E26\u5BBD\u548C\u8BBE\u5907\u6761\u4EF6\u4E0B\u52A8\u6001\u8C03\u6574\u89C6\u9891\u8D28\u91CF",paraId:0,tocIndex:1},{value:"mac \u4E0B\u8F7D ",paraId:1,tocIndex:2},{value:"https://evermeet.cx/ffmpeg/ffmpeg-7.0.1.7z",paraId:1,tocIndex:2},{value:"\u89E3\u538B\u540E\uFF0C\u5C06 ffmpeg \u53EF\u6267\u884C\u6587\u4EF6\uFF0C\u590D\u5236\u5230 /usr/local/ffmpeg \u6587\u4EF6\u5939\uFF08\u6CA1\u6709\u8FD9\u4E2A\u6587\u4EF6\u5939\u5219\u65B0\u5EFA\u4E00\u4E2A\uFF09\u4E0B",paraId:1,tocIndex:2},{value:"\u914D\u7F6E\u73AF\u5883\u53D8\u91CF\uFF0Cvi ~/.zshrc",paraId:1,tocIndex:2},{value:"\u6DFB\u52A0\u547D\u4EE4 export PATH=/usr/local/ffmpeg/:$PATH",paraId:1,tocIndex:2},{value:"\u4F7F\u547D\u4EE4\u884C\u751F\u6548\uFF0Csource ~/.zshrc",paraId:1,tocIndex:2},{value:"\u6D4B\u8BD5\u662F\u5426\u6210\u529F\uFF0C\u5728\u547D\u4EE4\u884C\u8F93\u5165 ffmpeg help",paraId:1,tocIndex:2},{value:"window,linux \u540C\u7406\uFF0C\u4E0B\u8F7D\u540E\u914D\u7F6E\u73AF\u5883\u53D8\u91CF",paraId:1,tocIndex:2},{value:"\u5C06\u89C6\u9891\u6309\u5E27\u63D0\u53D6\u56FE\u7247",paraId:2,tocIndex:3},{value:`ffmpeg -i test.mp4 -vf "fps=1" test/thumbnail_%04d.png
+`,paraId:29,tocIndex:6},{value:"\u5BA2\u6237\u7AEF\u4F20\u9012 CA \u548C client.crt \u7ED9\u670D\u52A1\u5668\u7AEF\uFF0C\u670D\u52A1\u5668\u4F7F\u7528 CA \u548C server.crt\uFF0C\u5339\u914D\u540E\u6B63\u786E\u54CD\u5E94\uFF0C\u4E5F\u53EF\u4EE5\u53EA\u5339\u914D CA\uFF0C\u4F46\u662F\u5C31\u5931\u53BB\u4E86\u610F\u4E49\uFF0C\u56E0\u4E3A\u5BA2\u6237\u7AEF\u4FDD\u5B58\u6709 CA\uFF0C\u5BB9\u6613\u88AB\u89E3\u5305\u62FF\u5230 CA \u8BC1\u4E66",paraId:30,tocIndex:7},{value:"CA \u8BC1\u4E66\u4F7F\u7528\u5BC6\u94A5\u52A0\u5BC6\uFF0C\u800C\u5BF9\u5E94\u7684 server.crt\uFF0C\u662F\u901A\u8FC7 CA \u8BC1\u4E66\u6765\u7B7E\u540D\u751F\u6210\uFF0C\u53EA\u6709\u77E5\u9053 CA \u8BC1\u4E66\u7684\u5BC6\u94A5\uFF0C\u624D\u80FD\u4F7F\u7528 CA \u8BC1\u4E66\u6765\u751F\u6210\u5BF9\u5E94\u7684 server.crt",paraId:30,tocIndex:7},{value:"server.crt \u53EA\u4FDD\u5B58\u5728\u670D\u52A1\u7AEF\uFF0C\u4E0D\u4F1A\u66B4\u9732\u7ED9 C \u7AEF\uFF0C\u6240\u4EE5\u4E2D\u95F4\u62E6\u622A\u8005\uFF0C\u6CA1\u6709 server.crt \u4E0D\u80FD\u6B63\u786E\u89E3\u6790\u8BF7\u6C42\u4F53\uFF0C\u662F\u5426\u4E5F\u8868\u793A\u5C31\u4E0D\u80FD\u4F2A\u9020\u7528\u6237\u539F\u6837\u7684\u6570\u636E\u4EE3\u7406\u53D1\u9001\u7ED9\u670D\u52A1\u7AEF\uFF1F",paraId:30,tocIndex:7},{value:"\u662F\u5426\u6709\u5176\u4ED6\u6F5C\u5728\u88AB\u7834\u89E3\u7684\u98CE\u9669\uFF1F",paraId:30,tocIndex:7},{value:"\u6BCF\u6B21\u8BF7\u6C42\u90FD\u8981\u4F20\u9012\u5BF9\u5E94\u8BC1\u4E66\uFF0C\u662F\u5426\u5BF9\u8BF7\u6C42\u4F53\u5927\u5C0F\uFF0C\u8BF7\u6C42\u65F6\u95F4\u6709\u6BD4\u8F83\u5927\u7684\u5F71\u54CD\uFF1F",paraId:30,tocIndex:7},{value:"\u5728 mac\uFF0C\u53CC\u51FB ca.crt\uFF0C\u53EF\u4EE5\u5728\u94A5\u5319\u4E32\u8BBF\u95EE\u91CC\uFF0C\u8BBE\u7F6E\u59CB\u7EC8\u4FE1\u4EFB",paraId:30,tocIndex:7},{value:`# \u5BA2\u6237\u7AEF
+cd electron && npm run dev
+
+# \u670D\u52A1\u7AEF\uFF08go\uFF09
+go run mock-https/main.go
+
+# \u670D\u52A1\u7AEF\uFF08nodejs\uFF09
+# https\u670D\u52A1
+cd koa-serve && node main-https.js
+# http\u670D\u52A1
+cd koa-serve && node main.js
+`,paraId:31,tocIndex:8},{value:"new MediaSource \u5B9E\u4F8B\u5316 =\u300B mediaSourceInstance",paraId:32,tocIndex:9},{value:"\u5C06 mediaSourceInstance \u4F7F\u7528 URL.createObjectURL \u8F6C blob \u5730\u5740\uFF0Cvideo \u7684 src \u8BBE\u7F6E\u4E3A\u8FD9\u4E2A blob \u5730\u5740",paraId:32,tocIndex:9},{value:"mediaSourceInstance \u76D1\u542C sourceopen , \u56DE\u8C03\u4E8B\u4EF6\u4F7F\u7528 addSourceBuffer \u751F\u6210 sourceBuffer,sourceBuffer \u76D1\u542C updateend \u548C error \u4E8B\u4EF6",paraId:32,tocIndex:9},{value:"updateend \u4E8B\u4EF6\u5904\u7406\u5728\u4E00\u4E2A\u5206\u7247 buffer \u52A0\u8F7D\u6210\u529F\u540E\u7684\u56DE\u8C03\uFF0C\u53EF\u4EE5\u7EE7\u7EED\u52A0\u8F7D\u4E0B\u4E00\u7247 buffer\uFF0C\u76F4\u5230\u5206\u7247 buffer \u5168\u90E8\u52A0\u8F7D\u5B8C\u6BD5\uFF0CmediaSourceInstance.endOfStream() \u5173\u95ED\u6570\u636E\u6D41",paraId:32,tocIndex:9},{value:"\u4EE3\u7801\u793A\u4F8B\u4E2D\u5C06 Media Source \u7684\u4F7F\u7528\u5C01\u88C5\u4E86\uFF0C\u5982\u4E0B\u4F7F\u7528",paraId:33,tocIndex:9},{value:`const sliceMediaSourcePlayer = new MediaSourcePlayer({
+  videoUrl: 'https://\u89C6\u9891\u5730\u5740',
+  onUpdateEnd() {
+    console.log('\u81EA\u5B9A\u4E49\u5355\u5206\u7247\u52A0\u8F7D\u5B8C\u6BD5\u56DE\u8C03');
+    // \u52A0\u8F7D\u4E0B\u4E00\u4E2A\u5206\u7247
+    sliceMediaSourcePlayer.insertNextSlice();
+  },
+  onEnd() {
+    console.log('\u6240\u6709\u5206\u7247\u52A0\u8F7D\u5B8C\u6BD5\u56DE\u8C03');
+    sliceMediaSourcePlayer.end();
+  },
+});
+const video = document.getElementById('video');
+video.src = sliceMediaSourcePlayer.blobUrl;
+sliceMediaSourcePlayer.run();
+`,paraId:34,tocIndex:9},{value:"\u6CE8\u610F\u70B9\uFF1A",paraId:35,tocIndex:9},{value:"\u4E0D\u662F\u6240\u6709\u89C6\u9891\u90FD\u80FD\u652F\u6301\u5206\u7247\u64AD\u653E\uFF0C\u5177\u4F53\u652F\u6301\u54EA\u79CD\u683C\u5F0F\u7684\uFF0C\u5F85\u8FDB\u4E00\u6B65\u8C03\u7814\u6574\u7406",paraId:36,tocIndex:9},{value:"\u5206\u7247\u9519\u4E71\u62FC\u63A5\uFF0C\u5E76\u4E0D\u80FD\u64AD\u653E\uFF0C\u662F\u4E0D\u652F\u6301\uFF0C\u8FD8\u662F\u4F7F\u7528\u4E0A\u6709\u95EE\u9898\uFF0C\u5F85\u6574\u7406",paraId:36,tocIndex:9},{value:`# \u5BA2\u6237\u7AEF
+cd web && http-server
+
+# \u670D\u52A1\u7AEF
+cd koa-serve && node main.js
+`,paraId:37,tocIndex:10},{value:"\u5DF2\u77E5\u7684\u652F\u6301\u7684 Media Source \u64AD\u653E\u7684 mp4 \u7684\u8F6C\u7801\u683C\u5F0F\u662F dash \uFF0C\u53EF\u4EE5\u4F7F\u7528 ffmpeg \u5C06\u666E\u901A mp4 \u8F6C\u6210 dash",paraId:38,tocIndex:10},{value:`
+DASH\uFF08Dynamic Adaptive Streaming over HTTP\uFF09`,paraId:38,tocIndex:10},{value:`ffmpeg -i input.mp4 -c:v libx264 -c:a aac -movflags +frag_keyframe+empty_moov+default_base_moof -f mp4 output_dash.mp4
+`,paraId:39,tocIndex:10},{value:"\u53C2\u6570\u8BF4\u660E\uFF1A",paraId:40,tocIndex:10},{value:`-i input.mp4: \u8F93\u5165\u7684 MP4 \u6587\u4EF6\u3002
+-c:v libx264: \u4F7F\u7528 H.264 \u7F16\u7801\u5668\u8FDB\u884C\u89C6\u9891\u7F16\u7801\u3002
+-c:a aac: \u4F7F\u7528 AAC \u7F16\u7801\u5668\u8FDB\u884C\u97F3\u9891\u7F16\u7801\u3002
+-movflags +frag_keyframe+empty_moov+default_base_moof:
++frag_keyframe: \u5728\u5173\u952E\u5E27\u5904\u521B\u5EFA\u7247\u6BB5\uFF0C\u786E\u4FDD\u6BCF\u4E2A\u7247\u6BB5\u4EE5\u5173\u952E\u5E27\u5F00\u59CB\u3002
++empty_moov: \u5728\u6587\u4EF6\u5F00\u5934\u751F\u6210\u4E00\u4E2A\u7A7A\u7684 moov \u5757\uFF0C\u8FD9\u5BF9\u4E8E\u6D41\u5A92\u4F53\u64AD\u653E\u975E\u5E38\u91CD\u8981\u3002
++default_base_moof: \u4F7F\u7528\u9ED8\u8BA4\u7684 moof \u57FA\u51C6\uFF0C\u8FD9\u6709\u52A9\u4E8E\u786E\u4FDD\u7247\u6BB5\u6B63\u786E\u6392\u5217\u3002
+-f mp4: \u6307\u5B9A\u8F93\u51FA\u683C\u5F0F\u4E3A MP4\u3002
+output_dash.mp4: \u8F93\u51FA\u7684 MP4 \u6587\u4EF6\u540D\u3002
+`,paraId:41,tocIndex:10}]},92195:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(44646);const a=[{value:"electron-starter",paraId:0,tocIndex:1},{value:"\u4E3B\u8981\u4ECE on\uFF0Cemit\uFF0Coff \u7684\u65B9\u5F0F\u8F6C\u5316\u4E3A\u56DE\u8C03\u65B9\u5F0F\u7684\u65B9\u5F0F\uFF0C\u81EA\u52A8 off \u5173\u95ED\u76D1\u542C\uFF0C\u4F7F\u8C03\u7528\u6D41\u7A0B\u66F4\u7EBF\u6027\u76F4\u89C2",paraId:1,tocIndex:2},{value:`import ipcHelperUtil from '../utils/ipc-helper.util';
+
+// \u5355\u6B21\u6267\u884C\u5E76\u7ED3\u675F
+function handleOpenDevtool() {
+  ipcHelperUtil.ipcRun('toggleDevTools', {}, (result) => {
+    console.log(result, '\u5207\u6362\u6210\u529F');
+  });
+}
+
+// \u6267\u884C\u5E76\u6301\u7EED\u76D1\u542C\u6D88\u606F\u54CD\u5E94
+function watchAutoUpdateInfo() {
+  ipcHelperUtil.ipcWatch('watchAutoUpdateInfo', {}, (res) => {
+    const { event, data } = res;
+    console.log(res, 'Home.vue::64\u884C');
+  });
+}
+
+// src/renderer/events/event-handler.ts \u63D0\u4F9B\u65B9\u6CD5 main \u8FDB\u7A0B\u76F4\u63A5\u8C03\u7528
+export function showNotice(result) {
+  ElMessage(result);
+}
+`,paraId:2,tocIndex:2},{value:"\u4E00\u4E2A\u52A8\u4F5C\u4E00\u6761\u4FE1\u606F\uFF0C\u7ED9\u4E00\u4E2A actionId\uFF0C\u901A\u8FC7\u8FD9\u4E2A actionId \u6765\u5B9A\u4F4D\u7ED1\u5B9A\u5230\u521D\u59CB\u5316\u65F6\u7684\u56DE\u8C03\u65B9\u6CD5\uFF0Cmain \u8FDB\u7A0B\u5904\u7406\u4E5F\u4F1A\u643A\u5E26\u8FD9\u4E2A actionId \u8FDB\u884C\u5904\u7406\uFF0C\u4EE5\u53CA\u54CD\u5E94\u8FD4\u56DE\uFF0C\u5168\u7A0B\u4EE5 actionId \u4E3A\u5339\u914D\u5173\u7CFB\uFF0C\u800C\u4E0D\u662F ipc \u7684 event\uFF0C\u800C\u8FD9\u4E2A\u8FC7\u7A0B\u5C01\u88C5\u5728 renderer \u7684 emit \u548C main \u7684 ipc \u7684 on \u76D1\u542C\u4E2D",paraId:3,tocIndex:3},{value:"renderer \u8FDB\u7A0B",paraId:4,tocIndex:3},{value:`function ipcRun(action: EventAction, options = {}, callback?) {
+  if (!isInitFlag) _initEventListener();
+  const actionId = uuidv4();
+  listenerMap[actionId] = (...args) => {
+    callback && callback(...args);
+    return true; // \u8FD4\u56DEtrue\uFF0C\u7528\u6765\u6807\u8BC6\u53EF\u4EE5\u5220\u9664\u4E8B\u4EF6\uFF0C\u4EC5\u76D1\u542C\u4E00\u6B21
+  };
+  $electron.$emit(action, { ...options, actionId });
+}
+`,paraId:5,tocIndex:3},{value:"main \u8FDB\u7A0B",paraId:6,tocIndex:3},{value:`// \u76D1\u542C\u4ECEpreload\u4F20\u9012\u7684\u6D88\u606F
+ipcMain.on('preload', async (event, action, options) => {
+  if (!action) {
+    throw '\u8BF7\u4F20\u5165action\u53C2\u6570';
+  }
+  if (action && eventHandlerFuncs[action]) {
+    try {
+      const senderWebContents = event.sender;
+      const senderWindow = BrowserWindow.fromWebContents(senderWebContents);
+      let result = await eventHandlerFuncs[action](options, senderWindow);
+      senderWebContents.send('replyRenderer', {
+        action,
+        result: data,
+        actionId: options.actionId,
+      });
+    } catch (error) {
+      console.log(error);
+    }
+  } else {
+    throw \`action\u4E3A\${action},\u672A\u627E\u5230\u8BE5action\u7684\u65B9\u6CD5,\u8BF7\u68C0\u67E5\`;
+  }
+});
+`,paraId:7,tocIndex:3},{value:`export function watchAutoUpdateInfo() {
+  return (send) => {
+    initVersionUpdater(send);
+  };
+}
+
+// \u68C0\u67E5\u66F4\u65B0
+export function checkUpdateInfo() {
+  checkAppVersion();
+}
+
+// \u786E\u8BA4\u4E0B\u8F7D\u66F4\u65B0
+export function downloadLatestApp() {
+  downloadAppNow();
+}
+
+// \u5B89\u88C5\u66F4\u65B0
+export function installLatestApp() {
+  installAppNow();
+}
+`,paraId:8,tocIndex:5},{value:`function watchAutoUpdateInfo() {
+  ipcHelperUtil.ipcWatch('watchAutoUpdateInfo', {}, (res) => {
+    const { event, data } = res;
+    switch (event) {
+      case 'update-available':
+        console.log('\u6709\u66F4\u65B0\u53EF\u7528');
+        break;
+      case 'download-progress':
+        console.log('\u66F4\u65B0\u4E0B\u8F7D\u7684\u8FDB\u5EA6\u6761\u66F4\u65B0');
+        break;
+      case 'update-downloaded':
+        console.log('\u66F4\u65B0\u5305\u4E0B\u8F7D\u5B8C\u6BD5');
+        break;
+      default:
+        break;
+    }
+  });
+}
+
+// \u68C0\u67E5\u662F\u5426\u6709\u6700\u65B0\u7684\u5B89\u88C5\u5305
+function checkUpdate() {
+  ipcHelperUtil.ipcRun('checkUpdateInfo');
+}
+
+// \u5F00\u59CB\u4E0B\u8F7D\u5B89\u88C5\u5305
+function downloadUpdateNow() {
+  ipcHelperUtil.ipcRun('downloadLatestApp');
+}
+
+// \u5F00\u59CB\u5B89\u88C5\u5B89\u88C5\u5305
+function installLatestApp() {
+  ipcHelperUtil.ipcRun('installLatestApp');
+}
+
+onMounted(() => {
+  watchAutoUpdateInfo();
+});
+`,paraId:9,tocIndex:6},{value:"\u6CE8\u610F\u70B9\uFF1A",paraId:10,tocIndex:6},{value:"\u521D\u59CB\u5316\u65F6\uFF0C\u8981\u8BBE\u7F6E\u81EA\u52A8\u4E0B\u8F7D\u4E3A false\uFF0C\u5426\u5219\u4F1A\u81EA\u52A8\u4E0B\u8F7D",paraId:11,tocIndex:6},{value:`const updaterFeedUrl = isDevelopment
+  ? 'http://192.168.1.103:8081/'
+  : 'https://xxxxx/';
+
+autoUpdater.setFeedURL(updaterFeedUrl);
+autoUpdater.autoDownload = false;
+`,paraId:12,tocIndex:6},{value:"autoUpdater \u7684\u4E8B\u4EF6\u76D1\u542C\u53EA\u9700\u8981\u521D\u59CB\u5316\u4E00\u6B21\uFF0C\u56DE\u5E94\u7684\u6D88\u606F\u4F1A\u662F\u591A\u6761\uFF0C\u9700\u8981 renderer \u4F7F\u7528 ipcWatch \u6301\u7EED\u76D1\u542C",paraId:13,tocIndex:6},{value:"mac \u7684\u81EA\u52A8\u66F4\u65B0\u5B89\u88C5\uFF0C\u9700\u8981\u7B7E\u540D\uFF0C\u6CA1\u7B7E\u540D\u7684\u4E0D\u80FD\u81EA\u52A8\u5B89\u88C5",paraId:13,tocIndex:6}]},72811:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(84171);const a=[{value:"\u5F00\u542F\u7985\u6A21\u5F0F\u540E\uFF0C\u754C\u9762\u53EA\u6709\u4E00\u4E2A\u5F53\u524D\u7F29\u653E\u6BD4\u4F8B\u7684\u63A7\u5236\u5668\uFF08\u8FD9\u4E2A\u5176\u5B9E\u4E5F\u53EF\u4EE5\u53BB\u6389\uFF09",paraId:0,tocIndex:0},{value:"\u652F\u6301\u4E2D\u6587\u5B57\u4F53",paraId:1,tocIndex:1},{value:"\u652F\u6301\u670D\u52A1\u7AEF\u4FDD\u5B58\u6587\u4EF6",paraId:1,tocIndex:1},{value:"\u8BFB\u53D6\u8FDC\u7AEF\u6587\u4EF6\u5217\u8868\uFF0C\u641C\u7D22\u548C\u521B\u5EFA\u65B0\u6587\u4EF6\uFF0C\u7F16\u8F91\u6587\u4EF6\uFF0C\u66F4\u65B0\u6587\u4EF6",paraId:1,tocIndex:1},{value:"\u4F7F\u7528\u5FEB\u6377\u952E\uFF0C\u5C06\u9875\u9762\u591A\u4F59\u5143\u7D20\uFF0C\u5168\u90E8\u9690\u85CF,\u6E05\u723D",paraId:1,tocIndex:1},{value:"excalidraw-app/index.scss",paraId:2,tocIndex:2},{value:"packages/excalidraw/components/SceneFileListDialog.tsx",paraId:2,tocIndex:2},{value:"excalidraw-app/helpers.ts",paraId:2,tocIndex:2},{value:"packages/excalidraw/components/app.tsx",paraId:2,tocIndex:2},{value:"excalidraw-app/data/index.ts",paraId:2,tocIndex:2},{value:"excalidraw-app/app.tsx",paraId:2,tocIndex:2},{value:".env.development \u548C .env.production",paraId:2,tocIndex:2},{value:"packages/excalidraw/constants.ts",paraId:2,tocIndex:2},{value:"packages/excalidraw/fonts/index.ts",paraId:2,tocIndex:2},{value:"packages/excalidraw/fonts/metadata.ts",paraId:2,tocIndex:2},{value:"\u62C9\u53D6\u8FDC\u7A0B\u4EE3\u7801",paraId:3,tocIndex:3},{value:`git clone https://github.com/excalidraw/excalidraw
+`,paraId:4,tocIndex:3},{value:"\u914D\u7F6E\u73AF\u5883\u53D8\u91CF",paraId:5,tocIndex:3},{value:".env.development",paraId:6,tocIndex:3},{value:".env.production",paraId:6,tocIndex:3},{value:`VITE_APP_BACKEND_V2_GET_URL=http://localhost:8008/excalidraw/
+VITE_APP_BACKEND_V2_POST_URL=http://localhost:8008/excalidraw/
+VITE_APP_BACKEND_V2_TOKEN=xxxxx
+`,paraId:7,tocIndex:3},{value:"\u4FEE\u6539\u6587\u4EF6\u8BFB\u53D6\u548C\u4FDD\u5B58\u903B\u8F91",paraId:8,tocIndex:3},{value:"excalidraw-app/app.tsx \u4E2D\u521D\u59CB\u5316\u8BFB\u53D6\u573A\u666F\uFF0CinitializeScene \u65B9\u6CD5",paraId:9,tocIndex:3},{value:`const initializeScene = async () => {
+  // \u8BFB\u53D6hash\u4E2D\u7684id\u53C2\u6570
+  const id = getUrlHashValueByKey('id') || searchParams.get('id');
+
+  // ...\u5176\u4ED6\u4EE3\u7801
+  if (isExternalScene) {
+    if (id) {
+      // \u5176\u4E2D\u7B2C\u4E8C\u4E2A\u53C2\u6570private_key\uFF0C\u65E0\u610F\u4E49\uFF0C\u53EA\u662F\u4E0D\u6539\u53C2\u6570\u4F20\u9012\u903B\u8F91
+      scene = await loadScene(id, \`private_key\`, localDataState);
+      scene.scrollToContent = true;
+    }
+  }
+  // ...\u5176\u4ED6\u4EE3\u7801
+};
+`,paraId:10,tocIndex:3},{value:"excalidraw-app/data/index.ts \u6539\u5199 loadScene \u548C importFromBackend \u65B9\u6CD5",paraId:11,tocIndex:3},{value:`const importFromBackend = async (
+  id: string,
+  decryptionKey: string,
+): Promise<ImportedDataState> => {
+  const data = await getBackendItemData(id);
+  return data;
+};
+
+export const loadScene = async (
+  id: string | null,
+  privateKey: string | null,
+  localDataState: ImportedDataState | undefined | null,
+) => {
+  let data;
+  if (id != null && privateKey != null) {
+    data = restore(
+      await importFromBackend(id, privateKey),
+      localDataState?.appState,
+      localDataState?.elements,
+      { repairBindings: true, refreshDimensions: false },
+    );
+  } else {
+    data = restore(localDataState || null, null, null, {
+      repairBindings: true,
+    });
+  }
+
+  return {
+    elements: data.elements,
+    appState: data.appState,
+    files: data.files,
+  };
+};
+`,paraId:12,tocIndex:3},{value:"\u62E6\u622A ctrl+S \u7684\u76D1\u542C\uFF0C\u53D1\u9001\u5F53\u524D\u6570\u636E\u5230\u81EA\u5DF1\u7684\u540E\u53F0\u670D\u52A1",paraId:13,tocIndex:3},{value:"packages/excalidraw/components/app.tsx \u62E6\u622A onKeyDown \u4E8B\u4EF6",paraId:14,tocIndex:3},{value:`private onKeyDown = withBatchedUpdates((event: React.KeyboardEvent KeyboardEvent) => {
+    if (isInterceptSuccess(event, this)) {
+        return false;
+    }
+);
+`,paraId:15,tocIndex:3},{value:"excalidraw-app/helpers.ts",paraId:16,tocIndex:3},{value:`// \u62E6\u622A\u5FEB\u6377\u952E
+const isInterceptSuccess = (
+  event: React.KeyboardEvent | KeyboardEvent,
+  self: any,
+) => {
+  const customKeysMap: any = {
+    b: () => {
+      self.setState({ openDialog: { name: 'switchScene' } });
+    },
+    e: () => {
+      self.setState({ openDialog: 'imageExport' });
+    },
+    Dead: () => {
+      self.setState({ openDialog: 'newScene' });
+    },
+    s: async () => {
+      const elements = self.scene.elements;
+      const availableElements = elements.filter((item: any) => !item.isDeleted);
+      const name = getUrlHashValueByKey('id');
+      let message = '';
+      try {
+        await updateBackendItemData(
+          name,
+          JSON5.stringify({
+            elements: availableElements,
+            appState: {
+              viewBackgroundColor: '#ffffff',
+              name,
+            },
+          }),
+        );
+        message = \`\${name}\u4FDD\u5B58\u6210\u529F\`;
+      } catch (error) {
+        message = \`\${name}\u4FDD\u5B58\u5931\u8D25\`;
+      }
+      self.setToast({
+        message,
+        closable: false,
+        duration: 1500,
+      });
+    },
+  };
+  if (Object.keys(customKeysMap).includes(event.key)) {
+    if (event.ctrlKey || event.metaKey || event.altKey) {
+      customKeysMap[event.key]();
+      event.preventDefault();
+      event.stopPropagation();
+      return true;
+    }
+  }
+  return false;
+};
+`,paraId:17,tocIndex:3},{value:"\u540E\u53F0\u5224\u65AD\u662F\u5426\u5B58\u5728\u5BF9\u5E94 id \u7684\u6570\u636E\uFF0C\u6CA1\u6709\u5219\u65B0\u589E\uFF0C\u6709\u5219\u66F4\u65B0",paraId:18,tocIndex:3},{value:"\u4EFF packages/excalidraw/components/CommandPalette/CommandPalette.tsx \u6587\u4EF6\u65B0\u5EFA\u8FDC\u7A0B\u670D\u52A1\u5668\u6587\u4EF6\u5217\u8868 packages/excalidraw/components/SceneFileListDialog.tsx",paraId:19,tocIndex:3},{value:`import React, { useEffect, useMemo, useRef, useState } from 'react';
+// ....\u5176\u4ED6\u5F15\u5165
+import {
+  createBackendItemData,
+  fmtDate,
+  getBackendListData,
+  goPageByScene,
+} from '../helpers';
+
+export type ExportCB = (
+  elements: readonly NonDeletedExcalidrawElement[],
+  scale?: number,
+) => void;
+
+export const SceneFileListDialog = ({
+  elements,
+  appState,
+  files,
+  actionManager,
+  exportOpts,
+  canvas,
+  setAppState,
+}: {
+  elements: readonly NonDeletedExcalidrawElement[];
+  appState: UIAppState;
+  files: BinaryFiles;
+  actionManager: ActionManager;
+  exportOpts: ExportOpts;
+  canvas: HTMLCanvasElement;
+  setAppState: React.Component<any, UIAppState>['setState'];
+}) => {
+  const handleClose = React.useCallback(() => {
+    setAppState({ openDialog: null });
+    setFileKeyword('');
+  }, [setAppState]);
+
+  const [fileKeyword, setFileKeyword] = useState('');
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  const [fileList, setFileList] = useState<ISceneFileItem[]>([]);
+  const [isLoaded, setIsLoaded] = useState(false);
+
+  const getFileList = async () => {
+    const _fileList: any = await getBackendListData();
+    setIsLoaded(true);
+    setFileList(_fileList);
+  };
+
+  const filteredList = useMemo(() => {
+    if (!fileKeyword) {
+      return fileList;
+    }
+    return fileList.filter((item) => item.name.includes(fileKeyword));
+  }, [fileList, fileKeyword]);
+
+  useEffect(() => {
+    if (appState.openDialog?.name === 'switchScene') {
+      getFileList();
+    }
+  }, [appState.openDialog]);
+
+  const handleFileItemClick = (item: ISceneFileItem) => {
+    goPageByScene(item.id);
+  };
+
+  // \u683C\u5F0F\u5316\u65F6\u95F4
+  const formatTime = (item: ISceneFileItem) => {
+    const _time = item.update_at || item.create_at;
+    return fmtDate(_time);
+  };
+
+  // \u65B0\u589E
+  const createSceneFile = async () => {
+    const result = await createBackendItemData(fileKeyword);
+    goPageByScene(result.data.insertId);
+  };
+
+  return (
+    <>
+      {appState.openDialog?.name === 'switchScene' && (
+        <Dialog
+          onCloseRequest={() => handleClose()}
+          closeOnClickOutside
+          title={false}
+          size={720}
+          autofocus
+          className="command-palette-dialog"
+        >
+          <TextField
+            value={fileKeyword}
+            placeholder={'\u8F93\u5165\u6587\u4EF6\u540D\u5173\u952E\u5B57'}
+            onChange={(value) => {
+              setFileKeyword(value);
+            }}
+            selectOnRender
+            ref={inputRef}
+          />
+          <ul className="file-list">
+            {filteredList.map((item) => {
+              return (
+                <li
+                  className="file-item"
+                  key={item.id}
+                  onClick={() => handleFileItemClick(item)}
+                >
+                  <div>{\`\${item.id} - \${item.name}\`}</div>
+                  <div>{formatTime(item)}</div>
+                </li>
+              );
+            })}
+          </ul>
+          {!filteredList.length && isLoaded && (
+            <button type="button" className="add-btn" onClick={createSceneFile}>
+              \u6682\u65E0\u8BB0\u5F55\uFF0C\u70B9\u51FB\u65B0\u589E
+            </button>
+          )}
+        </Dialog>
+      )}
+    </>
+  );
+};
+`,paraId:20,tocIndex:3},{value:"\u53EF\u4EE5\u6839\u636E\u6587\u4EF6\u540D\u79F0\u641C\u7D22\u6587\u4EF6\uFF0C\u4E0D\u5B58\u5728\u5BF9\u5E94\u6587\u4EF6\uFF0C\u5219\u4F1A\u51FA\u73B0\u65B0\u5EFA\u6309\u94AE\uFF0C\u5982\u679C\u5B58\u5728\uFF0C\u5219\u70B9\u51FB\u53EF\u4EE5\u5207\u6362",paraId:21,tocIndex:3},{value:"excalidraw-app/index.scss \u6837\u5F0F\u4FEE\u6539\uFF0C\u9690\u85CF\u5143\u7D20",paraId:22,tocIndex:3},{value:`// \u81EA\u5B9A\u4E49\u6837\u5F0F
+.encrypted-icon {
+  &.tooltip {
+    display: none;
+  }
+}
+.layer-ui__wrapper__footer-right {
+  &.zen-mode-transition {
+    display: none;
+  }
+}
+.top-right-ui {
+  .excalidraw-button {
+    display: none;
+  }
+}
+.undo-redo-buttons {
+  display: none;
+}
+.shapes-section {
+  transform: translate(-1000px);
+  visibility: hidden;
+}
+.undo-button-container {
+  display: none;
+}
+.redo-button-container {
+  display: none;
+}
+
+.App-menu_top__left {
+  &.zen-mode {
+    transform: translate(-200px);
+    transition: transform 0.3s;
+  }
+}
+`,paraId:23,tocIndex:3},{value:"packages/excalidraw/constants.ts",paraId:24,tocIndex:4},{value:`export const FONT_FAMILY = {
+  // Virgil: 1,
+  'Virgil,HandleDrawCn': 1,
+};
+
+export const DEFAULT_FONT_FAMILY: FontFamilyValues =
+  FONT_FAMILY['Virgil,HandleDrawCn'];
+`,paraId:25,tocIndex:4},{value:'packages/excalidraw/fonts/index.ts \u548C packages/excalidraw/fonts/metadata.ts \u4E2D\u5BF9\u5E94 Virgil \u7684\u53D6\u503C\u90FD\u6539\u6210 "Virgil,HandleDrawCn"',paraId:26,tocIndex:4},{value:"\u539F excalidraw \u5730\u5740",paraId:27,tocIndex:6},{value:"\u6E90\u7801\u5730\u5740\uFF08\u9700\u8981\u8BBF\u95EE\u6743\u9650\uFF09",paraId:27,tocIndex:6}]},8993:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(74573);const a=[{value:"HLS\uFF08HTTP Live Streaming\uFF09\uFF0CHTTP \u5B9E\u65F6\u6D41\u5A92\u4F53\uFF0C\u4F7F\u7528 .m3u8 \u7D22\u5F15\u6587\u4EF6\u548C .ts \u6587\u4EF6\uFF08\u82F9\u679C\u516C\u53F8\uFF09",paraId:0,tocIndex:1},{value:"RTMP\uFF08Real-Time Messaging Protocol\uFF09,\u5B9E\u65F6\u6D41\u5A92\u4F53\u4F20\u8F93\u534F\u8BAE\uFF08 Adobe Flash \u4E2D\u4F20\u8F93\u97F3\u9891\u3001\u89C6\u9891\u548C\u6570\u636E\u3002\u5B83\u4F7F\u7528 TCP \u8FDB\u884C\u4F20\u8F93\uFF0C\u652F\u6301\u4F4E\u5EF6\u8FDF\u7684\u5B9E\u65F6\u6D41\u5A92\u4F53\u4F20\u8F93\uFF09",paraId:0,tocIndex:1},{value:"RTSP\uFF08Real-Time Streaming Protocol\uFF09\uFF0C\u7F51\u7EDC\u63A7\u5236\u534F\u8BAE\uFF0C\u7528\u4E8E\u63A7\u5236\u591A\u5A92\u4F53\u670D\u52A1\u5668\u53D1\u9001\u6D41\u5A92\u4F53\u6570\u636E\u3002\u5B83\u901A\u5E38\u4E0E RTP\uFF08Real-Time Transport Protocol\uFF09\u7ED3\u5408\u4F7F\u7528\uFF0CRTP \u7528\u4E8E\u5B9E\u9645\u4F20\u8F93\u97F3\u9891\u548C\u89C6\u9891\u6570\u636E",paraId:0,tocIndex:1},{value:"DASH\uFF08Dynamic Adaptive Streaming over HTTP\uFF09\uFF0C\u7531 MPEG \u5F00\u53D1\u7684\u4E00\u79CD\u52A8\u6001\u81EA\u9002\u5E94\u6D41\u5A92\u4F53\u4F20\u8F93\u534F\u8BAE\uFF0C\u652F\u6301\u591A\u79CD\u7F16\u89E3\u7801\u5668\u548C\u5BB9\u5668\u683C\u5F0F\uFF0C\u80FD\u591F\u5728\u4E0D\u540C\u7684\u5E26\u5BBD\u548C\u8BBE\u5907\u6761\u4EF6\u4E0B\u52A8\u6001\u8C03\u6574\u89C6\u9891\u8D28\u91CF",paraId:0,tocIndex:1},{value:"mac \u4E0B\u8F7D ",paraId:1,tocIndex:2},{value:"https://evermeet.cx/ffmpeg/ffmpeg-7.0.1.7z",paraId:1,tocIndex:2},{value:"\u89E3\u538B\u540E\uFF0C\u5C06 ffmpeg \u53EF\u6267\u884C\u6587\u4EF6\uFF0C\u590D\u5236\u5230 /usr/local/ffmpeg \u6587\u4EF6\u5939\uFF08\u6CA1\u6709\u8FD9\u4E2A\u6587\u4EF6\u5939\u5219\u65B0\u5EFA\u4E00\u4E2A\uFF09\u4E0B",paraId:1,tocIndex:2},{value:"\u914D\u7F6E\u73AF\u5883\u53D8\u91CF\uFF0Cvi ~/.zshrc",paraId:1,tocIndex:2},{value:"\u6DFB\u52A0\u547D\u4EE4 export PATH=/usr/local/ffmpeg/:$PATH",paraId:1,tocIndex:2},{value:"\u4F7F\u547D\u4EE4\u884C\u751F\u6548\uFF0Csource ~/.zshrc",paraId:1,tocIndex:2},{value:"\u6D4B\u8BD5\u662F\u5426\u6210\u529F\uFF0C\u5728\u547D\u4EE4\u884C\u8F93\u5165 ffmpeg help",paraId:1,tocIndex:2},{value:"window,linux \u540C\u7406\uFF0C\u4E0B\u8F7D\u540E\u914D\u7F6E\u73AF\u5883\u53D8\u91CF",paraId:1,tocIndex:2},{value:"\u5C06\u89C6\u9891\u6309\u5E27\u63D0\u53D6\u56FE\u7247",paraId:2,tocIndex:3},{value:`ffmpeg -i test.mp4 -vf "fps=1" test/thumbnail_%04d.png
 `,paraId:3,tocIndex:3},{value:"-i \u8868\u793A\u540E\u4E00\u4E2A\u503C\uFF0C\u662F\u8F93\u5165\u7684\u8D44\u6E90",paraId:4,tocIndex:3},{value:"-vf",paraId:4,tocIndex:3},{value:"fps=1\uFF0C\u8868\u793A\u4E00\u5E27\u622A\u53D6\u4E00\u5F20\u56FE\u7247\uFF0C60 \u79D2\u89C6\u9891\u5219\u662F 60 \u5F20\u56FE\u7247\uFF0Cfps=2\uFF0C\u5219\u662F 1 \u79D2 2 \u5F20\uFF0Cfps=0.5\uFF0C\u5219\u662F 2 \u79D2 1 \u5F20\uFF0C\u5373 fps=\u56FE\u7247\u6570/\u603B\u89C6\u9891\u65F6\u957F",paraId:4,tocIndex:3},{value:"thumbnail_%04d.png\uFF1A\u8F93\u51FA\u56FE\u50CF\u6587\u4EF6\u540D\u6A21\u5F0F\u3002%04d \u8868\u793A\u7528\u56DB\u4F4D\u6570\u5B57\u8868\u793A\u7684\u5E8F\u53F7\u3002",paraId:4,tocIndex:3},{value:"\u5047\u5982\u60F3\u8981\u63D0\u53D6\u5E27\u56FE\u7247\u4EE5\u65F6\u95F4\u6233\u547D\u540D\uFF0C\u5219\u53EF\u4EE5\u4F7F\u7528\u4EE5\u4E0B\u547D\u4EE4",paraId:5,tocIndex:3},{value:`ffmpeg -i input_video.mp4 -vf "fps=1" -strftime 1 output_%H%M%S.png
 `,paraId:6,tocIndex:3},{value:"%H%M%S \u8868\u793A\u65F6\u5206\u79D2",paraId:7,tocIndex:3},{value:"\u5265\u79BB\u89C6\u9891\u548C\u97F3\u9891",paraId:8,tocIndex:3},{value:"\u5265\u79BB\u97F3\u9891",paraId:9,tocIndex:3},{value:`ffmpeg -i test.mp4 -vn -acodec copy output_audio.aac
 `,paraId:10,tocIndex:3},{value:"-vn\uFF0C\u8868\u793A\u4E0D\u5305\u542B\u89C6\u9891\u6D41\u3002",paraId:11,tocIndex:3},{value:"-acodec copy\uFF0C\u8868\u793A\u97F3\u9891\u7F16\u89E3\u7801\u5668\u9009\u62E9\u590D\u5236\u539F\u59CB\u7F16\u89E3\u7801\u5668",paraId:11,tocIndex:3},{value:"\u5265\u79BB\u89C6\u9891",paraId:12,tocIndex:3},{value:`ffmpeg -i test.mp4 -an -vcodec copy output_video.mp4
@@ -633,7 +1062,101 @@ your_output3.ts
 -f mp4: \u6307\u5B9A\u8F93\u51FA\u683C\u5F0F\u4E3A MP4\u3002
 
 output_dash.mp4: \u8F93\u51FA\u7684 MP4 \u6587\u4EF6\u540D\u3002
-`,paraId:36,tocIndex:3},{value:"ffmpeg \u5B98\u7F51\u4E0B\u8F7D",paraId:37,tocIndex:4},{value:"\u6D4B\u8BD5\u89C6\u9891\u4E0B\u8F7D\u5730\u5740",paraId:37,tocIndex:4},{value:"video.js \u5B98\u7F51",paraId:37,tocIndex:4},{value:"hls.js",paraId:37,tocIndex:4},{value:"flv.js",paraId:37,tocIndex:4},{value:"dash.js \u5B98\u7F51",paraId:37,tocIndex:4},{value:"GPAC \u8F6F\u4EF6\u4E0B\u8F7D",paraId:37,tocIndex:4}]},87447:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(37132);const a=[{value:"\u6587\u4EF6\u5206\u7247\u4E0A\u4F20\u4E0B\u8F7D",paraId:0,tocIndex:0},{value:"\u81EA\u5B9A\u4E49 tls \u8BC1\u4E66\u4F7F\u7528",paraId:1,tocIndex:0},{value:"ffmpeg \u7684\u4F7F\u7528",paraId:2,tocIndex:0},{value:"Js \u5F02\u6B65\u961F\u5217\u5E76\u53D1",paraId:3,tocIndex:0},{value:"MSE \u5A92\u4F53\u6E90\u6269\u5C55",paraId:4,tocIndex:0},{value:"verdaccio \u642D\u5EFA\u79C1\u6709 npm \u4ED3\u5E93",paraId:5,tocIndex:0},{value:"webrtc",paraId:6,tocIndex:0}]},45790:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(55152);const a=[{value:"Media Source Extensions API\uFF0C\u5A92\u4F53\u6E90\u6269\u5C55 API\uFF08MSE\uFF09\uFF0C\u652F\u6301\u4F7F\u7528 fetch \u62C9\u53D6\u6570\u636E buffer \u8FDB\u884C\u5206\u7247\u7684\u97F3\u9891\u6216\u89C6\u9891\u7684\u52A0\u8F7D\u548C\u64AD\u653E\u3002",paraId:0,tocIndex:0},{value:`
+`,paraId:36,tocIndex:3},{value:"ffmpeg \u5B98\u7F51\u4E0B\u8F7D",paraId:37,tocIndex:4},{value:"\u6D4B\u8BD5\u89C6\u9891\u4E0B\u8F7D\u5730\u5740",paraId:37,tocIndex:4},{value:"video.js \u5B98\u7F51",paraId:37,tocIndex:4},{value:"hls.js",paraId:37,tocIndex:4},{value:"flv.js",paraId:37,tocIndex:4},{value:"dash.js \u5B98\u7F51",paraId:37,tocIndex:4},{value:"GPAC \u8F6F\u4EF6\u4E0B\u8F7D",paraId:37,tocIndex:4}]},20463:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(76692);const a=[{value:"\u5728\u9047\u5230\u5B57\u4F53\u6587\u4EF6\u8F83\u5927\u65F6\uFF0C\u907F\u514D\u91CD\u590D\u52A0\u8F7D\u4EE5\u53CA\u61D2\u52A0\u8F7D\u5E94\u7528\u5B57\u4F53\uFF0C\u4F7F\u7528 indexdb \u5B58\u50A8\uFF0C\u6BCF\u6B21\u4F18\u5148\u4ECE indexdb \u4E2D\u8BFB\u53D6\uFF0C\u751F\u6210 blob \u7684\u8DEF\u5F84\uFF0C\u52A8\u6001\u751F\u6210\u6837\u5F0F\u63D2\u5165\u5230\u9875\u9762\u5E94\u7528\u5B57\u4F53\u3002",paraId:0,tocIndex:0},{value:`const REMOTE_FONT_URL = 'https://haokur.com/fonts'; // \u793A\u4F8Bfont\u7684\u5B58\u50A8\u6839\u5730\u5740
+
+// \u52A0\u8F7D\u5B57\u4F53\u5230indexdb
+function loadFontUsingFontFace(fontName: string, fontUrl: string) {
+  return new Promise((resolve, reject) => {
+    const request = indexedDB.open('fontDB', 1);
+
+    request.onupgradeneeded = function (event: any) {
+      const db: any = event?.target?.result;
+      if (!db.objectStoreNames.contains('fonts')) {
+        db.createObjectStore('fonts');
+      }
+    };
+
+    request.onsuccess = function (event: any) {
+      const db = event.target.result;
+      const transaction = db.transaction(['fonts'], 'readonly');
+      const objectStore = transaction.objectStore('fonts');
+      const fontRequest = objectStore.get(fontName);
+
+      fontRequest.onsuccess = function (event: any) {
+        const fontData = event.target.result;
+
+        if (fontData) {
+          resolve(fontData);
+        } else {
+          fetch(fontUrl)
+            .then((response) => response.arrayBuffer())
+            .then((fontArrayBuffer) => {
+              const transaction = db.transaction(['fonts'], 'readwrite');
+              const objectStore = transaction.objectStore('fonts');
+              objectStore.put(fontArrayBuffer, fontName);
+              resolve(fontArrayBuffer);
+            })
+            .catch((error) => reject(error));
+        }
+      };
+
+      fontRequest.onerror = function (event: any) {
+        console.error('Error querying IndexedDB:', event.target.errorCode);
+        reject(event.target.errorCode);
+      };
+    };
+
+    request.onerror = function (event: any) {
+      console.error('IndexedDB error:', event.target.errorCode);
+      reject(event.target.errorCode);
+    };
+  });
+}
+
+function applyFont(fontName: string, fontUrl: string, customStyle = '') {
+  loadFontUsingFontFace(fontName, fontUrl)
+    .then((fontData: any) => {
+      // \u5C06\u5B57\u4F53\u6570\u636E\u8F6C\u6362\u4E3A Blob URL
+      const fontBlob = new Blob([fontData], { type: 'font/woff2' });
+      const fontBlobUrl = URL.createObjectURL(fontBlob);
+
+      // \u4F7F\u7528 @font-face \u5B9A\u4E49\u5B57\u4F53
+      const style = document.createElement('style');
+      style.textContent = \`
+            @font-face {
+                font-family: '\${fontName}';
+                src: url(\${fontBlobUrl}) format('woff2');
+                font-display: swap;
+                \${customStyle}
+            }
+        \`;
+      document.head.appendChild(style);
+
+      // \u5E94\u7528 font-family \u5230\u6587\u6863
+      document.body.style.fontFamily = \`'\${fontName}', sans-serif\`;
+    })
+    .catch((error) => console.error('Font loading error:', error));
+}
+
+function runLoadFont() {
+  const fonts = [
+    {
+      name: 'HandleDrawCn',
+      url: \`\${REMOTE_FONT_URL}/QingSongShouXieTi-1.ttf\`,
+    },
+    { name: 'Virgil', url: \`\${REMOTE_FONT_URL}/Virgil.woff2\` },
+    { name: 'Cascadia', url: \`\${REMOTE_FONT_URL}/Cascadia.woff2\` },
+    {
+      name: 'Assistant',
+      url: \`\${REMOTE_FONT_URL}/Assistant-Regular.woff2\`,
+    },
+  ];
+  fonts.forEach((item: any) => {
+    const { name, url, customStyle = '' } = item;
+    applyFont(name, url, customStyle);
+  });
+}
+`,paraId:1,tocIndex:1},{value:"excalidraw \u81EA\u5B9A\u4E49\u5B57\u4F53\u5B9E\u73B0",paraId:2,tocIndex:2}]},87447:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(37132);const a=[{value:"\u6587\u4EF6\u5206\u7247\u4E0A\u4F20\u4E0B\u8F7D",paraId:0,tocIndex:0},{value:"\u4F7F\u7528 indexdb \u5B58\u50A8\u5B57\u4F53\u6587\u4EF6",paraId:1,tocIndex:0},{value:"\u81EA\u5B9A\u4E49 tls \u8BC1\u4E66\u4F7F\u7528",paraId:2,tocIndex:0},{value:"electron \u901A\u4FE1\u548C\u66F4\u65B0",paraId:3,tocIndex:0},{value:"excalidraw \u4E8C\u6B21\u5F00\u53D1",paraId:4,tocIndex:0},{value:"ffmpeg \u7684\u4F7F\u7528",paraId:5,tocIndex:0},{value:"Js \u5F02\u6B65\u961F\u5217\u5E76\u53D1",paraId:6,tocIndex:0},{value:"MSE \u5A92\u4F53\u6E90\u6269\u5C55",paraId:7,tocIndex:0},{value:"verdaccio \u642D\u5EFA\u79C1\u6709 npm \u4ED3\u5E93",paraId:8,tocIndex:0},{value:"webrtc",paraId:9,tocIndex:0}]},45790:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(55152);const a=[{value:"Media Source Extensions API\uFF0C\u5A92\u4F53\u6E90\u6269\u5C55 API\uFF08MSE\uFF09\uFF0C\u652F\u6301\u4F7F\u7528 fetch \u62C9\u53D6\u6570\u636E buffer \u8FDB\u884C\u5206\u7247\u7684\u97F3\u9891\u6216\u89C6\u9891\u7684\u52A0\u8F7D\u548C\u64AD\u653E\u3002",paraId:0,tocIndex:0},{value:`
 \u5F53\u524D\u5DF2\u77E5\u7684\u652F\u6301\u7684 mp4 \u683C\u5F0F\u662F DASH\uFF0C\u5BF9\u666E\u901A\u7684\u89C6\u9891\u53EF\u4EE5\u4F7F\u7528 ffmpeg \u8FDB\u884C\u8F6C\u7801`,paraId:0,tocIndex:0},{value:"web \u4FA7\u4EE3\u7801\uFF1A",paraId:1,tocIndex:1},{value:"haokur/test/tree/main/web",paraId:1,tocIndex:1},{value:"serve \u4FA7\u4EE3\u7801\uFF1A",paraId:1,tocIndex:1},{value:"haokur/test/tree/main/koa-serve",paraId:1,tocIndex:1},{value:"new MediaSource \u5B9E\u4F8B\u5316 =\u300B mediaSourceInstance",paraId:2,tocIndex:2},{value:"\u5C06 mediaSourceInstance \u4F7F\u7528 URL.createObjectURL \u8F6C blob \u5730\u5740\uFF0Cvideo \u7684 src \u8BBE\u7F6E\u4E3A\u8FD9\u4E2A blob \u5730\u5740",paraId:2,tocIndex:2},{value:"mediaSourceInstance \u76D1\u542C sourceopen , \u56DE\u8C03\u4E8B\u4EF6\u4F7F\u7528 addSourceBuffer \u751F\u6210 sourceBuffer,sourceBuffer \u76D1\u542C updateend \u548C error \u4E8B\u4EF6",paraId:2,tocIndex:2},{value:"updateend \u4E8B\u4EF6\u5904\u7406\u5728\u4E00\u4E2A\u5206\u7247 buffer \u52A0\u8F7D\u6210\u529F\u540E\u7684\u56DE\u8C03\uFF0C\u53EF\u4EE5\u7EE7\u7EED\u52A0\u8F7D\u4E0B\u4E00\u7247 buffer\uFF0C\u76F4\u5230\u5206\u7247 buffer \u5168\u90E8\u52A0\u8F7D\u5B8C\u6BD5\uFF0CmediaSourceInstance.endOfStream() \u5173\u95ED\u6570\u636E\u6D41",paraId:2,tocIndex:2},{value:`export class MediaSourcePlayer {
   videoUrl;
   blobUrl: string = '';
