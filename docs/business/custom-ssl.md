@@ -176,3 +176,83 @@ cd electron && npm run dev
 - server.crt 只保存在服务端，不会暴露给 C 端，所以中间拦截者，没有 server.crt 不能正确解析请求体，是否也表示就不能伪造用户原样的数据代理发送给服务端？
 - 是否有其他潜在被破解的风险？
 - 每次请求都要传递对应证书，是否对请求体大小，请求时间有比较大的影响？
+- 在 mac，双击 ca.crt，可以在钥匙串访问里，设置始终信任
+
+### 七、electron 中实测
+
+```sh
+# 客户端
+cd electron && npm run dev
+
+# 服务端（go）
+go run mock-https/main.go
+
+# 服务端（nodejs）
+# https服务
+cd koa-serve && node main-https.js
+# http服务
+cd koa-serve && node main.js
+```
+
+### 前端视频分片传输使用 Media Source
+
+1. new MediaSource 实例化 =》 mediaSourceInstance
+2. 将 mediaSourceInstance 使用 URL.createObjectURL 转 blob 地址，video 的 src 设置为这个 blob 地址
+3. mediaSourceInstance 监听 sourceopen , 回调事件使用 addSourceBuffer 生成 sourceBuffer,sourceBuffer 监听 updateend 和 error 事件
+4. updateend 事件处理在一个分片 buffer 加载成功后的回调，可以继续加载下一片 buffer，直到分片 buffer 全部加载完毕，mediaSourceInstance.endOfStream() 关闭数据流
+
+代码示例中将 Media Source 的使用封装了，如下使用
+
+```javascript
+const sliceMediaSourcePlayer = new MediaSourcePlayer({
+  videoUrl: 'https://视频地址',
+  onUpdateEnd() {
+    console.log('自定义单分片加载完毕回调');
+    // 加载下一个分片
+    sliceMediaSourcePlayer.insertNextSlice();
+  },
+  onEnd() {
+    console.log('所有分片加载完毕回调');
+    sliceMediaSourcePlayer.end();
+  },
+});
+const video = document.getElementById('video');
+video.src = sliceMediaSourcePlayer.blobUrl;
+sliceMediaSourcePlayer.run();
+```
+
+注意点：
+
+- 不是所有视频都能支持分片播放，具体支持哪种格式的，待进一步调研整理
+- 分片错乱拼接，并不能播放，是不支持，还是使用上有问题，待整理
+
+### 示例运行
+
+```sh
+# 客户端
+cd web && http-server
+
+# 服务端
+cd koa-serve && node main.js
+```
+
+已知的支持的 Media Source 播放的 mp4 的转码格式是 dash ，可以使用 ffmpeg 将普通 mp4 转成 dash
+DASH（Dynamic Adaptive Streaming over HTTP）
+
+```sh
+ffmpeg -i input.mp4 -c:v libx264 -c:a aac -movflags +frag_keyframe+empty_moov+default_base_moof -f mp4 output_dash.mp4
+```
+
+参数说明：
+
+```
+-i input.mp4: 输入的 MP4 文件。
+-c:v libx264: 使用 H.264 编码器进行视频编码。
+-c:a aac: 使用 AAC 编码器进行音频编码。
+-movflags +frag_keyframe+empty_moov+default_base_moof:
++frag_keyframe: 在关键帧处创建片段，确保每个片段以关键帧开始。
++empty_moov: 在文件开头生成一个空的 moov 块，这对于流媒体播放非常重要。
++default_base_moof: 使用默认的 moof 基准，这有助于确保片段正确排列。
+-f mp4: 指定输出格式为 MP4。
+output_dash.mp4: 输出的 MP4 文件名。
+```
