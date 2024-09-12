@@ -1847,7 +1847,81 @@ func arrTest() {
 	changeArrItemByPoint(&arr6)
 	fmt.Println(arr6) // [100,2,3] \u4F20\u9012\u7684\u5F15\u7528\uFF0C\u6240\u4EE5changeArrItemByPoint\u6539\u53D8\u4E86arr6
 }
-`,paraId:2,tocIndex:2},{value:"\u5207\u7247",paraId:3,tocIndex:2},{value:"",paraId:4,tocIndex:2}]},52831:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(79596);const a=[]},51446:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(68537);const a=[]},3190:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(43648);const a=[{value:"\u4EE3\u7801\u5B9E\u73B0\uFF08javascript\uFF09\uFF1A",paraId:0,tocIndex:0},{value:"haokur/algorithm",paraId:0,tocIndex:0},{value:"\u52A8\u6001\u6548\u679C\u9884\u89C8\uFF1A",paraId:0,tocIndex:0},{value:"haokur.github.io/algorithm",paraId:0,tocIndex:0}]},57618:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(73550);const a=[{value:"\u63A8\u6F14\u903B\u8F91\uFF1A",paraId:0,tocIndex:1},{value:"\u5F53 arr \u53EA\u6709\u4E00\u4E2A\u6570\u65F6\uFF0C\u4ED6\u81EA\u8EAB\u5C31\u662F\u6700\u957F\u7684\u5B50\u5E8F\u5217\uFF0C\u6240\u4EE5\u8DF3\u8FC7\u7B2C\u4E00\u4E2A\u6570",paraId:1,tocIndex:1},{value:"\u5B9A\u4E49\u4E00\u4E2A\u4E8C\u7EF4\u6570\u7EC4\uFF0C\u5B58\u653E\u5B50\u5E8F\u5217\u62FC\u63A5\u7ED3\u679C result\uFF0C\u7531\u7B2C\u4E00\u6B65\uFF0C\u5C31\u6709 [[arr[0]]]",paraId:1,tocIndex:1},{value:"\u4ECE\u7B2C\u4E8C\u4E2A\u6570\u7684\u4F4D\u7F6E\u5F00\u59CB\u904D\u5386\uFF0C\u53D6\u4E00\u4E2A\u6570 current\uFF0C\u4E0E result \u7684\u6BCF\u4E00\u9879\u7684\u6700\u540E\u4E00\u4E2A\u6570\u6BD4\u8F83\uFF0C\u5047\u5982 current \u7684\u6570\u5927\u4E8E\u6570\u7EC4\u7684\u6700\u540E\u4E00\u9879\uFF0C\u5219\u53EF\u4EE5\u62FC\u63A5\uFF0C\u5373\u5B58\u5728\u8FD9\u79CD\u60C5\u666F\uFF0C\u5373 result \u662F[[1],[1,2],[1,2,7]],\u9047\u5230 current=3\uFF0C\u6570\u7EC4\u6700\u540E\u4E00\u9879\u62FC\u4E0D\u4E0A\uFF0C\u4F46\u662F\u78B0\u5230 [1,2],\u80FD\u62FC\u63A5\u4E0A\u4E86\uFF0C\u90A3\u4E48\u5C31\u628A [1,2] \u7684\u4E0B\u4E00\u9879\u4FEE\u6539 [1,2,7]=>[1,2,3],\u9000\u51FA\u5FAA\u73AF\uFF0C\u6B64\u65F6\u7684 result \u4E3A [[1],[1,2],[1,2,3]]\uFF1B\u5982\u679C\u627E\u5230\u6700\u5F00\u59CB\u7684\u9879\uFF0C\u4E5F\u62FC\u4E0D\u4E0A\uFF0C\u90A3\u4E48\u5B83\u5C31\u662F\u6240\u6709\u7ED3\u679C\u91CC\u6700\u5C0F\u7684\uFF0C\u4ED6\u5C31\u72EC\u81EA\u5728 result \u7684\u7B2C\u4E00\u9879\uFF0C\u5373 result[0] = [current]",paraId:1,tocIndex:1},{value:"\u6700\u540E\u8FD4\u56DE result \u7684\u6700\u540E\u4E00\u9879",paraId:1,tocIndex:1},{value:"result \u7684\u6F14\u53D8\u8FC7\u7A0B\uFF1A",paraId:2,tocIndex:1},{value:`4=> [[4]]
+`,paraId:2,tocIndex:2},{value:"\u5207\u7247",paraId:3,tocIndex:2},{value:`// \u9ED8\u8BA4\u5C31\u662F\u5F15\u7528\u7C7B\u578B
+func changeSliceItem(slice []int) {
+	slice[0] = 999
+}
+
+// \u5207\u7247\u6D4B\u8BD5
+/*
+\u63CF\u8FF0\u6570\u7EC4\u7684\u7247\u6BB5\u7ED3\u6784\uFF1A
+1\u3001\u6307\u5411\u6570\u7EC4\u7684\u6307\u9488\uFF1A[]int
+2\u3001\u5207\u7247\u7684\u957F\u5EA6: len(slice)
+3\u3001\u5207\u7247\u7684\u5BB9\u91CF: cap(slice)
+*/
+func sliceTest() {
+	var slice []int
+	fmt.Println(slice, len(slice))
+	slice = append(slice, 10)
+	fmt.Println(slice)
+
+	slice2 := []int{}
+	fmt.Println(slice2, len(slice2))
+	slice2 = append(slice2, 11)
+	fmt.Println(slice2)
+
+	slice3 := make([]int, 3, 5)
+	fmt.Println(slice3, len(slice3)) // [0,0,0] 3
+	slice3 = append(slice3, 12)
+	fmt.Println(slice3)
+	slice3 = append(slice3, 13, 14, 15, 16)
+	// [0 0 0 12 13 14 15 16] 8 10\uFF0C\u81EA\u52A8\u6269cap\uFF0C\u901A\u5E38\u662F\u521D\u59CB\u5316\u65F6cap\u7684\u4E24\u500D
+	fmt.Println(slice3, len(slice3), cap(slice3))
+
+	// \u57FA\u672C\u64CD\u4F5C
+	slice3[0] = 100
+	slice3[1] = 200
+	slice3[2] = 300
+	fmt.Println(slice3[0])
+	// \u5207\u5272\u83B7\u53D6
+	subSlice := slice3[2:3] // \u5DE6\u95ED\u53F3\u5F00\uFF0Cif(index<3) return
+	fmt.Println(subSlice)
+	subSlice[0] = 888             // \u66F4\u6539\u5B50slice\u7684\u503C
+	fmt.Println(subSlice, slice3) // \u5B50slice\u548C\u539Fslice\u90FD\u53D8\u5316\u4E86
+	changeSliceItem(slice3)
+	fmt.Println(slice3) // [999 200 888 12 13 14 15 16]
+	// \u5355\u8FB9\u5207\u5272
+	subSliceRight := slice3[3:]
+	fmt.Println("subSliceRight", subSliceRight)
+	subSliceLeft := slice3[:3]
+	fmt.Println("subSliceLeft", subSliceLeft)
+
+	// \u591A\u7EF4\u5207\u7247
+	matrixSlice := [][]int{
+		{1, 2, 3},
+		{4, 5, 6},
+	}
+	fmt.Println(matrixSlice, matrixSlice[1][1])
+
+	// \u53EA\u60F3\u8981\u5207\u51FA\u7684\u5C0F\u7247\uFF0C\u6E05\u7A7A\u539Fslice\uFF0C\u6E05\u7406\u5185\u5B58
+	originSlice := make([]int, 3, 1000)
+	fmt.Println(originSlice)
+	subSlice2 := originSlice[:3]
+	fmt.Println(subSlice2)
+	originSlice = nil
+	fmt.Println(originSlice, cap(originSlice), subSlice2) // \u6E05\u7A7A\u539Fslice\uFF0C\u4E0D\u4F1A\u5F71\u54CD\u5207\u5272\u51FA\u6765\u7684slice
+
+	// \u5207\u7247\u590D\u5236
+	src := []int{1, 2, 3}
+	dst := make([]int, 3)
+	copy(dst, src) // \u64CD\u4F5C\u7684\u5143\u7D20\u5728\u524D\u9762\uFF0C\u8981\u62F7\u8D1D\u7684\u5728\u540E\u9762
+	fmt.Println(src, dst)
+
+	// \u96F6\u503C\u5207\u7247\uFF0C\u4E0D\u7ED9\u521D\u59CB\u503C\u65F6\uFF0C\u662Fnil
+	var zeroSlice []int
+	fmt.Println(zeroSlice, zeroSlice == nil)
+}
+`,paraId:4,tocIndex:2}]},52831:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(79596);const a=[]},51446:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(68537);const a=[]},3190:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(43648);const a=[{value:"\u4EE3\u7801\u5B9E\u73B0\uFF08javascript\uFF09\uFF1A",paraId:0,tocIndex:0},{value:"haokur/algorithm",paraId:0,tocIndex:0},{value:"\u52A8\u6001\u6548\u679C\u9884\u89C8\uFF1A",paraId:0,tocIndex:0},{value:"haokur.github.io/algorithm",paraId:0,tocIndex:0}]},57618:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(73550);const a=[{value:"\u63A8\u6F14\u903B\u8F91\uFF1A",paraId:0,tocIndex:1},{value:"\u5F53 arr \u53EA\u6709\u4E00\u4E2A\u6570\u65F6\uFF0C\u4ED6\u81EA\u8EAB\u5C31\u662F\u6700\u957F\u7684\u5B50\u5E8F\u5217\uFF0C\u6240\u4EE5\u8DF3\u8FC7\u7B2C\u4E00\u4E2A\u6570",paraId:1,tocIndex:1},{value:"\u5B9A\u4E49\u4E00\u4E2A\u4E8C\u7EF4\u6570\u7EC4\uFF0C\u5B58\u653E\u5B50\u5E8F\u5217\u62FC\u63A5\u7ED3\u679C result\uFF0C\u7531\u7B2C\u4E00\u6B65\uFF0C\u5C31\u6709 [[arr[0]]]",paraId:1,tocIndex:1},{value:"\u4ECE\u7B2C\u4E8C\u4E2A\u6570\u7684\u4F4D\u7F6E\u5F00\u59CB\u904D\u5386\uFF0C\u53D6\u4E00\u4E2A\u6570 current\uFF0C\u4E0E result \u7684\u6BCF\u4E00\u9879\u7684\u6700\u540E\u4E00\u4E2A\u6570\u6BD4\u8F83\uFF0C\u5047\u5982 current \u7684\u6570\u5927\u4E8E\u6570\u7EC4\u7684\u6700\u540E\u4E00\u9879\uFF0C\u5219\u53EF\u4EE5\u62FC\u63A5\uFF0C\u5373\u5B58\u5728\u8FD9\u79CD\u60C5\u666F\uFF0C\u5373 result \u662F[[1],[1,2],[1,2,7]],\u9047\u5230 current=3\uFF0C\u6570\u7EC4\u6700\u540E\u4E00\u9879\u62FC\u4E0D\u4E0A\uFF0C\u4F46\u662F\u78B0\u5230 [1,2],\u80FD\u62FC\u63A5\u4E0A\u4E86\uFF0C\u90A3\u4E48\u5C31\u628A [1,2] \u7684\u4E0B\u4E00\u9879\u4FEE\u6539 [1,2,7]=>[1,2,3],\u9000\u51FA\u5FAA\u73AF\uFF0C\u6B64\u65F6\u7684 result \u4E3A [[1],[1,2],[1,2,3]]\uFF1B\u5982\u679C\u627E\u5230\u6700\u5F00\u59CB\u7684\u9879\uFF0C\u4E5F\u62FC\u4E0D\u4E0A\uFF0C\u90A3\u4E48\u5B83\u5C31\u662F\u6240\u6709\u7ED3\u679C\u91CC\u6700\u5C0F\u7684\uFF0C\u4ED6\u5C31\u72EC\u81EA\u5728 result \u7684\u7B2C\u4E00\u9879\uFF0C\u5373 result[0] = [current]",paraId:1,tocIndex:1},{value:"\u6700\u540E\u8FD4\u56DE result \u7684\u6700\u540E\u4E00\u9879",paraId:1,tocIndex:1},{value:"result \u7684\u6F14\u53D8\u8FC7\u7A0B\uFF1A",paraId:2,tocIndex:1},{value:`4=> [[4]]
 5=> [[4], [4, 5]]
 1=> [[1], [4, 5]]
 2=> [[1], [1, 2]]
