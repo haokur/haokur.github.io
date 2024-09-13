@@ -1999,7 +1999,121 @@ func sliceTest() {
 	var zeroSlice []int
 	fmt.Println(zeroSlice, zeroSlice == nil)
 }
-`,paraId:4,tocIndex:2}]},52831:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(79596);const a=[]},51446:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(68537);const a=[]},3190:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(43648);const a=[{value:"\u4EE3\u7801\u5B9E\u73B0\uFF08javascript\uFF09\uFF1A",paraId:0,tocIndex:0},{value:"haokur/algorithm",paraId:0,tocIndex:0},{value:"\u52A8\u6001\u6548\u679C\u9884\u89C8\uFF1A",paraId:0,tocIndex:0},{value:"haokur.github.io/algorithm",paraId:0,tocIndex:0}]},57618:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(73550);const a=[{value:"\u63A8\u6F14\u903B\u8F91\uFF1A",paraId:0,tocIndex:1},{value:"\u5F53 arr \u53EA\u6709\u4E00\u4E2A\u6570\u65F6\uFF0C\u4ED6\u81EA\u8EAB\u5C31\u662F\u6700\u957F\u7684\u5B50\u5E8F\u5217\uFF0C\u6240\u4EE5\u8DF3\u8FC7\u7B2C\u4E00\u4E2A\u6570",paraId:1,tocIndex:1},{value:"\u5B9A\u4E49\u4E00\u4E2A\u4E8C\u7EF4\u6570\u7EC4\uFF0C\u5B58\u653E\u5B50\u5E8F\u5217\u62FC\u63A5\u7ED3\u679C result\uFF0C\u7531\u7B2C\u4E00\u6B65\uFF0C\u5C31\u6709 [[arr[0]]]",paraId:1,tocIndex:1},{value:"\u4ECE\u7B2C\u4E8C\u4E2A\u6570\u7684\u4F4D\u7F6E\u5F00\u59CB\u904D\u5386\uFF0C\u53D6\u4E00\u4E2A\u6570 current\uFF0C\u4E0E result \u7684\u6BCF\u4E00\u9879\u7684\u6700\u540E\u4E00\u4E2A\u6570\u6BD4\u8F83\uFF0C\u5047\u5982 current \u7684\u6570\u5927\u4E8E\u6570\u7EC4\u7684\u6700\u540E\u4E00\u9879\uFF0C\u5219\u53EF\u4EE5\u62FC\u63A5\uFF0C\u5373\u5B58\u5728\u8FD9\u79CD\u60C5\u666F\uFF0C\u5373 result \u662F[[1],[1,2],[1,2,7]],\u9047\u5230 current=3\uFF0C\u6570\u7EC4\u6700\u540E\u4E00\u9879\u62FC\u4E0D\u4E0A\uFF0C\u4F46\u662F\u78B0\u5230 [1,2],\u80FD\u62FC\u63A5\u4E0A\u4E86\uFF0C\u90A3\u4E48\u5C31\u628A [1,2] \u7684\u4E0B\u4E00\u9879\u4FEE\u6539 [1,2,7]=>[1,2,3],\u9000\u51FA\u5FAA\u73AF\uFF0C\u6B64\u65F6\u7684 result \u4E3A [[1],[1,2],[1,2,3]]\uFF1B\u5982\u679C\u627E\u5230\u6700\u5F00\u59CB\u7684\u9879\uFF0C\u4E5F\u62FC\u4E0D\u4E0A\uFF0C\u90A3\u4E48\u5B83\u5C31\u662F\u6240\u6709\u7ED3\u679C\u91CC\u6700\u5C0F\u7684\uFF0C\u4ED6\u5C31\u72EC\u81EA\u5728 result \u7684\u7B2C\u4E00\u9879\uFF0C\u5373 result[0] = [current]",paraId:1,tocIndex:1},{value:"\u6700\u540E\u8FD4\u56DE result \u7684\u6700\u540E\u4E00\u9879",paraId:1,tocIndex:1},{value:"result \u7684\u6F14\u53D8\u8FC7\u7A0B\uFF1A",paraId:2,tocIndex:1},{value:`4=> [[4]]
+`,paraId:4,tocIndex:2},{value:"map",paraId:5,tocIndex:2},{value:`m := make(map[string]interface{})
+fmt.Println(m) // \u7A7A\u5BF9\u8C61
+
+m2 := map[string]interface{}{
+    "Name":"Jack",
+}
+fmt.Println(m2)
+
+// \u8D4B\u503C
+m["Name"] = "Alice"
+m["Age"] = 19
+fmt.Println(m)
+
+// \u53D6\u503C
+fmt.Println(m["Name"])
+for k,v := range m {
+    fmt.Println(k,v)
+}
+`,paraId:6,tocIndex:2},{value:"\u5B57\u7B26\u4E32\u8F6C\u5176\u4ED6",paraId:7,tocIndex:3},{value:`// \u5B57\u7B26\u4E32\u8F6C\u6570\u5B57(int)
+str := "123"
+num,err := strconv.Atoi(str)
+if err !=nil{
+    fmt.Println("\u8F6C\u6362\u5931\u8D25://",err)
+}else {
+    fmt.Println("123\u8F6C\u6570\u5B57://",num)
+}
+
+// \u5B57\u7B26\u4E32\u8F6C\u6D6E\u70B9\u6570
+str2 := "1.23"
+floatNum ,err := strconv.ParseFloat(str2,64)
+if err == nil {
+    fmt.Println("1.23\u8F6C\u6362\u6210\u6D6E\u70B9\u6570://",floatNum)
+}
+
+// \u5B57\u7B26\u4E32\u8F6C\u5207\u7247
+str3 := "hello"
+bytes := []byte(str)
+fmt.Println(bytes)
+
+// \u5B57\u7B26\u4E32\u8F6Cjson
+jsonStr := \`{"key1":"value1","key2":"value2"}\`
+var data map[string]string
+err := json.Unmarshal([]byte(jsonStr),&data)
+if err != nil{
+    fmt.Println("\u89E3\u6790JSON\u5931\u8D25",err)
+} else {
+    fmt.Println("\u8F6C\u6362\u540E\u7684JSON://",data)
+    fmt.Println(data["key1"])
+}
+`,paraId:8,tocIndex:3},{value:"\u6570\u5B57\u8F6C\u5176\u4ED6",paraId:9,tocIndex:3},{value:`// \u8F6C\u5B57\u7B26\u4E32
+num := 123
+str := fmt.Sprint(num)
+fmt.Println(num)
+
+// \u8F6C\u6D6E\u70B9
+num2 := 123
+floatNum := float64(num2)
+fmt.Println(num2)
+
+// \u6D6E\u70B9\u6570\u53D6\u6574
+floatNum2 := 1.23
+fmt.Println(int(floatNum2))
+
+// \u6D6E\u70B9\u6570\u4FDD\u7559\u5C0F\u6570\u4F4D\u6570
+floatNum3 := 3.14159265358979323846
+roundedNum := fmt.Sprintf("%.2f", floatNum3)
+fmt.Println(roundedNum)
+roundedNum2 := strconv.FormatFloat(floatNum3,'f',2,64)
+fmt.Println(roundedNum2)
+`,paraId:10,tocIndex:3},{value:"slice \u5207\u7247\u8F6C\u5176\u4ED6",paraId:11,tocIndex:3},{value:`// \u5207\u7247\u8F6C\u6570\u7EC4
+slice := []int{1,2,3,4,5}
+var array [5]int
+for i,v := range slice {
+    array[i] = v
+}
+fmt.Println("\u6570\u7EC4://",array)
+
+// \u5207\u7247\u8F6Cmap
+slice2 := []string{"key1","value1","key2","value2"}
+m := make(map[string]string)
+for i := 0; i < len(slice2); i += 2 {
+   m[slice2[i]] = slice2[i+1]
+}
+fmt.Println("map:",m)
+`,paraId:12,tocIndex:3},{value:"map \u8F6C\u5176\u4ED6",paraId:13,tocIndex:3},{value:`// map\u8F6C\u7ED3\u6784\u4F53
+type Fruit struct {
+    Name string
+    Count int
+}
+m := map[string]int{
+    "apple":5,
+    "banana":3,
+    "orange":7,
+}
+
+var fruits []Fruit
+for key,value := range m {
+    fruit := Fruit{Name:key,Count:value}
+    fruits = append(fruits,fruit)
+}
+fmt.Println("\u7ED3\u6784\u4F53\u5207\u7247\uFF1A",fruits)
+
+// map\u8F6C\u5B57\u7B26\u4E32
+m := map[string]interface{}{
+    "Name":"Alice",
+    "Age":30,
+    "email":"haokur@qq.com",
+}
+jsonStr,err := json.Marshal(m)
+if err != nil{
+    fmt.Println("\u8F6C\u6362\u5931\u8D25://",err)
+}
+fmt.Println("JSON\u5B57\u7B26\u4E32\uFF1A",getType(jsonStr), jsonStr,cap(jsonStr)) // \u8FD4\u56DE\u7684\u662F\u5207\u7247
+fmt.Println("JSON\u5B57\u7B26\u4E322\uFF1A",string(jsonStr))
+`,paraId:14,tocIndex:3}]},52831:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(79596);const a=[]},51446:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(68537);const a=[]},3190:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(43648);const a=[{value:"\u4EE3\u7801\u5B9E\u73B0\uFF08javascript\uFF09\uFF1A",paraId:0,tocIndex:0},{value:"haokur/algorithm",paraId:0,tocIndex:0},{value:"\u52A8\u6001\u6548\u679C\u9884\u89C8\uFF1A",paraId:0,tocIndex:0},{value:"haokur.github.io/algorithm",paraId:0,tocIndex:0}]},57618:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(73550);const a=[{value:"\u63A8\u6F14\u903B\u8F91\uFF1A",paraId:0,tocIndex:1},{value:"\u5F53 arr \u53EA\u6709\u4E00\u4E2A\u6570\u65F6\uFF0C\u4ED6\u81EA\u8EAB\u5C31\u662F\u6700\u957F\u7684\u5B50\u5E8F\u5217\uFF0C\u6240\u4EE5\u8DF3\u8FC7\u7B2C\u4E00\u4E2A\u6570",paraId:1,tocIndex:1},{value:"\u5B9A\u4E49\u4E00\u4E2A\u4E8C\u7EF4\u6570\u7EC4\uFF0C\u5B58\u653E\u5B50\u5E8F\u5217\u62FC\u63A5\u7ED3\u679C result\uFF0C\u7531\u7B2C\u4E00\u6B65\uFF0C\u5C31\u6709 [[arr[0]]]",paraId:1,tocIndex:1},{value:"\u4ECE\u7B2C\u4E8C\u4E2A\u6570\u7684\u4F4D\u7F6E\u5F00\u59CB\u904D\u5386\uFF0C\u53D6\u4E00\u4E2A\u6570 current\uFF0C\u4E0E result \u7684\u6BCF\u4E00\u9879\u7684\u6700\u540E\u4E00\u4E2A\u6570\u6BD4\u8F83\uFF0C\u5047\u5982 current \u7684\u6570\u5927\u4E8E\u6570\u7EC4\u7684\u6700\u540E\u4E00\u9879\uFF0C\u5219\u53EF\u4EE5\u62FC\u63A5\uFF0C\u5373\u5B58\u5728\u8FD9\u79CD\u60C5\u666F\uFF0C\u5373 result \u662F[[1],[1,2],[1,2,7]],\u9047\u5230 current=3\uFF0C\u6570\u7EC4\u6700\u540E\u4E00\u9879\u62FC\u4E0D\u4E0A\uFF0C\u4F46\u662F\u78B0\u5230 [1,2],\u80FD\u62FC\u63A5\u4E0A\u4E86\uFF0C\u90A3\u4E48\u5C31\u628A [1,2] \u7684\u4E0B\u4E00\u9879\u4FEE\u6539 [1,2,7]=>[1,2,3],\u9000\u51FA\u5FAA\u73AF\uFF0C\u6B64\u65F6\u7684 result \u4E3A [[1],[1,2],[1,2,3]]\uFF1B\u5982\u679C\u627E\u5230\u6700\u5F00\u59CB\u7684\u9879\uFF0C\u4E5F\u62FC\u4E0D\u4E0A\uFF0C\u90A3\u4E48\u5B83\u5C31\u662F\u6240\u6709\u7ED3\u679C\u91CC\u6700\u5C0F\u7684\uFF0C\u4ED6\u5C31\u72EC\u81EA\u5728 result \u7684\u7B2C\u4E00\u9879\uFF0C\u5373 result[0] = [current]",paraId:1,tocIndex:1},{value:"\u6700\u540E\u8FD4\u56DE result \u7684\u6700\u540E\u4E00\u9879",paraId:1,tocIndex:1},{value:"result \u7684\u6F14\u53D8\u8FC7\u7A0B\uFF1A",paraId:2,tocIndex:1},{value:`4=> [[4]]
 5=> [[4], [4, 5]]
 1=> [[1], [4, 5]]
 2=> [[1], [1, 2]]
