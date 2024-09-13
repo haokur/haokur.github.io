@@ -173,3 +173,144 @@ func sliceTest() {
 	fmt.Println(zeroSlice, zeroSlice == nil)
 }
 ```
+
+- map
+
+```go
+m := make(map[string]interface{})
+fmt.Println(m) // 空对象
+
+m2 := map[string]interface{}{
+    "Name":"Jack",
+}
+fmt.Println(m2)
+
+// 赋值
+m["Name"] = "Alice"
+m["Age"] = 19
+fmt.Println(m)
+
+// 取值
+fmt.Println(m["Name"])
+for k,v := range m {
+    fmt.Println(k,v)
+}
+```
+
+### 3. 数据转换
+
+- 字符串转其他
+
+```go
+// 字符串转数字(int)
+str := "123"
+num,err := strconv.Atoi(str)
+if err !=nil{
+    fmt.Println("转换失败://",err)
+}else {
+    fmt.Println("123转数字://",num)
+}
+
+// 字符串转浮点数
+str2 := "1.23"
+floatNum ,err := strconv.ParseFloat(str2,64)
+if err == nil {
+    fmt.Println("1.23转换成浮点数://",floatNum)
+}
+
+// 字符串转切片
+str3 := "hello"
+bytes := []byte(str)
+fmt.Println(bytes)
+
+// 字符串转json
+jsonStr := `{"key1":"value1","key2":"value2"}`
+var data map[string]string
+err := json.Unmarshal([]byte(jsonStr),&data)
+if err != nil{
+    fmt.Println("解析JSON失败",err)
+} else {
+    fmt.Println("转换后的JSON://",data)
+    fmt.Println(data["key1"])
+}
+```
+
+- 数字转其他
+
+```go
+// 转字符串
+num := 123
+str := fmt.Sprint(num)
+fmt.Println(num)
+
+// 转浮点
+num2 := 123
+floatNum := float64(num2)
+fmt.Println(num2)
+
+// 浮点数取整
+floatNum2 := 1.23
+fmt.Println(int(floatNum2))
+
+// 浮点数保留小数位数
+floatNum3 := 3.14159265358979323846
+roundedNum := fmt.Sprintf("%.2f", floatNum3)
+fmt.Println(roundedNum)
+roundedNum2 := strconv.FormatFloat(floatNum3,'f',2,64)
+fmt.Println(roundedNum2)
+```
+
+- slice 切片转其他
+
+```go
+// 切片转数组
+slice := []int{1,2,3,4,5}
+var array [5]int
+for i,v := range slice {
+    array[i] = v
+}
+fmt.Println("数组://",array)
+
+// 切片转map
+slice2 := []string{"key1","value1","key2","value2"}
+m := make(map[string]string)
+for i := 0; i < len(slice2); i += 2 {
+   m[slice2[i]] = slice2[i+1]
+}
+fmt.Println("map:",m)
+```
+
+- map 转其他
+
+```go
+// map转结构体
+type Fruit struct {
+    Name string
+    Count int
+}
+m := map[string]int{
+    "apple":5,
+    "banana":3,
+    "orange":7,
+}
+
+var fruits []Fruit
+for key,value := range m {
+    fruit := Fruit{Name:key,Count:value}
+    fruits = append(fruits,fruit)
+}
+fmt.Println("结构体切片：",fruits)
+
+// map转字符串
+m := map[string]interface{}{
+    "Name":"Alice",
+    "Age":30,
+    "email":"haokur@qq.com",
+}
+jsonStr,err := json.Marshal(m)
+if err != nil{
+    fmt.Println("转换失败://",err)
+}
+fmt.Println("JSON字符串：",getType(jsonStr), jsonStr,cap(jsonStr)) // 返回的是切片
+fmt.Println("JSON字符串2：",string(jsonStr))
+```
