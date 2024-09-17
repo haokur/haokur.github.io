@@ -1,4 +1,4 @@
-# golang 基础
+# 基础
 
 ### 1. 变量声明
 
@@ -55,7 +55,6 @@ func changeArrItemByPoint(arr *[3]int) {
 // 数组测试
 func arrTest() {
 	// 数组声明
-	var arr1 []int
 	arr2 := [4]int{1, 2, 3, 4}
 	arr3 := [...]int{1, 2, 3, 4, 5}
 	arr4 := [...]int{0: 1, 10: 11}
@@ -280,7 +279,7 @@ for i := 0; i < len(slice2); i += 2 {
 fmt.Println("map:",m)
 ```
 
-- map 转其他
+- map 转其他#
 
 ```go
 // map转结构体
@@ -313,4 +312,248 @@ if err != nil{
 }
 fmt.Println("JSON字符串：",getType(jsonStr), jsonStr,cap(jsonStr)) // 返回的是切片
 fmt.Println("JSON字符串2：",string(jsonStr))
+```
+
+### 4. 分支
+
+- if-else
+
+```go
+// if-else
+score := 88
+
+if score>90 {
+    fmt.Println("优秀")
+} else if score > 80 {
+    fmt.Println("良好")
+} else if score > 70 {
+    fmt.Println("还行")
+} else if score > 60 {
+    fmt.Println("及格")
+} else {
+    fmt.Println("不及格")
+}
+```
+
+- switch-case 常规
+
+```go
+// switch-case，搭配固定值的switch用法
+// 不需要手动break，而要跳到下一个case需手动fallthrough
+// 所以连写如  case 7: case 8: 并不像其他语言一样公用同一个逻辑，公用同一个逻辑，要并列在一行如： case 7,8:
+func getStatus(status int) string{
+    resultText := ""
+
+    switch status {
+    case 0:
+        resultText = "待开始"
+    case 1:
+        resultText = "进行中"
+    case 2:
+        fmt.Println("2 和 3 一样，使用fallthrough跳到下一个")
+        fallthrough
+    case 3:
+        resultText = "已结束"
+    case 4,5,6:
+        fmt.Println("不使用fallthrough，可使用并列的方式")
+        resultText = "发生了错误"
+    case 7:
+    case 8:
+        resultText = "结果是7或8"
+    default:
+        resultText = "无效的状态码"
+    }
+
+
+    return resultText
+}
+
+fmt.Println("result text for status 1 is ",getStatus(1))
+fmt.Println("result text for status 2 and 3 is ",getStatus(2), getStatus(3))
+fmt.Println("result text for status 4 and 5 is ",getStatus(4),getStatus(5))
+fmt.Println("result text for status 7 is ",getStatus(7)) // 并不如预期，结果会是空
+```
+
+- switch-case 实现类似 if-else 的效果
+
+```go
+// switch-case，搭配空switch的用法，类似if-else
+func getStatusByCondition(score int){
+    switch {
+        case score > 90:
+            fmt.Println("优秀")
+        case score > 80:
+            fmt.Println("良好")
+        case score > 70:
+            fmt.Println("一般")
+        case score > 60:
+            fmt.Println("及格")
+        default:
+            fmt.Println("不及格")
+    }
+}
+fmt.Println("score 88 is")
+getStatusByCondition(88)
+
+fmt.Println("score 55 is")
+getStatusByCondition(55)
+```
+
+- 转映射的方式
+
+```go
+// 大多“固定值-匹配处理方法”的分支都可以转成映射的方式
+// 即 case 是等于的情形
+func getStatusByMap(status int) string{
+    statusMap := map[int]string{
+        0 : "待开始",
+        1 : "进行中",
+        2 : "已结束",
+        3 : "已结束",
+    }
+    if result,exists := statusMap[status]; exists{
+        return result
+    } else {
+        return "无效的状态码"
+    }
+}
+
+fmt.Println("result text for status 1 is ",getStatusByMap(1))
+fmt.Println("result text for status 2 and 3 is ",getStatusByMap(2), getStatusByMap(3))
+fmt.Println("result text for status 4 and 5 is ",getStatusByMap(4),getStatusByMap(5))
+fmt.Println("result text for status 7 is ",getStatusByMap(7)) // 并不如预期，结果会是空
+```
+
+- 使用映射来匹配 action 执行操作
+
+```go
+type ActionFunc func(status int) string
+
+func runAction(action string, status int) string {
+    actionMap := map[string]ActionFunc{
+        "start":func(status int) string {
+            return "start"
+        },
+        "pause":func(status int) string {
+            return "pause"
+        },
+        "stop":func(status int) string {
+            return "stop"
+        },
+    }
+    if actionFunc , exist := actionMap[action]; exist {
+        return actionFunc(status)
+    } else {
+        fmt.Println(action, "action not found")
+        return "not found"
+    }
+}
+
+fmt.Println("runAction(\"start\",1) 执行的结果：",runAction("start",1))
+fmt.Println("runAction(\"end\",1) 执行的结果：",runAction("end",1))
+```
+
+### 5. 遍历
+
+- 普通，数组/切片遍历
+
+```go
+// 没有while，do-while，只有for，都用for模拟
+// 基本遍历
+for i := 0; i < 5; i ++ {
+    fmt.Println(i)
+}
+
+// 数组,slice遍历
+arr := [5]int{11,22,33,44,55}
+fmt.Println("普通for循环")
+for i := 0; i < len(arr); i ++ {
+    fmt.Println(i,arr[i])
+}
+
+fmt.Println("使用range")
+for index,value := range arr {
+    fmt.Println(index,value)
+}
+
+// map的遍历
+userJson := map[string]interface{}{
+    "Name":"Jack",
+    "Age" : 18,
+}
+for key , value := range userJson {
+    fmt.Println("userJson key is ", key, " value is ",value)
+}
+```
+
+- 字符串的遍历
+
+```go
+// 字符串的遍历有些特殊
+str := "Hello Go语言"
+fmt.Println(len(str))
+
+// Unicode 字符的序列
+fmt.Println("普通遍历字符串，遇到中文索引不如预期://")
+for index , value := range str {
+    fmt.Println(index, value,string(value)) // “语”在8的位置，“言”在11的位置
+}
+
+// 使用rune切片来遍历
+runes := []rune(str)
+fmt.Println("使用rune转换后来遍历字符串://")
+for index ,value := range runes {
+    fmt.Println(index,value,string(value))
+}
+```
+
+- 模拟 while 循环，do-while，无限循环
+
+```go
+// while 循环
+count := 0
+for count < 5 {
+    count ++
+    fmt.Println(count)
+}
+
+// do-while循环
+count2 := 0
+for {
+    fmt.Println(count2)
+    count2 ++
+
+    if count2 >= 5{
+        break // 使用break或return跳出死循环
+    }
+}
+
+// 无限循环
+for {
+  // 一直执行， 直到break或return
+}
+```
+
+### 6. 其他
+
+- 指针
+
+```go
+num := 10
+pNum := &num
+fmt.Println("num的指针/地址：", pNum)
+fmt.Println("*pNum：",*pNum)
+
+// 函数里的参数只能是 *xx，不能是&xx，当参数是*xx，则传入的需要是一个指针
+func count(i *int){
+    (*i)++
+}
+count(pNum)
+fmt.Println("after count num is",num)
+```
+
+```
+num的指针/地址： 0xc000676000
+*pNum： 10
+after count num is 11
 ```
