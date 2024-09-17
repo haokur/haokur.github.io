@@ -1,4 +1,4 @@
-"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[904],{23522:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(86549),r={}},65575:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(22314),r={}},2932:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(52208),r={}},53017:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(16878),r={}},13591:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(49845),r={}},70532:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(64083),r={}},39306:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(26513),r={}},44428:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(44646),r={}},74847:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(84171),r={}},829:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(74573),r={}},19142:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(76692),r={}},95523:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(37132),r={}},80877:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(63178),r={}},5835:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(55152),r={}},96624:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(81005),r={}},74867:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(92688),r={}},55743:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(32897),r={}},29753:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(94697),r={}},41769:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(79596),r={}},11171:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(68537),r={}},67715:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(43648),r={}},29874:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(73550),r={}},46926:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(4299),r={}},90702:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(94807),r={}},16867:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(90142),r={}},46983:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(22695),r={}},47537:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(99920),r={}},48516:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(79825),r={}},11414:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(72830),r={}},86698:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(33127),r={}},81206:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(61831),r={}},85229:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(86549);const a=[{value:"\u5C01\u88C5\uFF1A\u5C01\u88C5\u53D8\u5316",paraId:0,tocIndex:1},{value:"\u7EE7\u627F\uFF1A\u7EE7\u627F\u901A\u7528\u5C5E\u6027\u548C\u65B9\u6CD5",paraId:0,tocIndex:1},{value:"\u591A\u6001\uFF1A\u540C\u4E00\u4E2A\u63A5\u53E3\u65B9\u6CD5\uFF0C\u4E0D\u540C\u7684\u5B9E\u73B0\uFF0C\u9ED1\u732B\u767D\u732B\uFF0C\u80FD\u6293\u8001\u9F20\u7684\u5C31\u662F\u732B",paraId:0,tocIndex:1},{value:"\u95ED\u5305\uFF1A\u51FD\u6570\u6267\u884C\u5B8C\u5176\u76F8\u5E94\u7684\u6267\u884C\u73AF\u5883\u9700\u8981\u88AB\u91CA\u653E\uFF0C\u800C\u8FD4\u56DE\u4E86\u8BE5\u51FD\u6570\uFF0C\u51FD\u6570\u5E76\u672A\u6D88\u4EA1\uFF0C\u5176\u6267\u884C\u73AF\u5883\u4E5F\u88AB\u4E00\u8D77\u7559\u5B58\u4E86\u4E0B\u6765\uFF0C\u4E0D\u4F1A\u88AB\u5783\u573E\u56DE\u6536\u91CA\u653E",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\uFF1A\u53D8\u91CF\u67E5\u627E\u8303\u56F4\u89C4\u5219\uFF0C\u6709\u5168\u5C40\u4F5C\u7528\u57DF\uFF0C\u51FD\u6570\u4F5C\u7528\u57DF\uFF0Clet\uFF0Cconst \u5757\u7EA7\u4F5C\u7528\u57DF",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\u94FE\uFF1A\u53D8\u91CF\u7684\u7531\u6700\u8FD1\u4F5C\u7528\u57DF\u5230\u6700\u8FDC\u4F5C\u7528\u57DF\uFF08\u5168\u5C40\u4F5C\u7528\u57DF\uFF09\u7684\u53D8\u91CF\u67E5\u627E\u89C4\u5219",paraId:0,tocIndex:1},{value:"\u539F\u578B\uFF1A\u5BF9\u8C61\u4E0A\u7684 prototype \u5C5E\u6027\u5BF9\u8C61\uFF0C\u5176 constructor \u7684\u503C\u5BF9\u5E94\u4E3A\u5BF9\u8C61\u672C\u8EAB",paraId:0,tocIndex:1},{value:"\u539F\u578B\u94FE\uFF1A\u5BF9\u8C61\u5728\u67E5\u627E\u53D8\u91CF\u548C\u65B9\u6CD5\u65F6\uFF0C\u5F53\u524D\u5BF9\u8C61\u4E0A\u6CA1\u6709\uFF0C\u5219\u901A\u8FC7 __proto** \u67E5\u627E\u5230\u4E0A\u4E00\u5C42\u7684 prototype \u4E0A\uFF0C\u6CA1\u67E5\u5230\u5C31\u518D\u62FC\u4E00\u5C42 __proto** \u76F4\u5230\u67E5\u627E null \u505C\u6B62\uFF0C\u6700\u7EC8\u672A\u627E\u5230\uFF0C\u8FD4\u56DE undefined",paraId:0,tocIndex:1},{value:"\u8BBE\u8BA1\u6A21\u5F0F\u6838\u5FC3\uFF1A\u5C06\u53D8\u7684\u548C\u4E0D\u53D8\u7684\u62C6\u79BB\u5F00",paraId:0,tocIndex:1},{value:"\u5E38\u7528\u573A\u666F\uFF1A",paraId:1,tocIndex:2},{value:"\u6570\u636E\u5E93\uFF0Credis \u8FDE\u63A5\uFF0C\u521B\u5EFA\u6839\u5143\u7D20",paraId:2,tocIndex:2},{value:"\u5B9E\u73B0\uFF1A",paraId:3,tocIndex:2},{value:"\u82E5\u6CA1\u6267\u884C\u8FC7\uFF0C\u5219\u6267\u884C\u4E14\u4FDD\u5B58\u7ED3\u679C",paraId:4,tocIndex:2},{value:"\u82E5\u6267\u884C\u8FC7\uFF08\u7ED3\u679C\u7F13\u5B58\u6709\u503C\uFF09\uFF0C\u8C03\u7528\u65F6\uFF0C\u76F4\u63A5\u8FD4\u56DE\u4E0A\u6B21\u7F13\u5B58\u7684\u7ED3\u679C",paraId:4,tocIndex:2},{value:`// \u901A\u7528\u83B7\u53D6\u5355\u4F8B\uFF0C\u9AD8\u9636\u51FD\u6570+\u95ED\u5305
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[904],{23522:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(86549),r={}},65575:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(22314),r={}},2932:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(52208),r={}},53017:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(16878),r={}},13591:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(49845),r={}},70532:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(64083),r={}},39306:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(26513),r={}},44428:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(44646),r={}},74847:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(84171),r={}},829:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(74573),r={}},19142:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(76692),r={}},95523:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(37132),r={}},80877:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(63178),r={}},5835:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(55152),r={}},96624:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(81005),r={}},74867:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(92688),r={}},55743:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(32897),r={}},29753:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(94697),r={}},30373:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(99316),r={}},41769:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(79596),r={}},76544:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(54273),r={}},54651:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(30580),r={}},11295:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(60056),r={}},11171:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(68537),r={}},67715:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(43648),r={}},29874:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(73550),r={}},46926:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(4299),r={}},90702:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(94807),r={}},16867:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(90142),r={}},46983:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(22695),r={}},47537:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(99920),r={}},48516:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(79825),r={}},11414:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(72830),r={}},86698:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(33127),r={}},81206:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(61831),r={}},85229:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(86549);const t=[{value:"\u5C01\u88C5\uFF1A\u5C01\u88C5\u53D8\u5316",paraId:0,tocIndex:1},{value:"\u7EE7\u627F\uFF1A\u7EE7\u627F\u901A\u7528\u5C5E\u6027\u548C\u65B9\u6CD5",paraId:0,tocIndex:1},{value:"\u591A\u6001\uFF1A\u540C\u4E00\u4E2A\u63A5\u53E3\u65B9\u6CD5\uFF0C\u4E0D\u540C\u7684\u5B9E\u73B0\uFF0C\u9ED1\u732B\u767D\u732B\uFF0C\u80FD\u6293\u8001\u9F20\u7684\u5C31\u662F\u732B",paraId:0,tocIndex:1},{value:"\u95ED\u5305\uFF1A\u51FD\u6570\u6267\u884C\u5B8C\u5176\u76F8\u5E94\u7684\u6267\u884C\u73AF\u5883\u9700\u8981\u88AB\u91CA\u653E\uFF0C\u800C\u8FD4\u56DE\u4E86\u8BE5\u51FD\u6570\uFF0C\u51FD\u6570\u5E76\u672A\u6D88\u4EA1\uFF0C\u5176\u6267\u884C\u73AF\u5883\u4E5F\u88AB\u4E00\u8D77\u7559\u5B58\u4E86\u4E0B\u6765\uFF0C\u4E0D\u4F1A\u88AB\u5783\u573E\u56DE\u6536\u91CA\u653E",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\uFF1A\u53D8\u91CF\u67E5\u627E\u8303\u56F4\u89C4\u5219\uFF0C\u6709\u5168\u5C40\u4F5C\u7528\u57DF\uFF0C\u51FD\u6570\u4F5C\u7528\u57DF\uFF0Clet\uFF0Cconst \u5757\u7EA7\u4F5C\u7528\u57DF",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\u94FE\uFF1A\u53D8\u91CF\u7684\u7531\u6700\u8FD1\u4F5C\u7528\u57DF\u5230\u6700\u8FDC\u4F5C\u7528\u57DF\uFF08\u5168\u5C40\u4F5C\u7528\u57DF\uFF09\u7684\u53D8\u91CF\u67E5\u627E\u89C4\u5219",paraId:0,tocIndex:1},{value:"\u539F\u578B\uFF1A\u5BF9\u8C61\u4E0A\u7684 prototype \u5C5E\u6027\u5BF9\u8C61\uFF0C\u5176 constructor \u7684\u503C\u5BF9\u5E94\u4E3A\u5BF9\u8C61\u672C\u8EAB",paraId:0,tocIndex:1},{value:"\u539F\u578B\u94FE\uFF1A\u5BF9\u8C61\u5728\u67E5\u627E\u53D8\u91CF\u548C\u65B9\u6CD5\u65F6\uFF0C\u5F53\u524D\u5BF9\u8C61\u4E0A\u6CA1\u6709\uFF0C\u5219\u901A\u8FC7 __proto** \u67E5\u627E\u5230\u4E0A\u4E00\u5C42\u7684 prototype \u4E0A\uFF0C\u6CA1\u67E5\u5230\u5C31\u518D\u62FC\u4E00\u5C42 __proto** \u76F4\u5230\u67E5\u627E null \u505C\u6B62\uFF0C\u6700\u7EC8\u672A\u627E\u5230\uFF0C\u8FD4\u56DE undefined",paraId:0,tocIndex:1},{value:"\u8BBE\u8BA1\u6A21\u5F0F\u6838\u5FC3\uFF1A\u5C06\u53D8\u7684\u548C\u4E0D\u53D8\u7684\u62C6\u79BB\u5F00",paraId:0,tocIndex:1},{value:"\u5E38\u7528\u573A\u666F\uFF1A",paraId:1,tocIndex:2},{value:"\u6570\u636E\u5E93\uFF0Credis \u8FDE\u63A5\uFF0C\u521B\u5EFA\u6839\u5143\u7D20",paraId:2,tocIndex:2},{value:"\u5B9E\u73B0\uFF1A",paraId:3,tocIndex:2},{value:"\u82E5\u6CA1\u6267\u884C\u8FC7\uFF0C\u5219\u6267\u884C\u4E14\u4FDD\u5B58\u7ED3\u679C",paraId:4,tocIndex:2},{value:"\u82E5\u6267\u884C\u8FC7\uFF08\u7ED3\u679C\u7F13\u5B58\u6709\u503C\uFF09\uFF0C\u8C03\u7528\u65F6\uFF0C\u76F4\u63A5\u8FD4\u56DE\u4E0A\u6B21\u7F13\u5B58\u7684\u7ED3\u679C",paraId:4,tocIndex:2},{value:`// \u901A\u7528\u83B7\u53D6\u5355\u4F8B\uFF0C\u9AD8\u9636\u51FD\u6570+\u95ED\u5305
 function getSingle(callback) {
   let singleInstance;
 
@@ -171,7 +171,7 @@ const user = new User();
 const light = new Light();
 user.setCommand(new lightCommand(light));
 user.pressButton();
-`,paraId:32,tocIndex:7},{value:"\u4EE5\u4E0A\uFF0C\u4EBA\u4E0D\u76F4\u63A5\u548C Light \u5173\u8054\uFF0C\u800C\u662F\u6309\u5F00\u5173\u7684\u64CD\u4F5C\uFF0C\u4EBA\u548C Light \u5C31\u89E3\u8026\u4E86\uFF0C\u4EBA\u6309\u5F00\u5173\u53EF\u4EE5\u662F\u64CD\u4F5C\u706F\u7684\u5207\u6362\uFF0C\u4E5F\u53EF\u80FD\u662F\u64CD\u4F5C\u7A97\u5E18\u7684\u5F00\u5408\u7B49\u7B49\u3002",paraId:33,tocIndex:7},{value:"\u5E38\u7528\u7684\u573A\u666F\u8FD8\u6709\uFF1A",paraId:34,tocIndex:7},{value:"\u64A4\u9500\u529F\u80FD",paraId:35,tocIndex:7},{value:"\u961F\u5217\u8BF7\u6C42",paraId:35,tocIndex:7},{value:"\u65E5\u5FD7\u8BB0\u5F55",paraId:35,tocIndex:7}]},17760:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(22314);const a=[{value:"\u8BBE\u8BA1\u6A21\u5F0F",paraId:0,tocIndex:0},{value:"javascript \u57FA\u7840",paraId:1,tocIndex:0}]},33545:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(52208);const a=[{value:"\u6709\u53C2\u6570\u65F6\u5B58\u50A8\u53C2\u6570\uFF0C\u65E0\u53C2\u6570\u65F6\u6267\u884C",paraId:0,tocIndex:1},{value:`function currying(fn) {
+`,paraId:32,tocIndex:7},{value:"\u4EE5\u4E0A\uFF0C\u4EBA\u4E0D\u76F4\u63A5\u548C Light \u5173\u8054\uFF0C\u800C\u662F\u6309\u5F00\u5173\u7684\u64CD\u4F5C\uFF0C\u4EBA\u548C Light \u5C31\u89E3\u8026\u4E86\uFF0C\u4EBA\u6309\u5F00\u5173\u53EF\u4EE5\u662F\u64CD\u4F5C\u706F\u7684\u5207\u6362\uFF0C\u4E5F\u53EF\u80FD\u662F\u64CD\u4F5C\u7A97\u5E18\u7684\u5F00\u5408\u7B49\u7B49\u3002",paraId:33,tocIndex:7},{value:"\u5E38\u7528\u7684\u573A\u666F\u8FD8\u6709\uFF1A",paraId:34,tocIndex:7},{value:"\u64A4\u9500\u529F\u80FD",paraId:35,tocIndex:7},{value:"\u961F\u5217\u8BF7\u6C42",paraId:35,tocIndex:7},{value:"\u65E5\u5FD7\u8BB0\u5F55",paraId:35,tocIndex:7}]},17760:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(22314);const t=[{value:"\u8BBE\u8BA1\u6A21\u5F0F",paraId:0,tocIndex:0},{value:"javascript \u57FA\u7840",paraId:1,tocIndex:0}]},33545:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(52208);const t=[{value:"\u6709\u53C2\u6570\u65F6\u5B58\u50A8\u53C2\u6570\uFF0C\u65E0\u53C2\u6570\u65F6\u6267\u884C",paraId:0,tocIndex:1},{value:`function currying(fn) {
   // \u95ED\u5305\u6536\u96C6\u5B58\u50A8\u53C2\u6570\u53D8\u91CF
   var args = [];
 
@@ -205,7 +205,7 @@ curryCost(100); // arguments.callee => curryingWrapFn => curryCost
 curryCost(200)(300); // \u540C\u4E0A
 const result = curryCost(); // curryingWrapFn => arguments.length===0 => cost(100,200,300)
 console.log(result); // 600
-`,paraId:1,tocIndex:1}]},19474:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(16878);const a=[{value:`// 1.5\u7F16\u7A0B\uFF1A(*p)=>f(p)
+`,paraId:1,tocIndex:1}]},19474:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(16878);const t=[{value:`// 1.5\u7F16\u7A0B\uFF1A(*p)=>f(p)
 interface ILogger {
   info: (self: unknown, msg: string) => void;
 }
@@ -247,7 +247,7 @@ let tag_logger_dynamic_info = {
 } as ILogger;
 let Logger2: TagLogger = { interface: tag_logger_dynamic_info, tag: 'tag' };
 info(Logger2, 'Hello');
-`,paraId:0,tocIndex:1}]},61117:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(49845);const a=[{value:"\u6E90\u7801\u5B9E\u73B0\uFF08koa\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"koa-server/client/classes/MultiChannel.ts at main \xB7 haokur/koa-server (github.com)",paraId:0,tocIndex:1},{value:"\u5728\u7EBF DEMO\uFF1A",paraId:0,tocIndex:1},{value:"Vue3-client (haokur.github.io)",paraId:0,tocIndex:1},{value:"javascript \u662F\u5355\u7EBF\u7A0B\uFF0C\u4F46\u662F\u5728\u4E00\u4E9B\u573A\u666F\u4E0B\u5982\u53D1\u9001\u8BF7\u6C42\uFF0C\u5982\u4F7F\u7528 web-worker\uFF0C\u53EF\u4EE5\u5B9E\u73B0\u7C7B\u5E76\u53D1\u6548\u679C\uFF0C\u540C\u65F6\u53D1\u9001\u591A\u4E2A\u8BF7\u6C42\uFF0C\u6216\u8005\u540C\u65F6\u5904\u7406\u52A8\u4F5C",paraId:1,tocIndex:1},{value:"\u5BBF\u4E3B\u4F7F\u7528 new Worker \u7684\u65B9\u5F0F\u6765\u521B\u5EFA\u4E00\u4E2A js \u6267\u884C\u7EBF\u7A0B\uFF0C\u53EF\u4F20\u5165\u672C\u5730\u7684\u8DEF\u5F84\u6216\u8FDC\u7A0B http \u7684\u8DEF\u5F84\u7684 js \u6587\u4EF6\u3002\u5BBF\u4E3B\u548C worker \u901A\u4FE1\uFF0C\u53D1\u6D88\u606F\u90FD\u4F7F\u7528 postMessage\uFF0C\u6536\u6D88\u606F\u4F7F\u7528 onmessage",paraId:2,tocIndex:2},{value:"\u8003\u8651\u5230\u5BBF\u4E3B\u4E0E\u5B50\u7EBF\u7A0B\u4E4B\u95F4\u7684\u4EA4\u4E92\uFF0C\u901A\u5E38\u4E3A\uFF0C\u5BBF\u4E3B\u53D1\u8D77\u4E00\u4E2A\u6307\u4EE4\uFF0C\u5B50\u7EBF\u7A0B\u6536\u5230\u6307\u4EE4\uFF0C\u7136\u540E\u6267\u884C\u5B8C\u5BF9\u5E94\u6307\u4EE4\u64CD\u4F5C\uFF0C\u7136\u540E postMessage \u544A\u77E5\u5BBF\u4E3B\uFF0C\u8FD9\u4E2A\u8FC7\u7A0B\u662F\u4E00\u4E2A\u94FE\u8DEF\uFF0C\u4E14\u901A\u5E38\u6BCF\u4E2A\u73AF\u8282\u4EC5\u8FDB\u884C\u4E00\u6B21\uFF0C\u90A3\u4E48\u4E3A\u4E86\u64CD\u4F5C\u65B9\u4FBF\uFF0C\u53EF\u4EE5\u4F7F\u7528\u53D1\u5E03\u8BA2\u9605\u7684\u6A21\u5F0F\u5C01\u88C5\u4E00\u5C42\uFF0C\u8BA9\u5BBF\u4E3B\u8C03\u7528 worker \u7684\u8FC7\u7A0B\uFF0C\u770B\u8D77\u6765\u5C31\u50CF\u4E00\u4E2A\u666E\u901A\u7684\u5F02\u6B65\u8BF7\u6C42",paraId:3,tocIndex:2},{value:"\u4F7F\u7528\u5982\u4E0B\uFF1A",paraId:4,tocIndex:2},{value:`const workerHelper = new WorkerHelper('./test-worker.js');
+`,paraId:0,tocIndex:1}]},61117:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(49845);const t=[{value:"\u6E90\u7801\u5B9E\u73B0\uFF08koa\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"koa-server/client/classes/MultiChannel.ts at main \xB7 haokur/koa-server (github.com)",paraId:0,tocIndex:1},{value:"\u5728\u7EBF DEMO\uFF1A",paraId:0,tocIndex:1},{value:"Vue3-client (haokur.github.io)",paraId:0,tocIndex:1},{value:"javascript \u662F\u5355\u7EBF\u7A0B\uFF0C\u4F46\u662F\u5728\u4E00\u4E9B\u573A\u666F\u4E0B\u5982\u53D1\u9001\u8BF7\u6C42\uFF0C\u5982\u4F7F\u7528 web-worker\uFF0C\u53EF\u4EE5\u5B9E\u73B0\u7C7B\u5E76\u53D1\u6548\u679C\uFF0C\u540C\u65F6\u53D1\u9001\u591A\u4E2A\u8BF7\u6C42\uFF0C\u6216\u8005\u540C\u65F6\u5904\u7406\u52A8\u4F5C",paraId:1,tocIndex:1},{value:"\u5BBF\u4E3B\u4F7F\u7528 new Worker \u7684\u65B9\u5F0F\u6765\u521B\u5EFA\u4E00\u4E2A js \u6267\u884C\u7EBF\u7A0B\uFF0C\u53EF\u4F20\u5165\u672C\u5730\u7684\u8DEF\u5F84\u6216\u8FDC\u7A0B http \u7684\u8DEF\u5F84\u7684 js \u6587\u4EF6\u3002\u5BBF\u4E3B\u548C worker \u901A\u4FE1\uFF0C\u53D1\u6D88\u606F\u90FD\u4F7F\u7528 postMessage\uFF0C\u6536\u6D88\u606F\u4F7F\u7528 onmessage",paraId:2,tocIndex:2},{value:"\u8003\u8651\u5230\u5BBF\u4E3B\u4E0E\u5B50\u7EBF\u7A0B\u4E4B\u95F4\u7684\u4EA4\u4E92\uFF0C\u901A\u5E38\u4E3A\uFF0C\u5BBF\u4E3B\u53D1\u8D77\u4E00\u4E2A\u6307\u4EE4\uFF0C\u5B50\u7EBF\u7A0B\u6536\u5230\u6307\u4EE4\uFF0C\u7136\u540E\u6267\u884C\u5B8C\u5BF9\u5E94\u6307\u4EE4\u64CD\u4F5C\uFF0C\u7136\u540E postMessage \u544A\u77E5\u5BBF\u4E3B\uFF0C\u8FD9\u4E2A\u8FC7\u7A0B\u662F\u4E00\u4E2A\u94FE\u8DEF\uFF0C\u4E14\u901A\u5E38\u6BCF\u4E2A\u73AF\u8282\u4EC5\u8FDB\u884C\u4E00\u6B21\uFF0C\u90A3\u4E48\u4E3A\u4E86\u64CD\u4F5C\u65B9\u4FBF\uFF0C\u53EF\u4EE5\u4F7F\u7528\u53D1\u5E03\u8BA2\u9605\u7684\u6A21\u5F0F\u5C01\u88C5\u4E00\u5C42\uFF0C\u8BA9\u5BBF\u4E3B\u8C03\u7528 worker \u7684\u8FC7\u7A0B\uFF0C\u770B\u8D77\u6765\u5C31\u50CF\u4E00\u4E2A\u666E\u901A\u7684\u5F02\u6B65\u8BF7\u6C42",paraId:3,tocIndex:2},{value:"\u4F7F\u7528\u5982\u4E0B\uFF1A",paraId:4,tocIndex:2},{value:`const workerHelper = new WorkerHelper('./test-worker.js');
 
 async function handleClick() {
   let result = await workerHelper.postMesage({
@@ -492,7 +492,7 @@ queue
     chunkDataArr.push(result);
   })
   .run();
-`,paraId:24,tocIndex:3}]},26338:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(64083);const a=[{value:"\u6E90\u7801\u5B9E\u73B0\uFF08koa\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"haokur/test",paraId:0,tocIndex:1},{value:`# \u751F\u6210 CA \u79C1\u94A5,\u56DE\u8F66\u540E\uFF0C\u8F93\u5165\u5BC6\u7801\u548C\u786E\u8BA4\u5BC6\u7801,\u4F8B\u5982123456 =\u300Bca.key
+`,paraId:24,tocIndex:3}]},26338:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(64083);const t=[{value:"\u6E90\u7801\u5B9E\u73B0\uFF08koa\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"haokur/test",paraId:0,tocIndex:1},{value:`# \u751F\u6210 CA \u79C1\u94A5,\u56DE\u8F66\u540E\uFF0C\u8F93\u5165\u5BC6\u7801\u548C\u786E\u8BA4\u5BC6\u7801,\u4F8B\u5982123456 =\u300Bca.key
 openssl genpkey -algorithm RSA -out ca.key -aes256
 
 # \u751F\u6210 CA \u8BC1\u4E66\uFF0C\u8F93\u5165\u4E0A\u4E00\u6B65\u7684\u5BC6\u7801\uFF0C\u8F93\u5165\u5BF9\u5E94\u63D0\u95EE\u7684\u4FE1\u606F => ca.crt
@@ -613,7 +613,7 @@ DASH\uFF08Dynamic Adaptive Streaming over HTTP\uFF09`,paraId:38,tocIndex:10},{va
 +default_base_moof: \u4F7F\u7528\u9ED8\u8BA4\u7684 moof \u57FA\u51C6\uFF0C\u8FD9\u6709\u52A9\u4E8E\u786E\u4FDD\u7247\u6BB5\u6B63\u786E\u6392\u5217\u3002
 -f mp4: \u6307\u5B9A\u8F93\u51FA\u683C\u5F0F\u4E3A MP4\u3002
 output_dash.mp4: \u8F93\u51FA\u7684 MP4 \u6587\u4EF6\u540D\u3002
-`,paraId:41,tocIndex:10}]},6031:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(26513);const a=[{value:"sudo systemctl stop docker",paraId:0,tocIndex:1},{value:"sudo yum remove -y docker-ce docker-ce-cli containerd.io",paraId:0,tocIndex:1},{value:"sudo rm -rf /var/lib/docker",paraId:0,tocIndex:1},{value:`
+`,paraId:41,tocIndex:10}]},6031:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(26513);const t=[{value:"sudo systemctl stop docker",paraId:0,tocIndex:1},{value:"sudo yum remove -y docker-ce docker-ce-cli containerd.io",paraId:0,tocIndex:1},{value:"sudo rm -rf /var/lib/docker",paraId:0,tocIndex:1},{value:`
 sudo rm -rf /var/lib/containerd`,paraId:0,tocIndex:1},{value:"sudo yum list installed | grep docker",paraId:0,tocIndex:1},{value:"sudo yum autoremove -y",paraId:0,tocIndex:1},{value:"\u66F4\u65B0\u7CFB\u7EDF",paraId:1,tocIndex:2},{value:`sudo yum update -y
 `,paraId:2,tocIndex:2},{value:"\u5B89\u88C5\u4F9D\u8D56\u5305",paraId:3,tocIndex:2},{value:`sudo yum install -y yum-utils device-mapper-persistent-data lvm2
 `,paraId:4,tocIndex:2},{value:"\u6DFB\u52A0\u5B98\u65B9\u4ED3\u5E93\uFF0C\u8FD9\u91CC\u4F7F\u7528\u963F\u91CC\u955C\u50CF",paraId:5,tocIndex:2},{value:`yum-config-manager --add-repo http://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
@@ -640,7 +640,7 @@ sudo systemctl restart docker
 `,paraId:30,tocIndex:2},{value:"\u5220\u9664\u955C\u50CF",paraId:31,tocIndex:2},{value:`docker rmi hello-world
 `,paraId:32,tocIndex:2},{value:"\u67E5\u770B docker \u5185\u90E8 ip",paraId:33,tocIndex:2},{value:`ip addr show docker0
 `,paraId:34,tocIndex:2},{value:"\u91CD\u542F docker \u5BB9\u5668",paraId:35,tocIndex:2},{value:`docker restart <container_name_or_id>
-`,paraId:36,tocIndex:2}]},92195:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(44646);const a=[{value:"electron-starter",paraId:0,tocIndex:1},{value:"\u4E3B\u8981\u4ECE on\uFF0Cemit\uFF0Coff \u7684\u65B9\u5F0F\u8F6C\u5316\u4E3A\u56DE\u8C03\u65B9\u5F0F\u7684\u65B9\u5F0F\uFF0C\u81EA\u52A8 off \u5173\u95ED\u76D1\u542C\uFF0C\u4F7F\u8C03\u7528\u6D41\u7A0B\u66F4\u7EBF\u6027\u76F4\u89C2",paraId:1,tocIndex:2},{value:`import ipcHelperUtil from '../utils/ipc-helper.util';
+`,paraId:36,tocIndex:2}]},92195:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(44646);const t=[{value:"electron-starter",paraId:0,tocIndex:1},{value:"\u4E3B\u8981\u4ECE on\uFF0Cemit\uFF0Coff \u7684\u65B9\u5F0F\u8F6C\u5316\u4E3A\u56DE\u8C03\u65B9\u5F0F\u7684\u65B9\u5F0F\uFF0C\u81EA\u52A8 off \u5173\u95ED\u76D1\u542C\uFF0C\u4F7F\u8C03\u7528\u6D41\u7A0B\u66F4\u7EBF\u6027\u76F4\u89C2",paraId:1,tocIndex:2},{value:`import ipcHelperUtil from '../utils/ipc-helper.util';
 
 // \u5355\u6B21\u6267\u884C\u5E76\u7ED3\u675F
 function handleOpenDevtool() {
@@ -755,7 +755,7 @@ onMounted(() => {
 
 autoUpdater.setFeedURL(updaterFeedUrl);
 autoUpdater.autoDownload = false;
-`,paraId:12,tocIndex:6},{value:"autoUpdater \u7684\u4E8B\u4EF6\u76D1\u542C\u53EA\u9700\u8981\u521D\u59CB\u5316\u4E00\u6B21\uFF0C\u56DE\u5E94\u7684\u6D88\u606F\u4F1A\u662F\u591A\u6761\uFF0C\u9700\u8981 renderer \u4F7F\u7528 ipcWatch \u6301\u7EED\u76D1\u542C",paraId:13,tocIndex:6},{value:"mac \u7684\u81EA\u52A8\u66F4\u65B0\u5B89\u88C5\uFF0C\u9700\u8981\u7B7E\u540D\uFF0C\u6CA1\u7B7E\u540D\u7684\u4E0D\u80FD\u81EA\u52A8\u5B89\u88C5",paraId:13,tocIndex:6}]},72811:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(84171);const a=[{value:"\u5F00\u542F\u7985\u6A21\u5F0F\u540E\uFF0C\u754C\u9762\u53EA\u6709\u4E00\u4E2A\u5F53\u524D\u7F29\u653E\u6BD4\u4F8B\u7684\u63A7\u5236\u5668\uFF08\u8FD9\u4E2A\u5176\u5B9E\u4E5F\u53EF\u4EE5\u53BB\u6389\uFF09",paraId:0,tocIndex:0},{value:"\u652F\u6301\u4E2D\u6587\u5B57\u4F53",paraId:1,tocIndex:1},{value:"\u652F\u6301\u670D\u52A1\u7AEF\u4FDD\u5B58\u6587\u4EF6",paraId:1,tocIndex:1},{value:"\u8BFB\u53D6\u8FDC\u7AEF\u6587\u4EF6\u5217\u8868\uFF0C\u641C\u7D22\u548C\u521B\u5EFA\u65B0\u6587\u4EF6\uFF0C\u7F16\u8F91\u6587\u4EF6\uFF0C\u66F4\u65B0\u6587\u4EF6",paraId:1,tocIndex:1},{value:"\u4F7F\u7528\u5FEB\u6377\u952E\uFF0C\u5C06\u9875\u9762\u591A\u4F59\u5143\u7D20\uFF0C\u5168\u90E8\u9690\u85CF,\u6E05\u723D",paraId:1,tocIndex:1},{value:"excalidraw-app/index.scss",paraId:2,tocIndex:2},{value:"packages/excalidraw/components/SceneFileListDialog.tsx",paraId:2,tocIndex:2},{value:"excalidraw-app/helpers.ts",paraId:2,tocIndex:2},{value:"packages/excalidraw/components/app.tsx",paraId:2,tocIndex:2},{value:"excalidraw-app/data/index.ts",paraId:2,tocIndex:2},{value:"excalidraw-app/app.tsx",paraId:2,tocIndex:2},{value:".env.development \u548C .env.production",paraId:2,tocIndex:2},{value:"packages/excalidraw/constants.ts",paraId:2,tocIndex:2},{value:"packages/excalidraw/fonts/index.ts",paraId:2,tocIndex:2},{value:"packages/excalidraw/fonts/metadata.ts",paraId:2,tocIndex:2},{value:"\u62C9\u53D6\u8FDC\u7A0B\u4EE3\u7801",paraId:3,tocIndex:3},{value:`git clone https://github.com/excalidraw/excalidraw
+`,paraId:12,tocIndex:6},{value:"autoUpdater \u7684\u4E8B\u4EF6\u76D1\u542C\u53EA\u9700\u8981\u521D\u59CB\u5316\u4E00\u6B21\uFF0C\u56DE\u5E94\u7684\u6D88\u606F\u4F1A\u662F\u591A\u6761\uFF0C\u9700\u8981 renderer \u4F7F\u7528 ipcWatch \u6301\u7EED\u76D1\u542C",paraId:13,tocIndex:6},{value:"mac \u7684\u81EA\u52A8\u66F4\u65B0\u5B89\u88C5\uFF0C\u9700\u8981\u7B7E\u540D\uFF0C\u6CA1\u7B7E\u540D\u7684\u4E0D\u80FD\u81EA\u52A8\u5B89\u88C5",paraId:13,tocIndex:6}]},72811:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(84171);const t=[{value:"\u5F00\u542F\u7985\u6A21\u5F0F\u540E\uFF0C\u754C\u9762\u53EA\u6709\u4E00\u4E2A\u5F53\u524D\u7F29\u653E\u6BD4\u4F8B\u7684\u63A7\u5236\u5668\uFF08\u8FD9\u4E2A\u5176\u5B9E\u4E5F\u53EF\u4EE5\u53BB\u6389\uFF09",paraId:0,tocIndex:0},{value:"\u652F\u6301\u4E2D\u6587\u5B57\u4F53",paraId:1,tocIndex:1},{value:"\u652F\u6301\u670D\u52A1\u7AEF\u4FDD\u5B58\u6587\u4EF6",paraId:1,tocIndex:1},{value:"\u8BFB\u53D6\u8FDC\u7AEF\u6587\u4EF6\u5217\u8868\uFF0C\u641C\u7D22\u548C\u521B\u5EFA\u65B0\u6587\u4EF6\uFF0C\u7F16\u8F91\u6587\u4EF6\uFF0C\u66F4\u65B0\u6587\u4EF6",paraId:1,tocIndex:1},{value:"\u4F7F\u7528\u5FEB\u6377\u952E\uFF0C\u5C06\u9875\u9762\u591A\u4F59\u5143\u7D20\uFF0C\u5168\u90E8\u9690\u85CF,\u6E05\u723D",paraId:1,tocIndex:1},{value:"excalidraw-app/index.scss",paraId:2,tocIndex:2},{value:"packages/excalidraw/components/SceneFileListDialog.tsx",paraId:2,tocIndex:2},{value:"excalidraw-app/helpers.ts",paraId:2,tocIndex:2},{value:"packages/excalidraw/components/app.tsx",paraId:2,tocIndex:2},{value:"excalidraw-app/data/index.ts",paraId:2,tocIndex:2},{value:"excalidraw-app/app.tsx",paraId:2,tocIndex:2},{value:".env.development \u548C .env.production",paraId:2,tocIndex:2},{value:"packages/excalidraw/constants.ts",paraId:2,tocIndex:2},{value:"packages/excalidraw/fonts/index.ts",paraId:2,tocIndex:2},{value:"packages/excalidraw/fonts/metadata.ts",paraId:2,tocIndex:2},{value:"\u62C9\u53D6\u8FDC\u7A0B\u4EE3\u7801",paraId:3,tocIndex:3},{value:`git clone https://github.com/excalidraw/excalidraw
 `,paraId:4,tocIndex:3},{value:"\u914D\u7F6E\u73AF\u5883\u53D8\u91CF",paraId:5,tocIndex:3},{value:".env.development",paraId:6,tocIndex:3},{value:".env.production",paraId:6,tocIndex:3},{value:`VITE_APP_BACKEND_V2_GET_URL=http://localhost:8008/excalidraw/
 VITE_APP_BACKEND_V2_POST_URL=http://localhost:8008/excalidraw/
 VITE_APP_BACKEND_V2_TOKEN=xxxxx
@@ -1027,7 +1027,7 @@ export const SceneFileListDialog = ({
 
 export const DEFAULT_FONT_FAMILY: FontFamilyValues =
   FONT_FAMILY['Virgil,HandleDrawCn'];
-`,paraId:25,tocIndex:4},{value:'packages/excalidraw/fonts/index.ts \u548C packages/excalidraw/fonts/metadata.ts \u4E2D\u5BF9\u5E94 Virgil \u7684\u53D6\u503C\u90FD\u6539\u6210 "Virgil,HandleDrawCn"',paraId:26,tocIndex:4},{value:"\u539F excalidraw \u5730\u5740",paraId:27,tocIndex:6},{value:"\u6E90\u7801\u5730\u5740\uFF08\u9700\u8981\u8BBF\u95EE\u6743\u9650\uFF09",paraId:27,tocIndex:6}]},8993:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(74573);const a=[{value:"HLS\uFF08HTTP Live Streaming\uFF09\uFF0CHTTP \u5B9E\u65F6\u6D41\u5A92\u4F53\uFF0C\u4F7F\u7528 .m3u8 \u7D22\u5F15\u6587\u4EF6\u548C .ts \u6587\u4EF6\uFF08\u82F9\u679C\u516C\u53F8\uFF09",paraId:0,tocIndex:1},{value:"RTMP\uFF08Real-Time Messaging Protocol\uFF09,\u5B9E\u65F6\u6D41\u5A92\u4F53\u4F20\u8F93\u534F\u8BAE\uFF08 Adobe Flash \u4E2D\u4F20\u8F93\u97F3\u9891\u3001\u89C6\u9891\u548C\u6570\u636E\u3002\u5B83\u4F7F\u7528 TCP \u8FDB\u884C\u4F20\u8F93\uFF0C\u652F\u6301\u4F4E\u5EF6\u8FDF\u7684\u5B9E\u65F6\u6D41\u5A92\u4F53\u4F20\u8F93\uFF09",paraId:0,tocIndex:1},{value:"RTSP\uFF08Real-Time Streaming Protocol\uFF09\uFF0C\u7F51\u7EDC\u63A7\u5236\u534F\u8BAE\uFF0C\u7528\u4E8E\u63A7\u5236\u591A\u5A92\u4F53\u670D\u52A1\u5668\u53D1\u9001\u6D41\u5A92\u4F53\u6570\u636E\u3002\u5B83\u901A\u5E38\u4E0E RTP\uFF08Real-Time Transport Protocol\uFF09\u7ED3\u5408\u4F7F\u7528\uFF0CRTP \u7528\u4E8E\u5B9E\u9645\u4F20\u8F93\u97F3\u9891\u548C\u89C6\u9891\u6570\u636E",paraId:0,tocIndex:1},{value:"DASH\uFF08Dynamic Adaptive Streaming over HTTP\uFF09\uFF0C\u7531 MPEG \u5F00\u53D1\u7684\u4E00\u79CD\u52A8\u6001\u81EA\u9002\u5E94\u6D41\u5A92\u4F53\u4F20\u8F93\u534F\u8BAE\uFF0C\u652F\u6301\u591A\u79CD\u7F16\u89E3\u7801\u5668\u548C\u5BB9\u5668\u683C\u5F0F\uFF0C\u80FD\u591F\u5728\u4E0D\u540C\u7684\u5E26\u5BBD\u548C\u8BBE\u5907\u6761\u4EF6\u4E0B\u52A8\u6001\u8C03\u6574\u89C6\u9891\u8D28\u91CF",paraId:0,tocIndex:1},{value:"mac \u4E0B\u8F7D ",paraId:1,tocIndex:2},{value:"https://evermeet.cx/ffmpeg/ffmpeg-7.0.1.7z",paraId:1,tocIndex:2},{value:"\u89E3\u538B\u540E\uFF0C\u5C06 ffmpeg \u53EF\u6267\u884C\u6587\u4EF6\uFF0C\u590D\u5236\u5230 /usr/local/ffmpeg \u6587\u4EF6\u5939\uFF08\u6CA1\u6709\u8FD9\u4E2A\u6587\u4EF6\u5939\u5219\u65B0\u5EFA\u4E00\u4E2A\uFF09\u4E0B",paraId:1,tocIndex:2},{value:"\u914D\u7F6E\u73AF\u5883\u53D8\u91CF\uFF0Cvi ~/.zshrc",paraId:1,tocIndex:2},{value:"\u6DFB\u52A0\u547D\u4EE4 export PATH=/usr/local/ffmpeg/:$PATH",paraId:1,tocIndex:2},{value:"\u4F7F\u547D\u4EE4\u884C\u751F\u6548\uFF0Csource ~/.zshrc",paraId:1,tocIndex:2},{value:"\u6D4B\u8BD5\u662F\u5426\u6210\u529F\uFF0C\u5728\u547D\u4EE4\u884C\u8F93\u5165 ffmpeg help",paraId:1,tocIndex:2},{value:"window,linux \u540C\u7406\uFF0C\u4E0B\u8F7D\u540E\u914D\u7F6E\u73AF\u5883\u53D8\u91CF",paraId:1,tocIndex:2},{value:"\u5C06\u89C6\u9891\u6309\u5E27\u63D0\u53D6\u56FE\u7247",paraId:2,tocIndex:3},{value:`ffmpeg -i test.mp4 -vf "fps=1" test/thumbnail_%04d.png
+`,paraId:25,tocIndex:4},{value:'packages/excalidraw/fonts/index.ts \u548C packages/excalidraw/fonts/metadata.ts \u4E2D\u5BF9\u5E94 Virgil \u7684\u53D6\u503C\u90FD\u6539\u6210 "Virgil,HandleDrawCn"',paraId:26,tocIndex:4},{value:"\u539F excalidraw \u5730\u5740",paraId:27,tocIndex:6},{value:"\u6E90\u7801\u5730\u5740\uFF08\u9700\u8981\u8BBF\u95EE\u6743\u9650\uFF09",paraId:27,tocIndex:6}]},8993:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(74573);const t=[{value:"HLS\uFF08HTTP Live Streaming\uFF09\uFF0CHTTP \u5B9E\u65F6\u6D41\u5A92\u4F53\uFF0C\u4F7F\u7528 .m3u8 \u7D22\u5F15\u6587\u4EF6\u548C .ts \u6587\u4EF6\uFF08\u82F9\u679C\u516C\u53F8\uFF09",paraId:0,tocIndex:1},{value:"RTMP\uFF08Real-Time Messaging Protocol\uFF09,\u5B9E\u65F6\u6D41\u5A92\u4F53\u4F20\u8F93\u534F\u8BAE\uFF08 Adobe Flash \u4E2D\u4F20\u8F93\u97F3\u9891\u3001\u89C6\u9891\u548C\u6570\u636E\u3002\u5B83\u4F7F\u7528 TCP \u8FDB\u884C\u4F20\u8F93\uFF0C\u652F\u6301\u4F4E\u5EF6\u8FDF\u7684\u5B9E\u65F6\u6D41\u5A92\u4F53\u4F20\u8F93\uFF09",paraId:0,tocIndex:1},{value:"RTSP\uFF08Real-Time Streaming Protocol\uFF09\uFF0C\u7F51\u7EDC\u63A7\u5236\u534F\u8BAE\uFF0C\u7528\u4E8E\u63A7\u5236\u591A\u5A92\u4F53\u670D\u52A1\u5668\u53D1\u9001\u6D41\u5A92\u4F53\u6570\u636E\u3002\u5B83\u901A\u5E38\u4E0E RTP\uFF08Real-Time Transport Protocol\uFF09\u7ED3\u5408\u4F7F\u7528\uFF0CRTP \u7528\u4E8E\u5B9E\u9645\u4F20\u8F93\u97F3\u9891\u548C\u89C6\u9891\u6570\u636E",paraId:0,tocIndex:1},{value:"DASH\uFF08Dynamic Adaptive Streaming over HTTP\uFF09\uFF0C\u7531 MPEG \u5F00\u53D1\u7684\u4E00\u79CD\u52A8\u6001\u81EA\u9002\u5E94\u6D41\u5A92\u4F53\u4F20\u8F93\u534F\u8BAE\uFF0C\u652F\u6301\u591A\u79CD\u7F16\u89E3\u7801\u5668\u548C\u5BB9\u5668\u683C\u5F0F\uFF0C\u80FD\u591F\u5728\u4E0D\u540C\u7684\u5E26\u5BBD\u548C\u8BBE\u5907\u6761\u4EF6\u4E0B\u52A8\u6001\u8C03\u6574\u89C6\u9891\u8D28\u91CF",paraId:0,tocIndex:1},{value:"mac \u4E0B\u8F7D ",paraId:1,tocIndex:2},{value:"https://evermeet.cx/ffmpeg/ffmpeg-7.0.1.7z",paraId:1,tocIndex:2},{value:"\u89E3\u538B\u540E\uFF0C\u5C06 ffmpeg \u53EF\u6267\u884C\u6587\u4EF6\uFF0C\u590D\u5236\u5230 /usr/local/ffmpeg \u6587\u4EF6\u5939\uFF08\u6CA1\u6709\u8FD9\u4E2A\u6587\u4EF6\u5939\u5219\u65B0\u5EFA\u4E00\u4E2A\uFF09\u4E0B",paraId:1,tocIndex:2},{value:"\u914D\u7F6E\u73AF\u5883\u53D8\u91CF\uFF0Cvi ~/.zshrc",paraId:1,tocIndex:2},{value:"\u6DFB\u52A0\u547D\u4EE4 export PATH=/usr/local/ffmpeg/:$PATH",paraId:1,tocIndex:2},{value:"\u4F7F\u547D\u4EE4\u884C\u751F\u6548\uFF0Csource ~/.zshrc",paraId:1,tocIndex:2},{value:"\u6D4B\u8BD5\u662F\u5426\u6210\u529F\uFF0C\u5728\u547D\u4EE4\u884C\u8F93\u5165 ffmpeg help",paraId:1,tocIndex:2},{value:"window,linux \u540C\u7406\uFF0C\u4E0B\u8F7D\u540E\u914D\u7F6E\u73AF\u5883\u53D8\u91CF",paraId:1,tocIndex:2},{value:"\u5C06\u89C6\u9891\u6309\u5E27\u63D0\u53D6\u56FE\u7247",paraId:2,tocIndex:3},{value:`ffmpeg -i test.mp4 -vf "fps=1" test/thumbnail_%04d.png
 `,paraId:3,tocIndex:3},{value:"-i \u8868\u793A\u540E\u4E00\u4E2A\u503C\uFF0C\u662F\u8F93\u5165\u7684\u8D44\u6E90",paraId:4,tocIndex:3},{value:"-vf",paraId:4,tocIndex:3},{value:"fps=1\uFF0C\u8868\u793A\u4E00\u5E27\u622A\u53D6\u4E00\u5F20\u56FE\u7247\uFF0C60 \u79D2\u89C6\u9891\u5219\u662F 60 \u5F20\u56FE\u7247\uFF0Cfps=2\uFF0C\u5219\u662F 1 \u79D2 2 \u5F20\uFF0Cfps=0.5\uFF0C\u5219\u662F 2 \u79D2 1 \u5F20\uFF0C\u5373 fps=\u56FE\u7247\u6570/\u603B\u89C6\u9891\u65F6\u957F",paraId:4,tocIndex:3},{value:"thumbnail_%04d.png\uFF1A\u8F93\u51FA\u56FE\u50CF\u6587\u4EF6\u540D\u6A21\u5F0F\u3002%04d \u8868\u793A\u7528\u56DB\u4F4D\u6570\u5B57\u8868\u793A\u7684\u5E8F\u53F7\u3002",paraId:4,tocIndex:3},{value:"\u5047\u5982\u60F3\u8981\u63D0\u53D6\u5E27\u56FE\u7247\u4EE5\u65F6\u95F4\u6233\u547D\u540D\uFF0C\u5219\u53EF\u4EE5\u4F7F\u7528\u4EE5\u4E0B\u547D\u4EE4",paraId:5,tocIndex:3},{value:`ffmpeg -i input_video.mp4 -vf "fps=1" -strftime 1 output_%H%M%S.png
 `,paraId:6,tocIndex:3},{value:"%H%M%S \u8868\u793A\u65F6\u5206\u79D2",paraId:7,tocIndex:3},{value:"\u5265\u79BB\u89C6\u9891\u548C\u97F3\u9891",paraId:8,tocIndex:3},{value:"\u5265\u79BB\u97F3\u9891",paraId:9,tocIndex:3},{value:`ffmpeg -i test.mp4 -vn -acodec copy output_audio.aac
 `,paraId:10,tocIndex:3},{value:"-vn\uFF0C\u8868\u793A\u4E0D\u5305\u542B\u89C6\u9891\u6D41\u3002",paraId:11,tocIndex:3},{value:"-acodec copy\uFF0C\u8868\u793A\u97F3\u9891\u7F16\u89E3\u7801\u5668\u9009\u62E9\u590D\u5236\u539F\u59CB\u7F16\u89E3\u7801\u5668",paraId:11,tocIndex:3},{value:"\u5265\u79BB\u89C6\u9891",paraId:12,tocIndex:3},{value:`ffmpeg -i test.mp4 -an -vcodec copy output_video.mp4
@@ -1089,7 +1089,7 @@ your_output3.ts
 -f mp4: \u6307\u5B9A\u8F93\u51FA\u683C\u5F0F\u4E3A MP4\u3002
 
 output_dash.mp4: \u8F93\u51FA\u7684 MP4 \u6587\u4EF6\u540D\u3002
-`,paraId:36,tocIndex:3},{value:"ffmpeg \u5B98\u7F51\u4E0B\u8F7D",paraId:37,tocIndex:4},{value:"\u6D4B\u8BD5\u89C6\u9891\u4E0B\u8F7D\u5730\u5740",paraId:37,tocIndex:4},{value:"video.js \u5B98\u7F51",paraId:37,tocIndex:4},{value:"hls.js",paraId:37,tocIndex:4},{value:"flv.js",paraId:37,tocIndex:4},{value:"dash.js \u5B98\u7F51",paraId:37,tocIndex:4},{value:"GPAC \u8F6F\u4EF6\u4E0B\u8F7D",paraId:37,tocIndex:4}]},20463:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(76692);const a=[{value:"\u5728\u9047\u5230\u5B57\u4F53\u6587\u4EF6\u8F83\u5927\u65F6\uFF0C\u907F\u514D\u91CD\u590D\u52A0\u8F7D\u4EE5\u53CA\u61D2\u52A0\u8F7D\u5E94\u7528\u5B57\u4F53\uFF0C\u4F7F\u7528 indexdb \u5B58\u50A8\uFF0C\u6BCF\u6B21\u4F18\u5148\u4ECE indexdb \u4E2D\u8BFB\u53D6\uFF0C\u751F\u6210 blob \u7684\u8DEF\u5F84\uFF0C\u52A8\u6001\u751F\u6210\u6837\u5F0F\u63D2\u5165\u5230\u9875\u9762\u5E94\u7528\u5B57\u4F53\u3002",paraId:0,tocIndex:0},{value:`const REMOTE_FONT_URL = 'https://haokur.com/fonts'; // \u793A\u4F8Bfont\u7684\u5B58\u50A8\u6839\u5730\u5740
+`,paraId:36,tocIndex:3},{value:"ffmpeg \u5B98\u7F51\u4E0B\u8F7D",paraId:37,tocIndex:4},{value:"\u6D4B\u8BD5\u89C6\u9891\u4E0B\u8F7D\u5730\u5740",paraId:37,tocIndex:4},{value:"video.js \u5B98\u7F51",paraId:37,tocIndex:4},{value:"hls.js",paraId:37,tocIndex:4},{value:"flv.js",paraId:37,tocIndex:4},{value:"dash.js \u5B98\u7F51",paraId:37,tocIndex:4},{value:"GPAC \u8F6F\u4EF6\u4E0B\u8F7D",paraId:37,tocIndex:4}]},20463:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(76692);const t=[{value:"\u5728\u9047\u5230\u5B57\u4F53\u6587\u4EF6\u8F83\u5927\u65F6\uFF0C\u907F\u514D\u91CD\u590D\u52A0\u8F7D\u4EE5\u53CA\u61D2\u52A0\u8F7D\u5E94\u7528\u5B57\u4F53\uFF0C\u4F7F\u7528 indexdb \u5B58\u50A8\uFF0C\u6BCF\u6B21\u4F18\u5148\u4ECE indexdb \u4E2D\u8BFB\u53D6\uFF0C\u751F\u6210 blob \u7684\u8DEF\u5F84\uFF0C\u52A8\u6001\u751F\u6210\u6837\u5F0F\u63D2\u5165\u5230\u9875\u9762\u5E94\u7528\u5B57\u4F53\u3002",paraId:0,tocIndex:0},{value:`const REMOTE_FONT_URL = 'https://haokur.com/fonts'; // \u793A\u4F8Bfont\u7684\u5B58\u50A8\u6839\u5730\u5740
 
 // \u52A0\u8F7D\u5B57\u4F53\u5230indexdb
 function loadFontUsingFontFace(fontName: string, fontUrl: string) {
@@ -1183,7 +1183,7 @@ function runLoadFont() {
     applyFont(name, url, customStyle);
   });
 }
-`,paraId:1,tocIndex:1},{value:"excalidraw \u81EA\u5B9A\u4E49\u5B57\u4F53\u5B9E\u73B0",paraId:2,tocIndex:2}]},87447:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(37132);const a=[{value:"\u6587\u4EF6\u5206\u7247\u4E0A\u4F20\u4E0B\u8F7D",paraId:0,tocIndex:0},{value:"\u4F7F\u7528 indexdb \u5B58\u50A8\u5B57\u4F53\u6587\u4EF6",paraId:1,tocIndex:0},{value:"\u81EA\u5B9A\u4E49 tls \u8BC1\u4E66\u4F7F\u7528",paraId:2,tocIndex:0},{value:"docker \u7684\u4F7F\u7528",paraId:3,tocIndex:0},{value:"electron \u901A\u4FE1\u548C\u66F4\u65B0",paraId:4,tocIndex:0},{value:"excalidraw \u4E8C\u6B21\u5F00\u53D1",paraId:5,tocIndex:0},{value:"ffmpeg \u7684\u4F7F\u7528",paraId:6,tocIndex:0},{value:"Js \u5F02\u6B65\u961F\u5217\u5E76\u53D1",paraId:7,tocIndex:0},{value:"jupyter-lab \u7684\u4F7F\u7528",paraId:8,tocIndex:0},{value:"MSE \u5A92\u4F53\u6E90\u6269\u5C55",paraId:9,tocIndex:0},{value:"verdaccio \u642D\u5EFA\u79C1\u6709 npm \u4ED3\u5E93",paraId:10,tocIndex:0},{value:"webrtc",paraId:11,tocIndex:0}]},93614:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(63178);const a=[{value:`pip install jupyterlab
+`,paraId:1,tocIndex:1},{value:"excalidraw \u81EA\u5B9A\u4E49\u5B57\u4F53\u5B9E\u73B0",paraId:2,tocIndex:2}]},87447:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(37132);const t=[{value:"\u6587\u4EF6\u5206\u7247\u4E0A\u4F20\u4E0B\u8F7D",paraId:0,tocIndex:0},{value:"\u4F7F\u7528 indexdb \u5B58\u50A8\u5B57\u4F53\u6587\u4EF6",paraId:1,tocIndex:0},{value:"\u81EA\u5B9A\u4E49 tls \u8BC1\u4E66\u4F7F\u7528",paraId:2,tocIndex:0},{value:"docker \u7684\u4F7F\u7528",paraId:3,tocIndex:0},{value:"electron \u901A\u4FE1\u548C\u66F4\u65B0",paraId:4,tocIndex:0},{value:"excalidraw \u4E8C\u6B21\u5F00\u53D1",paraId:5,tocIndex:0},{value:"ffmpeg \u7684\u4F7F\u7528",paraId:6,tocIndex:0},{value:"Js \u5F02\u6B65\u961F\u5217\u5E76\u53D1",paraId:7,tocIndex:0},{value:"jupyter-lab \u7684\u4F7F\u7528",paraId:8,tocIndex:0},{value:"MSE \u5A92\u4F53\u6E90\u6269\u5C55",paraId:9,tocIndex:0},{value:"verdaccio \u642D\u5EFA\u79C1\u6709 npm \u4ED3\u5E93",paraId:10,tocIndex:0},{value:"webrtc",paraId:11,tocIndex:0}]},93614:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(63178);const t=[{value:`pip install jupyterlab
 `,paraId:0,tocIndex:2},{value:`jupyter notebook --generate-config
 
 # \u6253\u5F00\u7F16\u8F91
@@ -1234,7 +1234,7 @@ chmod +w ./kernel.json # in case copied kernel.json has no write permission
 sed "s|gophernotes|$(go env GOPATH)/bin/gophernotes|" < kernel.json.in > kernel.json
 `,paraId:15,tocIndex:7},{value:`# \u4F7F\u7528 pm2 \u542F\u52A8
 pm2 start 'jupyter lab --no-browser --allow-root' --name jupyter-notes
-`,paraId:16,tocIndex:8}]},45790:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(55152);const a=[{value:"Media Source Extensions API\uFF0C\u5A92\u4F53\u6E90\u6269\u5C55 API\uFF08MSE\uFF09\uFF0C\u652F\u6301\u4F7F\u7528 fetch \u62C9\u53D6\u6570\u636E buffer \u8FDB\u884C\u5206\u7247\u7684\u97F3\u9891\u6216\u89C6\u9891\u7684\u52A0\u8F7D\u548C\u64AD\u653E\u3002",paraId:0,tocIndex:0},{value:`
+`,paraId:16,tocIndex:8}]},45790:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(55152);const t=[{value:"Media Source Extensions API\uFF0C\u5A92\u4F53\u6E90\u6269\u5C55 API\uFF08MSE\uFF09\uFF0C\u652F\u6301\u4F7F\u7528 fetch \u62C9\u53D6\u6570\u636E buffer \u8FDB\u884C\u5206\u7247\u7684\u97F3\u9891\u6216\u89C6\u9891\u7684\u52A0\u8F7D\u548C\u64AD\u653E\u3002",paraId:0,tocIndex:0},{value:`
 \u5F53\u524D\u5DF2\u77E5\u7684\u652F\u6301\u7684 mp4 \u683C\u5F0F\u662F DASH\uFF0C\u5BF9\u666E\u901A\u7684\u89C6\u9891\u53EF\u4EE5\u4F7F\u7528 ffmpeg \u8FDB\u884C\u8F6C\u7801`,paraId:0,tocIndex:0},{value:"web \u4FA7\u4EE3\u7801\uFF1A",paraId:1,tocIndex:1},{value:"haokur/test/tree/main/web",paraId:1,tocIndex:1},{value:"serve \u4FA7\u4EE3\u7801\uFF1A",paraId:1,tocIndex:1},{value:"haokur/test/tree/main/koa-serve",paraId:1,tocIndex:1},{value:"new MediaSource \u5B9E\u4F8B\u5316 =\u300B mediaSourceInstance",paraId:2,tocIndex:2},{value:"\u5C06 mediaSourceInstance \u4F7F\u7528 URL.createObjectURL \u8F6C blob \u5730\u5740\uFF0Cvideo \u7684 src \u8BBE\u7F6E\u4E3A\u8FD9\u4E2A blob \u5730\u5740",paraId:2,tocIndex:2},{value:"mediaSourceInstance \u76D1\u542C sourceopen , \u56DE\u8C03\u4E8B\u4EF6\u4F7F\u7528 addSourceBuffer \u751F\u6210 sourceBuffer,sourceBuffer \u76D1\u542C updateend \u548C error \u4E8B\u4EF6",paraId:2,tocIndex:2},{value:"updateend \u4E8B\u4EF6\u5904\u7406\u5728\u4E00\u4E2A\u5206\u7247 buffer \u52A0\u8F7D\u6210\u529F\u540E\u7684\u56DE\u8C03\uFF0C\u53EF\u4EE5\u7EE7\u7EED\u52A0\u8F7D\u4E0B\u4E00\u7247 buffer\uFF0C\u76F4\u5230\u5206\u7247 buffer \u5168\u90E8\u52A0\u8F7D\u5B8C\u6BD5\uFF0CmediaSourceInstance.endOfStream() \u5173\u95ED\u6570\u636E\u6D41",paraId:2,tocIndex:2},{value:`export class MediaSourcePlayer {
   videoUrl;
   blobUrl: string = '';
@@ -1397,7 +1397,7 @@ pm2 start 'jupyter lab --no-browser --allow-root' --name jupyter-notes
 -f mp4: \u6307\u5B9A\u8F93\u51FA\u683C\u5F0F\u4E3A MP4\u3002
 
 output_dash.mp4: \u8F93\u51FA\u7684 MP4 \u6587\u4EF6\u540D\u3002
-`,paraId:9,tocIndex:4},{value:"\u5206\u7247\u7684 start \u662F 0 \u5F00\u59CB\u7684\uFF0C\u6587\u4EF6\u7684 size \u5927\u5C0F\u662F\u4ECE 1 \u5F00\u59CB\u7684\uFF0C\u6240\u4EE5\u5206\u7247\u7684 end \u7684\u6700\u5927\u503C\uFF0C\u5E94\u8BE5\u662F fileSize-1\uFF1B\u5206\u7247\u7684 start \u662F 0\uFF0Cend \u5219\u662F 1024*1024-1=1048575",paraId:10,tocIndex:5},{value:"\u968F\u610F\u6253\u4E71\u987A\u5E8F\u52A0\u8F7D\u548C\u63D2\u5165 buffer \u6570\u636E\uFF0C\u5E76\u4E0D\u80FD\u5B9E\u73B0\u64AD\u653E",paraId:10,tocIndex:5},{value:"\u5728\u5206\u7247\u5168\u90E8\u52A0\u8F7D\u5B8C\u6BD5\u540E\uFF0C\u9700\u8981\u4F7F\u7528 end \u6765\u89E6\u53D1 endOfStream \u7684\u6267\u884C\uFF0C\u624D\u4F1A\u6B63\u5E38\u663E\u793A\u89C6\u9891\u65F6\u95F4\uFF0C\u548C\u64AD\u653E\u5B8C\u6BD5\u4E4B\u540E\u4E0D\u4F1A\u8FD8\u6709\u4E00\u4E2A\u52A0\u8F7D\u63D0\u793A\u5668",paraId:10,tocIndex:5},{value:"MDN MSE API \u89E3\u6790",paraId:11,tocIndex:6},{value:"\u8D44\u6E90\u8F6C\u7801\u4EE5\u652F\u6301 MSE",paraId:11,tocIndex:6}]},53350:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(81005);const a=[{value:"\u6E90\u7801\u5B9E\u73B0\uFF08koa\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"koa-server/src/controllers/file.controller.ts",paraId:0,tocIndex:1},{value:"\u6E90\u7801\u5B9E\u73B0\uFF08Vue3\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"client/pages/upload/upload.vue",paraId:0,tocIndex:1},{value:"\u5728\u7EBF DEMO\uFF1A",paraId:0,tocIndex:1},{value:"Vue3-client ",paraId:0,tocIndex:1},{value:"Vue3-client (haokur.github.io)",paraId:1,tocIndex:1},{value:"\u524D\u7AEF slice \u5207\u5272\uFF0C\u670D\u52A1\u7AEF\u5408\u5E76",paraId:2,tocIndex:2},{value:"\u6838\u5FC3\u5728\u4E8E\u524D\u7AEF\uFF0C\u544A\u8BC9\u540E\u7AEF\u5F53\u524D\u662F\u54EA\u4E00\u6BB5\uFF0C\u4EE5\u53CA\u8FD9\u4E00\u6BB5\u7684\u6570\u636E",paraId:3,tocIndex:2},{value:"Html \u4E2D\u6DFB\u52A0 input \u4E3A file \u7684\u63A7\u4EF6",paraId:4,tocIndex:2},{value:`<input type="file" @change="handleFileChange" />
+`,paraId:9,tocIndex:4},{value:"\u5206\u7247\u7684 start \u662F 0 \u5F00\u59CB\u7684\uFF0C\u6587\u4EF6\u7684 size \u5927\u5C0F\u662F\u4ECE 1 \u5F00\u59CB\u7684\uFF0C\u6240\u4EE5\u5206\u7247\u7684 end \u7684\u6700\u5927\u503C\uFF0C\u5E94\u8BE5\u662F fileSize-1\uFF1B\u5206\u7247\u7684 start \u662F 0\uFF0Cend \u5219\u662F 1024*1024-1=1048575",paraId:10,tocIndex:5},{value:"\u968F\u610F\u6253\u4E71\u987A\u5E8F\u52A0\u8F7D\u548C\u63D2\u5165 buffer \u6570\u636E\uFF0C\u5E76\u4E0D\u80FD\u5B9E\u73B0\u64AD\u653E",paraId:10,tocIndex:5},{value:"\u5728\u5206\u7247\u5168\u90E8\u52A0\u8F7D\u5B8C\u6BD5\u540E\uFF0C\u9700\u8981\u4F7F\u7528 end \u6765\u89E6\u53D1 endOfStream \u7684\u6267\u884C\uFF0C\u624D\u4F1A\u6B63\u5E38\u663E\u793A\u89C6\u9891\u65F6\u95F4\uFF0C\u548C\u64AD\u653E\u5B8C\u6BD5\u4E4B\u540E\u4E0D\u4F1A\u8FD8\u6709\u4E00\u4E2A\u52A0\u8F7D\u63D0\u793A\u5668",paraId:10,tocIndex:5},{value:"MDN MSE API \u89E3\u6790",paraId:11,tocIndex:6},{value:"\u8D44\u6E90\u8F6C\u7801\u4EE5\u652F\u6301 MSE",paraId:11,tocIndex:6}]},53350:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(81005);const t=[{value:"\u6E90\u7801\u5B9E\u73B0\uFF08koa\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"koa-server/src/controllers/file.controller.ts",paraId:0,tocIndex:1},{value:"\u6E90\u7801\u5B9E\u73B0\uFF08Vue3\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"client/pages/upload/upload.vue",paraId:0,tocIndex:1},{value:"\u5728\u7EBF DEMO\uFF1A",paraId:0,tocIndex:1},{value:"Vue3-client ",paraId:0,tocIndex:1},{value:"Vue3-client (haokur.github.io)",paraId:1,tocIndex:1},{value:"\u524D\u7AEF slice \u5207\u5272\uFF0C\u670D\u52A1\u7AEF\u5408\u5E76",paraId:2,tocIndex:2},{value:"\u6838\u5FC3\u5728\u4E8E\u524D\u7AEF\uFF0C\u544A\u8BC9\u540E\u7AEF\u5F53\u524D\u662F\u54EA\u4E00\u6BB5\uFF0C\u4EE5\u53CA\u8FD9\u4E00\u6BB5\u7684\u6570\u636E",paraId:3,tocIndex:2},{value:"Html \u4E2D\u6DFB\u52A0 input \u4E3A file \u7684\u63A7\u4EF6",paraId:4,tocIndex:2},{value:`<input type="file" @change="handleFileChange" />
 `,paraId:5,tocIndex:2},{value:"js \u4E2D\u6DFB\u52A0\u5BF9 input \u7684 file \u53D8\u5316\u7684\u54CD\u5E94",paraId:6,tocIndex:2},{value:`const chunkSize = 1 * 1024 * 1024;
 
 const chunkStatus = [];
@@ -1550,7 +1550,7 @@ const checkChunkData = () => {
     };
   }
 }
-`,paraId:21,tocIndex:3},{value:"\u5728\u5206\u7247\u7684\u65F6\u5019\uFF0C\u4F4D\u7F6E\u4E0D\u8981\u6709\u91CD\u53E0\uFF0C\u5982\u5207\u7247\u7684\u7247\u6BB5\u5E94\u8BE5\u662F [ [1,3],[4,6]] \uFF0C\u800C\u4E0D\u662F [[1,3],[3,5]]",paraId:22,tocIndex:4}]},6329:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(92688);const a=[{value:"\u5168\u5C40\u5B89\u88C5 verdaccio\uFF0Cnpm install verdaccio -g",paraId:0,tocIndex:1},{value:"\u5168\u5C40\u5B89\u88C5 pm2\uFF0C\u542F\u52A8 verdaccio\uFF0Cnpm install pm2 -g",paraId:0,tocIndex:1},{value:"\u4FEE\u6539 verdaccio \u914D\u7F6E\u6587\u4EF6\uFF0C\u4F8B\u5982\u5728 centos \u4E0A\u8DEF\u5F84\u4E3A /root/.config/verdaccio/config.yaml\uFF0C\u6216\u8005\u5C1D\u8BD5\u8FD0\u884C verdaccio",paraId:0,tocIndex:1},{value:`storage: ./storage
+`,paraId:21,tocIndex:3},{value:"\u5728\u5206\u7247\u7684\u65F6\u5019\uFF0C\u4F4D\u7F6E\u4E0D\u8981\u6709\u91CD\u53E0\uFF0C\u5982\u5207\u7247\u7684\u7247\u6BB5\u5E94\u8BE5\u662F [ [1,3],[4,6]] \uFF0C\u800C\u4E0D\u662F [[1,3],[3,5]]",paraId:22,tocIndex:4}]},6329:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(92688);const t=[{value:"\u5168\u5C40\u5B89\u88C5 verdaccio\uFF0Cnpm install verdaccio -g",paraId:0,tocIndex:1},{value:"\u5168\u5C40\u5B89\u88C5 pm2\uFF0C\u542F\u52A8 verdaccio\uFF0Cnpm install pm2 -g",paraId:0,tocIndex:1},{value:"\u4FEE\u6539 verdaccio \u914D\u7F6E\u6587\u4EF6\uFF0C\u4F8B\u5982\u5728 centos \u4E0A\u8DEF\u5F84\u4E3A /root/.config/verdaccio/config.yaml\uFF0C\u6216\u8005\u5C1D\u8BD5\u8FD0\u884C verdaccio",paraId:0,tocIndex:1},{value:`storage: ./storage
 plugins: ./plugins
 
 web:
@@ -1750,7 +1750,7 @@ module.exports = (config, stuff) => {
 `,paraId:51,tocIndex:2},{value:"\u66F4\u5F7B\u5E95\u4E00\u70B9\uFF0C\u5C31\u662F\u53EA\u90E8\u7F72\u5728\u5185\u7F51\uFF0C\u53EA\u6709\u5185\u7F51\u80FD\u591F\u8BBF\u95EE\u3002",paraId:52,tocIndex:2},{value:"\u5728\u767B\u5F55\u548C\u9000\u51FA\u79C1\u6709\u4ED3\u5E93\u65F6\uFF0C\u4F7F\u7528 npm login \u9700\u8981\u5E26\u4ED3\u5E93",paraId:53,tocIndex:3},{value:`npm login --registry https://npm.hoakur.com
 npm logout --registry https://npm.hoakur.com
 `,paraId:54,tocIndex:3},{value:".npmrc \u914D\u7F6E\u7684 token \u7684\u6743\u91CD\u662F\u8981\u5927\u4E8E npm login \u767B\u5F55\u7684\u7528\u6237\u7684",paraId:55,tocIndex:3},{value:"\u5982\u679C https \u63D0\u793A ",paraId:55,tocIndex:3},{value:"ERR_SSL_VERSION_OR_CIPHER_MISMATCH",paraId:55,tocIndex:3},{value:`\uFF0C\u5219\u6392\u67E5\u987A\u5E8F\u53EF\u4E3A\uFF1A
-`,paraId:55,tocIndex:3},{value:"verdaccio \u662F\u5426\u6210\u529F\u542F\u52A8",paraId:56,tocIndex:3},{value:"https \u8BC1\u4E66\u662F\u5426\u8FC7\u671F",paraId:56,tocIndex:3},{value:"\u91CD\u65B0\u542F\u52A8 verdaccio",paraId:56,tocIndex:3},{value:"\u91CD\u65B0\u542F\u52A8 nginx",paraId:56,tocIndex:3},{value:"\u91CD\u65B0\u4E0B\u8F7D https \u8BC1\u4E66",paraId:56,tocIndex:3},{value:"\u6362\u4E00\u4E2A\u65B0\u7684 https \u8BC1\u4E66\uFF0C\u91CD\u542F nginx \u548C verdaccio",paraId:56,tocIndex:3},{value:"\u68C0\u9A8C nginx \u548C verdaccio \u4E2D\u914D\u7F6E\u7684\u8BC1\u4E66\u662F\u5426\u4E00\u81F4",paraId:56,tocIndex:3},{value:"\u6CE8\u91CA\u81EA\u5B9A\u4E49 plugin \u548C middleware\uFF0C\u91CD\u542F verdaccio",paraId:56,tocIndex:3},{value:"\u662F\u5426 middleware \u672A\u672C\u5730\u5B89\u88C5\uFF0C\u4F7F\u7528 npm link . \u4E00\u4E0B",paraId:56,tocIndex:3}]},52695:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(32897);const a=[{value:"\u5728\u7EBF\u4F53\u9A8C\u5730\u5740",paraId:0,tocIndex:1},{value:"websocket \u7684\u4EE3\u7801\u5B9E\u73B0",paraId:0,tocIndex:1},{value:"recorder \u548C watcher \u7684\u4EE3\u7801\u5B9E\u73B0",paraId:0,tocIndex:1},{value:`<video id="local-video" autoplay playsinline></video>
+`,paraId:55,tocIndex:3},{value:"verdaccio \u662F\u5426\u6210\u529F\u542F\u52A8",paraId:56,tocIndex:3},{value:"https \u8BC1\u4E66\u662F\u5426\u8FC7\u671F",paraId:56,tocIndex:3},{value:"\u91CD\u65B0\u542F\u52A8 verdaccio",paraId:56,tocIndex:3},{value:"\u91CD\u65B0\u542F\u52A8 nginx",paraId:56,tocIndex:3},{value:"\u91CD\u65B0\u4E0B\u8F7D https \u8BC1\u4E66",paraId:56,tocIndex:3},{value:"\u6362\u4E00\u4E2A\u65B0\u7684 https \u8BC1\u4E66\uFF0C\u91CD\u542F nginx \u548C verdaccio",paraId:56,tocIndex:3},{value:"\u68C0\u9A8C nginx \u548C verdaccio \u4E2D\u914D\u7F6E\u7684\u8BC1\u4E66\u662F\u5426\u4E00\u81F4",paraId:56,tocIndex:3},{value:"\u6CE8\u91CA\u81EA\u5B9A\u4E49 plugin \u548C middleware\uFF0C\u91CD\u542F verdaccio",paraId:56,tocIndex:3},{value:"\u662F\u5426 middleware \u672A\u672C\u5730\u5B89\u88C5\uFF0C\u4F7F\u7528 npm link . \u4E00\u4E0B",paraId:56,tocIndex:3}]},52695:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(32897);const t=[{value:"\u5728\u7EBF\u4F53\u9A8C\u5730\u5740",paraId:0,tocIndex:1},{value:"websocket \u7684\u4EE3\u7801\u5B9E\u73B0",paraId:0,tocIndex:1},{value:"recorder \u548C watcher \u7684\u4EE3\u7801\u5B9E\u73B0",paraId:0,tocIndex:1},{value:`<video id="local-video" autoplay playsinline></video>
 `,paraId:1,tocIndex:2},{value:"\u6CE8\u610F\u5176\u4E2D\u7684 autoplay \uFF0C\u4E0D\u7136\u89C6\u9891\u4F1A\u51FA\u4E0D\u6765",paraId:2,tocIndex:2},{value:"playsinline\uFF0C\u89C6\u9891\u5185\u5D4C\u5728\u9875\u9762\u4E0A\uFF0C\u800C\u4E0D\u662F\u5168\u5C4F\u64AD\u653E",paraId:3,tocIndex:2},{value:"\u4F7F\u7528 js \u83B7\u53D6\u5230\u5A92\u4F53",paraId:4,tocIndex:2},{value:`let localStream;
 
 navigator.mediaDevices
@@ -1842,7 +1842,7 @@ ws.onmessage = async (event) => {
 `,paraId:8,tocIndex:4},{value:"\u4EE5\u4E0A\u5C31\u662F\u7B80\u5355\u7684\u5355\u5411\u6D41\u7684\u5B9E\u73B0\uFF0C\u5176\u4E2D\u4E3B\u8981\u901A\u4FE1\u6D41\u7A0B\u662F\uFF1A",paraId:9,tocIndex:4},{value:"recorder \u7AEF\u751F\u6210 offer\uFF0C\u901A\u8FC7 websocket\uFF08\u4FE1\u4EE4\u670D\u52A1\u5668\uFF09\uFF0C\u5E7F\u64AD\u7ED9\u5176\u4ED6 watcher\uFF0Crecorder \u5B58\u50A8\u8FD9\u4E2A offer \u4FE1\u606F\uFF0C\u5E76\u4E14\u76D1\u542C\u4FE1\u4EE4\u670D\u52A1\u5668\u7684 answer \u548C candidate",paraId:10,tocIndex:4},{value:`
 watcher \u6536\u5230 offer \u6D88\u606F\uFF0C\u751F\u6210\u4E00\u4E2A answer\uFF0C\u901A\u8FC7 websocket\uFF08\u4FE1\u4EE4\u670D\u52A1\u5668\uFF09\u4F20\u9012\u7ED9 recorder`,paraId:10,tocIndex:4},{value:`
 recorder\uFF0Cwatcher \u5B58\u50A8\u8FD9\u4E2A offer \u4FE1\u606F\u548C answer \u4FE1\u606F`,paraId:10,tocIndex:4},{value:`
-recorder \u63A5\u6536\u5230 watcher \u7684 answer \u4FE1\u606F\uFF0C\u5B58\u50A8\u4E3A\u8FDC\u7A0B\u7684\u4FE1\u606F\uFF0C\u4EE5\u4E0A\u5B8C\u6210\u4E86 SDP \u4FE1\u606F\u4EA4\u6362`,paraId:10,tocIndex:4},{value:"watcher \u7AEF\u76D1\u542C onicecandidate \u89E6\u53D1\uFF0C\u5F97\u5230 candidate \u503C\uFF0C\u901A\u8FC7\u4FE1\u4EE4\u670D\u52A1\u5668\u8F6C\u53D1\u7ED9 recorder \u7AEF\uFF0Crecorder \u8BBE\u7F6E ICE \u5019\u9009\uFF0C\u5B8C\u6210\u4E86 ICE \u5019\u9009\u901A\u4FE1\u5BF9\u63A5",paraId:11,tocIndex:4}]},6688:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(94697);const a=[{value:`// \u5E38\u91CF
+recorder \u63A5\u6536\u5230 watcher \u7684 answer \u4FE1\u606F\uFF0C\u5B58\u50A8\u4E3A\u8FDC\u7A0B\u7684\u4FE1\u606F\uFF0C\u4EE5\u4E0A\u5B8C\u6210\u4E86 SDP \u4FE1\u606F\u4EA4\u6362`,paraId:10,tocIndex:4},{value:"watcher \u7AEF\u76D1\u542C onicecandidate \u89E6\u53D1\uFF0C\u5F97\u5230 candidate \u503C\uFF0C\u901A\u8FC7\u4FE1\u4EE4\u670D\u52A1\u5668\u8F6C\u53D1\u7ED9 recorder \u7AEF\uFF0Crecorder \u8BBE\u7F6E ICE \u5019\u9009\uFF0C\u5B8C\u6210\u4E86 ICE \u5019\u9009\u901A\u4FE1\u5BF9\u63A5",paraId:11,tocIndex:4}]},6688:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(94697);const t=[{value:`// \u5E38\u91CF
 const (
 	PI        = 3.14
 	YEAR_DAYS = 365
@@ -1887,7 +1887,6 @@ func changeArrItemByPoint(arr *[3]int) {
 // \u6570\u7EC4\u6D4B\u8BD5
 func arrTest() {
 	// \u6570\u7EC4\u58F0\u660E
-	var arr1 []int
 	arr2 := [4]int{1, 2, 3, 4}
 	arr3 := [...]int{1, 2, 3, 4, 5}
 	arr4 := [...]int{0: 1, 10: 11}
@@ -2083,7 +2082,7 @@ for i := 0; i < len(slice2); i += 2 {
    m[slice2[i]] = slice2[i+1]
 }
 fmt.Println("map:",m)
-`,paraId:12,tocIndex:3},{value:"map \u8F6C\u5176\u4ED6",paraId:13,tocIndex:3},{value:`// map\u8F6C\u7ED3\u6784\u4F53
+`,paraId:12,tocIndex:3},{value:"map \u8F6C\u5176\u4ED6#",paraId:13,tocIndex:3},{value:`// map\u8F6C\u7ED3\u6784\u4F53
 type Fruit struct {
     Name string
     Count int
@@ -2113,7 +2112,483 @@ if err != nil{
 }
 fmt.Println("JSON\u5B57\u7B26\u4E32\uFF1A",getType(jsonStr), jsonStr,cap(jsonStr)) // \u8FD4\u56DE\u7684\u662F\u5207\u7247
 fmt.Println("JSON\u5B57\u7B26\u4E322\uFF1A",string(jsonStr))
-`,paraId:14,tocIndex:3}]},52831:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(79596);const a=[]},51446:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(68537);const a=[]},3190:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(43648);const a=[{value:"\u4EE3\u7801\u5B9E\u73B0\uFF08javascript\uFF09\uFF1A",paraId:0,tocIndex:0},{value:"haokur/algorithm",paraId:0,tocIndex:0},{value:"\u52A8\u6001\u6548\u679C\u9884\u89C8\uFF1A",paraId:0,tocIndex:0},{value:"haokur.github.io/algorithm",paraId:0,tocIndex:0}]},57618:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(73550);const a=[{value:"\u63A8\u6F14\u903B\u8F91\uFF1A",paraId:0,tocIndex:1},{value:"\u5F53 arr \u53EA\u6709\u4E00\u4E2A\u6570\u65F6\uFF0C\u4ED6\u81EA\u8EAB\u5C31\u662F\u6700\u957F\u7684\u5B50\u5E8F\u5217\uFF0C\u6240\u4EE5\u8DF3\u8FC7\u7B2C\u4E00\u4E2A\u6570",paraId:1,tocIndex:1},{value:"\u5B9A\u4E49\u4E00\u4E2A\u4E8C\u7EF4\u6570\u7EC4\uFF0C\u5B58\u653E\u5B50\u5E8F\u5217\u62FC\u63A5\u7ED3\u679C result\uFF0C\u7531\u7B2C\u4E00\u6B65\uFF0C\u5C31\u6709 [[arr[0]]]",paraId:1,tocIndex:1},{value:"\u4ECE\u7B2C\u4E8C\u4E2A\u6570\u7684\u4F4D\u7F6E\u5F00\u59CB\u904D\u5386\uFF0C\u53D6\u4E00\u4E2A\u6570 current\uFF0C\u4E0E result \u7684\u6BCF\u4E00\u9879\u7684\u6700\u540E\u4E00\u4E2A\u6570\u6BD4\u8F83\uFF0C\u5047\u5982 current \u7684\u6570\u5927\u4E8E\u6570\u7EC4\u7684\u6700\u540E\u4E00\u9879\uFF0C\u5219\u53EF\u4EE5\u62FC\u63A5\uFF0C\u5373\u5B58\u5728\u8FD9\u79CD\u60C5\u666F\uFF0C\u5373 result \u662F[[1],[1,2],[1,2,7]],\u9047\u5230 current=3\uFF0C\u6570\u7EC4\u6700\u540E\u4E00\u9879\u62FC\u4E0D\u4E0A\uFF0C\u4F46\u662F\u78B0\u5230 [1,2],\u80FD\u62FC\u63A5\u4E0A\u4E86\uFF0C\u90A3\u4E48\u5C31\u628A [1,2] \u7684\u4E0B\u4E00\u9879\u4FEE\u6539 [1,2,7]=>[1,2,3],\u9000\u51FA\u5FAA\u73AF\uFF0C\u6B64\u65F6\u7684 result \u4E3A [[1],[1,2],[1,2,3]]\uFF1B\u5982\u679C\u627E\u5230\u6700\u5F00\u59CB\u7684\u9879\uFF0C\u4E5F\u62FC\u4E0D\u4E0A\uFF0C\u90A3\u4E48\u5B83\u5C31\u662F\u6240\u6709\u7ED3\u679C\u91CC\u6700\u5C0F\u7684\uFF0C\u4ED6\u5C31\u72EC\u81EA\u5728 result \u7684\u7B2C\u4E00\u9879\uFF0C\u5373 result[0] = [current]",paraId:1,tocIndex:1},{value:"\u6700\u540E\u8FD4\u56DE result \u7684\u6700\u540E\u4E00\u9879",paraId:1,tocIndex:1},{value:"result \u7684\u6F14\u53D8\u8FC7\u7A0B\uFF1A",paraId:2,tocIndex:1},{value:`4=> [[4]]
+`,paraId:14,tocIndex:3},{value:"if-else",paraId:15,tocIndex:4},{value:`// if-else
+score := 88
+
+if score>90 {
+    fmt.Println("\u4F18\u79C0")
+} else if score > 80 {
+    fmt.Println("\u826F\u597D")
+} else if score > 70 {
+    fmt.Println("\u8FD8\u884C")
+} else if score > 60 {
+    fmt.Println("\u53CA\u683C")
+} else {
+    fmt.Println("\u4E0D\u53CA\u683C")
+}
+`,paraId:16,tocIndex:4},{value:"switch-case \u5E38\u89C4",paraId:17,tocIndex:4},{value:`// switch-case\uFF0C\u642D\u914D\u56FA\u5B9A\u503C\u7684switch\u7528\u6CD5
+// \u4E0D\u9700\u8981\u624B\u52A8break\uFF0C\u800C\u8981\u8DF3\u5230\u4E0B\u4E00\u4E2Acase\u9700\u624B\u52A8fallthrough
+// \u6240\u4EE5\u8FDE\u5199\u5982  case 7: case 8: \u5E76\u4E0D\u50CF\u5176\u4ED6\u8BED\u8A00\u4E00\u6837\u516C\u7528\u540C\u4E00\u4E2A\u903B\u8F91\uFF0C\u516C\u7528\u540C\u4E00\u4E2A\u903B\u8F91\uFF0C\u8981\u5E76\u5217\u5728\u4E00\u884C\u5982\uFF1A case 7,8:
+func getStatus(status int) string{
+    resultText := ""
+
+    switch status {
+    case 0:
+        resultText = "\u5F85\u5F00\u59CB"
+    case 1:
+        resultText = "\u8FDB\u884C\u4E2D"
+    case 2:
+        fmt.Println("2 \u548C 3 \u4E00\u6837\uFF0C\u4F7F\u7528fallthrough\u8DF3\u5230\u4E0B\u4E00\u4E2A")
+        fallthrough
+    case 3:
+        resultText = "\u5DF2\u7ED3\u675F"
+    case 4,5,6:
+        fmt.Println("\u4E0D\u4F7F\u7528fallthrough\uFF0C\u53EF\u4F7F\u7528\u5E76\u5217\u7684\u65B9\u5F0F")
+        resultText = "\u53D1\u751F\u4E86\u9519\u8BEF"
+    case 7:
+    case 8:
+        resultText = "\u7ED3\u679C\u662F7\u62168"
+    default:
+        resultText = "\u65E0\u6548\u7684\u72B6\u6001\u7801"
+    }
+
+
+    return resultText
+}
+
+fmt.Println("result text for status 1 is ",getStatus(1))
+fmt.Println("result text for status 2 and 3 is ",getStatus(2), getStatus(3))
+fmt.Println("result text for status 4 and 5 is ",getStatus(4),getStatus(5))
+fmt.Println("result text for status 7 is ",getStatus(7)) // \u5E76\u4E0D\u5982\u9884\u671F\uFF0C\u7ED3\u679C\u4F1A\u662F\u7A7A
+`,paraId:18,tocIndex:4},{value:"switch-case \u5B9E\u73B0\u7C7B\u4F3C if-else \u7684\u6548\u679C",paraId:19,tocIndex:4},{value:`// switch-case\uFF0C\u642D\u914D\u7A7Aswitch\u7684\u7528\u6CD5\uFF0C\u7C7B\u4F3Cif-else
+func getStatusByCondition(score int){
+    switch {
+        case score > 90:
+            fmt.Println("\u4F18\u79C0")
+        case score > 80:
+            fmt.Println("\u826F\u597D")
+        case score > 70:
+            fmt.Println("\u4E00\u822C")
+        case score > 60:
+            fmt.Println("\u53CA\u683C")
+        default:
+            fmt.Println("\u4E0D\u53CA\u683C")
+    }
+}
+fmt.Println("score 88 is")
+getStatusByCondition(88)
+
+fmt.Println("score 55 is")
+getStatusByCondition(55)
+`,paraId:20,tocIndex:4},{value:"\u8F6C\u6620\u5C04\u7684\u65B9\u5F0F",paraId:21,tocIndex:4},{value:`// \u5927\u591A\u201C\u56FA\u5B9A\u503C-\u5339\u914D\u5904\u7406\u65B9\u6CD5\u201D\u7684\u5206\u652F\u90FD\u53EF\u4EE5\u8F6C\u6210\u6620\u5C04\u7684\u65B9\u5F0F
+// \u5373 case \u662F\u7B49\u4E8E\u7684\u60C5\u5F62
+func getStatusByMap(status int) string{
+    statusMap := map[int]string{
+        0 : "\u5F85\u5F00\u59CB",
+        1 : "\u8FDB\u884C\u4E2D",
+        2 : "\u5DF2\u7ED3\u675F",
+        3 : "\u5DF2\u7ED3\u675F",
+    }
+    if result,exists := statusMap[status]; exists{
+        return result
+    } else {
+        return "\u65E0\u6548\u7684\u72B6\u6001\u7801"
+    }
+}
+
+fmt.Println("result text for status 1 is ",getStatusByMap(1))
+fmt.Println("result text for status 2 and 3 is ",getStatusByMap(2), getStatusByMap(3))
+fmt.Println("result text for status 4 and 5 is ",getStatusByMap(4),getStatusByMap(5))
+fmt.Println("result text for status 7 is ",getStatusByMap(7)) // \u5E76\u4E0D\u5982\u9884\u671F\uFF0C\u7ED3\u679C\u4F1A\u662F\u7A7A
+`,paraId:22,tocIndex:4},{value:"\u4F7F\u7528\u6620\u5C04\u6765\u5339\u914D action \u6267\u884C\u64CD\u4F5C",paraId:23,tocIndex:4},{value:`type ActionFunc func(status int) string
+
+func runAction(action string, status int) string {
+    actionMap := map[string]ActionFunc{
+        "start":func(status int) string {
+            return "start"
+        },
+        "pause":func(status int) string {
+            return "pause"
+        },
+        "stop":func(status int) string {
+            return "stop"
+        },
+    }
+    if actionFunc , exist := actionMap[action]; exist {
+        return actionFunc(status)
+    } else {
+        fmt.Println(action, "action not found")
+        return "not found"
+    }
+}
+
+fmt.Println("runAction(\\"start\\",1) \u6267\u884C\u7684\u7ED3\u679C\uFF1A",runAction("start",1))
+fmt.Println("runAction(\\"end\\",1) \u6267\u884C\u7684\u7ED3\u679C\uFF1A",runAction("end",1))
+`,paraId:24,tocIndex:4},{value:"\u666E\u901A\uFF0C\u6570\u7EC4/\u5207\u7247\u904D\u5386",paraId:25,tocIndex:5},{value:`// \u6CA1\u6709while\uFF0Cdo-while\uFF0C\u53EA\u6709for\uFF0C\u90FD\u7528for\u6A21\u62DF
+// \u57FA\u672C\u904D\u5386
+for i := 0; i < 5; i ++ {
+    fmt.Println(i)
+}
+
+// \u6570\u7EC4,slice\u904D\u5386
+arr := [5]int{11,22,33,44,55}
+fmt.Println("\u666E\u901Afor\u5FAA\u73AF")
+for i := 0; i < len(arr); i ++ {
+    fmt.Println(i,arr[i])
+}
+
+fmt.Println("\u4F7F\u7528range")
+for index,value := range arr {
+    fmt.Println(index,value)
+}
+
+// map\u7684\u904D\u5386
+userJson := map[string]interface{}{
+    "Name":"Jack",
+    "Age" : 18,
+}
+for key , value := range userJson {
+    fmt.Println("userJson key is ", key, " value is ",value)
+}
+`,paraId:26,tocIndex:5},{value:"\u5B57\u7B26\u4E32\u7684\u904D\u5386",paraId:27,tocIndex:5},{value:`// \u5B57\u7B26\u4E32\u7684\u904D\u5386\u6709\u4E9B\u7279\u6B8A
+str := "Hello Go\u8BED\u8A00"
+fmt.Println(len(str))
+
+// Unicode \u5B57\u7B26\u7684\u5E8F\u5217
+fmt.Println("\u666E\u901A\u904D\u5386\u5B57\u7B26\u4E32\uFF0C\u9047\u5230\u4E2D\u6587\u7D22\u5F15\u4E0D\u5982\u9884\u671F://")
+for index , value := range str {
+    fmt.Println(index, value,string(value)) // \u201C\u8BED\u201D\u57288\u7684\u4F4D\u7F6E\uFF0C\u201C\u8A00\u201D\u572811\u7684\u4F4D\u7F6E
+}
+
+// \u4F7F\u7528rune\u5207\u7247\u6765\u904D\u5386
+runes := []rune(str)
+fmt.Println("\u4F7F\u7528rune\u8F6C\u6362\u540E\u6765\u904D\u5386\u5B57\u7B26\u4E32://")
+for index ,value := range runes {
+    fmt.Println(index,value,string(value))
+}
+`,paraId:28,tocIndex:5},{value:"\u6A21\u62DF while \u5FAA\u73AF\uFF0Cdo-while\uFF0C\u65E0\u9650\u5FAA\u73AF",paraId:29,tocIndex:5},{value:`// while \u5FAA\u73AF
+count := 0
+for count < 5 {
+    count ++
+    fmt.Println(count)
+}
+
+// do-while\u5FAA\u73AF
+count2 := 0
+for {
+    fmt.Println(count2)
+    count2 ++
+
+    if count2 >= 5{
+        break // \u4F7F\u7528break\u6216return\u8DF3\u51FA\u6B7B\u5FAA\u73AF
+    }
+}
+
+// \u65E0\u9650\u5FAA\u73AF
+for {
+  // \u4E00\u76F4\u6267\u884C\uFF0C \u76F4\u5230break\u6216return
+}
+`,paraId:30,tocIndex:5},{value:"\u6307\u9488",paraId:31,tocIndex:6},{value:`num := 10
+pNum := &num
+fmt.Println("num\u7684\u6307\u9488/\u5730\u5740\uFF1A", pNum)
+fmt.Println("*pNum\uFF1A",*pNum)
+
+// \u51FD\u6570\u91CC\u7684\u53C2\u6570\u53EA\u80FD\u662F *xx\uFF0C\u4E0D\u80FD\u662F&xx\uFF0C\u5F53\u53C2\u6570\u662F*xx\uFF0C\u5219\u4F20\u5165\u7684\u9700\u8981\u662F\u4E00\u4E2A\u6307\u9488
+func count(i *int){
+    (*i)++
+}
+count(pNum)
+fmt.Println("after count num is",num)
+`,paraId:32,tocIndex:6},{value:`num\u7684\u6307\u9488/\u5730\u5740\uFF1A 0xc000676000
+*pNum\uFF1A 10
+after count num is 11
+`,paraId:33,tocIndex:6}]},56581:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(99316);const t=[{value:"\u666E\u901A\u51FD\u6570",paraId:0,tocIndex:0},{value:`// \u666E\u901A\u51FD\u6570
+func count(a int, b int) int {
+    return a + b
+}
+count(1,2)
+`,paraId:1,tocIndex:0},{value:"\u591A\u8FD4\u56DE\u503C\u51FD\u6570",paraId:2,tocIndex:0},{value:`// \u591A\u8FD4\u56DE\u503C
+func calc(a int , b int) (int,int){
+    return a + b , a - b
+}
+calc(1,2)
+`,paraId:3,tocIndex:0},{value:"\u53EF\u53D8\u53C2\u6570\u4E2A\u6570",paraId:4,tocIndex:0},{value:`// \u53EF\u53D8\u53C2\u6570\u4E2A\u6570
+func sum(nums ...int) int {
+    result := 0
+    for _,val := range nums{
+        result += val
+    }
+    return result
+}
+sum(1,2,3)
+`,paraId:5,tocIndex:0},{value:"\u547D\u540D\u8FD4\u56DE\u503C",paraId:6,tocIndex:0},{value:`// \u547D\u540D\u8FD4\u56DE\u503C
+func calc2(a int,b int)(plusResult int,reduceResult int){
+    plusResult = a + b
+    reduceResult = a -b
+}
+calc2(1,2)
+`,paraId:7,tocIndex:0},{value:"\u533F\u540D\u51FD\u6570 - \u5E38\u89C4",paraId:8,tocIndex:0},{value:`// \u533F\u540D\u51FD\u6570
+type MyAction func(status int) int
+
+funcMap := map[string]MyAction {
+    "test": func(status int) int{ return status + 1 },
+}
+
+fmt.Println("funcMap[\\"test\\"](1)",funcMap["test"](1))
+
+// \u533F\u540D\u51FD\u6570\u81EA\u6267\u884C
+func test(){
+    func (name string){
+        fmt.Println("hello ",name)
+    }("Go")
+}
+
+test()
+`,paraId:9,tocIndex:0},{value:"\u533F\u540D\u51FD\u6570 - \u4F20\u9012",paraId:10,tocIndex:0},{value:`// \u51FD\u6570\u4F20\u9012
+// \u51FD\u6570\u4F20\u9012-\u8FD4\u56DE\u503C
+// \u533F\u540D\u51FD\u6570-\u95ED\u5305-\u8FD4\u56DE\u4E00\u4E2A\u51FD\u6570
+type clousrAction func (addNum int) int
+func createCounter () clousrAction {
+    count := 0
+    return func(addNum int) int {
+        count += addNum
+        return count
+    }
+}
+
+myCounter := createCounter()
+fmt.Println("myCounter(1)",myCounter(1))
+fmt.Println("myCounter(1)",myCounter(1))
+
+// \u51FD\u6570\u4F20\u9012-\u53C2\u6570
+func sum(val int, fn clousrAction) int {
+    result := fn(val)
+    return result
+}
+fmt.Println(sum(2,myCounter))
+`,paraId:11,tocIndex:0},{value:"defer \u5EF6\u8FDF\u6267\u884C",paraId:12,tocIndex:0},{value:`// \u5EF6\u8FDF\u6267\u884C defer
+// \u4FDD\u8BC1\u4E86\u540E\u9762\u7684\u6838\u5FC3\u903B\u8F91\u5373\u4F7Fpanic\uFF0C\u4E5F\u80FD\u6267\u884C\u6536\u5C3E\u5DE5\u4F5C\uFF0C\u6BD4\u5982\u5173\u95ED\u6587\u4EF6\u64CD\u4F5C\u7B49
+// \u5148\u8FDB\u540E\u51FA
+
+// \u65E0\u63D0\u524D\u8FD4\u56DE
+func test(){
+    defer fmt.Println("\u6536\u5C3E\u5DE5\u4F5C1")
+
+    fmt.Println("\u6838\u5FC3\u903B\u8F91\u6267\u884C")
+
+    defer fmt.Println("\u6536\u5C3E\u5DE5\u4F5C2") // \u5728\u524D\u9762\u8FD4\u56DE\u65F6\uFF0C\u5E76\u4E0D\u80FD\u6267\u884C
+}
+
+test()
+
+// \u63D0\u524D\u8FD4\u56DE
+fmt.Println("-------\u63D0\u524D\u8FD4\u56DE------------")
+func test2(){
+    defer fmt.Println("\u6536\u5C3E\u5DE5\u4F5C1")
+
+    visible := true
+
+    if visible {
+        fmt.Println("\u6838\u5FC3\u903B\u8F91\u6267\u884C")
+        return
+    }
+
+    defer fmt.Println("\u6536\u5C3E\u5DE5\u4F5C2") // \u5728\u524D\u9762\u8FD4\u56DE\u65F6\uFF0C\u5E76\u4E0D\u80FD\u6267\u884C
+}
+
+test2()
+`,paraId:13,tocIndex:0},{value:"\u53C2\u6570\u7684\u503C\u4F20\u9012\u548C\u5F15\u7528\u4F20\u9012",paraId:14,tocIndex:0},{value:`// \u53C2\u6570\u503C\u7684\u503C\u4F20\u9012\u7279\u6027
+type User struct {
+	Name string
+	Age  int
+}
+
+// \u503C\u62F7\u8D1D
+func changeAge(person User) {
+	fmt.Println("changeAge func", person.Age)
+	person.Age += 1
+	fmt.Println("after changeAge person.Age += 1 ", person.Age)
+}
+
+// \u5F15\u7528\u4F20\u9012
+func changeAgeByInfer(person *User) {
+	fmt.Println("changeAgeByInfer func", person.Age)
+	person.Age += 1
+	fmt.Println("after changeAgeByInfer person.Age += 1 ", person.Age)
+}
+
+func testFunc() {
+	user1 := &User{
+		Name: "Jack",
+		Age:  18,
+	}
+	changeAge(*user1)
+	fmt.Println("after changeAge func", user1.Age) // 18
+
+	fmt.Println("---------")
+	user2 := &User{
+		Name: "Bob",
+		Age:  18,
+	}
+	changeAgeByInfer(user2)
+	fmt.Println("after changeAgeByInfer func", user2.Age) // 19
+}
+
+testFunc()
+`,paraId:15,tocIndex:0},{value:"struct \u4E0A\u5B9E\u73B0\u65B9\u6CD5",paraId:16,tocIndex:0},{value:`// struct\u4E0A\u5B9E\u73B0\u65B9\u6CD5
+type User struct {
+	Name string
+	Age  int
+}
+
+func (user *User) sayHello(){
+    fmt.Println(user.Name, "say hello")
+}
+
+u1 := &User{
+    Name : "jack",
+    Age : 18,
+}
+
+u1.sayHello()
+`,paraId:17,tocIndex:0}]},52831:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(79596);const t=[]},62771:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(54273);const t=[{value:"\u547D\u4EE4\u884C\u5DE5\u5177 ",paraId:0,tocIndex:0},{value:"Cobra. Dev",paraId:0,tocIndex:0}]},24591:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(30580);const t=[]},37670:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(60056);const t=[{value:`type User struct {
+	Name string
+	Age  int
+}
+
+func testStruct() {
+
+	// \u5B9E\u4F8B\u5316\u65B9\u6CD51 - \u76F4\u63A5\u521D\u59CB\u5316
+	u1 := User{Name: "jack", Age: 18}
+	fmt.Println(u1) // {jack 18}
+	u1.Name = "Bob"
+	fmt.Println("after change u1 Name,u1 Name is", u1.Name) // BOb
+
+	// \u5B9E\u4F8B\u5316\u65B9\u6CD52 - \u96F6\u503C\u521D\u59CB\u5316
+	u2 := User{}
+	fmt.Println(u2) // { 0}
+	u2.Name = "Bob"
+	fmt.Println("after change u2 Name,u2 Name is", u2.Name) // BOb
+
+	// \u5B9E\u4F8B\u5316\u65B9\u6CD53 - New \u96F6\u503C\u521D\u59CB\u5316
+	u3 := new(User)
+	fmt.Println(u3) // \u8FD4\u56DE\u7684\u662F\u7ED3\u6784\u4F53\u7684\u6307\u9488\uFF0C\u7C7B\u578B\u4E3A *User , &{ 0}
+	u3.Name = "Bob"
+	fmt.Println("after change u3 Name,u3 Name is", u3.Name) // BOb
+
+	// \u5B9E\u4F8B\u5316\u65B9\u6CD54 - \u7C7B\u4F3Cnew\uFF0C\u96F6\u503C\u521D\u59CB\u5316\u5E76\u83B7\u53D6\u6307\u9488
+	u4 := &User{}
+	fmt.Println(u4) // &{ 0}
+	u4.Name = "Bob"
+	fmt.Println("after change u4 Name,u4 Name is", u4.Name) // BOb
+
+	// \u5B9E\u4F8B\u5316\u65B9\u6CD54 - \u7C7B\u4F3Cnew\uFF0C\u521D\u59CB\u5316\u5E76\u83B7\u53D6\u6307\u9488\uFF0C\u5E76\u521D\u59CB\u5316
+	u5 := &User{Name: "jack", Age: 18}
+	fmt.Println(u5) // &{jack 18}
+	u5.Name = "Bob"
+	fmt.Println("after change u5 Name,u5 Name is", u5.Name) // BOb
+}
+
+testStruct()
+`,paraId:0,tocIndex:1},{value:"\u5F15\u7528\u7684\u64CD\u4F5C\uFF0C\u64CD\u4F5C\u65F6\u4F1A\u6307\u5411\u503C\u7684\u64CD\u4F5C\uFF0C\u6240\u4EE5\u5728\u5BF9\u5F15\u7528\u7684\u64CD\u4F5C\uFF0C\u548C\u76F4\u63A5\u5BF9\u5F15\u7528\u5BF9\u5E94\u7684\u503C\u7684\u64CD\u4F5C\uFF0C\u5176\u6548\u679C\u662F\u4E00\u81F4\u7684\uFF0C\u53EA\u6709\u5728\u51FD\u6570\u4F20\u9012\u65F6\uFF0C\u4F1A\u6709\u533A\u522B\uFF0C\u56E0\u4E3A go \u4E2D\u7684\u51FD\u6570\u503C\u4F20\u9012\u4E3A\u503C\u7684\u62F7\u8D1D\u4F20\u9012\uFF0C\u62F7\u8D1D\u7684\u503C\u5982\u679C\u662F\u4E00\u4E2A\u5F15\u7528\u5730\u5740\uFF0C\u90A3\u6700\u540E\u51FD\u6570\u5185\u90E8\u62FF\u5230\u7684\u8FD8\u662F\u539F\u59CB\u7684\u5F15\u7528\uFF0C\u5982\u679C\u662F\u503C\uFF0C\u5C31\u4F1A\u62F7\u8D1D\u503C\uFF0C\u4E0E\u539F\u6570\u636E\u5206\u79BB\u65E0\u5173\u8054\u4E86\u3002",paraId:1,tocIndex:1},{value:`
+type User struct {
+	Name string
+	Age  int
+}
+
+func changeAge(person User) {
+	fmt.Println("changeAge func", person.Age)
+	person.Age += 1
+	fmt.Println("after changeAge person.Age += 1 ", person.Age)
+}
+
+func changeAgeByInfer(person *User) {
+	fmt.Println("changeAgeByInfer func", person.Age)
+	person.Age += 1
+	fmt.Println("after changeAgeByInfer person.Age += 1 ", person.Age)
+}
+
+func testFunc() {
+	user1 := &User{
+		Name: "Jack",
+		Age:  18,
+	}
+	changeAge(*user1)
+	fmt.Println("after changeAge func", user1.Age) // 18
+
+	fmt.Println("---------")
+	user2 := &User{
+		Name: "Bob",
+		Age:  18,
+	}
+	changeAgeByInfer(user2)
+	fmt.Println("after changeAgeByInfer func", user2.Age) // 19
+
+	fmt.Println("---------")
+	user2.sayHello()
+}
+
+testFunc()
+`,paraId:2,tocIndex:2},{value:`// \u5D4C\u5957\u7ED3\u6784\u4F53
+type Address struct {
+    Name string
+    City string
+    Country string
+}
+
+// \u533F\u540D\u5D4C\u5957\uFF0C\u5C06Address\u7684\u5C5E\u6027\uFF0C\u76F4\u63A5\u6269\u5C55\u5230Employee\u4E0A,\u53EF\u76F4\u63A5\u901A\u8FC7Employee\u8BBF\u95EEAddress\u5185\u5C5E\u6027\uFF0C\u800C\u4E0D\u5E26Address\u5B57\u6BB5\uFF08\u5E26\u4E5F\u53EF\u4EE5\u8BBF\u95EE\uFF09
+type Employee struct{
+    Name string
+    Age int
+    Address
+}
+
+emp1 := &Employee{
+    Name:"jack",
+    Age : 18,
+    Address:Address{
+        Name:"address Name",
+        City:"shenzhen",
+        Country:"China",
+    },
+}
+fmt.Println(emp1.City,emp1.Address.City)
+
+// \u5F53\u5185\u5916\u540D\u91CD\u53E0\u65F6\uFF0C\u533F\u540D\u5D4C\u5957\u7684\u7ED3\u6784\u4F53\u4E0D\u4F1A\u8986\u76D6\u5916\u9762\u7684\u5C5E\u6027\uFF0C\u8981\u8BBF\u95EE\u5D4C\u5957\u5185\u90E8\u7684\u5C5E\u6027\uFF0C\u53EA\u80FD\u901A\u8FC7\u5D4C\u5957\u7684\u540D\u79F0\u6DF1\u5C42\u83B7\u53D6
+fmt.Println(emp1.Name,emp1.Address.Name)
+
+// \u975E\u533F\u540D\u5D4C\u5957\uFF0C\u53EA\u80FD\u901A\u8FC7\u5D4C\u5957\u7684\u540D\u79F0\u83B7\u53D6\u5D4C\u5957\u7684\u5C5E\u6027
+type Employee2 struct{
+    Name string
+    Age int
+    Address Address
+}
+emp2 := &Employee2{
+    Name:"jack",
+    Age : 18,
+    Address:Address{
+        Name:"address Name",
+        City:"shenzhen",
+        Country:"China",
+    },
+}
+fmt.Println(emp2.Address.City) // emp2.City\u7684\u83B7\u53D6\u65B9\u5F0F\u4F1A\u62A5\u9519
+`,paraId:3,tocIndex:3},{value:`// \u65B9\u6CD5\u4E0E\u7ED3\u6784\u4F53\u7684\u7ED3\u5408
+type User struct{
+    Name string
+    Age int
+}
+
+func (u *User)sayHello(){
+    fmt.Println(u.Name, "say hello to you")
+}
+
+u1 := &User {
+    Name :"jack",
+    Age : 18,
+}
+u1.sayHello()
+`,paraId:4,tocIndex:4}]},51446:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(68537);const t=[]},3190:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(43648);const t=[{value:"\u4EE3\u7801\u5B9E\u73B0\uFF08javascript\uFF09\uFF1A",paraId:0,tocIndex:0},{value:"haokur/algorithm",paraId:0,tocIndex:0},{value:"\u52A8\u6001\u6548\u679C\u9884\u89C8\uFF1A",paraId:0,tocIndex:0},{value:"haokur.github.io/algorithm",paraId:0,tocIndex:0}]},57618:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(73550);const t=[{value:"\u63A8\u6F14\u903B\u8F91\uFF1A",paraId:0,tocIndex:1},{value:"\u5F53 arr \u53EA\u6709\u4E00\u4E2A\u6570\u65F6\uFF0C\u4ED6\u81EA\u8EAB\u5C31\u662F\u6700\u957F\u7684\u5B50\u5E8F\u5217\uFF0C\u6240\u4EE5\u8DF3\u8FC7\u7B2C\u4E00\u4E2A\u6570",paraId:1,tocIndex:1},{value:"\u5B9A\u4E49\u4E00\u4E2A\u4E8C\u7EF4\u6570\u7EC4\uFF0C\u5B58\u653E\u5B50\u5E8F\u5217\u62FC\u63A5\u7ED3\u679C result\uFF0C\u7531\u7B2C\u4E00\u6B65\uFF0C\u5C31\u6709 [[arr[0]]]",paraId:1,tocIndex:1},{value:"\u4ECE\u7B2C\u4E8C\u4E2A\u6570\u7684\u4F4D\u7F6E\u5F00\u59CB\u904D\u5386\uFF0C\u53D6\u4E00\u4E2A\u6570 current\uFF0C\u4E0E result \u7684\u6BCF\u4E00\u9879\u7684\u6700\u540E\u4E00\u4E2A\u6570\u6BD4\u8F83\uFF0C\u5047\u5982 current \u7684\u6570\u5927\u4E8E\u6570\u7EC4\u7684\u6700\u540E\u4E00\u9879\uFF0C\u5219\u53EF\u4EE5\u62FC\u63A5\uFF0C\u5373\u5B58\u5728\u8FD9\u79CD\u60C5\u666F\uFF0C\u5373 result \u662F[[1],[1,2],[1,2,7]],\u9047\u5230 current=3\uFF0C\u6570\u7EC4\u6700\u540E\u4E00\u9879\u62FC\u4E0D\u4E0A\uFF0C\u4F46\u662F\u78B0\u5230 [1,2],\u80FD\u62FC\u63A5\u4E0A\u4E86\uFF0C\u90A3\u4E48\u5C31\u628A [1,2] \u7684\u4E0B\u4E00\u9879\u4FEE\u6539 [1,2,7]=>[1,2,3],\u9000\u51FA\u5FAA\u73AF\uFF0C\u6B64\u65F6\u7684 result \u4E3A [[1],[1,2],[1,2,3]]\uFF1B\u5982\u679C\u627E\u5230\u6700\u5F00\u59CB\u7684\u9879\uFF0C\u4E5F\u62FC\u4E0D\u4E0A\uFF0C\u90A3\u4E48\u5B83\u5C31\u662F\u6240\u6709\u7ED3\u679C\u91CC\u6700\u5C0F\u7684\uFF0C\u4ED6\u5C31\u72EC\u81EA\u5728 result \u7684\u7B2C\u4E00\u9879\uFF0C\u5373 result[0] = [current]",paraId:1,tocIndex:1},{value:"\u6700\u540E\u8FD4\u56DE result \u7684\u6700\u540E\u4E00\u9879",paraId:1,tocIndex:1},{value:"result \u7684\u6F14\u53D8\u8FC7\u7A0B\uFF1A",paraId:2,tocIndex:1},{value:`4=> [[4]]
 5=> [[4], [4, 5]]
 1=> [[1], [4, 5]]
 2=> [[1], [1, 2]]
@@ -2145,7 +2620,7 @@ fmt.Println("JSON\u5B57\u7B26\u4E322\uFF1A",string(jsonStr))
 
 var arr = [4, 5, 1, 2, 7, 3, 6, 9];
 console.log(getLis(arr)); // [1, 2, 3, 6, 9]
-`,paraId:5,tocIndex:1}]},66301:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(4299);const a=[{value:"\u6838\u5FC3\uFF1A\u4E00\u6B21\u5FAA\u73AF\uFF0C\u524D\u540E\u4E24\u4E24\u6BD4\u8F83\uFF0C\u524D\u8005\u5927\u4E8E\u540E\u8005\uFF0C\u5219\u4E92\u6362\u4F4D\u7F6E\uFF0C\u6BCF\u6B21\u5FAA\u73AF\u5192\u6CE1\u4E00\u4E2A\u6700\u5927\u7684\u51FA\u6765",paraId:0,tocIndex:1},{value:`function bubblingSort(arr) {
+`,paraId:5,tocIndex:1}]},66301:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(4299);const t=[{value:"\u6838\u5FC3\uFF1A\u4E00\u6B21\u5FAA\u73AF\uFF0C\u524D\u540E\u4E24\u4E24\u6BD4\u8F83\uFF0C\u524D\u8005\u5927\u4E8E\u540E\u8005\uFF0C\u5219\u4E92\u6362\u4F4D\u7F6E\uFF0C\u6BCF\u6B21\u5FAA\u73AF\u5192\u6CE1\u4E00\u4E2A\u6700\u5927\u7684\u51FA\u6765",paraId:0,tocIndex:1},{value:`function bubblingSort(arr) {
   // \u8D70 i \u6B21 j \u7684\u904D\u5386
   for (let i = 0; i < arr.length; i++) {
     // j \u4E00\u8F6E\u904D\u5386\u786E\u5B9A\u4E00\u4E2A\u6700\u5927\u6570
@@ -2228,7 +2703,7 @@ function quickSort(arr, low, high) {
 let arr = [3, 1, 7, 4, 88, 2, 6];
 quickSort(arr);
 console.log(arr);
-`,paraId:7,tocIndex:4}]},16514:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(94807);const a=[{value:"Koa \u57FA\u672C\u4F7F\u7528",paraId:0,tocIndex:0}]},33968:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(90142);const a=[{value:"Koa \u5E94\u7528\u6574\u4F53\u67B6\u6784\uFF1A",paraId:0,tocIndex:1},{value:"haokur/koa-server",paraId:0,tocIndex:1},{value:"Koa \u5E94\u7528\u7684\u81EA\u5B9A\u4E49\u8BC1\u4E66 https \u670D\u52A1\u5B9E\u8DF5\uFF1A",paraId:0,tocIndex:1},{value:"haokur/test/koa-serve",paraId:0,tocIndex:1},{value:`const Koa = require('koa');
+`,paraId:7,tocIndex:4}]},16514:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(94807);const t=[{value:"Koa \u57FA\u672C\u4F7F\u7528",paraId:0,tocIndex:0}]},33968:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(90142);const t=[{value:"Koa \u5E94\u7528\u6574\u4F53\u67B6\u6784\uFF1A",paraId:0,tocIndex:1},{value:"haokur/koa-server",paraId:0,tocIndex:1},{value:"Koa \u5E94\u7528\u7684\u81EA\u5B9A\u4E49\u8BC1\u4E66 https \u670D\u52A1\u5B9E\u8DF5\uFF1A",paraId:0,tocIndex:1},{value:"haokur/test/koa-serve",paraId:0,tocIndex:1},{value:`const Koa = require('koa');
 const path = require('path');
 const KoaStatic = require('koa-static');
 const cors = require('@koa/cors');
@@ -2307,7 +2782,7 @@ app.use(router.routes()).use(router.allowedMethods());
 https.createServer(sslOptions, app.callback()).listen(9099, () => {
   console.log('Koa server is running on https://localhost:9099');
 });
-`,paraId:2,tocIndex:4},{value:"\u672C\u5730\u8BBF\u95EE\u81EA\u5EFA\u8BC1\u4E66\u7684 https \u8BF7\u6C42\u65F6\uFF0C\u53EF\u4EE5\u5FFD\u7565\u8B66\u544A\uFF0C\u6216\u8005\u5982\u679C\u5728 mac \u4E0A\u53EF\u4EE5\u53CC\u51FB ca.crt\uFF0C\u7136\u540E\u5728\u94A5\u5319\u4E32\u8BBF\u95EE->\u8BC1\u4E66\uFF0C\u4E2D\u627E\u5BF9\u5E94\u7528\u7684 ca \u8BC1\u4E66\uFF0C->\u663E\u793A\u7B80\u4ECB -> \u4FE1\u4EFB -> \u4F7F\u7528\u8BC1\u4E66 -> \u59CB\u7EC8\u4FE1\u4EFB",paraId:3,tocIndex:4}]},56076:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(22695);const a=[{value:"v18+",paraId:0,tocIndex:0}]},75373:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(99920);const a=[{value:"Vue2 and Vue3",paraId:0,tocIndex:0}]},2347:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(79825);const a=[{value:"Vue2",paraId:0,tocIndex:0}]},63251:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(72830);const a=[{value:`npm install vite-plugin-inspect --save-dev
+`,paraId:2,tocIndex:4},{value:"\u672C\u5730\u8BBF\u95EE\u81EA\u5EFA\u8BC1\u4E66\u7684 https \u8BF7\u6C42\u65F6\uFF0C\u53EF\u4EE5\u5FFD\u7565\u8B66\u544A\uFF0C\u6216\u8005\u5982\u679C\u5728 mac \u4E0A\u53EF\u4EE5\u53CC\u51FB ca.crt\uFF0C\u7136\u540E\u5728\u94A5\u5319\u4E32\u8BBF\u95EE->\u8BC1\u4E66\uFF0C\u4E2D\u627E\u5BF9\u5E94\u7528\u7684 ca \u8BC1\u4E66\uFF0C->\u663E\u793A\u7B80\u4ECB -> \u4FE1\u4EFB -> \u4F7F\u7528\u8BC1\u4E66 -> \u59CB\u7EC8\u4FE1\u4EFB",paraId:3,tocIndex:4}]},56076:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(22695);const t=[{value:"v18+",paraId:0,tocIndex:0}]},75373:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(99920);const t=[{value:"Vue2 and Vue3",paraId:0,tocIndex:0}]},2347:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(79825);const t=[{value:"Vue2",paraId:0,tocIndex:0}]},63251:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(72830);const t=[{value:`npm install vite-plugin-inspect --save-dev
 `,paraId:0,tocIndex:1},{value:"vite.config.js",paraId:1,tocIndex:1},{value:`import { defineConfig } from 'vite';
 import VitePluginInspect from 'vite-plugin-inspect';
 export default defineConfig({
@@ -2375,7 +2850,7 @@ const _sfc_main = /* @__PURE__ */ _defineComponent({
     return __returned__;
   },
 });
-`,paraId:11,tocIndex:3},{value:"\u5C06 script \u91CC\u7684\u5185\u5BB9\uFF0C\u7F16\u8BD1\u6210\u7C7B\u4F3C option \u7684\u5199\u6CD5",paraId:12,tocIndex:3},{value:"\u81EA\u52A8\u6DFB\u52A0 __name",paraId:12,tocIndex:3},{value:"defineExpose \u5B8F\u8F6C\u4E3A **expose,\u82E5\u672A defineExpose\uFF0C\u4F1A\u81EA\u52A8\u5BFC\u51FA\u7A7A **expose()",paraId:12,tocIndex:3},{value:"\u5C06\u5B9A\u4E49\u7684\u65B9\u6CD5\u548C\u503C\uFF08__returned__\uFF09\u8FD4\u56DE",paraId:12,tocIndex:3}]},52324:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(33127);const a=[{value:`<template>
+`,paraId:11,tocIndex:3},{value:"\u5C06 script \u91CC\u7684\u5185\u5BB9\uFF0C\u7F16\u8BD1\u6210\u7C7B\u4F3C option \u7684\u5199\u6CD5",paraId:12,tocIndex:3},{value:"\u81EA\u52A8\u6DFB\u52A0 __name",paraId:12,tocIndex:3},{value:"defineExpose \u5B8F\u8F6C\u4E3A **expose,\u82E5\u672A defineExpose\uFF0C\u4F1A\u81EA\u52A8\u5BFC\u51FA\u7A7A **expose()",paraId:12,tocIndex:3},{value:"\u5C06\u5B9A\u4E49\u7684\u65B9\u6CD5\u548C\u503C\uFF08__returned__\uFF09\u8FD4\u56DE",paraId:12,tocIndex:3}]},52324:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(33127);const t=[{value:`<template>
   <view>
     <div>\u6570\u91CF\uFF08count\uFF09\uFF1A{{count}}</div>
     <div>
@@ -2756,4 +3231,4 @@ const fullUserInfo = computed(() => {
 
 console.log(userInfo.name); // \u5BF9\u8C61\u7C7B\u578B\uFF0C\u53D6\u503C\u662F\u76F4\u63A5\u53D6
 console.log(fullUserInfo.value, fullUserInfo.value.name);
-`,paraId:12,tocIndex:16},{value:"\u6CE8\u610F computed \u65B9\u6CD5\u8FD4\u56DE\u7684\u90FD\u662F ComputedRefImpl \u7C7B\u578B\uFF0C\u4E0D\u7BA1\u65B9\u6CD5\u5185\u90E8 return \u7684\u662F\u7B80\u5355\u7C7B\u578B\uFF08string\uFF0Cnumber\uFF09\uFF0C\u8FD8\u662F\u5BF9\u8C61\u7C7B\u578B\uFF08{}\uFF09\uFF0C\u90FD\u9700\u8981\u901A\u8FC7 .value \u540E\u53D6\u503C\u3002",paraId:13,tocIndex:16}]},73728:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(61831);const a=[{value:"Vue3",paraId:0,tocIndex:0}]}}]);
+`,paraId:12,tocIndex:16},{value:"\u6CE8\u610F computed \u65B9\u6CD5\u8FD4\u56DE\u7684\u90FD\u662F ComputedRefImpl \u7C7B\u578B\uFF0C\u4E0D\u7BA1\u65B9\u6CD5\u5185\u90E8 return \u7684\u662F\u7B80\u5355\u7C7B\u578B\uFF08string\uFF0Cnumber\uFF09\uFF0C\u8FD8\u662F\u5BF9\u8C61\u7C7B\u578B\uFF08{}\uFF09\uFF0C\u90FD\u9700\u8981\u901A\u8FC7 .value \u540E\u53D6\u503C\u3002",paraId:13,tocIndex:16}]},73728:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(61831);const t=[{value:"Vue3",paraId:0,tocIndex:0}]}}]);
