@@ -2302,7 +2302,47 @@ fmt.Println("after count num is",num)
 `,paraId:32,tocIndex:6},{value:`num\u7684\u6307\u9488/\u5730\u5740\uFF1A 0xc000676000
 *pNum\uFF1A 10
 after count num is 11
-`,paraId:33,tocIndex:6}]},56581:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(99316);const t=[{value:"\u666E\u901A\u51FD\u6570",paraId:0,tocIndex:0},{value:`// \u666E\u901A\u51FD\u6570
+`,paraId:33,tocIndex:6},{value:"type \u7684\u4F7F\u7528",paraId:34,tocIndex:6},{value:`// \u5B9A\u4E49\u7ED3\u6784\u4F53
+type Person struct {
+    Name string
+    Age int
+}
+p := Person{Name:"Alice",Age:30}
+fmt.Println(p)
+
+// \u5B9A\u4E49\u63A5\u53E3
+type Speaker interface {
+    Speak() string
+}
+type Dog struct{}
+func (d Dog) Speak()string {
+    return "Woof!"
+}
+var s Speaker = Dog{}
+fmt.Println(s.Speak())
+
+// \u57FA\u4E8E\u57FA\u672C\u7C7B\u578B\u521B\u5EFA\u65B0\u7684\u7C7B\u578B
+type Age int
+func (a Age) isAdult() bool{
+    return a >= 18
+}
+var myAge Age = 20
+fmt.Println(myAge.isAdult())
+
+// \u7C7B\u578B\u522B\u540D
+type MyString = string
+var s2 MyString = "hello go"
+fmt.Println(s2)
+
+// \u51FD\u6570\u7C7B\u578B
+type Adder func(int,int) int
+funcMap := map[string]Adder {
+    "add1":func (x,y int) int{
+        return x + y
+    },
+}
+fmt.Println("add1",funcMap["add1"](1,2))
+`,paraId:35,tocIndex:6}]},56581:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(99316);const t=[{value:"\u666E\u901A\u51FD\u6570",paraId:0,tocIndex:0},{value:`// \u666E\u901A\u51FD\u6570
 func count(a int, b int) int {
     return a + b
 }
@@ -2451,7 +2491,20 @@ u1 := &User{
 }
 
 u1.sayHello()
-`,paraId:17,tocIndex:0}]},52831:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(79596);const t=[]},62771:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(54273);const t=[{value:"\u547D\u4EE4\u884C\u5DE5\u5177 ",paraId:0,tocIndex:0},{value:"Cobra. Dev",paraId:0,tocIndex:0}]},24591:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(30580);const t=[]},37670:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(60056);const t=[{value:`type User struct {
+`,paraId:17,tocIndex:0}]},52831:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(79596);const t=[]},62771:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(54273);const t=[{value:"\u547D\u4EE4\u884C\u5DE5\u5177 ",paraId:0,tocIndex:0},{value:"Cobra. Dev",paraId:0,tocIndex:0}]},24591:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(30580);const t=[{value:"Print\uFF0C\u4E0D\u6362\u884C\u6253\u5370",paraId:0,tocIndex:0},{value:`fmt.Print("hello")
+fmt.Print("world")
+`,paraId:1,tocIndex:0},{value:"Println\uFF0C\u5E26\u6362\u884C\u6253\u5370",paraId:2,tocIndex:0},{value:`fmt.Println("hello world")
+fmt.Println("hello world")
+`,paraId:3,tocIndex:0},{value:"Printf\uFF0C\u683C\u5F0F\u5316\u8F93\u51FA\uFF0C\u5E38\u7528\u7684 %d \u5341\u8FDB\u5236\u6574\u6570\uFF0C%f \u6D6E\u70B9\u6570\uFF0C%s \u5B57\u7B26\u4E32",paraId:4,tocIndex:0},{value:`fmt.Printf("her name is %s, her age is %d,her weight is %f","jack",18,55.66)
+`,paraId:5,tocIndex:0},{value:"\u5E26\u65F6\u95F4\u6233\u7684\u6253\u5370",paraId:6,tocIndex:0},{value:`log.Print("this is log message.")
+log.Println("this is a log message with newline.")
+log.Printf("her name is %s, her age is %d,her weight is %f","jack",18,55.66)
+`,paraId:7,tocIndex:0},{value:"\u751F\u6210\u683C\u5F0F\u5316\u7684\u5B57\u7B26\u4E32\uFF0C\u4E0D\u6253\u5370",paraId:8,tocIndex:0},{value:`str := fmt.Sprintf("Hello %s!","golang")
+fmt.Println(str)
+`,paraId:9,tocIndex:0},{value:"\u8F93\u51FA\u5230\u6587\u4EF6",paraId:10,tocIndex:0},{value:`file,_ := os.Create("output.txt")
+defer file.Close()
+fmt.Fprintln(file,"hello,file")
+`,paraId:11,tocIndex:0}]},37670:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(60056);const t=[{value:`type User struct {
 	Name string
 	Age  int
 }
