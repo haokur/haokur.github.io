@@ -557,3 +557,48 @@ num的指针/地址： 0xc000676000
 *pNum： 10
 after count num is 11
 ```
+
+- type 的使用
+
+```go
+// 定义结构体
+type Person struct {
+    Name string
+    Age int
+}
+p := Person{Name:"Alice",Age:30}
+fmt.Println(p)
+
+// 定义接口
+type Speaker interface {
+    Speak() string
+}
+type Dog struct{}
+func (d Dog) Speak()string {
+    return "Woof!"
+}
+var s Speaker = Dog{}
+fmt.Println(s.Speak())
+
+// 基于基本类型创建新的类型
+type Age int
+func (a Age) isAdult() bool{
+    return a >= 18
+}
+var myAge Age = 20
+fmt.Println(myAge.isAdult())
+
+// 类型别名
+type MyString = string
+var s2 MyString = "hello go"
+fmt.Println(s2)
+
+// 函数类型
+type Adder func(int,int) int
+funcMap := map[string]Adder {
+    "add1":func (x,y int) int{
+        return x + y
+    },
+}
+fmt.Println("add1",funcMap["add1"](1,2))
+```
