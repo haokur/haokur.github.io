@@ -7,3 +7,4 @@ node_modules
 .dumi/*
 _bak/*
 docs-dist/*
+.obsidian
