@@ -1,4 +1,4 @@
-"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[1904],{23522:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(86549),r={}},65575:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(22314),r={}},2932:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(52208),r={}},91910:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(74527),r={}},53017:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(16878),r={}},13591:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(49845),r={}},70532:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(64083),r={}},39306:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(26513),r={}},44428:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(44646),r={}},74847:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(84171),r={}},829:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(74573),r={}},19142:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(76692),r={}},95523:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(37132),r={}},80877:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(63178),r={}},5835:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(55152),r={}},11684:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(5493),r={}},96624:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(81005),r={}},74867:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(92688),r={}},25180:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(74442),r={}},55743:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(32897),r={}},29753:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(94697),r={}},98481:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(25444),r={}},30373:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(99316),r={}},41769:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(79596),r={}},76544:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(54273),r={}},54651:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(30580),r={}},11295:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(60056),r={}},11171:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(68537),r={}},67715:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(43648),r={}},29874:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(73550),r={}},46926:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(4299),r={}},90702:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(94807),r={}},16867:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(90142),r={}},46983:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(22695),r={}},47537:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(99920),r={}},48516:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(79825),r={}},11414:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(72830),r={}},86698:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(33127),r={}},81206:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(61831),r={}},85229:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(86549);const t=[{value:"\u5C01\u88C5\uFF1A\u5C01\u88C5\u53D8\u5316",paraId:0,tocIndex:1},{value:"\u7EE7\u627F\uFF1A\u7EE7\u627F\u901A\u7528\u5C5E\u6027\u548C\u65B9\u6CD5",paraId:0,tocIndex:1},{value:"\u591A\u6001\uFF1A\u540C\u4E00\u4E2A\u63A5\u53E3\u65B9\u6CD5\uFF0C\u4E0D\u540C\u7684\u5B9E\u73B0\uFF0C\u9ED1\u732B\u767D\u732B\uFF0C\u80FD\u6293\u8001\u9F20\u7684\u5C31\u662F\u732B",paraId:0,tocIndex:1},{value:"\u95ED\u5305\uFF1A\u51FD\u6570\u6267\u884C\u5B8C\u5176\u76F8\u5E94\u7684\u6267\u884C\u73AF\u5883\u9700\u8981\u88AB\u91CA\u653E\uFF0C\u800C\u8FD4\u56DE\u4E86\u8BE5\u51FD\u6570\uFF0C\u51FD\u6570\u5E76\u672A\u6D88\u4EA1\uFF0C\u5176\u6267\u884C\u73AF\u5883\u4E5F\u88AB\u4E00\u8D77\u7559\u5B58\u4E86\u4E0B\u6765\uFF0C\u4E0D\u4F1A\u88AB\u5783\u573E\u56DE\u6536\u91CA\u653E",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\uFF1A\u53D8\u91CF\u67E5\u627E\u8303\u56F4\u89C4\u5219\uFF0C\u6709\u5168\u5C40\u4F5C\u7528\u57DF\uFF0C\u51FD\u6570\u4F5C\u7528\u57DF\uFF0Clet\uFF0Cconst \u5757\u7EA7\u4F5C\u7528\u57DF",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\u94FE\uFF1A\u53D8\u91CF\u7684\u7531\u6700\u8FD1\u4F5C\u7528\u57DF\u5230\u6700\u8FDC\u4F5C\u7528\u57DF\uFF08\u5168\u5C40\u4F5C\u7528\u57DF\uFF09\u7684\u53D8\u91CF\u67E5\u627E\u89C4\u5219",paraId:0,tocIndex:1},{value:"\u539F\u578B\uFF1A\u5BF9\u8C61\u4E0A\u7684 prototype \u5C5E\u6027\u5BF9\u8C61\uFF0C\u5176 constructor \u7684\u503C\u5BF9\u5E94\u4E3A\u5BF9\u8C61\u672C\u8EAB",paraId:0,tocIndex:1},{value:"\u539F\u578B\u94FE\uFF1A\u5BF9\u8C61\u5728\u67E5\u627E\u53D8\u91CF\u548C\u65B9\u6CD5\u65F6\uFF0C\u5F53\u524D\u5BF9\u8C61\u4E0A\u6CA1\u6709\uFF0C\u5219\u901A\u8FC7 __proto** \u67E5\u627E\u5230\u4E0A\u4E00\u5C42\u7684 prototype \u4E0A\uFF0C\u6CA1\u67E5\u5230\u5C31\u518D\u62FC\u4E00\u5C42 __proto** \u76F4\u5230\u67E5\u627E null \u505C\u6B62\uFF0C\u6700\u7EC8\u672A\u627E\u5230\uFF0C\u8FD4\u56DE undefined",paraId:0,tocIndex:1},{value:"\u8BBE\u8BA1\u6A21\u5F0F\u6838\u5FC3\uFF1A\u5C06\u53D8\u7684\u548C\u4E0D\u53D8\u7684\u62C6\u79BB\u5F00",paraId:0,tocIndex:1},{value:"\u5E38\u7528\u573A\u666F\uFF1A",paraId:1,tocIndex:2},{value:"\u6570\u636E\u5E93\uFF0Credis \u8FDE\u63A5\uFF0C\u521B\u5EFA\u6839\u5143\u7D20",paraId:2,tocIndex:2},{value:"\u5B9E\u73B0\uFF1A",paraId:3,tocIndex:2},{value:"\u82E5\u6CA1\u6267\u884C\u8FC7\uFF0C\u5219\u6267\u884C\u4E14\u4FDD\u5B58\u7ED3\u679C",paraId:4,tocIndex:2},{value:"\u82E5\u6267\u884C\u8FC7\uFF08\u7ED3\u679C\u7F13\u5B58\u6709\u503C\uFF09\uFF0C\u8C03\u7528\u65F6\uFF0C\u76F4\u63A5\u8FD4\u56DE\u4E0A\u6B21\u7F13\u5B58\u7684\u7ED3\u679C",paraId:4,tocIndex:2},{value:`// \u901A\u7528\u83B7\u53D6\u5355\u4F8B\uFF0C\u9AD8\u9636\u51FD\u6570+\u95ED\u5305
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[1904],{23522:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(86549),r={}},65575:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(22314),r={}},2932:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(52208),r={}},91910:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(74527),r={}},53017:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(16878),r={}},13591:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(49845),r={}},70532:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(64083),r={}},39306:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(26513),r={}},44428:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(44646),r={}},74847:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(84171),r={}},829:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(74573),r={}},19142:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(76692),r={}},36252:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(98354),r={}},95523:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(37132),r={}},80877:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(63178),r={}},5835:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(55152),r={}},50393:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(30888),r={}},11684:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(5493),r={}},95588:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(90717),r={}},96624:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(81005),r={}},74867:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(92688),r={}},25180:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(74442),r={}},55743:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(32897),r={}},29753:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(94697),r={}},98481:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(25444),r={}},30373:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(99316),r={}},41769:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(79596),r={}},76544:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(54273),r={}},54651:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(30580),r={}},11295:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(60056),r={}},11171:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(68537),r={}},67715:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(43648),r={}},29874:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(73550),r={}},46926:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(4299),r={}},90702:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(94807),r={}},16867:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(90142),r={}},46983:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(22695),r={}},47537:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(99920),r={}},48516:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(79825),r={}},11414:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(72830),r={}},86698:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(33127),r={}},81206:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(61831),r={}},85229:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(86549);const t=[{value:"\u5C01\u88C5\uFF1A\u5C01\u88C5\u53D8\u5316",paraId:0,tocIndex:1},{value:"\u7EE7\u627F\uFF1A\u7EE7\u627F\u901A\u7528\u5C5E\u6027\u548C\u65B9\u6CD5",paraId:0,tocIndex:1},{value:"\u591A\u6001\uFF1A\u540C\u4E00\u4E2A\u63A5\u53E3\u65B9\u6CD5\uFF0C\u4E0D\u540C\u7684\u5B9E\u73B0\uFF0C\u9ED1\u732B\u767D\u732B\uFF0C\u80FD\u6293\u8001\u9F20\u7684\u5C31\u662F\u732B",paraId:0,tocIndex:1},{value:"\u95ED\u5305\uFF1A\u51FD\u6570\u6267\u884C\u5B8C\u5176\u76F8\u5E94\u7684\u6267\u884C\u73AF\u5883\u9700\u8981\u88AB\u91CA\u653E\uFF0C\u800C\u8FD4\u56DE\u4E86\u8BE5\u51FD\u6570\uFF0C\u51FD\u6570\u5E76\u672A\u6D88\u4EA1\uFF0C\u5176\u6267\u884C\u73AF\u5883\u4E5F\u88AB\u4E00\u8D77\u7559\u5B58\u4E86\u4E0B\u6765\uFF0C\u4E0D\u4F1A\u88AB\u5783\u573E\u56DE\u6536\u91CA\u653E",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\uFF1A\u53D8\u91CF\u67E5\u627E\u8303\u56F4\u89C4\u5219\uFF0C\u6709\u5168\u5C40\u4F5C\u7528\u57DF\uFF0C\u51FD\u6570\u4F5C\u7528\u57DF\uFF0Clet\uFF0Cconst \u5757\u7EA7\u4F5C\u7528\u57DF",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\u94FE\uFF1A\u53D8\u91CF\u7684\u7531\u6700\u8FD1\u4F5C\u7528\u57DF\u5230\u6700\u8FDC\u4F5C\u7528\u57DF\uFF08\u5168\u5C40\u4F5C\u7528\u57DF\uFF09\u7684\u53D8\u91CF\u67E5\u627E\u89C4\u5219",paraId:0,tocIndex:1},{value:"\u539F\u578B\uFF1A\u5BF9\u8C61\u4E0A\u7684 prototype \u5C5E\u6027\u5BF9\u8C61\uFF0C\u5176 constructor \u7684\u503C\u5BF9\u5E94\u4E3A\u5BF9\u8C61\u672C\u8EAB",paraId:0,tocIndex:1},{value:"\u539F\u578B\u94FE\uFF1A\u5BF9\u8C61\u5728\u67E5\u627E\u53D8\u91CF\u548C\u65B9\u6CD5\u65F6\uFF0C\u5F53\u524D\u5BF9\u8C61\u4E0A\u6CA1\u6709\uFF0C\u5219\u901A\u8FC7 __proto** \u67E5\u627E\u5230\u4E0A\u4E00\u5C42\u7684 prototype \u4E0A\uFF0C\u6CA1\u67E5\u5230\u5C31\u518D\u62FC\u4E00\u5C42 __proto** \u76F4\u5230\u67E5\u627E null \u505C\u6B62\uFF0C\u6700\u7EC8\u672A\u627E\u5230\uFF0C\u8FD4\u56DE undefined",paraId:0,tocIndex:1},{value:"\u8BBE\u8BA1\u6A21\u5F0F\u6838\u5FC3\uFF1A\u5C06\u53D8\u7684\u548C\u4E0D\u53D8\u7684\u62C6\u79BB\u5F00",paraId:0,tocIndex:1},{value:"\u5E38\u7528\u573A\u666F\uFF1A",paraId:1,tocIndex:2},{value:"\u6570\u636E\u5E93\uFF0Credis \u8FDE\u63A5\uFF0C\u521B\u5EFA\u6839\u5143\u7D20",paraId:2,tocIndex:2},{value:"\u5B9E\u73B0\uFF1A",paraId:3,tocIndex:2},{value:"\u82E5\u6CA1\u6267\u884C\u8FC7\uFF0C\u5219\u6267\u884C\u4E14\u4FDD\u5B58\u7ED3\u679C",paraId:4,tocIndex:2},{value:"\u82E5\u6267\u884C\u8FC7\uFF08\u7ED3\u679C\u7F13\u5B58\u6709\u503C\uFF09\uFF0C\u8C03\u7528\u65F6\uFF0C\u76F4\u63A5\u8FD4\u56DE\u4E0A\u6B21\u7F13\u5B58\u7684\u7ED3\u679C",paraId:4,tocIndex:2},{value:`// \u901A\u7528\u83B7\u53D6\u5355\u4F8B\uFF0C\u9AD8\u9636\u51FD\u6570+\u95ED\u5305
 function getSingle(callback) {
   let singleInstance;
 
@@ -1183,7 +1183,112 @@ function runLoadFont() {
     applyFont(name, url, customStyle);
   });
 }
-`,paraId:1,tocIndex:1},{value:"excalidraw \u81EA\u5B9A\u4E49\u5B57\u4F53\u5B9E\u73B0",paraId:2,tocIndex:2}]},87447:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(37132);const t=[{value:"\u6587\u4EF6\u5206\u7247\u4E0A\u4F20\u4E0B\u8F7D",paraId:0,tocIndex:0},{value:"\u4F7F\u7528 indexdb \u5B58\u50A8\u5B57\u4F53\u6587\u4EF6",paraId:1,tocIndex:0},{value:"\u81EA\u5B9A\u4E49 tls \u8BC1\u4E66\u4F7F\u7528",paraId:2,tocIndex:0},{value:"docker \u7684\u4F7F\u7528",paraId:3,tocIndex:0},{value:"electron \u901A\u4FE1\u548C\u66F4\u65B0",paraId:4,tocIndex:0},{value:"excalidraw \u4E8C\u6B21\u5F00\u53D1",paraId:5,tocIndex:0},{value:"ffmpeg \u7684\u4F7F\u7528",paraId:6,tocIndex:0},{value:"Js \u5F02\u6B65\u961F\u5217\u5E76\u53D1",paraId:7,tocIndex:0},{value:"jupyter-lab \u7684\u4F7F\u7528",paraId:8,tocIndex:0},{value:"MSE \u5A92\u4F53\u6E90\u6269\u5C55",paraId:9,tocIndex:0},{value:"verdaccio \u642D\u5EFA\u79C1\u6709 npm \u4ED3\u5E93",paraId:10,tocIndex:0},{value:"webrtc",paraId:11,tocIndex:0},{value:"webp \u683C\u5F0F\u8F6C png",paraId:12,tocIndex:0}]},93614:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(63178);const t=[{value:`pip install jupyterlab
+`,paraId:1,tocIndex:1},{value:"excalidraw \u81EA\u5B9A\u4E49\u5B57\u4F53\u5B9E\u73B0",paraId:2,tocIndex:2}]},79889:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(98354);const t=[{value:`package main
+
+import (
+	"fmt"
+	"log"
+	"os"
+	"os/exec"
+	"strings"
+
+	terminal "golang.org/x/term"
+)
+
+// \u83B7\u53D6\u7528\u6237\u7684\u8DEF\u5F84
+func GetUserHomePath() string {
+	dirPath, err := os.UserHomeDir()
+	if err != nil {
+		return "~"
+	}
+	return dirPath
+}
+
+// \u83B7\u53D6\u5DE5\u4F5C\u76EE\u5F55
+func GetWorkDir() string {
+	workingDir, _ := os.Getwd()
+	return workingDir
+}
+
+// \u662F\u5426\u662F\u8981\u8C03\u7528\u7EC8\u7AEF\u7684vim
+func isCallTerminalVim(command string) bool {
+	parts := strings.Fields(command)
+	isGitCommit := false
+	isVim := false
+	if len(parts) > 1 {
+		isGitCommit = parts[0] == "git" && parts[1] == "commit"
+	} else if len(parts) > 0 {
+		isVim = strings.HasPrefix(command, "vi")
+	}
+	return isGitCommit || isVim
+}
+
+// \u8C03\u7528\u7CFB\u7EDF\u7684vim
+func callTerminalVim(command string) {
+	// \u83B7\u53D6\u5F53\u524D\u7EC8\u7AEF
+	fd := int(os.Stdin.Fd())
+
+	// \u8BBE\u7F6E\u7EC8\u7AEF\u4E3A\u539F\u59CB\u6A21\u5F0F
+	oldState, err := terminal.MakeRaw(fd)
+	if err != nil {
+		panic(err)
+	}
+	defer terminal.Restore(fd, oldState)
+
+	// \u8C03\u7528 Vim
+	parts := strings.Fields(command) // \u4F7F\u7528 Fields \u5206\u5272\u4EE5\u5904\u7406\u7A7A\u683C
+	process := parts[0]
+	args := parts[1:]
+	cmd := exec.Command(process, args...)
+	cmd.Stdin = os.Stdin
+	cmd.Stdout = os.Stdout
+	cmd.Stderr = os.Stderr
+	err = cmd.Run()
+
+	if err != nil {
+		panic(err)
+	}
+}
+
+func RunCommandWithLog(command string) error {
+	log.Println("\u6267\u884C\u547D\u4EE4\uFF1A", command)
+	// \u5982\u679C\u662F\u8981\u8C03\u7528vi\u7684\uFF0C\u5219\u9700\u8981\u989D\u5916\u5904\u7406\uFF0Cgit commit\uFF0Cvi
+	if isCallTerminalVim(command) {
+		callTerminalVim(command)
+		return nil
+	}
+	// \u5982\u679C\u662F\u8C03\u7528cd\u547D\u4EE4\uFF0C\u4F7F\u7528Chdir\u8FDB\u5165\u76EE\u5F55
+	if strings.HasPrefix(command, "cd") {
+		parts := strings.Fields(command)
+		if len(parts) > 1 {
+			targetDir := parts[1]
+			if strings.Contains(targetDir, "~") {
+				homeDir := GetUserHomePath()
+				targetDir = strings.ReplaceAll(targetDir, "~", homeDir)
+			}
+			if err := os.Chdir(targetDir); err != nil {
+				fmt.Printf("\u5207\u6362\u5230\u76EE\u5F55 %s \u5931\u8D25: %v\\n", targetDir, err)
+			}
+		}
+		return nil
+	}
+	cmd := exec.Command("bash", "-c", command) // \u4F7F\u7528 bash \u8FD0\u884C\u547D\u4EE4
+	cmd.Stdout = os.Stdout
+	cmd.Stderr = os.Stderr
+	err := cmd.Run()
+	if err != nil {
+		return err
+	}
+	return nil
+}
+
+func main() {
+    // \u5148\u8FDB\u5165~\u76EE\u5F55\uFF0C\u518D\u6267\u884Cls\uFF0C\u6253\u5370\u7684\u662F~\u76EE\u5F55\u4E0B\u7684\u6587\u4EF6\u5217\u8868
+	RunCommandWithLog("cd ~")
+	RunCommandWithLog("ls")
+	RunCommandWithLog("screencapture ~/Desktop/screenshot_from_go.jpg")
+}
+`,paraId:0,tocIndex:0}]},87447:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(37132);const t=[{value:"\u6587\u4EF6\u5206\u7247\u4E0A\u4F20\u4E0B\u8F7D",paraId:0,tocIndex:0},{value:"\u4F7F\u7528 indexdb \u5B58\u50A8\u5B57\u4F53\u6587\u4EF6",paraId:1,tocIndex:0},{value:"\u81EA\u5B9A\u4E49 tls \u8BC1\u4E66\u4F7F\u7528",paraId:2,tocIndex:0},{value:"docker \u7684\u4F7F\u7528",paraId:3,tocIndex:0},{value:"electron \u901A\u4FE1\u548C\u66F4\u65B0",paraId:4,tocIndex:0},{value:"excalidraw \u4E8C\u6B21\u5F00\u53D1",paraId:5,tocIndex:0},{value:"ffmpeg \u7684\u4F7F\u7528",paraId:6,tocIndex:0},{value:"Js \u5F02\u6B65\u961F\u5217\u5E76\u53D1",paraId:7,tocIndex:0},{value:"jupyter-lab \u7684\u4F7F\u7528",paraId:8,tocIndex:0},{value:"MSE \u5A92\u4F53\u6E90\u6269\u5C55",paraId:9,tocIndex:0},{value:"verdaccio \u642D\u5EFA\u79C1\u6709 npm \u4ED3\u5E93",paraId:10,tocIndex:0},{value:"webrtc",paraId:11,tocIndex:0},{value:"webp \u683C\u5F0F\u8F6C png",paraId:12,tocIndex:0},{value:"playwright \u4F7F\u7528",paraId:13,tocIndex:0}]},93614:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(63178);const t=[{value:`pip install jupyterlab
 `,paraId:0,tocIndex:2},{value:`jupyter notebook --generate-config
 
 # \u6253\u5F00\u7F16\u8F91
@@ -1397,9 +1502,118 @@ pm2 start 'jupyter lab --no-browser --allow-root' --name jupyter-notes
 -f mp4: \u6307\u5B9A\u8F93\u51FA\u683C\u5F0F\u4E3A MP4\u3002
 
 output_dash.mp4: \u8F93\u51FA\u7684 MP4 \u6587\u4EF6\u540D\u3002
-`,paraId:9,tocIndex:4},{value:"\u5206\u7247\u7684 start \u662F 0 \u5F00\u59CB\u7684\uFF0C\u6587\u4EF6\u7684 size \u5927\u5C0F\u662F\u4ECE 1 \u5F00\u59CB\u7684\uFF0C\u6240\u4EE5\u5206\u7247\u7684 end \u7684\u6700\u5927\u503C\uFF0C\u5E94\u8BE5\u662F fileSize-1\uFF1B\u5206\u7247\u7684 start \u662F 0\uFF0Cend \u5219\u662F 1024*1024-1=1048575",paraId:10,tocIndex:5},{value:"\u968F\u610F\u6253\u4E71\u987A\u5E8F\u52A0\u8F7D\u548C\u63D2\u5165 buffer \u6570\u636E\uFF0C\u5E76\u4E0D\u80FD\u5B9E\u73B0\u64AD\u653E",paraId:10,tocIndex:5},{value:"\u5728\u5206\u7247\u5168\u90E8\u52A0\u8F7D\u5B8C\u6BD5\u540E\uFF0C\u9700\u8981\u4F7F\u7528 end \u6765\u89E6\u53D1 endOfStream \u7684\u6267\u884C\uFF0C\u624D\u4F1A\u6B63\u5E38\u663E\u793A\u89C6\u9891\u65F6\u95F4\uFF0C\u548C\u64AD\u653E\u5B8C\u6BD5\u4E4B\u540E\u4E0D\u4F1A\u8FD8\u6709\u4E00\u4E2A\u52A0\u8F7D\u63D0\u793A\u5668",paraId:10,tocIndex:5},{value:"MDN MSE API \u89E3\u6790",paraId:11,tocIndex:6},{value:"\u8D44\u6E90\u8F6C\u7801\u4EE5\u652F\u6301 MSE",paraId:11,tocIndex:6}]},53218:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(5493);const t=[{value:"\u4EE5 python \u4F7F\u7528\u4E3A\u4F8B",paraId:0,tocIndex:0},{value:`pip install playwright
+`,paraId:9,tocIndex:4},{value:"\u5206\u7247\u7684 start \u662F 0 \u5F00\u59CB\u7684\uFF0C\u6587\u4EF6\u7684 size \u5927\u5C0F\u662F\u4ECE 1 \u5F00\u59CB\u7684\uFF0C\u6240\u4EE5\u5206\u7247\u7684 end \u7684\u6700\u5927\u503C\uFF0C\u5E94\u8BE5\u662F fileSize-1\uFF1B\u5206\u7247\u7684 start \u662F 0\uFF0Cend \u5219\u662F 1024*1024-1=1048575",paraId:10,tocIndex:5},{value:"\u968F\u610F\u6253\u4E71\u987A\u5E8F\u52A0\u8F7D\u548C\u63D2\u5165 buffer \u6570\u636E\uFF0C\u5E76\u4E0D\u80FD\u5B9E\u73B0\u64AD\u653E",paraId:10,tocIndex:5},{value:"\u5728\u5206\u7247\u5168\u90E8\u52A0\u8F7D\u5B8C\u6BD5\u540E\uFF0C\u9700\u8981\u4F7F\u7528 end \u6765\u89E6\u53D1 endOfStream \u7684\u6267\u884C\uFF0C\u624D\u4F1A\u6B63\u5E38\u663E\u793A\u89C6\u9891\u65F6\u95F4\uFF0C\u548C\u64AD\u653E\u5B8C\u6BD5\u4E4B\u540E\u4E0D\u4F1A\u8FD8\u6709\u4E00\u4E2A\u52A0\u8F7D\u63D0\u793A\u5668",paraId:10,tocIndex:5},{value:"MDN MSE API \u89E3\u6790",paraId:11,tocIndex:6},{value:"\u8D44\u6E90\u8F6C\u7801\u4EE5\u652F\u6301 MSE",paraId:11,tocIndex:6}]},22859:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(30888);const t=[]},53218:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(5493);const t=[{value:"\u4EE5 python \u4F7F\u7528\u4E3A\u4F8B",paraId:0,tocIndex:0},{value:"\u6E90\u7801 DEMO\uFF1A",paraId:1,tocIndex:1},{value:"haokur/python-test/playwright-test.py",paraId:1,tocIndex:1},{value:"python \u7A0B\u5E8F\u4E0B\u8F7D\u5730\u5740",paraId:2,tocIndex:2},{value:"mac \u4E0A\u5B89\u88C5\u65F6,\u9ED8\u8BA4\u76EE\u5F55\u5728\uFF1A",paraId:2,tocIndex:2},{value:"/Library/Frameworks/Python.framework/Versions/",paraId:2,tocIndex:2},{value:"\uFF08\u53EF\u4EE5\u4F7F\u7528 ",paraId:2,tocIndex:2},{value:"which python",paraId:2,tocIndex:2},{value:" \u67E5\u770B\u5B89\u88C5\u4F4D\u7F6E\uFF09,\u53EF\u80FD\u4E0D\u5B58\u5728 pip \u548C python\uFF0C\u4F46\u5B58\u5728 pip3 \u548C python3\uFF0C\u5219\u4F7F\u7528 cp \u7684\u65B9\u5F0F\u590D\u5236\u7C98\u8D34\u51FA pip \u548C python",paraId:2,tocIndex:2},{value:`pip install playwright
 playwright install
-`,paraId:1,tocIndex:1}]},53350:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(81005);const t=[{value:"\u6E90\u7801\u5B9E\u73B0\uFF08koa\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"koa-server/src/controllers/file.controller.ts",paraId:0,tocIndex:1},{value:"\u6E90\u7801\u5B9E\u73B0\uFF08Vue3\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"client/pages/upload/upload.vue",paraId:0,tocIndex:1},{value:"\u5728\u7EBF DEMO\uFF1A",paraId:0,tocIndex:1},{value:"Vue3-client ",paraId:0,tocIndex:1},{value:"Vue3-client (haokur.github.io)",paraId:1,tocIndex:1},{value:"\u524D\u7AEF slice \u5207\u5272\uFF0C\u670D\u52A1\u7AEF\u5408\u5E76",paraId:2,tocIndex:2},{value:"\u6838\u5FC3\u5728\u4E8E\u524D\u7AEF\uFF0C\u544A\u8BC9\u540E\u7AEF\u5F53\u524D\u662F\u54EA\u4E00\u6BB5\uFF0C\u4EE5\u53CA\u8FD9\u4E00\u6BB5\u7684\u6570\u636E",paraId:3,tocIndex:2},{value:"Html \u4E2D\u6DFB\u52A0 input \u4E3A file \u7684\u63A7\u4EF6",paraId:4,tocIndex:2},{value:`<input type="file" @change="handleFileChange" />
+`,paraId:3,tocIndex:3},{value:"python \u7A0B\u5E8F\u6253\u5F00\u4E00\u4E2A\u7F51\u9875\uFF0C\u6301\u7EED\u8BFB\u53D6 cookie \u503C\uFF0C\u76D1\u542C\u7F51\u9875\u5173\u95ED\uFF0C\u6267\u884C\u540E\u7EED\u64CD\u4F5C",paraId:4,tocIndex:5},{value:`from playwright.async_api import async_playwright
+import asyncio
+
+cookies = []
+async def main():
+    # \u542F\u52A8 Playwright
+    async with async_playwright() as p:
+        # \u542F\u52A8\u6D4F\u89C8\u5668\uFF08\u975E\u65E0\u5934\u6A21\u5F0F\uFF09
+        browser = await p.chromium.launch(headless=False)
+        context = await browser.new_context()
+
+        # \u6253\u5F00\u4E00\u4E2A\u6807\u7B7E\u9875
+        page = await context.new_page()
+        await page.goto("https://baidu.com")
+
+        # \u5B9A\u4E49\u9875\u9762\u5173\u95ED\u7684\u4E8B\u4EF6\u5904\u7406\u51FD\u6570
+        future = asyncio.get_running_loop().create_future()
+
+        # \u7528\u4E8E\u63A7\u5236\u8F6E\u8BE2\u7684\u6807\u5FD7\u4F4D
+        stop_polling = False
+
+        # \u5B9A\u4E49\u8F6E\u8BE2\u83B7\u53D6 Cookie \u7684\u4EFB\u52A1
+        async def poll_cookies():
+            global cookies
+            while not stop_polling:
+                cookies = await context.cookies()
+                await asyncio.sleep(1)  # \u6BCF\u79D2\u8F6E\u8BE2\u4E00\u6B21
+
+        asyncio.create_task(poll_cookies())
+
+        async def on_page_close():
+            await browser.close()  # \u5173\u95ED\u6D4F\u89C8\u5668
+            print("\u76D1\u542C\u5230\u9875\u9762\u5173\u95ED\uFF0C\u83B7\u53D6\u5230\u7684Cookie\u662F:", cookies)
+            future.set_result(None)  # \u5B8C\u6210 Future\uFF0C\u5141\u8BB8\u7A0B\u5E8F\u9000\u51FA
+
+        # \u6CE8\u518C\u5173\u95ED\u4E8B\u4EF6\u76D1\u542C\u5668
+        page.on("close", lambda: asyncio.create_task(on_page_close()))
+
+        # \u7B49\u5F85\u9875\u9762\u5173\u95ED\u4E8B\u4EF6\u5B8C\u6210
+        await future
+
+# \u8FD0\u884C\u5F02\u6B65\u4E3B\u51FD\u6570
+asyncio.run(main())
+`,paraId:5,tocIndex:5}]},38722:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(90717);const t=[{value:"python \u5728 vscode \u4E2D\u683C\u5F0F\u5316\u53EF\u4EE5\u5B89\u88C5 ",paraId:0,tocIndex:0},{value:"Black Formatter",paraId:0,tocIndex:0},{value:"\u63D2\u4EF6",paraId:0,tocIndex:0},{value:`def run_main():
+    input("\u6309\u4EFB\u610F\u952E\u76D8\u9000\u51FA~")
+
+try:
+    run_main()
+except KeyboardInterrupt:
+    print("\u7A0B\u5E8F\u88AB\u7528\u6237\u624B\u52A8\u4E2D\u65AD")
+finally:
+    print("\u7A0B\u5E8F\u7ED3\u675F\u7EDF\u4E00\u5904\u7406")
+`,paraId:1,tocIndex:2},{value:`import signal
+import sys
+
+def handle_exit(signum,frame):
+    print("\\n\u6536\u5230\u4FE1\u53F7{}\uFF0C\u7A0B\u5E8F\u9000\u51FA...".format(signum))
+    sys.exit(0)
+
+signal.signal(signal.SIGINT, handle_exit)  # \u6355\u83B7 Ctrl+C
+signal.signal(signal.SIGTERM, handle_exit)  # \u6355\u83B7\u7EC8\u6B62\u4FE1\u53F7
+
+input("\u4F7F\u7528ctrl+C\u9000\u51FA\u7A0B\u5E8F!\\n")
+`,paraId:2,tocIndex:3},{value:"\u6CE8\u610F\uFF0C\u5728\u6355\u83B7\u4E86 ",paraId:3,tocIndex:3},{value:"signal",paraId:3,tocIndex:3},{value:"\uFF0C\u9700\u8981\u518D\u5904\u7406\u51FD\u6570 ",paraId:3,tocIndex:3},{value:"handle_exit",paraId:3,tocIndex:3},{value:" \u4E2D\u4E3B\u52A8\u8C03\u7528",paraId:3,tocIndex:3},{value:"sys.exit",paraId:3,tocIndex:3},{value:"\uFF0C\u5426\u5219\u4E0D\u4F1A\u9000\u51FA",paraId:3,tocIndex:3},{value:`
+\u5728\u7ED1\u5B9A\u7684\u65B9\u6CD5 `,paraId:3,tocIndex:3},{value:"handle_exit",paraId:3,tocIndex:3},{value:"\u91CC\u7684\u4F20\u5165\u7684\u53C2\u6570\u4E3A\u4E24\u4E2A\u53C2\u6570\uFF0C\u4E0D\u80FD\u7701\u6389\u7B2C\u4E8C\u4E2A\u53C2\u6570 ",paraId:3,tocIndex:3},{value:"frame",paraId:3,tocIndex:3},{value:" > ",paraId:3,tocIndex:3},{value:"handle_exit",paraId:3,tocIndex:3},{value:" \u7684\u5B9A\u4E49\u548C\u7ED1\u5B9A\u9700\u8981\u5728\u8FD0\u884C\u7684\u547D\u4EE4\u4E4B\u524D",paraId:3,tocIndex:3},{value:`import subprocess
+
+command = "ls"
+try:
+    subprocess.run(command, shell=True)
+except Exception as e:
+    print(f"\u6267\u884C\u547D\u4EE4\u65F6\u51FA\u9519: {e}")
+`,paraId:4,tocIndex:5},{value:"\u5C06\u8F93\u51FA\u6355\u83B7\uFF0C\u624B\u52A8\u5904\u7406\u6216\u8F93\u51FA\uFF0C\u5982\u4E0B\uFF1A",paraId:5,tocIndex:5},{value:"\u4E3B\u8981\u662F\u6DFB\u52A0\u4E00\u4E2A ",paraId:6,tocIndex:5},{value:"capture_output=True",paraId:6,tocIndex:5},{value:`import subprocess
+
+# \u6267\u884C\u7CFB\u7EDF\u547D\u4EE4
+command = "ls"
+try:
+    result = subprocess.run(command, shell=True, capture_output=True, text=True)
+    if result.stderr:
+        print("\u9519\u8BEF\u8F93\u51FA:")
+        print(result.stderr)
+    else:
+        print("\u547D\u4EE4\u8F93\u51FA:")
+        print(result.stdout)
+except Exception as e:
+    print(f"\u6267\u884C\u547D\u4EE4\u65F6\u51FA\u9519: {e}")
+`,paraId:7,tocIndex:5},{value:`import os
+import platform
+
+system_name = platform.system()
+is_windows_system = system_name == "Windows"
+is_mac_system = system_name == "Darwin"
+is_linux_system = system_name == "Linux"
+
+def run_cmd_by_new_windows(cmd):
+    if is_windows_system:
+        print("\u6253\u5F00\u65B0\u7A97\u53E3\u8FD0\u884C\u547D\u4EE4,\u5F85\u8865\u5145")
+    elif is_mac_system:
+        # AppleScript \u547D\u4EE4
+        script = f"""
+        tell application "Terminal"
+            activate
+            do script "{cmd}"
+        end tell
+        """
+        os.system(f"osascript -e '{script}'")
+    else:
+        print("\u5176\u4ED6\u7CFB\u7EDF")
+
+run_cmd_by_new_windows("ls")
+`,paraId:8,tocIndex:6}]},53350:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(81005);const t=[{value:"\u6E90\u7801\u5B9E\u73B0\uFF08koa\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"koa-server/src/controllers/file.controller.ts",paraId:0,tocIndex:1},{value:"\u6E90\u7801\u5B9E\u73B0\uFF08Vue3\uFF09\uFF1A",paraId:0,tocIndex:1},{value:"client/pages/upload/upload.vue",paraId:0,tocIndex:1},{value:"\u5728\u7EBF DEMO\uFF1A",paraId:0,tocIndex:1},{value:"Vue3-client ",paraId:0,tocIndex:1},{value:"Vue3-client (haokur.github.io)",paraId:1,tocIndex:1},{value:"\u524D\u7AEF slice \u5207\u5272\uFF0C\u670D\u52A1\u7AEF\u5408\u5E76",paraId:2,tocIndex:2},{value:"\u6838\u5FC3\u5728\u4E8E\u524D\u7AEF\uFF0C\u544A\u8BC9\u540E\u7AEF\u5F53\u524D\u662F\u54EA\u4E00\u6BB5\uFF0C\u4EE5\u53CA\u8FD9\u4E00\u6BB5\u7684\u6570\u636E",paraId:3,tocIndex:2},{value:"Html \u4E2D\u6DFB\u52A0 input \u4E3A file \u7684\u63A7\u4EF6",paraId:4,tocIndex:2},{value:`<input type="file" @change="handleFileChange" />
 `,paraId:5,tocIndex:2},{value:"js \u4E2D\u6DFB\u52A0\u5BF9 input \u7684 file \u53D8\u5316\u7684\u54CD\u5E94",paraId:6,tocIndex:2},{value:`const chunkSize = 1 * 1024 * 1024;
 
 const chunkStatus = [];
