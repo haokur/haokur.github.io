@@ -12,4 +12,5 @@
 - [MSE 媒体源扩展](/business/media-source)
 - [verdaccio 搭建私有 npm 仓库](/business/verdaccio-npm)
 - [webrtc](/business/webrtc)
-- [webp 格式转 png](/business/webp2png.md)
+- [webp 格式转 png](/business/webp2png)
+- [playwright 使用](/business/playwright)
