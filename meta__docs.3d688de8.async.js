@@ -1502,7 +1502,100 @@ pm2 start 'jupyter lab --no-browser --allow-root' --name jupyter-notes
 -f mp4: \u6307\u5B9A\u8F93\u51FA\u683C\u5F0F\u4E3A MP4\u3002
 
 output_dash.mp4: \u8F93\u51FA\u7684 MP4 \u6587\u4EF6\u540D\u3002
-`,paraId:9,tocIndex:4},{value:"\u5206\u7247\u7684 start \u662F 0 \u5F00\u59CB\u7684\uFF0C\u6587\u4EF6\u7684 size \u5927\u5C0F\u662F\u4ECE 1 \u5F00\u59CB\u7684\uFF0C\u6240\u4EE5\u5206\u7247\u7684 end \u7684\u6700\u5927\u503C\uFF0C\u5E94\u8BE5\u662F fileSize-1\uFF1B\u5206\u7247\u7684 start \u662F 0\uFF0Cend \u5219\u662F 1024*1024-1=1048575",paraId:10,tocIndex:5},{value:"\u968F\u610F\u6253\u4E71\u987A\u5E8F\u52A0\u8F7D\u548C\u63D2\u5165 buffer \u6570\u636E\uFF0C\u5E76\u4E0D\u80FD\u5B9E\u73B0\u64AD\u653E",paraId:10,tocIndex:5},{value:"\u5728\u5206\u7247\u5168\u90E8\u52A0\u8F7D\u5B8C\u6BD5\u540E\uFF0C\u9700\u8981\u4F7F\u7528 end \u6765\u89E6\u53D1 endOfStream \u7684\u6267\u884C\uFF0C\u624D\u4F1A\u6B63\u5E38\u663E\u793A\u89C6\u9891\u65F6\u95F4\uFF0C\u548C\u64AD\u653E\u5B8C\u6BD5\u4E4B\u540E\u4E0D\u4F1A\u8FD8\u6709\u4E00\u4E2A\u52A0\u8F7D\u63D0\u793A\u5668",paraId:10,tocIndex:5},{value:"MDN MSE API \u89E3\u6790",paraId:11,tocIndex:6},{value:"\u8D44\u6E90\u8F6C\u7801\u4EE5\u652F\u6301 MSE",paraId:11,tocIndex:6}]},22859:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(30888);const t=[]},53218:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(5493);const t=[{value:"\u4EE5 python \u4F7F\u7528\u4E3A\u4F8B",paraId:0,tocIndex:0},{value:"\u6E90\u7801 DEMO\uFF1A",paraId:1,tocIndex:1},{value:"haokur/python-test/playwright-test.py",paraId:1,tocIndex:1},{value:"python \u7A0B\u5E8F\u4E0B\u8F7D\u5730\u5740",paraId:2,tocIndex:2},{value:"mac \u4E0A\u5B89\u88C5\u65F6,\u9ED8\u8BA4\u76EE\u5F55\u5728\uFF1A",paraId:2,tocIndex:2},{value:"/Library/Frameworks/Python.framework/Versions/",paraId:2,tocIndex:2},{value:"\uFF08\u53EF\u4EE5\u4F7F\u7528 ",paraId:2,tocIndex:2},{value:"which python",paraId:2,tocIndex:2},{value:" \u67E5\u770B\u5B89\u88C5\u4F4D\u7F6E\uFF09,\u53EF\u80FD\u4E0D\u5B58\u5728 pip \u548C python\uFF0C\u4F46\u5B58\u5728 pip3 \u548C python3\uFF0C\u5219\u4F7F\u7528 cp \u7684\u65B9\u5F0F\u590D\u5236\u7C98\u8D34\u51FA pip \u548C python",paraId:2,tocIndex:2},{value:`pip install playwright
+`,paraId:9,tocIndex:4},{value:"\u5206\u7247\u7684 start \u662F 0 \u5F00\u59CB\u7684\uFF0C\u6587\u4EF6\u7684 size \u5927\u5C0F\u662F\u4ECE 1 \u5F00\u59CB\u7684\uFF0C\u6240\u4EE5\u5206\u7247\u7684 end \u7684\u6700\u5927\u503C\uFF0C\u5E94\u8BE5\u662F fileSize-1\uFF1B\u5206\u7247\u7684 start \u662F 0\uFF0Cend \u5219\u662F 1024*1024-1=1048575",paraId:10,tocIndex:5},{value:"\u968F\u610F\u6253\u4E71\u987A\u5E8F\u52A0\u8F7D\u548C\u63D2\u5165 buffer \u6570\u636E\uFF0C\u5E76\u4E0D\u80FD\u5B9E\u73B0\u64AD\u653E",paraId:10,tocIndex:5},{value:"\u5728\u5206\u7247\u5168\u90E8\u52A0\u8F7D\u5B8C\u6BD5\u540E\uFF0C\u9700\u8981\u4F7F\u7528 end \u6765\u89E6\u53D1 endOfStream \u7684\u6267\u884C\uFF0C\u624D\u4F1A\u6B63\u5E38\u663E\u793A\u89C6\u9891\u65F6\u95F4\uFF0C\u548C\u64AD\u653E\u5B8C\u6BD5\u4E4B\u540E\u4E0D\u4F1A\u8FD8\u6709\u4E00\u4E2A\u52A0\u8F7D\u63D0\u793A\u5668",paraId:10,tocIndex:5},{value:"MDN MSE API \u89E3\u6790",paraId:11,tocIndex:6},{value:"\u8D44\u6E90\u8F6C\u7801\u4EE5\u652F\u6301 MSE",paraId:11,tocIndex:6}]},22859:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(30888);const t=[{value:`const { spawn } = require('child_process');
+const child = spawn('ping', ['baidu.com']);
+
+child.stdout.on('data', (data) => {
+  console.log(\`\u6807\u51C6\u8F93\u51FA: \${data}\`);
+});
+
+child.stderr.on('data', (data) => {
+  console.error(\`\u6807\u51C6\u9519\u8BEF: \${data}\`);
+});
+
+child.on('close', (code) => {
+  console.log(\`\u5B50\u8FDB\u7A0B\u9000\u51FA\uFF0C\u9000\u51FA\u7801 \${code}\`);
+});
+`,paraId:0,tocIndex:2},{value:"\u65B9\u6CD5 1.\u5728\u8FDB\u5165\u4E00\u4E2A\u76EE\u5F55\u540E\u6267\u884C\u547D\u4EE4",paraId:1,tocIndex:2},{value:`const child = spawn('ls', ['-l'], {
+  cwd: '/path/to/directory',
+});
+`,paraId:2,tocIndex:2},{value:"\u65B9\u6CD5 2.\u4F7F\u7528 sh \u548C cd \u53CA && \u7684\u65B9\u5F0F",paraId:3,tocIndex:2},{value:`const child = spawn('sh', ['-c', 'cd /path/to/directory && ls -l'], {
+  shell: true,
+});
+`,paraId:4,tocIndex:2},{value:"shell: true \u9009\u9879\uFF08\u8BA9 spawn \u4E5F\u80FD\u6267\u884C Shell \u547D\u4EE4\uFF09",paraId:5,tocIndex:2},{value:`const { exec } = require('child_process');
+
+exec('ls -l', { cwd: '/path/to/directory' }, (error, stdout, stderr) => {
+  if (error) {
+    console.error(\`\u6267\u884C\u9519\u8BEF: \${error.message}\`);
+    return;
+  }
+  console.log(\`\u6807\u51C6\u8F93\u51FA:\\n\${stdout}\`);
+});
+`,paraId:6,tocIndex:3},{value:"\u4F7F\u7528 cd \u7684\u65B9\u5F0F\u8FDB\u5165\u76EE\u5F55\u6267\u884C",paraId:7,tocIndex:3},{value:`const { exec } = require('child_process');
+
+exec('cd /path/to/directory && ls -l', (error, stdout, stderr) => {
+  if (error) {
+    console.error(\`\u6267\u884C\u9519\u8BEF: \${error.message}\`);
+    return;
+  }
+  console.log(\`\u6807\u51C6\u8F93\u51FA:\\n\${stdout}\`);
+});
+`,paraId:8,tocIndex:3},{value:"cd \u8FDB\u5165\u7684\u76EE\u5F55\uFF0C\u4E0D\u4F1A\u4FDD\u7559\u5728 cd \u5230\u7684\u76EE\u5F55\uFF0C\u4E0B\u6B21 exec \u8FD8\u4F1A\u5728\u8FD0\u884C\u7684\u76EE\u5F55",paraId:9,tocIndex:3},{value:`const { execFile } = require('child_process');
+
+execFile('/bin/ls', ['-l'], { cwd: '/' }, (error, stdout, stderr) => {
+  if (error) {
+    console.error(\`\u6267\u884C\u9519\u8BEF: \${error.message}\`);
+    return;
+  }
+  console.log(\`\u6807\u51C6\u8F93\u51FA:\\n\${stdout}\`);
+});
+`,paraId:10,tocIndex:4},{value:"\u9002\u5408\u8FD0\u884C\u4E8C\u8FDB\u5236\u6587\u4EF6\u6216 Shell \u811A\u672C",paraId:11,tocIndex:4},{value:`const inquirer = require('inquirer');
+
+/**
+ * type: list\u5355\u9009\uFF0Ccheckbox\u591A\u9009\uFF0Cinput\u7528\u6237\u8F93\u5165
+ * config: [{message:\u63D0\u793A\u6807\u9898,name:\u8868\u5355\u7684name,choices:\u53EF\u4F9B\u9009\u62E9\u7684\u9879}]
+ */
+function askByCmd(type, config) {
+  if (!['list', 'checkbox', 'input'].includes(type)) {
+    console.error('\u4EC5\u652F\u6301\u7684type\u7684\u503C\u4E3A\uFF1A', 'list,checkbox,input');
+    return;
+  }
+  config = Array.isArray(config) ? config : [config];
+  const options = config.map((item) => {
+    const { message, name, choices = [], required = true } = item;
+    if (type === 'input') {
+      return { type, message, name, default: choices[0], required };
+    } else {
+      return { type, message, name, choices, required };
+    }
+  });
+  return inquirer.prompt(options);
+}
+
+async function run() {
+  const radioValue = await askByCmd('list', [
+    {
+      message: '\u9009\u62E9\u4E00\u4E2A\u9009\u9879',
+      name: 'radioValue',
+      choices: ['\u9009\u9879A', '\u9009\u9879B'],
+    },
+  ]);
+  const checkboxValue = await askByCmd('checkbox', [
+    {
+      message: '\u9009\u62E9\u4E00\u4E2A\u6216\u591A\u4E2A\u9009\u9879',
+      name: 'checkboxValue',
+      choices: ['\u9009\u9879A', '\u9009\u9879B'],
+    },
+  ]);
+  const inputValue = await askByCmd('input', [
+    { message: '\u8BF7\u8F93\u5165\u9879\u76EE\u540D', name: 'inputValue', choices: ['my-project'] },
+  ]);
+
+  console.log(radioValue, checkboxValue, inputValue, 'index.js::161\u884C');
+}
+
+run();
+`,paraId:12,tocIndex:5}]},53218:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(5493);const t=[{value:"\u4EE5 python \u4F7F\u7528\u4E3A\u4F8B",paraId:0,tocIndex:0},{value:"\u6E90\u7801 DEMO\uFF1A",paraId:1,tocIndex:1},{value:"haokur/python-test/playwright-test.py",paraId:1,tocIndex:1},{value:"python \u7A0B\u5E8F\u4E0B\u8F7D\u5730\u5740",paraId:2,tocIndex:2},{value:"mac \u4E0A\u5B89\u88C5\u65F6,\u9ED8\u8BA4\u76EE\u5F55\u5728\uFF1A",paraId:2,tocIndex:2},{value:"/Library/Frameworks/Python.framework/Versions/",paraId:2,tocIndex:2},{value:"\uFF08\u53EF\u4EE5\u4F7F\u7528 ",paraId:2,tocIndex:2},{value:"which python",paraId:2,tocIndex:2},{value:" \u67E5\u770B\u5B89\u88C5\u4F4D\u7F6E\uFF09,\u53EF\u80FD\u4E0D\u5B58\u5728 pip \u548C python\uFF0C\u4F46\u5B58\u5728 pip3 \u548C python3\uFF0C\u5219\u4F7F\u7528 cp \u7684\u65B9\u5F0F\u590D\u5236\u7C98\u8D34\u51FA pip \u548C python",paraId:2,tocIndex:2},{value:`pip install playwright
 playwright install
 `,paraId:3,tocIndex:3},{value:"python \u7A0B\u5E8F\u6253\u5F00\u4E00\u4E2A\u7F51\u9875\uFF0C\u6301\u7EED\u8BFB\u53D6 cookie \u503C\uFF0C\u76D1\u542C\u7F51\u9875\u5173\u95ED\uFF0C\u6267\u884C\u540E\u7EED\u64CD\u4F5C",paraId:4,tocIndex:5},{value:`from playwright.async_api import async_playwright
 import asyncio
