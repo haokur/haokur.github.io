@@ -6,6 +6,8 @@ group: Vue3
 
 ### 使用 vite-plugin-inspect
 
+> 可查看编译后的内容
+
 ```sh
 npm install vite-plugin-inspect --save-dev
 ```
