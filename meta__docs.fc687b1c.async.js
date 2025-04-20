@@ -1,4 +1,4 @@
-"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[1904],{23522:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(86549),r={}},2733:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(39458),r={}},30799:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(31578),r={}},65575:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(22314),r={}},2932:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(52208),r={}},91910:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(74527),r={}},53017:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(16878),r={}},13591:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(49845),r={}},70532:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(64083),r={}},39306:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(26513),r={}},44428:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(44646),r={}},74847:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(84171),r={}},829:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(74573),r={}},19142:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(76692),r={}},36252:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(98354),r={}},95523:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(37132),r={}},80877:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(63178),r={}},5835:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(55152),r={}},50393:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(30888),r={}},11684:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(5493),r={}},95588:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(90717),r={}},96624:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(81005),r={}},74867:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(92688),r={}},25180:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(74442),r={}},55743:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(32897),r={}},29753:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(94697),r={}},98481:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(25444),r={}},30373:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(99316),r={}},41769:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(79596),r={}},76544:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(54273),r={}},54651:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(30580),r={}},11295:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(60056),r={}},11171:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(68537),r={}},67715:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(43648),r={}},29874:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(73550),r={}},46926:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(4299),r={}},90702:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(94807),r={}},16867:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(90142),r={}},46983:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(22695),r={}},47537:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(99920),r={}},48516:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(79825),r={}},2182:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(87666),r={}},83054:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(29929),r={}},93780:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(89404),r={}},11414:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(72830),r={}},43306:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(96002),r={}},86698:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(33127),r={}},76712:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(67251),r={}},85229:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(86549);const a=[{value:"\u5C01\u88C5\uFF1A\u5C01\u88C5\u53D8\u5316",paraId:0,tocIndex:1},{value:"\u7EE7\u627F\uFF1A\u7EE7\u627F\u901A\u7528\u5C5E\u6027\u548C\u65B9\u6CD5",paraId:0,tocIndex:1},{value:"\u591A\u6001\uFF1A\u540C\u4E00\u4E2A\u63A5\u53E3\u65B9\u6CD5\uFF0C\u4E0D\u540C\u7684\u5B9E\u73B0\uFF0C\u9ED1\u732B\u767D\u732B\uFF0C\u80FD\u6293\u8001\u9F20\u7684\u5C31\u662F\u732B",paraId:0,tocIndex:1},{value:"\u95ED\u5305\uFF1A\u51FD\u6570\u6267\u884C\u5B8C\u5176\u76F8\u5E94\u7684\u6267\u884C\u73AF\u5883\u9700\u8981\u88AB\u91CA\u653E\uFF0C\u800C\u8FD4\u56DE\u4E86\u8BE5\u51FD\u6570\uFF0C\u51FD\u6570\u5E76\u672A\u6D88\u4EA1\uFF0C\u5176\u6267\u884C\u73AF\u5883\u4E5F\u88AB\u4E00\u8D77\u7559\u5B58\u4E86\u4E0B\u6765\uFF0C\u4E0D\u4F1A\u88AB\u5783\u573E\u56DE\u6536\u91CA\u653E",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\uFF1A\u53D8\u91CF\u67E5\u627E\u8303\u56F4\u89C4\u5219\uFF0C\u6709\u5168\u5C40\u4F5C\u7528\u57DF\uFF0C\u51FD\u6570\u4F5C\u7528\u57DF\uFF0Clet\uFF0Cconst \u5757\u7EA7\u4F5C\u7528\u57DF",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\u94FE\uFF1A\u53D8\u91CF\u7684\u7531\u6700\u8FD1\u4F5C\u7528\u57DF\u5230\u6700\u8FDC\u4F5C\u7528\u57DF\uFF08\u5168\u5C40\u4F5C\u7528\u57DF\uFF09\u7684\u53D8\u91CF\u67E5\u627E\u89C4\u5219",paraId:0,tocIndex:1},{value:"\u539F\u578B\uFF1A\u5BF9\u8C61\u4E0A\u7684 prototype \u5C5E\u6027\u5BF9\u8C61\uFF0C\u5176 constructor \u7684\u503C\u5BF9\u5E94\u4E3A\u5BF9\u8C61\u672C\u8EAB",paraId:0,tocIndex:1},{value:"\u539F\u578B\u94FE\uFF1A\u5BF9\u8C61\u5728\u67E5\u627E\u53D8\u91CF\u548C\u65B9\u6CD5\u65F6\uFF0C\u5F53\u524D\u5BF9\u8C61\u4E0A\u6CA1\u6709\uFF0C\u5219\u901A\u8FC7 __proto** \u67E5\u627E\u5230\u4E0A\u4E00\u5C42\u7684 prototype \u4E0A\uFF0C\u6CA1\u67E5\u5230\u5C31\u518D\u62FC\u4E00\u5C42 __proto** \u76F4\u5230\u67E5\u627E null \u505C\u6B62\uFF0C\u6700\u7EC8\u672A\u627E\u5230\uFF0C\u8FD4\u56DE undefined",paraId:0,tocIndex:1},{value:"\u8BBE\u8BA1\u6A21\u5F0F\u6838\u5FC3\uFF1A\u5C06\u53D8\u7684\u548C\u4E0D\u53D8\u7684\u62C6\u79BB\u5F00",paraId:0,tocIndex:1},{value:"\u5E38\u7528\u573A\u666F\uFF1A",paraId:1,tocIndex:2},{value:"\u6570\u636E\u5E93\uFF0Credis \u8FDE\u63A5\uFF0C\u521B\u5EFA\u6839\u5143\u7D20",paraId:2,tocIndex:2},{value:"\u5B9E\u73B0\uFF1A",paraId:3,tocIndex:2},{value:"\u82E5\u6CA1\u6267\u884C\u8FC7\uFF0C\u5219\u6267\u884C\u4E14\u4FDD\u5B58\u7ED3\u679C",paraId:4,tocIndex:2},{value:"\u82E5\u6267\u884C\u8FC7\uFF08\u7ED3\u679C\u7F13\u5B58\u6709\u503C\uFF09\uFF0C\u8C03\u7528\u65F6\uFF0C\u76F4\u63A5\u8FD4\u56DE\u4E0A\u6B21\u7F13\u5B58\u7684\u7ED3\u679C",paraId:4,tocIndex:2},{value:`// \u901A\u7528\u83B7\u53D6\u5355\u4F8B\uFF0C\u9AD8\u9636\u51FD\u6570+\u95ED\u5305
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[1904],{23522:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(86549),r={}},2733:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(39458),r={}},30799:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(31578),r={}},65575:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(22314),r={}},2932:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(52208),r={}},91910:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(74527),r={}},53017:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(16878),r={}},13591:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(49845),r={}},70532:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(64083),r={}},39306:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(26513),r={}},44428:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(44646),r={}},74847:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(84171),r={}},829:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(74573),r={}},19142:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(76692),r={}},36252:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(98354),r={}},95523:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(37132),r={}},80877:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(63178),r={}},5835:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(55152),r={}},50393:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(30888),r={}},11684:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(5493),r={}},95588:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(90717),r={}},96624:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(81005),r={}},74867:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(92688),r={}},25180:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(74442),r={}},55743:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(32897),r={}},29753:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(94697),r={}},98481:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(25444),r={}},30373:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(99316),r={}},41769:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(79596),r={}},76544:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(54273),r={}},54651:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(30580),r={}},11295:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(60056),r={}},11171:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(68537),r={}},67715:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(43648),r={}},29874:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(73550),r={}},46926:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(4299),r={}},90702:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(94807),r={}},16867:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(90142),r={}},46983:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(22695),r={}},47537:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(99920),r={}},48516:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(79825),r={}},50759:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(26549),r={}},2182:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(87666),r={}},83054:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(29929),r={}},22054:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(43117),r={}},93780:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(89404),r={}},11414:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(72830),r={}},43306:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(96002),r={}},86698:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(33127),r={}},76712:function(t,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),a=n(67251),r={}},85229:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(86549);const a=[{value:"\u5C01\u88C5\uFF1A\u5C01\u88C5\u53D8\u5316",paraId:0,tocIndex:1},{value:"\u7EE7\u627F\uFF1A\u7EE7\u627F\u901A\u7528\u5C5E\u6027\u548C\u65B9\u6CD5",paraId:0,tocIndex:1},{value:"\u591A\u6001\uFF1A\u540C\u4E00\u4E2A\u63A5\u53E3\u65B9\u6CD5\uFF0C\u4E0D\u540C\u7684\u5B9E\u73B0\uFF0C\u9ED1\u732B\u767D\u732B\uFF0C\u80FD\u6293\u8001\u9F20\u7684\u5C31\u662F\u732B",paraId:0,tocIndex:1},{value:"\u95ED\u5305\uFF1A\u51FD\u6570\u6267\u884C\u5B8C\u5176\u76F8\u5E94\u7684\u6267\u884C\u73AF\u5883\u9700\u8981\u88AB\u91CA\u653E\uFF0C\u800C\u8FD4\u56DE\u4E86\u8BE5\u51FD\u6570\uFF0C\u51FD\u6570\u5E76\u672A\u6D88\u4EA1\uFF0C\u5176\u6267\u884C\u73AF\u5883\u4E5F\u88AB\u4E00\u8D77\u7559\u5B58\u4E86\u4E0B\u6765\uFF0C\u4E0D\u4F1A\u88AB\u5783\u573E\u56DE\u6536\u91CA\u653E",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\uFF1A\u53D8\u91CF\u67E5\u627E\u8303\u56F4\u89C4\u5219\uFF0C\u6709\u5168\u5C40\u4F5C\u7528\u57DF\uFF0C\u51FD\u6570\u4F5C\u7528\u57DF\uFF0Clet\uFF0Cconst \u5757\u7EA7\u4F5C\u7528\u57DF",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\u94FE\uFF1A\u53D8\u91CF\u7684\u7531\u6700\u8FD1\u4F5C\u7528\u57DF\u5230\u6700\u8FDC\u4F5C\u7528\u57DF\uFF08\u5168\u5C40\u4F5C\u7528\u57DF\uFF09\u7684\u53D8\u91CF\u67E5\u627E\u89C4\u5219",paraId:0,tocIndex:1},{value:"\u539F\u578B\uFF1A\u5BF9\u8C61\u4E0A\u7684 prototype \u5C5E\u6027\u5BF9\u8C61\uFF0C\u5176 constructor \u7684\u503C\u5BF9\u5E94\u4E3A\u5BF9\u8C61\u672C\u8EAB",paraId:0,tocIndex:1},{value:"\u539F\u578B\u94FE\uFF1A\u5BF9\u8C61\u5728\u67E5\u627E\u53D8\u91CF\u548C\u65B9\u6CD5\u65F6\uFF0C\u5F53\u524D\u5BF9\u8C61\u4E0A\u6CA1\u6709\uFF0C\u5219\u901A\u8FC7 __proto** \u67E5\u627E\u5230\u4E0A\u4E00\u5C42\u7684 prototype \u4E0A\uFF0C\u6CA1\u67E5\u5230\u5C31\u518D\u62FC\u4E00\u5C42 __proto** \u76F4\u5230\u67E5\u627E null \u505C\u6B62\uFF0C\u6700\u7EC8\u672A\u627E\u5230\uFF0C\u8FD4\u56DE undefined",paraId:0,tocIndex:1},{value:"\u8BBE\u8BA1\u6A21\u5F0F\u6838\u5FC3\uFF1A\u5C06\u53D8\u7684\u548C\u4E0D\u53D8\u7684\u62C6\u79BB\u5F00",paraId:0,tocIndex:1},{value:"\u5E38\u7528\u573A\u666F\uFF1A",paraId:1,tocIndex:2},{value:"\u6570\u636E\u5E93\uFF0Credis \u8FDE\u63A5\uFF0C\u521B\u5EFA\u6839\u5143\u7D20",paraId:2,tocIndex:2},{value:"\u5B9E\u73B0\uFF1A",paraId:3,tocIndex:2},{value:"\u82E5\u6CA1\u6267\u884C\u8FC7\uFF0C\u5219\u6267\u884C\u4E14\u4FDD\u5B58\u7ED3\u679C",paraId:4,tocIndex:2},{value:"\u82E5\u6267\u884C\u8FC7\uFF08\u7ED3\u679C\u7F13\u5B58\u6709\u503C\uFF09\uFF0C\u8C03\u7528\u65F6\uFF0C\u76F4\u63A5\u8FD4\u56DE\u4E0A\u6B21\u7F13\u5B58\u7684\u7ED3\u679C",paraId:4,tocIndex:2},{value:`// \u901A\u7528\u83B7\u53D6\u5355\u4F8B\uFF0C\u9AD8\u9636\u51FD\u6570+\u95ED\u5305
 function getSingle(callback) {
   let singleInstance;
 
@@ -3275,7 +3275,124 @@ app.use(router.routes()).use(router.allowedMethods());
 https.createServer(sslOptions, app.callback()).listen(9099, () => {
   console.log('Koa server is running on https://localhost:9099');
 });
-`,paraId:2,tocIndex:4},{value:"\u672C\u5730\u8BBF\u95EE\u81EA\u5EFA\u8BC1\u4E66\u7684 https \u8BF7\u6C42\u65F6\uFF0C\u53EF\u4EE5\u5FFD\u7565\u8B66\u544A\uFF0C\u6216\u8005\u5982\u679C\u5728 mac \u4E0A\u53EF\u4EE5\u53CC\u51FB ca.crt\uFF0C\u7136\u540E\u5728\u94A5\u5319\u4E32\u8BBF\u95EE->\u8BC1\u4E66\uFF0C\u4E2D\u627E\u5BF9\u5E94\u7528\u7684 ca \u8BC1\u4E66\uFF0C->\u663E\u793A\u7B80\u4ECB -> \u4FE1\u4EFB -> \u4F7F\u7528\u8BC1\u4E66 -> \u59CB\u7EC8\u4FE1\u4EFB",paraId:3,tocIndex:4}]},56076:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(22695);const a=[{value:"v18+",paraId:0,tocIndex:0}]},75373:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(99920);const a=[{value:"demo \u96C6\u6210\u5730\u5740",paraId:0,tocIndex:1}]},2347:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(79825);const a=[{value:"Vue2",paraId:0,tocIndex:0}]},53739:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(87666);const a=[{value:"keep-alive \u53EA\u7F13\u5B58\u7EC4\u4EF6\u5B9E\u4F8B\uFF0C\u4E0D\u4F1A\u7F13\u5B58\u7EC4\u4EF6\u5916\u90E8\u7684 DOM\u3002",paraId:0,tocIndex:0},{value:"\u88AB\u5305\u88F9\u7684\u7EC4\u4EF6\u5FC5\u987B\u662F\u52A8\u6001\u7EC4\u4EF6\uFF0C\u7528 ",paraId:0,tocIndex:0},{value:'<component :is="xxx" />',paraId:0,tocIndex:0},{value:" \u6216 ",paraId:0,tocIndex:0},{value:"<router-view />",paraId:0,tocIndex:0},{value:"\u88AB\u7F13\u5B58\u7684\u7EC4\u4EF6\u5FC5\u987B\u6709 name \u5C5E\u6027\uFF0C\u5426\u5219 include / exclude \u65E0\u6CD5\u8BC6\u522B\u3002",paraId:0,tocIndex:0},{value:"\u5982\u679C\u4F60\u5E0C\u671B\u5B8C\u5168\u9500\u6BC1\u7EC4\u4EF6\uFF0C\u9700\u79FB\u9664 ",paraId:0,tocIndex:0},{value:"<keep-alive>",paraId:0,tocIndex:0},{value:" \u6216\u91CD\u7F6E key",paraId:0,tocIndex:0},{value:"\u4E0E ",paraId:0,tocIndex:0},{value:"<router-view>",paraId:0,tocIndex:0},{value:" \u7ED3\u5408\u4F7F\u7528\u65F6\uFF0CVue Router \u652F\u6301 meta.keepAlive = true \u914D\u5408\u4F7F\u7528\u3002",paraId:0,tocIndex:0},{value:`<template>
+`,paraId:2,tocIndex:4},{value:"\u672C\u5730\u8BBF\u95EE\u81EA\u5EFA\u8BC1\u4E66\u7684 https \u8BF7\u6C42\u65F6\uFF0C\u53EF\u4EE5\u5FFD\u7565\u8B66\u544A\uFF0C\u6216\u8005\u5982\u679C\u5728 mac \u4E0A\u53EF\u4EE5\u53CC\u51FB ca.crt\uFF0C\u7136\u540E\u5728\u94A5\u5319\u4E32\u8BBF\u95EE->\u8BC1\u4E66\uFF0C\u4E2D\u627E\u5BF9\u5E94\u7528\u7684 ca \u8BC1\u4E66\uFF0C->\u663E\u793A\u7B80\u4ECB -> \u4FE1\u4EFB -> \u4F7F\u7528\u8BC1\u4E66 -> \u59CB\u7EC8\u4FE1\u4EFB",paraId:3,tocIndex:4}]},56076:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(22695);const a=[{value:"v18+",paraId:0,tocIndex:0}]},75373:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(99920);const a=[{value:"demo \u96C6\u6210\u5730\u5740",paraId:0,tocIndex:1}]},2347:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(79825);const a=[{value:"Vue2",paraId:0,tocIndex:0}]},19159:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(26549);const a=[{value:"\u5B9A\u4E49\u4E00\u4E2A\u5E38\u89C4\u7EC4\u4EF6",paraId:0,tocIndex:0},{value:`
+\u4F7F\u7528\u573A\u666F\uFF1A\u9700\u8981\u4F7F\u7528 jsx \u5728 js \u4E2D\u5B9A\u4E49\u7EC4\u4EF6\uFF0C\u666E\u901A\u7EC4\u4EF6\u3001\u4E1A\u52A1\u7EC4\u4EF6\u3001\u7EC4\u5408\u5F0F\u7EC4\u4EF6\u7B49`,paraId:0,tocIndex:0},{value:`import { defineComponent, ref } from 'vue';
+
+export const NormalComponent = defineComponent({
+  name: 'NormalComponent',
+  setup() {
+    const count = ref(0);
+    const handleClick = () => {
+      count.value++;
+    };
+    return () => {
+      <div>
+        <div>{count}</div>
+        <button onClick={handleClick}>\u70B9\u51FBcount+1</button>
+      </div>;
+    };
+  },
+});
+`,paraId:1,tocIndex:0},{value:"vite \u9ED8\u8BA4\u4E0D\u652F\u6301 jsx \u7684\u8BED\u6CD5\uFF0C\u9700\u8981\u5B89\u88C5\u4F9D\u8D56\u4E14\u914D\u7F6E\u73AF\u5883",paraId:2,tocIndex:0},{value:"\u5B89\u88C5\u4F9D\u8D56\uFF1A",paraId:3,tocIndex:0},{value:"npm install @vitejs/plugin-vue-jsx -D",paraId:3,tocIndex:0},{value:"\u914D\u7F6E vite.config.ts",paraId:3,tocIndex:0},{value:`import { defineConfig } from 'vite';
+import vueJsx from '@vitejs/plugin-vue-jsx';
+
+export default defineConfig({
+  base: '/vue3-example',
+  plugins: [vueJsx()],
+});
+`,paraId:4,tocIndex:0},{value:"\u5B9A\u4E49\u4E00\u4E2A\u5F02\u6B65\u52A0\u8F7D\u7684\u7EC4\u4EF6",paraId:5,tocIndex:1},{value:`
+\u4F7F\u7528\u573A\u666F\uFF1A\u9875\u9762\u7EC4\u4EF6\u3001\u61D2\u52A0\u8F7D\u7EC4\u4EF6\u3001\u5F39\u7A97\u3001\u91CD\u7EC4\u4EF6\u7B49`,paraId:5,tocIndex:1},{value:"\u61D2\u52A0\u8F7D\u8DEF\u7531\u9875\u9762",paraId:6,tocIndex:1},{value:`// router.ts
+const DetailPage = defineAsyncComponent(
+  () => import('@/pages/home/detail.vue'),
+);
+
+const routes = [
+  {
+    path: '/detail',
+    component: DetailPage,
+  },
+];
+`,paraId:7,tocIndex:1},{value:"\u52A0\u8F7D\u72B6\u6001 & \u9519\u8BEF\u5904\u7406",paraId:8,tocIndex:1},{value:`import LoadingComp from './LoadingComp.vue'; import ErrorComp from
+'./ErrorComp.vue'; export const AsyncComp = defineAsyncComponent({ loader: () =>
+import('./HeavyComp.vue'), loadingComponent: LoadingComp, errorComponent:
+ErrorComp, delay: 100, // \u5EF6\u8FDF 100ms \u540E\u663E\u793A\u52A0\u8F7D\u7EC4\u4EF6 timeout: 10000, // \u8D85\u8FC7 10
+\u79D2\u672A\u52A0\u8F7D\u6210\u529F\u89C6\u4E3A\u5931\u8D25 });
+`,paraId:9,tocIndex:1},{value:"\u663E\u5F0F\u66B4\u9732 API \u7ED9\u7236\u7EC4\u4EF6\u4F7F\u7528",paraId:10,tocIndex:2},{value:"\u5B50\u7EC4\u4EF6",paraId:11,tocIndex:2},{value:`import { ref } from 'vue';
+
+const count = ref(0);
+const increase = () => {
+  count.value++;
+};
+
+defineExpose({
+  increase,
+});
+`,paraId:12,tocIndex:2},{value:"\u7236\u7EC4\u4EF6",paraId:13,tocIndex:2},{value:`<template>
+  <DefineExpose ref="DefineExposeRef"></DefineExpose>
+</template>
+<script setup lang="ts">
+import { shallowRef } from 'vue';
+
+const DefineExposeRef = shallowRef();
+const runExposeIncrease = () => {
+  DefineExposeRef.value?.increase();
+};
+<\/script>
+`,paraId:14,tocIndex:2},{value:"\u5B50\u7EC4\u4EF6",paraId:15,tocIndex:3},{value:`<template>
+  <button @click="sendUpdateInfo">\u901A\u77E5\u7236\u7EC4\u4EF6\u6D88\u606F</button>
+</template>
+<script lang="ts" setup>
+import { ref } from 'vue';
+
+const count = ref(10);
+const events = defineEmits(['update']);
+
+const sendUpdateInfo = () => {
+  events('update', count.value);
+};
+<\/script>
+`,paraId:16,tocIndex:3},{value:"\u7236\u7EC4\u4EF6",paraId:17,tocIndex:3},{value:`<template>
+  <DefineEmitsComp @update="handleChildUpdate"></DefineEmitsComp>
+</template>
+<script lang="ts" setup>
+const handleChildUpdate = (ev: number) => {
+  console.log(ev);
+};
+<\/script>
+`,paraId:18,tocIndex:3},{value:"\u7528\u4E8E\u5B9A\u4E49\u7EC4\u4EF6\u7684 props\uFF0C\u5E76\u652F\u6301\u7C7B\u578B\u63A8\u5BFC\u3002",paraId:19,tocIndex:4},{value:`
+defineProps \u672C\u8D28\u662F\u7F16\u8BD1\u65F6\u5B8F\uFF0C\u5B83\u7684\u7C7B\u578B\u53C2\u6570 `,paraId:19,tocIndex:4},{value:"<T>",paraId:19,tocIndex:4},{value:" \u548C\u4F60\u5199\u8FDB\u53BB\u7684\u53C2\u6570\u662F\u5206\u5F00\u7684",paraId:19,tocIndex:4},{value:"\u6700\u7B80\u5355\u7684",paraId:20,tocIndex:4},{value:`defineProps<{
+  msg: string;
+  count: number;
+}>();
+`,paraId:21,tocIndex:4},{value:"\u7236\u7EC4\u4EF6\u4E2D\u4F7F\u7528",paraId:22,tocIndex:4},{value:`<template>
+  <DefinePropsComp :msg="'hello vue3'"></DefinePropsComp>
+</template>
+`,paraId:23,tocIndex:4},{value:"\u5E26\u9ED8\u8BA4\u503C",paraId:24,tocIndex:4},{value:`defineProps({
+  msg: {
+    type: String,
+    default: 'hello',
+  },
+});
+`,paraId:25,tocIndex:4},{value:"\u4F7F\u7528 defineProps \u548C withDefaults",paraId:26,tocIndex:4},{value:`const props = defineProps<{
+  msg?: string;
+}>();
+withDefaults(props, {
+  msg: 'hello from vue 3',
+});
+`,paraId:27,tocIndex:4},{value:"\u7B80\u5316\u7248\u672C\uFF0C\u5373\u5408\u5E76\u5199",paraId:28,tocIndex:4},{value:`const props = withDefaults(
+  defineProps<{
+    msg?: string;
+  }>(),
+  {
+    msg: 'hello',
+  },
+);
+`,paraId:29,tocIndex:4},{value:"\u274C \u9519\u8BEF\u7684\u5199\u6CD5",paraId:30,tocIndex:4},{value:`defineProps<{
+  msg: string;
+}>({
+  msg: 'hello', // \u274C
+});
+`,paraId:31,tocIndex:4},{value:"\u8981\u7ED3\u5408\u7C7B\u578B\u548C\u9ED8\u8BA4\u503C\uFF0C\u53EA\u80FD\u4F7F\u7528 defineProps+withDefaults",paraId:32,tocIndex:4}]},53739:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(87666);const a=[{value:"keep-alive \u53EA\u7F13\u5B58\u7EC4\u4EF6\u5B9E\u4F8B\uFF0C\u4E0D\u4F1A\u7F13\u5B58\u7EC4\u4EF6\u5916\u90E8\u7684 DOM\u3002",paraId:0,tocIndex:0},{value:"\u88AB\u5305\u88F9\u7684\u7EC4\u4EF6\u5FC5\u987B\u662F\u52A8\u6001\u7EC4\u4EF6\uFF0C\u7528 ",paraId:0,tocIndex:0},{value:'<component :is="xxx" />',paraId:0,tocIndex:0},{value:" \u6216 ",paraId:0,tocIndex:0},{value:"<router-view />",paraId:0,tocIndex:0},{value:"\u88AB\u7F13\u5B58\u7684\u7EC4\u4EF6\u5FC5\u987B\u6709 name \u5C5E\u6027\uFF0C\u5426\u5219 include / exclude \u65E0\u6CD5\u8BC6\u522B\u3002",paraId:0,tocIndex:0},{value:"\u5982\u679C\u4F60\u5E0C\u671B\u5B8C\u5168\u9500\u6BC1\u7EC4\u4EF6\uFF0C\u9700\u79FB\u9664 ",paraId:0,tocIndex:0},{value:"<keep-alive>",paraId:0,tocIndex:0},{value:" \u6216\u91CD\u7F6E key",paraId:0,tocIndex:0},{value:"\u4E0E ",paraId:0,tocIndex:0},{value:"<router-view>",paraId:0,tocIndex:0},{value:" \u7ED3\u5408\u4F7F\u7528\u65F6\uFF0CVue Router \u652F\u6301 meta.keepAlive = true \u914D\u5408\u4F7F\u7528\u3002",paraId:0,tocIndex:0},{value:`<template>
   <div class="KeepAliveTest">
     <button
       v-for="(item, index) in cptList"
@@ -3399,7 +3516,25 @@ at callWithAsyncErrorHandling (http://localhost:5173/vue3-example/node_modules/.
 at HTMLButtonElement.invoker (http://localhost:5173/vue3-example/node_modules/.vite/deps/chunk-TEXZTZV4.js?v=2f7fd06c:11202:5)
 \`
 }
-`,paraId:7,tocIndex:4},{value:"\u5F53 keep-alive \u7EC4\u4EF6\u88AB\u6FC0\u6D3B\u65F6\u8C03\u7528\u3002",paraId:8,tocIndex:5},{value:"\u5F53 keep-alive \u7EC4\u4EF6\u88AB\u505C\u7528\u65F6\u8C03\u7528\u3002",paraId:9,tocIndex:6},{value:"\u7EC4\u4EF6\u9500\u6BC1\u524D\u8C03\u7528\uFF0C\u9002\u7528\u4E8E\u6E05\u7406\u64CD\u4F5C\u3002",paraId:10,tocIndex:7},{value:"\u7EC4\u4EF6\u9500\u6BC1\u540E\u8C03\u7528\uFF0C\u9002\u7528\u4E8E\u6E05\u7406\u64CD\u4F5C\u3002",paraId:11,tocIndex:8}]},93267:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(89404);const a=[{value:`import { ref } from 'vue';
+`,paraId:7,tocIndex:4},{value:"\u5F53 keep-alive \u7EC4\u4EF6\u88AB\u6FC0\u6D3B\u65F6\u8C03\u7528\u3002",paraId:8,tocIndex:5},{value:"\u5F53 keep-alive \u7EC4\u4EF6\u88AB\u505C\u7528\u65F6\u8C03\u7528\u3002",paraId:9,tocIndex:6},{value:"\u7EC4\u4EF6\u9500\u6BC1\u524D\u8C03\u7528\uFF0C\u9002\u7528\u4E8E\u6E05\u7406\u64CD\u4F5C\u3002",paraId:10,tocIndex:7},{value:"\u7EC4\u4EF6\u9500\u6BC1\u540E\u8C03\u7528\uFF0C\u9002\u7528\u4E8E\u6E05\u7406\u64CD\u4F5C\u3002",paraId:11,tocIndex:8}]},84139:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(43117);const a=[{value:"provide\uFF1A \u5728\u4E0A\u5C42\u7EC4\u4EF6\u4E2D\u63D0\u4F9B\u6570\u636E",paraId:0,tocIndex:0},{value:`
+inject\uFF1A\u5728\u4E0B\u5C42\u7EC4\u4EF6\u4E2D\u6CE8\u5165\u6570\u636E`,paraId:0,tocIndex:0},{value:"\u7236\u7EC4\u4EF6\u4E2D\u63D0\u4F9B\u6570\u636E",paraId:1,tocIndex:0},{value:`import { provide, reactive, ref } from 'vue';
+
+const appConfig = { mode: 'production' };
+provide('appConfig', appConfig);
+provide('appConfigRef', ref(appConfig));
+provide('appConfigReactive', reactive(appConfig));
+`,paraId:2,tocIndex:0},{value:"\u5B50\u7EC4\u4EF6\u4E2D\u4F7F\u7528",paraId:3,tocIndex:0},{value:`import { inject } from 'vue';
+
+const appConfig = inject('appConfig');
+const appConfigRef = inject('appConfigRef');
+const appConfigReactive = inject('appConfigReactive');
+
+const unProvideValue = inject('no_exist_key');
+console.log(unProvideValue); // undefined
+
+// \u9ED8\u8BA4\u503C\u5199\u6CD5
+const user = inject('user', ref({ name: 'default' }));
+`,paraId:4,tocIndex:0}]},93267:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(89404);const a=[{value:`import { ref } from 'vue';
 
 interface IPerson {
   name: String;
