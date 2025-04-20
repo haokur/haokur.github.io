@@ -1,4 +1,4 @@
-"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[1904],{23522:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(86549),r={}},2733:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(39458),r={}},30799:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(31578),r={}},65575:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(22314),r={}},2932:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(52208),r={}},91910:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(74527),r={}},53017:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(16878),r={}},13591:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(49845),r={}},70532:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(64083),r={}},39306:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(26513),r={}},44428:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(44646),r={}},74847:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(84171),r={}},829:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(74573),r={}},19142:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(76692),r={}},36252:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(98354),r={}},95523:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(37132),r={}},80877:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(63178),r={}},5835:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(55152),r={}},50393:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(30888),r={}},11684:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(5493),r={}},95588:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(90717),r={}},96624:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(81005),r={}},74867:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(92688),r={}},25180:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(74442),r={}},55743:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(32897),r={}},29753:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(94697),r={}},98481:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(25444),r={}},30373:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(99316),r={}},41769:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(79596),r={}},76544:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(54273),r={}},54651:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(30580),r={}},11295:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(60056),r={}},11171:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(68537),r={}},67715:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(43648),r={}},29874:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(73550),r={}},46926:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(4299),r={}},90702:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(94807),r={}},16867:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(90142),r={}},46983:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(22695),r={}},47537:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(99920),r={}},48516:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(79825),r={}},11414:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(72830),r={}},43306:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(96002),r={}},86698:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(33127),r={}},85229:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(86549);const t=[{value:"\u5C01\u88C5\uFF1A\u5C01\u88C5\u53D8\u5316",paraId:0,tocIndex:1},{value:"\u7EE7\u627F\uFF1A\u7EE7\u627F\u901A\u7528\u5C5E\u6027\u548C\u65B9\u6CD5",paraId:0,tocIndex:1},{value:"\u591A\u6001\uFF1A\u540C\u4E00\u4E2A\u63A5\u53E3\u65B9\u6CD5\uFF0C\u4E0D\u540C\u7684\u5B9E\u73B0\uFF0C\u9ED1\u732B\u767D\u732B\uFF0C\u80FD\u6293\u8001\u9F20\u7684\u5C31\u662F\u732B",paraId:0,tocIndex:1},{value:"\u95ED\u5305\uFF1A\u51FD\u6570\u6267\u884C\u5B8C\u5176\u76F8\u5E94\u7684\u6267\u884C\u73AF\u5883\u9700\u8981\u88AB\u91CA\u653E\uFF0C\u800C\u8FD4\u56DE\u4E86\u8BE5\u51FD\u6570\uFF0C\u51FD\u6570\u5E76\u672A\u6D88\u4EA1\uFF0C\u5176\u6267\u884C\u73AF\u5883\u4E5F\u88AB\u4E00\u8D77\u7559\u5B58\u4E86\u4E0B\u6765\uFF0C\u4E0D\u4F1A\u88AB\u5783\u573E\u56DE\u6536\u91CA\u653E",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\uFF1A\u53D8\u91CF\u67E5\u627E\u8303\u56F4\u89C4\u5219\uFF0C\u6709\u5168\u5C40\u4F5C\u7528\u57DF\uFF0C\u51FD\u6570\u4F5C\u7528\u57DF\uFF0Clet\uFF0Cconst \u5757\u7EA7\u4F5C\u7528\u57DF",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\u94FE\uFF1A\u53D8\u91CF\u7684\u7531\u6700\u8FD1\u4F5C\u7528\u57DF\u5230\u6700\u8FDC\u4F5C\u7528\u57DF\uFF08\u5168\u5C40\u4F5C\u7528\u57DF\uFF09\u7684\u53D8\u91CF\u67E5\u627E\u89C4\u5219",paraId:0,tocIndex:1},{value:"\u539F\u578B\uFF1A\u5BF9\u8C61\u4E0A\u7684 prototype \u5C5E\u6027\u5BF9\u8C61\uFF0C\u5176 constructor \u7684\u503C\u5BF9\u5E94\u4E3A\u5BF9\u8C61\u672C\u8EAB",paraId:0,tocIndex:1},{value:"\u539F\u578B\u94FE\uFF1A\u5BF9\u8C61\u5728\u67E5\u627E\u53D8\u91CF\u548C\u65B9\u6CD5\u65F6\uFF0C\u5F53\u524D\u5BF9\u8C61\u4E0A\u6CA1\u6709\uFF0C\u5219\u901A\u8FC7 __proto** \u67E5\u627E\u5230\u4E0A\u4E00\u5C42\u7684 prototype \u4E0A\uFF0C\u6CA1\u67E5\u5230\u5C31\u518D\u62FC\u4E00\u5C42 __proto** \u76F4\u5230\u67E5\u627E null \u505C\u6B62\uFF0C\u6700\u7EC8\u672A\u627E\u5230\uFF0C\u8FD4\u56DE undefined",paraId:0,tocIndex:1},{value:"\u8BBE\u8BA1\u6A21\u5F0F\u6838\u5FC3\uFF1A\u5C06\u53D8\u7684\u548C\u4E0D\u53D8\u7684\u62C6\u79BB\u5F00",paraId:0,tocIndex:1},{value:"\u5E38\u7528\u573A\u666F\uFF1A",paraId:1,tocIndex:2},{value:"\u6570\u636E\u5E93\uFF0Credis \u8FDE\u63A5\uFF0C\u521B\u5EFA\u6839\u5143\u7D20",paraId:2,tocIndex:2},{value:"\u5B9E\u73B0\uFF1A",paraId:3,tocIndex:2},{value:"\u82E5\u6CA1\u6267\u884C\u8FC7\uFF0C\u5219\u6267\u884C\u4E14\u4FDD\u5B58\u7ED3\u679C",paraId:4,tocIndex:2},{value:"\u82E5\u6267\u884C\u8FC7\uFF08\u7ED3\u679C\u7F13\u5B58\u6709\u503C\uFF09\uFF0C\u8C03\u7528\u65F6\uFF0C\u76F4\u63A5\u8FD4\u56DE\u4E0A\u6B21\u7F13\u5B58\u7684\u7ED3\u679C",paraId:4,tocIndex:2},{value:`// \u901A\u7528\u83B7\u53D6\u5355\u4F8B\uFF0C\u9AD8\u9636\u51FD\u6570+\u95ED\u5305
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[1904],{23522:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(86549),r={}},2733:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(39458),r={}},30799:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(31578),r={}},65575:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(22314),r={}},2932:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(52208),r={}},91910:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(74527),r={}},53017:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(16878),r={}},13591:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(49845),r={}},70532:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(64083),r={}},39306:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(26513),r={}},44428:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(44646),r={}},74847:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(84171),r={}},829:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(74573),r={}},19142:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(76692),r={}},36252:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(98354),r={}},95523:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(37132),r={}},80877:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(63178),r={}},5835:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(55152),r={}},50393:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(30888),r={}},11684:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(5493),r={}},95588:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(90717),r={}},96624:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(81005),r={}},74867:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(92688),r={}},25180:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(74442),r={}},55743:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(32897),r={}},29753:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(94697),r={}},98481:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(25444),r={}},30373:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(99316),r={}},41769:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(79596),r={}},76544:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(54273),r={}},54651:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(30580),r={}},11295:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(60056),r={}},11171:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(68537),r={}},67715:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(43648),r={}},29874:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(73550),r={}},46926:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(4299),r={}},90702:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(94807),r={}},16867:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(90142),r={}},46983:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(22695),r={}},47537:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(99920),r={}},48516:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(79825),r={}},93780:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(89404),r={}},11414:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(72830),r={}},43306:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(96002),r={}},86698:function(a,e,n){n.r(e),n.d(e,{demos:function(){return r}});var o=n(67294),t=n(33127),r={}},85229:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(86549);const t=[{value:"\u5C01\u88C5\uFF1A\u5C01\u88C5\u53D8\u5316",paraId:0,tocIndex:1},{value:"\u7EE7\u627F\uFF1A\u7EE7\u627F\u901A\u7528\u5C5E\u6027\u548C\u65B9\u6CD5",paraId:0,tocIndex:1},{value:"\u591A\u6001\uFF1A\u540C\u4E00\u4E2A\u63A5\u53E3\u65B9\u6CD5\uFF0C\u4E0D\u540C\u7684\u5B9E\u73B0\uFF0C\u9ED1\u732B\u767D\u732B\uFF0C\u80FD\u6293\u8001\u9F20\u7684\u5C31\u662F\u732B",paraId:0,tocIndex:1},{value:"\u95ED\u5305\uFF1A\u51FD\u6570\u6267\u884C\u5B8C\u5176\u76F8\u5E94\u7684\u6267\u884C\u73AF\u5883\u9700\u8981\u88AB\u91CA\u653E\uFF0C\u800C\u8FD4\u56DE\u4E86\u8BE5\u51FD\u6570\uFF0C\u51FD\u6570\u5E76\u672A\u6D88\u4EA1\uFF0C\u5176\u6267\u884C\u73AF\u5883\u4E5F\u88AB\u4E00\u8D77\u7559\u5B58\u4E86\u4E0B\u6765\uFF0C\u4E0D\u4F1A\u88AB\u5783\u573E\u56DE\u6536\u91CA\u653E",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\uFF1A\u53D8\u91CF\u67E5\u627E\u8303\u56F4\u89C4\u5219\uFF0C\u6709\u5168\u5C40\u4F5C\u7528\u57DF\uFF0C\u51FD\u6570\u4F5C\u7528\u57DF\uFF0Clet\uFF0Cconst \u5757\u7EA7\u4F5C\u7528\u57DF",paraId:0,tocIndex:1},{value:"\u4F5C\u7528\u57DF\u94FE\uFF1A\u53D8\u91CF\u7684\u7531\u6700\u8FD1\u4F5C\u7528\u57DF\u5230\u6700\u8FDC\u4F5C\u7528\u57DF\uFF08\u5168\u5C40\u4F5C\u7528\u57DF\uFF09\u7684\u53D8\u91CF\u67E5\u627E\u89C4\u5219",paraId:0,tocIndex:1},{value:"\u539F\u578B\uFF1A\u5BF9\u8C61\u4E0A\u7684 prototype \u5C5E\u6027\u5BF9\u8C61\uFF0C\u5176 constructor \u7684\u503C\u5BF9\u5E94\u4E3A\u5BF9\u8C61\u672C\u8EAB",paraId:0,tocIndex:1},{value:"\u539F\u578B\u94FE\uFF1A\u5BF9\u8C61\u5728\u67E5\u627E\u53D8\u91CF\u548C\u65B9\u6CD5\u65F6\uFF0C\u5F53\u524D\u5BF9\u8C61\u4E0A\u6CA1\u6709\uFF0C\u5219\u901A\u8FC7 __proto** \u67E5\u627E\u5230\u4E0A\u4E00\u5C42\u7684 prototype \u4E0A\uFF0C\u6CA1\u67E5\u5230\u5C31\u518D\u62FC\u4E00\u5C42 __proto** \u76F4\u5230\u67E5\u627E null \u505C\u6B62\uFF0C\u6700\u7EC8\u672A\u627E\u5230\uFF0C\u8FD4\u56DE undefined",paraId:0,tocIndex:1},{value:"\u8BBE\u8BA1\u6A21\u5F0F\u6838\u5FC3\uFF1A\u5C06\u53D8\u7684\u548C\u4E0D\u53D8\u7684\u62C6\u79BB\u5F00",paraId:0,tocIndex:1},{value:"\u5E38\u7528\u573A\u666F\uFF1A",paraId:1,tocIndex:2},{value:"\u6570\u636E\u5E93\uFF0Credis \u8FDE\u63A5\uFF0C\u521B\u5EFA\u6839\u5143\u7D20",paraId:2,tocIndex:2},{value:"\u5B9E\u73B0\uFF1A",paraId:3,tocIndex:2},{value:"\u82E5\u6CA1\u6267\u884C\u8FC7\uFF0C\u5219\u6267\u884C\u4E14\u4FDD\u5B58\u7ED3\u679C",paraId:4,tocIndex:2},{value:"\u82E5\u6267\u884C\u8FC7\uFF08\u7ED3\u679C\u7F13\u5B58\u6709\u503C\uFF09\uFF0C\u8C03\u7528\u65F6\uFF0C\u76F4\u63A5\u8FD4\u56DE\u4E0A\u6B21\u7F13\u5B58\u7684\u7ED3\u679C",paraId:4,tocIndex:2},{value:`// \u901A\u7528\u83B7\u53D6\u5355\u4F8B\uFF0C\u9AD8\u9636\u51FD\u6570+\u95ED\u5305
 function getSingle(callback) {
   let singleInstance;
 
@@ -3275,7 +3275,308 @@ app.use(router.routes()).use(router.allowedMethods());
 https.createServer(sslOptions, app.callback()).listen(9099, () => {
   console.log('Koa server is running on https://localhost:9099');
 });
-`,paraId:2,tocIndex:4},{value:"\u672C\u5730\u8BBF\u95EE\u81EA\u5EFA\u8BC1\u4E66\u7684 https \u8BF7\u6C42\u65F6\uFF0C\u53EF\u4EE5\u5FFD\u7565\u8B66\u544A\uFF0C\u6216\u8005\u5982\u679C\u5728 mac \u4E0A\u53EF\u4EE5\u53CC\u51FB ca.crt\uFF0C\u7136\u540E\u5728\u94A5\u5319\u4E32\u8BBF\u95EE->\u8BC1\u4E66\uFF0C\u4E2D\u627E\u5BF9\u5E94\u7528\u7684 ca \u8BC1\u4E66\uFF0C->\u663E\u793A\u7B80\u4ECB -> \u4FE1\u4EFB -> \u4F7F\u7528\u8BC1\u4E66 -> \u59CB\u7EC8\u4FE1\u4EFB",paraId:3,tocIndex:4}]},56076:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(22695);const t=[{value:"v18+",paraId:0,tocIndex:0}]},75373:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(99920);const t=[{value:"demo \u96C6\u6210\u5730\u5740",paraId:0,tocIndex:1}]},2347:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(79825);const t=[{value:"Vue2",paraId:0,tocIndex:0}]},63251:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(72830);const t=[{value:"\u53EF\u67E5\u770B\u7F16\u8BD1\u540E\u7684\u5185\u5BB9",paraId:0,tocIndex:1},{value:`npm install vite-plugin-inspect --save-dev
+`,paraId:2,tocIndex:4},{value:"\u672C\u5730\u8BBF\u95EE\u81EA\u5EFA\u8BC1\u4E66\u7684 https \u8BF7\u6C42\u65F6\uFF0C\u53EF\u4EE5\u5FFD\u7565\u8B66\u544A\uFF0C\u6216\u8005\u5982\u679C\u5728 mac \u4E0A\u53EF\u4EE5\u53CC\u51FB ca.crt\uFF0C\u7136\u540E\u5728\u94A5\u5319\u4E32\u8BBF\u95EE->\u8BC1\u4E66\uFF0C\u4E2D\u627E\u5BF9\u5E94\u7528\u7684 ca \u8BC1\u4E66\uFF0C->\u663E\u793A\u7B80\u4ECB -> \u4FE1\u4EFB -> \u4F7F\u7528\u8BC1\u4E66 -> \u59CB\u7EC8\u4FE1\u4EFB",paraId:3,tocIndex:4}]},56076:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(22695);const t=[{value:"v18+",paraId:0,tocIndex:0}]},75373:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(99920);const t=[{value:"demo \u96C6\u6210\u5730\u5740",paraId:0,tocIndex:1}]},2347:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(79825);const t=[{value:"Vue2",paraId:0,tocIndex:0}]},93267:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(89404);const t=[{value:`import { ref } from 'vue';
+
+interface IPerson {
+  name: String;
+  age: Number;
+  scores?: any;
+}
+
+/**ref */
+const refValue = ref<String>('hello world');
+// ref\u7C7B\u578B\u5224\u5B9A
+const isValueRef = isRef(refValue);
+
+// shallowRef \u6D45\u5C42\u4EE3\u7406ref
+const shallowRefValue = shallowRef<IPerson>({
+  name: 'bob',
+  age: 22,
+});
+// shallow \u5224\u5B9A + ref \u5224\u65AD = shallowRef\u5224\u5B9A\uFF08\u5B98\u65B9\u672A\u63D0\u4F9B isShallowRef \u65B9\u6CD5\uFF09
+const isValueShallowRef = isShallow(shallowRefValue) && isRef(shallowRefValue);
+const changeShallowRefValue = () => {
+  shallowRefValue.value = { name: 'john', age: 25 }; // \u4FEE\u6539\u54CD\u5E94\u5F0F\u66F4\u65B0
+  setTimeout(() => {
+    shallowRefValue.value.age = 30; // \u4FEE\u6539\u65E0\u54CD\u5E94\u5F0F\u66F4\u65B0
+  }, 100);
+};
+
+// \u517C\u5BB9\u83B7\u53D6ref\u7684\u6570\u636E\uFF08\u81EA\u52A8\u89E3\u5305\u62FF\u51FA.value\u7684\u5185\u5BB9\uFF09
+const valueOfRef = unref(ref('hello world')); // hello world
+const valueOfNormal = unref(100); // 100
+// const valueOfObjectHasValue = unref({value:"xxx"}); // \u62A5\u9519
+const valueOfReactive = unref(reactive({ name: 'xxx' })); // Proxy...
+console.log(
+  'valueOfRef is ',
+  valueOfRef,
+  ', valueOfNormal is ',
+  valueOfNormal,
+  ',valueOfReactive is ',
+  valueOfReactive,
+);
+`,paraId:0,tocIndex:1},{value:`interface IPerson {
+  name: String;
+  age: Number;
+  scores?: any;
+}
+
+/**reactive */
+const reactiveValue = reactive<IPerson>({
+  name: 'jack',
+  age: 20,
+});
+// reactive \u7C7B\u578B\u5224\u5B9A
+const isValueReactive = isReactive(reactiveValue); // true
+const isValueProxy = isProxy(reactiveValue); // true
+
+// shallowReactive \u6D45\u5C42\u4EE3\u7406object
+const shallowReactiveValue = shallowReactive<IPerson>({
+  name: 'bob',
+  age: 23,
+  scores: {
+    math: 100,
+  },
+});
+const changeShallowReactiveValue = () => {
+  shallowReactiveValue.name = 'good boy'; // \u54CD\u5E94\u5F0F\u66F4\u65B0
+  setTimeout(() => {
+    shallowReactiveValue.scores.math = 60; // \u4E0D\u54CD\u5E94\u5F0F\u66F4\u65B0
+  }, 100);
+};
+
+// \u8F6Cref
+const { name, scores } = toRefs(reactiveValue);
+const age = toRef(reactiveValue, 'age');
+`,paraId:1,tocIndex:2},{value:`// \u6E90\u6570\u636E
+const obj = { name: 'xx', scores: { math: 100 } };
+const refObj = ref({ name: 'xx', scores: { math: 100 } });
+const reactiveObj = reactive({ name: 'xx', scores: { math: 100 } });
+
+// readonly => \u5305\u88C5\u8FD4\u56DE\u7684\u6570\u636E\u5168\u90E8\u9501\u5B9A\u4E0D\u80FD\u4FEE\u6539
+const readonly4Obj = readonly(obj);
+const readonly4Ref = readonly(refObj);
+const readonly4Reactive = readonly(reactiveObj);
+
+// \u5224\u5B9A
+const isValueReadonly = isReadonly(readonly4Obj);
+
+console.log(
+  { isValueReadonly, readonly4Obj, readonly4Ref, readonly4Reactive },
+  'ReactiveDoc.vue::121\u884C',
+);
+
+// \u652F\u6301\u7684\u64CD\u4F5C\uFF0C\u6E90\u6570\u636E\u5E76\u672A\u88AB\u9501\u5B9A\u4E3A\u53EA\u8BFB
+obj.scores.math = 88;
+refObj.value.scores.math = 88;
+reactiveObj.scores.math = 88;
+
+// \u4E0D\u652F\u6301\u7684\u64CD\u4F5C
+readonly4Obj.name = 'jack'; // \u274C
+readonly4Ref.value.name = 'jack'; // \u274C
+readonly4Reactive.name = 'jack'; // \u274C
+readonly4Obj.scores.math = 88; // \u274C
+readonly4Ref.value.scores.math = 88; // \u274C
+readonly4Reactive.scores.math = 88; // \u274C
+
+// shallowReadonly => \u5305\u88C5\u8FD4\u56DE\u7684\u6570\u636E\u53EA\u6709\u7B2C\u4E00\u5C42\u88AB\u9501\u5B9A\u4E0D\u80FD\u4FEE\u6539
+const shallowReadonly4Obj = shallowReadonly(obj);
+const shallowReadonly4Ref = shallowReadonly(refObj);
+const shallowReadonly4Reactive = shallowReadonly(reactiveObj);
+
+// \u5224\u5B9A
+const isValueShallowReadonly =
+  isShallow(shallowReadonly4Obj) && isReadonly(shallowReadonly4Obj);
+console.log({ isValueShallowReadonly }, 'ReactiveDoc.vue::150\u884C');
+
+// shallowReadonly \u652F\u6301\u7684\u4FEE\u6539
+shallowReadonly4Obj.scores.math = 88;
+shallowReadonly4Ref.value.scores.math = 88;
+shallowReadonly4Reactive.scores.math = 88;
+
+// shallowReadonly \u4E0D\u652F\u6301\u7684\u4FEE\u6539
+shallowReadonly4Obj.name = 'jack'; // \u274C
+shallowReadonly4Ref.value = { name: 'jack', scores: { math: 88 } }; // \u274C
+shallowReadonly4Reactive.name = 'jack'; // \u274C
+`,paraId:2,tocIndex:3},{value:`// toRaw => \u83B7\u53D6Proxy\u4EE3\u7406\u7684\u539F\u503C\uFF08\u4E0D\u9002\u7528\u81EA\u5B9A\u4E49\u7684new Proxy\u7684\u503C\uFF09
+const refData = ref({ name: 'xxx' });
+const reactiveData = reactive({ name: 'xxx' });
+const refRawData = toRaw(refData.value);
+const reactiveRawData = toRaw(reactiveData);
+console.log({ refRawData, reactiveRawData }, 'ReactiveDoc.vue::168\u884C');
+
+// markRaw => \u6DFB\u52A0\u6807\u8BB0__v_skip\uFF0C\u5728\u6267\u884Cref\u6216reactive\u6216\u8DF3\u8FC7\u4EE3\u7406\uFF0C\u5373\u4E0D\u4F1A\u7528Proxy\u6765\u4EE3\u7406 rawObj
+const rawObj = markRaw({ name: 'xxx' });
+const refObjOfMark = ref(rawObj);
+const reactiveObjOfMark = reactive(rawObj);
+const changeReactiveObjOfMark = () => {
+  reactiveObjOfMark.name = 'jack'; // \u9875\u9762\u4E0D\u54CD\u5E94\u66F4\u6539
+};
+`,paraId:3,tocIndex:4},{value:"\u5224\u8BFB\u662F\u5426\u662F\u865A\u62DF DOM",paraId:4,tocIndex:5},{value:`const vNode = h('div', []);
+isVNode(vNode); // true
+`,paraId:5,tocIndex:5},{value:"\u81EA\u5B9A\u4E49\u4F9D\u8D56\u6536\u96C6\u548C\u6D3E\u53D1\u66F4\u65B0",paraId:6,tocIndex:6},{value:`// \u793A\u4F8B\u5B9E\u73B0input\u7684v-model\u9632\u6296\u66F4\u65B0
+function useDebouncedRef(value: any, delay = 300) {
+  let timeout: ReturnType<typeof setTimeout>;
+  return customRef((track, trigger) => {
+    return {
+      get() {
+        track();
+        return value;
+      },
+      set(newValue) {
+        clearTimeout(timeout);
+        timeout = setTimeout(() => {
+          value = newValue;
+          trigger();
+        }, delay);
+      },
+    };
+  });
+}
+const keyword = useDebouncedRef('', 500);
+watch(keyword, (oldValue, newValue) => {
+  console.log(oldValue, newValue, 'CustomRef.vue::49\u884C');
+});
+`,paraId:7,tocIndex:6},{value:"\u6D3E\u751F\u72B6\u6001\uFF0C\u8BA1\u7B97\u53EF\u7F13\u5B58\u53EF\u54CD\u5E94\u6570\u636E",paraId:8,tocIndex:7},{value:"\u57FA\u672C\u4F7F\u7528",paraId:9,tocIndex:7},{value:`const count = ref(10);
+const total = computed(() => count.value * 10);
+
+// total.value = 200 ; // \u274C
+`,paraId:10,tocIndex:7},{value:"\u53EF\u5199\u7684 computed",paraId:11,tocIndex:7},{value:`const firstName = ref('jack');
+const lastName = ref('Ma');
+
+const fullName = computed({
+  get: () => \`\${firstName.value} \${lastName.value}\`,
+  set: (val: string) => {
+    const [first, last] = val.split(' ');
+    firstName.value = first;
+    lastName.value = last;
+  },
+});
+fullName.value = 'Tony Stark'; // \u2705
+`,paraId:12,tocIndex:7},{value:"ref \u8FD4\u56DE\u503C",paraId:13,tocIndex:8},{value:`RefImpl {
+    Dep:{},
+    __v_isRef:true,
+    __v_isShallow:false,
+    _rawValue: <\u4F20\u5165\u7684\u53C2\u6570\u503C>,
+    _value:<value\u6267\u884Cget\u540E\u8FD4\u56DE\u7684\u503C>,
+    value: <\u5B9A\u4E49\u4E86get\u51FD\u6570\uFF0C\u4F20\u5165\u7684\u53C2\u6570\u662F\u57FA\u672C\u7C7B\u578B\u5219get\u8FD4\u56DE\u503C\u662F\u57FA\u672C\u7C7B\u578B\uFF0C\u662F\u5BF9\u8C61\u5219\u8FD4\u56DE\u7684\u662Freactive\u7684\u7ED3\u679CProxy>
+}
+`,paraId:14,tocIndex:8},{value:"\u4F20\u5165\u57FA\u672C\u7C7B\u578B\u8D70\u7684 Object.defineProperty\uFF0C\u4F20\u5165\u5BF9\u8C61\u4F7F\u7528\u7684 reactive \u7684 Proxy \u903B\u8F91\uFF1F",paraId:15,tocIndex:8},{value:"shallowRef",paraId:16,tocIndex:8},{value:`RefImpl {
+    Dep:{},
+    __v_isRef:true,
+    __v_isShallow:true, // here
+    _rawValue: <\u4F20\u5165\u7684\u53C2\u6570\u503C>,
+    _value:<value\u6267\u884Cget\u540E\u8FD4\u56DE\u7684\u503C>,
+    value: <\u5B9A\u4E49\u4E86get\u51FD\u6570\uFF0C\u4F20\u5165\u7684\u53C2\u6570\u662F\u5BF9\u8C61\u4E5F\u4E0D\u7528Proxy\u5305\u88C5>
+}
+`,paraId:17,tocIndex:8},{value:"reactive \u8FD4\u56DE\u503C",paraId:18,tocIndex:8},{value:`Proxy {
+    [[Handler]]:MutableReactiveHandler {
+        _isReadonly:false,
+        _isShallow:false,
+    },
+    [[Target]]:Object, // \u53D6\u503C
+    [[IsRevoked]]:false,
+}
+`,paraId:19,tocIndex:8},{value:"shallowReactive",paraId:20,tocIndex:8},{value:`Proxy {
+    [[Handler]]:MutableReactiveHandler {
+        _isReadonly:false,
+        _isShallow:true,
+    },
+    [[Target]]:Object, // \u53D6\u503C
+    [[IsRevoked]]:false,
+}
+`,paraId:21,tocIndex:8},{value:"readonly",paraId:22,tocIndex:8},{value:`readonly(ref(0));
+
+Proxy(RefImpl) {
+    [[Handler]]:ReadonlyReactiveHandler {
+        _isReadonly:true,
+        _isShallow:false,
+    },
+    [[Target]]:RefImpl{
+        __v_isRef:true,
+        __v_isShallow:false,
+        _rawValue:0,
+        _value:0,
+        value:(...)getter=>0
+    },
+    [[IsRevoked]]:false,
+}
+
+readonly(reactive({math:{scores:100}}));
+Proxy(Object){
+    [[Handler]]:ReadonlyReactiveHandler{
+        _isReadonly:true,
+        _isShallow:false,
+    },
+    [[Target]]:Proxy(Object){
+        [[Handler]]:ReadonlyReactiveHandler{
+            _isReadonly:false,
+            _isShallow:false,
+        },
+        [[Target]]:Object, // \u4E0D\u662FProxy\u4E0D\u54CD\u5E94\u4E86
+        [[IsRevoked]]:false,
+    },
+    [[IsRevoked]]:false,
+}
+`,paraId:23,tocIndex:8},{value:"shallowReadonly",paraId:24,tocIndex:8},{value:`const obj = { scores: { math: 99 } };
+const f = shallowReadonly(obj);
+
+Proxy(RefImpl) {
+    [[Handler]]:ReadonlyReactiveHandler {
+        _isReadonly:true,
+        _isShallow:true,
+    },
+    [[Target]]:Object{
+        scores:{
+            math:99
+        }
+    },
+    [[IsRevoked]]:false,
+}
+`,paraId:25,tocIndex:8},{value:"computed",paraId:26,tocIndex:8},{value:`const count = ref(10);
+const total = computed(() => count.value * 10);
+ComputedRefImpl {
+    dep:Dep{},
+    deps:Link{},
+    depsTail:Link{},
+    effect:ComputedRefImpl,
+    flags:4,
+    fn:Function,
+    globalVersion:7,
+    isSSR:false,
+    next:undefined,
+    setter:undefined,
+    __v_isReadonly:true,
+    __v_isRef:true,
+    _value:100,
+    value:getter\uFF0C
+}
+
+const fullName = computed({
+  get: () => \`\${firstName.value} \${lastName.value}\`,
+  set: (val: string) => {
+    const [first, last] = val.split(" ");
+    firstName.value = first;
+    lastName.value = last;
+  },
+});
+ComputedRefImpl {
+    dep:Dep{},
+    deps:Link{},
+    depsTail:Link{},
+    effect:ComputedRefImpl,
+    flags:16,
+    fn:Function,
+    globalVersion:6,
+    isSSR:false,
+    next:undefined,
+    setter:undefined,
+    __v_isReadonly:false, // here
+    __v_isRef:true,
+    _value:100,
+    value:getter\uFF0C
+}
+`,paraId:27,tocIndex:8},{value:"shallowRef\uFF0C\u4EC5\u4EE3\u7406.value \u5C42\uFF0C\u53EA\u6709\u4FEE\u6539.value \u7684\u503C\u662F\u54CD\u5E94\u5F0F\uFF0C\u4FEE\u6539.value.[props]= xx \u9875\u9762\u4E0D\u54CD\u5E94",paraId:28,tocIndex:8},{value:"shallowReactive\uFF0C\u4EC5\u4EE3\u7406\u7B2C\u4E00\u5C42\uFF0C\u6DF1\u5C42\u6B21\u4E0D\u505A\u54CD\u5E94\u5F0F\u66F4\u65B0",paraId:28,tocIndex:8},{value:"readonly\uFF0C\u7981\u6B62\u4FEE\u6539\u4EFB\u610F\u5C42\uFF0C\u5F53\u53C2\u6570\u975E\u54CD\u5E94\u5F0F\u6570\u636E\uFF0C\u5219\u5185\u90E8\u6240\u6709\u6570\u636E\u4E0D\u53EF\u6539\uFF0C\u4E0D\u53EF\u6539\u5373\u65E0\u9700\u54CD\u5E94\u66F4\u65B0",paraId:28,tocIndex:8},{value:"shallowReadonly\uFF0C\u7981\u6B62\u4FEE\u6539\u7B2C\u4E00\u5C42\uFF0C\u5F53\u53C2\u6570\u975E\u54CD\u5E94\u5F0F\u6570\u636E\uFF0C\u6DF1\u5C42\u6B21\u53EF\u5199\u4F46\u4E0D\u54CD\u5E94",paraId:28,tocIndex:8},{value:"\u6570\u5B57\u8F6C\u54CD\u5E94\u5F0F\u6570\u636E\u4F7F\u7528 ref",paraId:29,tocIndex:9},{value:"\u5BF9\u8C61\u8F6C\u54CD\u5E94\u5F0F\u6570\u636E\u4F7F\u7528 reactive",paraId:29,tocIndex:9},{value:"\u4F9D\u8D56\u5176\u4ED6\u54CD\u5E94\u6570\u636E\u53D8\u5316\uFF0C\u9700\u8981\u7F13\u5B58\u7684\u4F7F\u7528 computed",paraId:29,tocIndex:9},{value:"\u89E3\u5305 reactive \u7684\u6570\u636E\uFF0C\u4E14\u9700\u8981\u4FDD\u6301\u89E3\u5305\u540E\u7684\u6570\u636E\u4E5F\u662F\u54CD\u5E94\u5F0F\uFF0C\u4E0E\u539F reactive \u4FDD\u6301\u540C\u6B65\uFF0C\u6279\u91CF\u591A\u4E2A\u4F7F\u7528 toRefs\uFF0C\u5355\u4E2A\u4F7F\u7528 toRef",paraId:29,tocIndex:9},{value:"\u7EC4\u4EF6\u4F20\u9012\u6570\u636E\u65F6\uFF0C\u7981\u6B62\u4FEE\u6539\u4EFB\u4F55\u6570\u636E\u4F7F\u7528 readonly",paraId:29,tocIndex:9},{value:"\u7EC4\u4EF6\u4F20\u9012\u6570\u636E\u65F6\uFF0C\u7981\u6B62\u4FEE\u6539\u7B2C\u4E00\u5C42\u6570\u636E\uFF0CshallowReadonly",paraId:29,tocIndex:9},{value:"\u5185\u90E8\u6DF1\u5C42\u6570\u636E\u4E0D\u9700\u8981\u54CD\u5E94\u5F0F\u65F6\uFF0C\u4F7F\u7528 shallowRef \u6216 shallowReactive",paraId:29,tocIndex:9},{value:"\u660E\u786E\u6807\u8BB0\u4E00\u4E2A\u5BF9\u8C61\uFF0C\u4EE5\u540E\u90FD\u4E0D\u80FD\u4F5C\u4E3A\u54CD\u5E94\u5F0F\u6570\u636E\u6E90\uFF0C\u4F7F\u7528 markRaw \u6807\u8BB0(__v_skip)",paraId:29,tocIndex:9},{value:"toRaw \u53D6\u51FA Vue \u5305\u88C5\u7684\u54CD\u5E94\u5F0F\u6570\u636E Proxy \u7684\u771F\u5B9E\u503C\uFF0C\u7528\u4E8E electron \u4F20\u9012\u7ED9\u4E3B\u8FDB\u7A0B\uFF0C\u6216\u6570\u636E\u53D1\u9001\u7ED9\u540E\u7AEF\u7B49\uFF0C\u76F8\u5F53\u4F46\u6027\u80FD\u9AD8\u4E8E JSON.stringify",paraId:29,tocIndex:9},{value:"\u4E0D\u786E\u5B9A\u4F1A\u4F20\u5165\u4E00\u4E2A ref \u5305\u88C5\u7684\u503C\u8FD8\u662F\u4E00\u4E2A\u7B80\u5355\u503C\uFF0C\u4F7F\u7528 unref",paraId:29,tocIndex:9}]},63251:function(a,e,n){n.r(e),n.d(e,{texts:function(){return t}});var o=n(72830);const t=[{value:"\u53EF\u67E5\u770B\u7F16\u8BD1\u540E\u7684\u5185\u5BB9",paraId:0,tocIndex:1},{value:`npm install vite-plugin-inspect --save-dev
 `,paraId:1,tocIndex:1},{value:"vite.config.js",paraId:2,tocIndex:1},{value:`import { defineConfig } from 'vite';
 import VitePluginInspect from 'vite-plugin-inspect';
 export default defineConfig({
