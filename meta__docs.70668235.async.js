@@ -3392,7 +3392,110 @@ withDefaults(props, {
 }>({
   msg: 'hello', // \u274C
 });
-`,paraId:31,tocIndex:4},{value:"\u8981\u7ED3\u5408\u7C7B\u578B\u548C\u9ED8\u8BA4\u503C\uFF0C\u53EA\u80FD\u4F7F\u7528 defineProps+withDefaults",paraId:32,tocIndex:4}]},53739:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(87666);const a=[{value:"keep-alive \u53EA\u7F13\u5B58\u7EC4\u4EF6\u5B9E\u4F8B\uFF0C\u4E0D\u4F1A\u7F13\u5B58\u7EC4\u4EF6\u5916\u90E8\u7684 DOM\u3002",paraId:0,tocIndex:0},{value:"\u88AB\u5305\u88F9\u7684\u7EC4\u4EF6\u5FC5\u987B\u662F\u52A8\u6001\u7EC4\u4EF6\uFF0C\u7528 ",paraId:0,tocIndex:0},{value:'<component :is="xxx" />',paraId:0,tocIndex:0},{value:" \u6216 ",paraId:0,tocIndex:0},{value:"<router-view />",paraId:0,tocIndex:0},{value:"\u88AB\u7F13\u5B58\u7684\u7EC4\u4EF6\u5FC5\u987B\u6709 name \u5C5E\u6027\uFF0C\u5426\u5219 include / exclude \u65E0\u6CD5\u8BC6\u522B\u3002",paraId:0,tocIndex:0},{value:"\u5982\u679C\u4F60\u5E0C\u671B\u5B8C\u5168\u9500\u6BC1\u7EC4\u4EF6\uFF0C\u9700\u79FB\u9664 ",paraId:0,tocIndex:0},{value:"<keep-alive>",paraId:0,tocIndex:0},{value:" \u6216\u91CD\u7F6E key",paraId:0,tocIndex:0},{value:"\u4E0E ",paraId:0,tocIndex:0},{value:"<router-view>",paraId:0,tocIndex:0},{value:" \u7ED3\u5408\u4F7F\u7528\u65F6\uFF0CVue Router \u652F\u6301 meta.keepAlive = true \u914D\u5408\u4F7F\u7528\u3002",paraId:0,tocIndex:0},{value:`<template>
+`,paraId:31,tocIndex:4},{value:"\u8981\u7ED3\u5408\u7C7B\u578B\u548C\u9ED8\u8BA4\u503C\uFF0C\u53EA\u80FD\u4F7F\u7528 defineProps+withDefaults",paraId:32,tocIndex:4},{value:"\u5B50\u7EC4\u4EF6",paraId:33,tocIndex:5},{value:`<template>
+  <div class="MyList">
+    <ul>
+      <li v-for="(item, index) in items" :key="index">
+        <slot name="item" :item="item"></slot>
+      </li>
+    </ul>
+  </div>
+</template>
+<script lang="ts" setup>
+interface Item {
+  id: number;
+  name: string;
+}
+
+defineProps<{ items: Item[] }>();
+
+const slots = defineSlots<{
+  item?: (props: { item: Item }) => any;
+}>();
+<\/script>
+`,paraId:34,tocIndex:5},{value:"\u7236\u7EC4\u4EF6",paraId:35,tocIndex:5},{value:`<template>
+  <MyList :items="data">
+    <template #item="{ item }">
+      <span>{{ item.name }}</span>
+    </template>
+  </MyList>
+</template>
+<script setup lang="ts">
+const data = [
+  {
+    id: 1,
+    name: 'xx',
+  },
+];
+<\/script>
+`,paraId:36,tocIndex:5},{value:"\u7236\u7EC4\u4EF6\u4F20\u5165\u4E00\u4E2A\u503C\u7ED9\u5B50\u7EC4\u4EF6\uFF0C\u5B50\u7EC4\u4EF6\u80FD\u76F4\u63A5\u64CD\u4F5C\u8FD9\u4E2A\u503C",paraId:37,tocIndex:6},{value:"\u6700\u7B80\u5355\u7684",paraId:38,tocIndex:6},{value:"\u5B50\u7EC4\u4EF6",paraId:39,tocIndex:6},{value:`<template>
+  <div class="DefineModelComp">
+    <div>{{ model }}</div>
+    <div>
+      <button @click="changeModelValueInChild">changeModelValueInChild</button>
+    </div>
+  </div>
+</template>
+<script lang="ts" setup>
+const model = defineModel<number>();
+
+const changeModelValueInChild = () => {
+  if (model.value) {
+    model.value++;
+  }
+};
+<\/script>
+`,paraId:40,tocIndex:6},{value:"\u7236\u7EC4\u4EF6",paraId:41,tocIndex:6},{value:`<template>
+  <DefineModelComp v-model="counter"> </DefineModelComp>
+</template>
+`,paraId:42,tocIndex:6},{value:"\u8FD9\u4E2A model \u5C31\u7B49\u4EF7\u4E8E\u4EE5\u524D\u7684 props.modelValue + emit('update:modelValue')",paraId:43,tocIndex:6},{value:"\u5177\u540D v-model",paraId:44,tocIndex:6},{value:"\u7236\u7EC4\u4EF6",paraId:45,tocIndex:6},{value:`<template>
+  <CustomInput v-model:title="title" v-model:desc="desc" />
+</template>
+<script lang="ts" setup>
+const title = ref('');
+const desc = ref('');
+<\/script>
+`,paraId:46,tocIndex:6},{value:"\u5B50\u7EC4\u4EF6",paraId:47,tocIndex:6},{value:`const title = defineModel<string>('title');
+const desc = defineModel<string>('desc');
+`,paraId:48,tocIndex:6},{value:"\u7528\u4E8E\u5728 ",paraId:49,tocIndex:7},{value:"<script setup>",paraId:49,tocIndex:7},{value:" \u4E2D\u8BBE\u7F6E\u539F\u672C\u53EA\u80FD\u901A\u8FC7 ",paraId:49,tocIndex:7},{value:"export default {}",paraId:49,tocIndex:7},{value:" \u58F0\u660E\u7684\u7EC4\u4EF6\u9009\u9879",paraId:49,tocIndex:7},{value:`defineOptions({
+  name: 'DefineOptionsComp',
+  inheritAttrs: false,
+});
+`,paraId:50,tocIndex:7},{value:"\u628A Vue \u5199\u7684\u7EC4\u4EF6\u6CE8\u518C\u6210 ",paraId:51,tocIndex:8},{value:" \u8FD9\u79CD\u6807\u7B7E\uFF0C\u5728\u4EFB\u610F HTML \u9875\u9762\u4E2D\u4F7F\u7528\uFF0C\u751A\u81F3\u4E0D\u4F9D\u8D56 Vue \u672C\u8EAB\uFF01",paraId:51,tocIndex:8},{value:"\u4F7F\u7528\u573A\u666F\uFF1A",paraId:52,tocIndex:8},{value:"\u60F3\u8981\u5C06 Vue \u7EC4\u4EF6\u5D4C\u5165\u975E Vue \u9879\u76EE\uFF08\u6BD4\u5982 jQuery\u3001\u539F\u751F\u9875\u9762\u3001React \u9879\u76EE\u4E2D\uFF09",paraId:53,tocIndex:8},{value:"\u60F3\u6253\u5305\u6210\u72EC\u7ACB\u7EC4\u4EF6\u5E93\u4F9B\u5916\u90E8\u5F15\u7528\uFF08\u5FAE\u524D\u7AEF\u573A\u666F\uFF09",paraId:53,tocIndex:8},{value:"\u7528 Vue \u5F00\u53D1\u5E76\u5BFC\u51FA Web Component \u4F9B\u522B\u7684\u9879\u76EE\u5D4C\u5165",paraId:53,tocIndex:8},{value:`<!-- MyCounter.vue -->
+<template>
+  <button @click="count++">\u70B9\u51FB\u6B21\u6570\uFF1A{{ count }}</button>
+</template>
+
+<script setup lang="ts">
+import { ref } from 'vue';
+const count = ref(0);
+<\/script>
+`,paraId:54,tocIndex:8},{value:"\u7528 defineCustomElement \u8F6C\u5316",paraId:55,tocIndex:8},{value:`// main.ts
+import { defineCustomElement } from 'vue';
+import MyCounter from './MyCounter.ce.vue'; // \u6CE8\u610F\u662F \`.ce.vue\`\uFF0C\u63A8\u8350\u8FD9\u6837\u547D\u540D
+
+const MyElement = defineCustomElement(MyCounter);
+
+// \u6CE8\u518C\u6210\u6D4F\u89C8\u5668\u81EA\u5B9A\u4E49\u6807\u7B7E
+customElements.define('my-counter', MyElement)\`\`;
+`,paraId:56,tocIndex:8},{value:"\u5728 html \u4E2D\u4F7F\u7528",paraId:57,tocIndex:8},{value:`<my-counter></my-counter>
+`,paraId:58,tocIndex:8},{value:"\u4F7F\u7528 vite \u6784\u5EFA\u6253\u5305\u51FA\u8BE5\u7EC4\u4EF6",paraId:59,tocIndex:8},{value:`// vite.config.ts
+import { defineConfig } from 'vite';
+import vue from '@vitejs/plugin-vue';
+
+export default defineConfig({
+  plugins: [vue()],
+  build: {
+    lib: {
+      entry: 'src/MyCounter.ce.vue',
+      formats: ['es'],
+    },
+    rollupOptions: {
+      external: ['vue'],
+    },
+  },
+});
+`,paraId:60,tocIndex:8}]},53739:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(87666);const a=[{value:"keep-alive \u53EA\u7F13\u5B58\u7EC4\u4EF6\u5B9E\u4F8B\uFF0C\u4E0D\u4F1A\u7F13\u5B58\u7EC4\u4EF6\u5916\u90E8\u7684 DOM\u3002",paraId:0,tocIndex:0},{value:"\u88AB\u5305\u88F9\u7684\u7EC4\u4EF6\u5FC5\u987B\u662F\u52A8\u6001\u7EC4\u4EF6\uFF0C\u7528 ",paraId:0,tocIndex:0},{value:'<component :is="xxx" />',paraId:0,tocIndex:0},{value:" \u6216 ",paraId:0,tocIndex:0},{value:"<router-view />",paraId:0,tocIndex:0},{value:"\u88AB\u7F13\u5B58\u7684\u7EC4\u4EF6\u5FC5\u987B\u6709 name \u5C5E\u6027\uFF0C\u5426\u5219 include / exclude \u65E0\u6CD5\u8BC6\u522B\u3002",paraId:0,tocIndex:0},{value:"\u5982\u679C\u4F60\u5E0C\u671B\u5B8C\u5168\u9500\u6BC1\u7EC4\u4EF6\uFF0C\u9700\u79FB\u9664 ",paraId:0,tocIndex:0},{value:"<keep-alive>",paraId:0,tocIndex:0},{value:" \u6216\u91CD\u7F6E key",paraId:0,tocIndex:0},{value:"\u4E0E ",paraId:0,tocIndex:0},{value:"<router-view>",paraId:0,tocIndex:0},{value:" \u7ED3\u5408\u4F7F\u7528\u65F6\uFF0CVue Router \u652F\u6301 meta.keepAlive = true \u914D\u5408\u4F7F\u7528\u3002",paraId:0,tocIndex:0},{value:`<template>
   <div class="KeepAliveTest">
     <button
       v-for="(item, index) in cptList"
