@@ -1,5 +1,6 @@
 ---
 group: Vue3
+order: 1
 ---
 
 # Vue3 快速开始
