@@ -399,7 +399,182 @@ ComputedRefImpl {
 - readonly，禁止修改任意层，当参数非响应式数据，则内部所有数据不可改，不可改即无需响应更新
 - shallowReadonly，禁止修改第一层，当参数非响应式数据，深层次可写但不响应
 
-## 最佳实践
+## 使用场景
+
+### shallowRef
+
+- 持有 DOM 元素或组件实例
+
+```vue
+<template>
+  <div ref="elRef">111</div>
+  <div ref="elShallowRef">222</div>
+</template>
+<script lang="ts" setup>
+import { ref, shallowRef } from 'vue';
+
+const elRef = ref<HTMLElement | null>(null);
+const elShallowRef = shallowRef<HTMLElement | null>(null);
+
+// ref 和 shallowRef 效果基本一致，shallowRef 更语义化一些
+</script>
+```
+
+- 避免深层嵌套结构引起的性能开销
+
+```ts
+const bigObject = {
+  hugeList: [...Array(1000).keys()],
+};
+const configRef = shallowRef(bigObject);
+
+// 只追踪 configRef.value 的改变，不追踪 hugeList 的变化
+```
+
+- 与第三方库对象（不可 Proxy 化）结合
+
+```ts
+import * as echarts from 'echarts';
+const chartInstance = shallowRef<echarts.EChartsType | null>(null);
+
+onMounted(() => {
+  chartInstance.value = echarts.init(document.getElementById('main'));
+});
+```
+
+- 完全手动控制“触发响应”
+
+```ts
+import { shallowRef, triggerRef } from 'vue';
+
+const state = shallowRef({ count: 0 });
+
+function updateInner() {
+  state.value.count++; // 修改内部属性
+  triggerRef(state); // 手动触发视图更新
+}
+```
+
+> 只关心对象引用是否改变，不需要追踪对象内部属性变化
+
+### shallowReactive
+
+- 大数据结构不深层响应
+
+```ts
+import { shallowReactive } from 'vue';
+
+const state = shallowReactive({
+  a: 1,
+  nested: { hugeList: [...Array(1000).keys()] },
+});
+
+state.a = 100; // ✅ 会触发响应
+state.nested.hugeList = [...Array(5000).keys()]; // ❌ 不会触发响应（nested 不是响应式的）
+```
+
+- 第三方库对象封装，比如 ECharts、MapBox 的 config，不需要递归监听
+
+```ts
+import { shallowReactive } from 'vue';
+
+const chartOptions = shallowReactive({
+  tooltip: { trigger: 'axis' },
+  xAxis: { type: 'category' },
+  series: [{ data: [1, 2, 3] }],
+});
+
+// 替换整体才会响应更新
+function updateSeries() {
+  chartOptions.series = [{ data: [4, 5, 6] }]; // ✅ 有效
+}
+
+// 修改内部属性不会响应
+chartOptions.series[0].data.push(7); // ❌ 页面不会响应
+```
+
+- 搭配 markRaw，使值更明确不会进入代理
+
+```ts
+import { shallowReactive, markRaw } from 'vue';
+
+const chatInstance = markRaw(initChart());
+
+const state = shallowReactive({
+  chartInstance: chatInstance,
+});
+
+const state2 = shallowReactive({
+  chartInstance: initChart(),
+});
+// 以上state，state2看起来效果一致,都不会深层响应initChart的返回值
+// 只是markRaw更语义化一点，明确chatInstance在后面都不会被响应化
+```
+
+> shallowReactive 适合 数据结构复杂 / 你只想追踪最外层变化 的场景，性能更优，适用于第三方库数据、只需浅层更新的配置项等。
+
+### readonly
+
+- 防止状态修改
+
+```ts
+import { readonly } from 'vue';
+
+const readonlyConfig = readonly({
+  apiUrl: 'https://example.com',
+  version: '1.0.0',
+});
+
+// 下面的操作会导致警告，不会实际修改 readonlyConfig
+readonlyConfig.apiUrl = 'https://new-url.com'; // 会抛出警告
+```
+
+- 封装数据避免外部修改,导出 readonlyState
+
+```ts
+const state = reactive({
+  count: 0,
+});
+
+export const readonlyState = readonly(state);
+
+// 外部无法修改 count
+readonlyState.count = 5; // 会抛出警告
+```
+
+- readonly 保护父组件数据
+
+```ts
+const sharedData = reactive({ message: 'Hello World' });
+
+// 子组件只读共享数据
+const readonlyData = readonly(sharedData);
+```
+
+### shallowReadonly
+
+- 顶层 key 保护，嵌套属性值可更改，避免新增其他 key 或删除 顶层 key
+
+```ts
+import { reactive, shallowReadonly } from 'vue';
+
+const state = reactive({
+  config: {
+    apiUrl: 'https://example.com',
+    timeout: 3000,
+  },
+  counter: 0,
+});
+
+// 只读外层属性，内部对象（config）仍然是响应式的
+const readonlyState = shallowReadonly(state);
+
+// 外层属性不能修改
+readonlyState.counter = 5; // 会抛出警告
+
+// 内部对象仍然可以修改
+readonlyState.config.apiUrl = 'https://new-url.com'; // 可以正常修改
+```
 
 - 数字转响应式数据使用 ref
 - 对象转响应式数据使用 reactive
