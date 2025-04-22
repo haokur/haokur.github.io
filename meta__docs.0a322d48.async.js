@@ -2944,7 +2944,7 @@ fmt.Println(str)
 `,paraId:9,tocIndex:0},{value:"\u8F93\u51FA\u5230\u6587\u4EF6",paraId:10,tocIndex:0},{value:`file,_ := os.Create("output.txt")
 defer file.Close()
 fmt.Fprintln(file,"hello,file")
-`,paraId:11,tocIndex:0}]},68856:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(44619);const a=[]},26412:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(90252);const a=[]},75097:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(12623);const a=[]},97194:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(63777);const a=[]},37175:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(96185);const a=[]},95858:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(858);const a=[]},66109:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(60421);const a=[]},82371:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(55591);const a=[{value:`fn test_basic_thread() {
+`,paraId:11,tocIndex:0}]},68856:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(44619);const a=[]},26412:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(90252);const a=[]},75097:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(12623);const a=[]},97194:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(63777);const a=[]},37175:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(96185);const a=[]},95858:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(858);const a=[]},66109:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(60421);const a=[]},82371:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(55591);const a=[{value:"\u793A\u4F8B\u6E90\u7801\u94FE\u63A5\uFF1A",paraId:0},{value:"rust-demos/advance/thread_test",paraId:0},{value:`fn test_basic_thread() {
     let handle = thread::spawn(|| {
         thread::sleep(Duration::from_millis(1000));
         println!("thread running");
@@ -2954,10 +2954,10 @@ fmt.Fprintln(file,"hello,file")
     handle.join().unwrap(); // \u7B49\u5F85handle\u7EBF\u7A0B\u6267\u884C\u7ED3\u675F\uFF0C\u518D\u5F80\u4E0B\u6267\u884C
     println!("main running after wait thread all run finished");
 }
-`,paraId:0,tocIndex:0},{value:"\u6267\u884C\u7ED3\u679C\uFF1A",paraId:1,tocIndex:0},{value:`main running
+`,paraId:1,tocIndex:0},{value:"\u6267\u884C\u7ED3\u679C\uFF1A",paraId:2,tocIndex:0},{value:`main running
 thread running
 main running after wait thread all run finished
-`,paraId:2,tocIndex:0},{value:`fn test_multi_thread() {
+`,paraId:3,tocIndex:0},{value:`fn test_multi_thread() {
     let mut handles = vec![];
     for i in 0..5 {
         let handle = thread::spawn(move || {
@@ -2973,14 +2973,14 @@ main running after wait thread all run finished
     }
     println!("main running after wait thread all run finished");
 }
-`,paraId:3,tocIndex:1},{value:"\u6267\u884C\u7ED3\u679C\uFF1A",paraId:4,tocIndex:1},{value:`main running
+`,paraId:4,tocIndex:1},{value:"\u6267\u884C\u7ED3\u679C\uFF1A",paraId:5,tocIndex:1},{value:`main running
 thread running 2
 thread running 4
 thread running 3
 thread running 1
 thread running 0
 main running after wait thread all run finished
-`,paraId:5,tocIndex:1},{value:"\u5176\u4E2D\u5404\u4E2A\u7EBF\u7A0B\u5148\u540E\u6267\u884C\u987A\u5E8F\u53EF\u80FD\u6709\u5DEE\u5F02",paraId:6,tocIndex:1},{value:"Arc<Mutex<T>>",paraId:7},{value:"Arc<T>",paraId:8,tocIndex:3},{value:"\uFF0CAtomic Reference Counted\uFF0C\u539F\u5B50\u5F15\u7528\u8BA1\u6570\uFF0C\u7528\u4E8E\u5728\u591A\u4E2A\u7EBF\u7A0B\u95F4\u5171\u4EAB\u6240\u6709\u6743\uFF08Thread-safe \u7684 Rc\uFF09",paraId:8,tocIndex:3},{value:"Mutex<T>",paraId:8,tocIndex:3},{value:"\uFF0CMutual Exclusion\uFF0C\u4E92\u65A5\u9501\uFF0C\u786E\u4FDD\u67D0\u4E00\u65F6\u523B\u53EA\u6709\u4E00\u4E2A\u7EBF\u7A0B\u80FD\u8BBF\u95EE\u6570\u636E",paraId:8,tocIndex:3},{value:`fn test_thread_arc_mutex() {
+`,paraId:6,tocIndex:1},{value:"\u5176\u4E2D\u5404\u4E2A\u7EBF\u7A0B\u5148\u540E\u6267\u884C\u987A\u5E8F\u53EF\u80FD\u6709\u5DEE\u5F02",paraId:7,tocIndex:1},{value:"Arc<Mutex<T>>",paraId:8},{value:"Arc<T>",paraId:9,tocIndex:3},{value:"\uFF0CAtomic Reference Counted\uFF0C\u539F\u5B50\u5F15\u7528\u8BA1\u6570\uFF0C\u7528\u4E8E\u5728\u591A\u4E2A\u7EBF\u7A0B\u95F4\u5171\u4EAB\u6240\u6709\u6743\uFF08Thread-safe \u7684 Rc\uFF09",paraId:9,tocIndex:3},{value:"Mutex<T>",paraId:9,tocIndex:3},{value:"\uFF0CMutual Exclusion\uFF0C\u4E92\u65A5\u9501\uFF0C\u786E\u4FDD\u67D0\u4E00\u65F6\u523B\u53EA\u6709\u4E00\u4E2A\u7EBF\u7A0B\u80FD\u8BBF\u95EE\u6570\u636E",paraId:9,tocIndex:3},{value:`fn test_thread_arc_mutex() {
     let counter = Arc::new(Mutex::new(0));
     let mut handles = vec![];
     for _ in 0..5 {
@@ -2998,7 +2998,7 @@ main running after wait thread all run finished
     }
     println!("\u7ED3\u679C\uFF1A{}", *counter.lock().unwrap());
 }
-`,paraId:9,tocIndex:3},{value:"\u4F7F\u7528 ",paraId:10,tocIndex:3},{value:"Mutex::new",paraId:10,tocIndex:3},{value:" \u521B\u5EFA\u4E00\u4E2A\u53EF\u4EE5\u4E0A\u9501\uFF08\u4E92\u65A5\u9501\uFF09\u8BBF\u95EE\u7684\u5BF9\u8C61\uFF1B\u4F7F\u7528\u503C\u65F6\u8C03\u7528 ",paraId:10,tocIndex:3},{value:"\u503C.lock().unwrap()",paraId:10,tocIndex:3},{value:"\u4F7F\u7528 ",paraId:10,tocIndex:3},{value:"Arc::new",paraId:10,tocIndex:3},{value:" \u521B\u5EFA\u4E00\u4E2A\u539F\u5B50\u5F15\u7528\u8BA1\u6570\u667A\u80FD\u6307\u9488\uFF1B\u4F7F\u7528\u503C\u65F6\u8C03\u7528 ",paraId:10,tocIndex:3},{value:"Arc::clone",paraId:10,tocIndex:3},{value:"Arc<Mutex<T>>",paraId:10,tocIndex:3},{value:" \u591A\u7EBF\u7A0B\u5171\u4EAB\u53EF\u53D8\u6570\u636E\u7684\u5E38\u7528\u7EC4\u5408",paraId:10,tocIndex:3},{value:"Arc<RwLock<T>>",paraId:7},{value:"\u540C\u4E00\u65F6\u95F4\u53EF\u591A\u4E2A\u8BFB\uFF0C\u6709\u4E00\u4E2A\u5199\u7684\u65F6\u5019\uFF0C\u5176\u4ED6\u7EBF\u7A0B\u7684\u8BFB\u5199\u90FD\u505C\u6B62\u7B49\u5F85\u8FD9\u4E2A\u5199\u5B8C",paraId:11,tocIndex:4},{value:"\u5F53\u6709\u4E00\u4E2A\u5199\u7EBF\u7A0B\u52A0\u9501\u65F6\uFF0C\u4F1A\u963B\u585E\u6240\u6709\u8BFB/\u5199\u7EBF\u7A0B\uFF0C\u76F4\u5230\u5B83\u91CA\u653E",paraId:11,tocIndex:4},{value:"\u573A\u666F\uFF1A\u8BFB\u591A\u5199\u5C11",paraId:11,tocIndex:4},{value:`fn test_thread_arc_rwlock() {
+`,paraId:10,tocIndex:3},{value:"\u4F7F\u7528 ",paraId:11,tocIndex:3},{value:"Mutex::new",paraId:11,tocIndex:3},{value:" \u521B\u5EFA\u4E00\u4E2A\u53EF\u4EE5\u4E0A\u9501\uFF08\u4E92\u65A5\u9501\uFF09\u8BBF\u95EE\u7684\u5BF9\u8C61\uFF1B\u4F7F\u7528\u503C\u65F6\u8C03\u7528 ",paraId:11,tocIndex:3},{value:"\u503C.lock().unwrap()",paraId:11,tocIndex:3},{value:"\u4F7F\u7528 ",paraId:11,tocIndex:3},{value:"Arc::new",paraId:11,tocIndex:3},{value:" \u521B\u5EFA\u4E00\u4E2A\u539F\u5B50\u5F15\u7528\u8BA1\u6570\u667A\u80FD\u6307\u9488\uFF1B\u4F7F\u7528\u503C\u65F6\u8C03\u7528 ",paraId:11,tocIndex:3},{value:"Arc::clone",paraId:11,tocIndex:3},{value:"Arc<Mutex<T>>",paraId:11,tocIndex:3},{value:" \u591A\u7EBF\u7A0B\u5171\u4EAB\u53EF\u53D8\u6570\u636E\u7684\u5E38\u7528\u7EC4\u5408",paraId:11,tocIndex:3},{value:"Arc<RwLock<T>>",paraId:8},{value:"\u540C\u4E00\u65F6\u95F4\u53EF\u591A\u4E2A\u8BFB\uFF0C\u6709\u4E00\u4E2A\u5199\u7684\u65F6\u5019\uFF0C\u5176\u4ED6\u7EBF\u7A0B\u7684\u8BFB\u5199\u90FD\u505C\u6B62\u7B49\u5F85\u8FD9\u4E2A\u5199\u5B8C",paraId:12,tocIndex:4},{value:"\u5F53\u6709\u4E00\u4E2A\u5199\u7EBF\u7A0B\u52A0\u9501\u65F6\uFF0C\u4F1A\u963B\u585E\u6240\u6709\u8BFB/\u5199\u7EBF\u7A0B\uFF0C\u76F4\u5230\u5B83\u91CA\u653E",paraId:12,tocIndex:4},{value:"\u573A\u666F\uFF1A\u8BFB\u591A\u5199\u5C11",paraId:12,tocIndex:4},{value:`fn test_thread_arc_rwlock() {
     let data = Arc::new(RwLock::new(vec!["\u521D\u59CB\u5316\u6570\u636E".to_string()]));
 
     let mut handles = vec![];
@@ -3034,7 +3034,7 @@ main running after wait thread all run finished
         handle.join().unwrap();
     }
 }
-`,paraId:12,tocIndex:4},{value:"multi-producer, single-consumer",paraId:13,tocIndex:5},{value:",\u901A\u9053\u662F\u7EBF\u7A0B\u95F4\u901A\u4FE1\uFF08message passing\uFF09\u7684\u7ECF\u5178\u65B9\u5F0F\u3002\u5B83\u5F88\u9002\u5408\u5728\u591A\u7EBF\u7A0B\u6216\u5F02\u6B65\u4EFB\u52A1\u4E2D\uFF0C\u5C06\u6570\u636E\u4ECE\u591A\u4E2A\u6765\u6E90\u96C6\u4E2D\u53D1\u9001\u5230\u4E00\u4E2A\u5904\u7406\u7EBF\u7A0B\u3002",paraId:13,tocIndex:5},{value:"mpsc \u662F Rust \u63D0\u4F9B\u7684 \u591A\u751F\u4EA7\u8005\u3001\u5355\u6D88\u8D39\u8005\u901A\u4FE1\u901A\u9053",paraId:14,tocIndex:5},{value:"\u4F7F\u7528\u65B9\u5F0F\u6709\u70B9\u50CF\u7BA1\u9053\uFF08pipe\uFF09\uFF1A\u4F60\u628A\u6570\u636E\u201C\u53D1\u9001\u201D\u8FDB\u53BB\uFF0C\u53E6\u4E00\u8FB9\u201C\u63A5\u6536\u201D\uFF1B",paraId:14,tocIndex:5},{value:"\u591A\u4E2A\u53D1\u9001\u7AEF\u53EF\u4EE5 clone()\uFF0C\u4F46\u63A5\u6536\u7AEF\u53EA\u80FD\u6709\u4E00\u4E2A",paraId:14,tocIndex:5},{value:"\u5F00\u4E00\u4E2A\u7EBF\u7A0B\uFF0C\u5FAA\u73AF\u8BFB\u53D6\u6D88\u606F\uFF0C\u76F4\u5230\u4E3B\u8FDB\u7A0B\u9000\u51FA",paraId:15,tocIndex:5},{value:`fn test_mpsc_rx_thread() {
+`,paraId:13,tocIndex:4},{value:"multi-producer, single-consumer",paraId:14,tocIndex:5},{value:",\u901A\u9053\u662F\u7EBF\u7A0B\u95F4\u901A\u4FE1\uFF08message passing\uFF09\u7684\u7ECF\u5178\u65B9\u5F0F\u3002\u5B83\u5F88\u9002\u5408\u5728\u591A\u7EBF\u7A0B\u6216\u5F02\u6B65\u4EFB\u52A1\u4E2D\uFF0C\u5C06\u6570\u636E\u4ECE\u591A\u4E2A\u6765\u6E90\u96C6\u4E2D\u53D1\u9001\u5230\u4E00\u4E2A\u5904\u7406\u7EBF\u7A0B\u3002",paraId:14,tocIndex:5},{value:"mpsc \u662F Rust \u63D0\u4F9B\u7684 \u591A\u751F\u4EA7\u8005\u3001\u5355\u6D88\u8D39\u8005\u901A\u4FE1\u901A\u9053",paraId:15,tocIndex:5},{value:"\u4F7F\u7528\u65B9\u5F0F\u6709\u70B9\u50CF\u7BA1\u9053\uFF08pipe\uFF09\uFF1A\u4F60\u628A\u6570\u636E\u201C\u53D1\u9001\u201D\u8FDB\u53BB\uFF0C\u53E6\u4E00\u8FB9\u201C\u63A5\u6536\u201D\uFF1B",paraId:15,tocIndex:5},{value:"\u591A\u4E2A\u53D1\u9001\u7AEF\u53EF\u4EE5 clone()\uFF0C\u4F46\u63A5\u6536\u7AEF\u53EA\u80FD\u6709\u4E00\u4E2A",paraId:15,tocIndex:5},{value:"\u5F00\u4E00\u4E2A\u7EBF\u7A0B\uFF0C\u5FAA\u73AF\u8BFB\u53D6\u6D88\u606F\uFF0C\u76F4\u5230\u4E3B\u8FDB\u7A0B\u9000\u51FA",paraId:16,tocIndex:5},{value:`fn test_mpsc_rx_thread() {
     helpers::logger::init_logger();
 
     let (tx, rx) = mpsc::channel();
@@ -3058,7 +3058,7 @@ main running after wait thread all run finished
 
     info!("\u4E3B\u7EBF\u7A0B\u53D1\u9001\u5B8C\u6BD5");
 }
-`,paraId:16,tocIndex:5},{value:"\u76F4\u63A5\u6253\u5370\u5728\u63A7\u5236\u53F0\uFF0C\u53EF\u80FD\u4F1A\u6700\u540E\u4E00\u6B21\u6027\u8F93\u51FA\uFF0C\u4F7F\u7528 info! \u6253\u5370\u65E5\u5FD7\u80FD\u770B\u51FA\u5728 log \u6587\u4EF6\u4E2D\u6253\u5370\u65F6\u5E8F\u7B26\u5408\u9884\u671F",paraId:17,tocIndex:5}]},37670:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(60056);const a=[{value:`type User struct {
+`,paraId:17,tocIndex:5},{value:"\u76F4\u63A5\u6253\u5370\u5728\u63A7\u5236\u53F0\uFF0C\u53EF\u80FD\u4F1A\u6700\u540E\u4E00\u6B21\u6027\u8F93\u51FA\uFF0C\u4F7F\u7528 info! \u6253\u5370\u65E5\u5FD7\u80FD\u770B\u51FA\u5728 log \u6587\u4EF6\u4E2D\u6253\u5370\u65F6\u5E8F\u7B26\u5408\u9884\u671F",paraId:18,tocIndex:5}]},37670:function(t,e,n){n.r(e),n.d(e,{texts:function(){return a}});var o=n(60056);const a=[{value:`type User struct {
 	Name string
 	Age  int
 }
