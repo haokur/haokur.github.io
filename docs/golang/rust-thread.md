@@ -4,6 +4,8 @@ title: thread多线程
 order: 5
 ---
 
+> 示例源码链接：<a href="https://github.com/haokur/rust-demos/blob/main/advanced/src/thread_test.rs" target="_blank">rust-demos/advance/thread_test</a>
+
 ## 开一个线程
 
 ```rs
